@@ -1,0 +1,401 @@
+en:
+  brand:
+    name: iHTC Studio
+  meta:
+    site_tagline: "Apps & Tools for Apple Devices"
+    site_description: "Beautifully crafted apps for iPhone, iPad, and Mac. Privacy-first, offline, and account-free."
+  nav:
+    apps: Apps
+    collections: Collections
+    app_store: App Store
+    home: Home
+    overview: Overview
+    faq: FAQ
+    privacy: Privacy
+    url_scheme: URL Scheme
+    contact: Contact
+    github: GitHub
+    open_menu: Open menu
+    close_menu: Close menu
+    switch_app: Switch app
+    other_apps: Other apps
+    language: Language
+    appearance: Appearance
+    theme_auto: System
+    theme_light: Light
+    theme_dark: Dark
+  collections_page:
+    eyebrow: Browse by theme
+    title: Collections
+    subtitle: Apps grouped by interest — classics, English, tech, media, and more. One app can appear in several collections.
+    all: All
+    filter_label: Filter collections
+    empty: No apps in this collection.
+  hero:
+    eyebrow: iHTC Studio
+    title: "Crafted apps. Calm software."
+    subtitle: "iHTC Studio designs privacy-first apps for iPhone, iPad and Mac. No accounts, no tracking, no cloud — just thoughtful tools that respect your time."
+    cta_explore: Explore apps
+    cta_contact: Get in touch
+    stat_apps: Apps
+    stat_offline: Offline-first
+    stat_privacy: No tracking
+    stat_hint: Learn more
+    stat_tablist: Studio highlights
+    stat_apps_title_suffix: thoughtfully crafted apps
+    stat_apps_desc: From Pomodoro timers to App Store browsing — each app is native SwiftUI for iPhone, iPad, and Mac, with its own support page, FAQ, and privacy policy.
+    stat_apps_action: Browse all apps ↓
+    stat_offline_title: 100% offline-first core features
+    stat_offline_desc: Problem banks, dictionaries, timers, and calculators run entirely on your device. No Wi-Fi or cellular needed for everyday use — your tools travel with you.
+    stat_privacy_title: Zero tracking, zero ads
+    stat_privacy_desc: No analytics SDKs, no ad networks, no mandatory accounts. We never collect your usage data. Optional iCloud sync uses Apple's infrastructure only.
+  apps_section:
+    eyebrow: Our apps
+    title: Built with care, polished by detail
+    subtitle: Every app is designed to feel native on Apple devices, work fully offline, and respect your privacy. Pick one to learn more.
+    learn_more: Learn more
+    coming_soon: Coming soon
+    expand_hint: Compact by default — open a card for highlights, or expand all.
+    expand_all: Expand all
+    collapse_all: Collapse all
+    show_details: Show details
+    hide_details: Hide details
+  values:
+    eyebrow: What we believe
+    title: Quiet apps that earn their place
+    items:
+      - title: Privacy by default
+        desc: No accounts, no analytics, no third-party SDKs. Your data stays on your device — always.
+      - title: Native and fast
+        desc: Built with SwiftUI for iOS, iPadOS and macOS. Tuned for instant launch and battery-friendly performance.
+      - title: Offline-first
+        desc: Every core feature works without an internet connection. Your tools should work everywhere you do.
+      - title: Designed in detail
+        desc: Considered typography, real haptics, fluid motion, and full Dark Mode. Pixel-craft on every screen.
+      - title: Trilingual by design
+        desc: English, Simplified Chinese, and Traditional Chinese — switch anytime without following system language.
+      - title: Ad-free, always
+        desc: No pop-ups, no ad networks, no dark patterns. We earn trust, not impressions.
+  contact:
+    eyebrow: Get in touch
+    title: Questions, feedback, or ideas?
+    subtitle: We typically respond within 48 hours. For bugs, please share your device model and iOS version.
+    email_label: Email
+    github_label: GitHub Issues
+  footer:
+    rights: All rights reserved.
+    built_with: Built with care.
+    select_language: Language
+    select_theme: Appearance
+    resources:
+      developer_home: Developer Homepage
+      apple_refund: Apple Refund Request
+      apple_security: Apple Security Updates
+      apple_server_status: Apple Server Status
+      apple_dev_status: Apple Developer System Status
+      apple_beta_releases: Apple Latest Public Beta Releases
+    resource_urls:
+      developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+      apple_refund: https://support.apple.com/en-us/118223
+      apple_security: https://support.apple.com/en-us/HT201222
+      apple_server_status: https://www.apple.com/support/systemstatus/
+      apple_dev_status: https://developer.apple.com/system-status/
+      apple_beta_releases: https://developer.apple.com/news/releases/
+    identify_column: Identify Apple Devices
+  doc:
+    on_this_page: On this page
+    last_updated: Last updated
+    back_to: Back to
+    related: Related
+  toc:
+    title: Contents
+  app_pages:
+    overview: Overview
+    faq: FAQ
+    privacy: Privacy Policy
+    url_scheme: URL Scheme
+  buttons:
+    back_home: Back to homepage
+    open_app_page: Open support page
+    app_store: App Store
+    testflight: TestFlight Beta
+  badges:
+    testflight_beta: TestFlight Beta
+  language_names:
+    en: English
+    zh-CN: 简体中文
+    zh-TW: 繁體中文
+  notice:
+    language_set: "Language set to English."
+  err:
+    not_found_title: Page not found
+    not_found_subtitle: We can't find the page you're looking for.
+    go_home: Go to homepage
+
+zh-CN:
+  brand:
+    name: 爱火腿肠工作室（iHTC Studio）
+  meta:
+    site_tagline: "Apple 设备上的精品应用"
+    site_description: "为 iPhone、iPad 和 Mac 精心打造的应用。隐私优先、离线可用，无需账号。"
+  nav:
+    apps: 应用
+    collections: 合集
+    app_store: App Store
+    home: 首页
+    overview: 概览
+    faq: 常见问题
+    privacy: 隐私政策
+    url_scheme: URL Scheme
+    contact: 联系我们
+    github: GitHub
+    open_menu: 打开菜单
+    close_menu: 关闭菜单
+    switch_app: 切换应用
+    other_apps: 其他应用
+    language: 语言
+    appearance: 外观
+    theme_auto: 跟随系统
+    theme_light: 浅色
+    theme_dark: 深色
+  collections_page:
+    eyebrow: 按兴趣浏览
+    title: 合集
+    subtitle: 按国学、英语、技术、影像等主题归类；同一应用可出现在多个合集中。
+    all: 全部
+    filter_label: 筛选合集
+    empty: 该合集暂无应用。
+  hero:
+    eyebrow: 爱火腿肠工作室（iHTC Studio）
+    title: "用心打磨。安静好用。"
+    subtitle: "爱火腿肠工作室（iHTC Studio）为 iPhone、iPad 和 Mac 设计隐私优先的精致工具。无账号、不追踪、不上传——只是尊重你时间的好软件。"
+    cta_explore: 浏览全部应用
+    cta_contact: 联系我们
+    stat_apps: 款应用
+    stat_offline: 离线优先
+    stat_privacy: 不追踪
+    stat_hint: 了解更多
+    stat_tablist: 工作室亮点
+    stat_apps_title_suffix: 款精心打磨的应用
+    stat_apps_desc: 从番茄钟到 App Store 浏览——每款应用均为 iPhone、iPad、Mac 原生 SwiftUI，配有独立支持页、FAQ 与隐私政策。
+    stat_apps_action: 浏览全部应用 ↓
+    stat_offline_title: 100% 离线优先的核心体验
+    stat_offline_desc: 题库、词典、计时器与计算器等核心功能完全在设备本地运行，日常使用无需 Wi-Fi 或蜂窝网络，工具随你所至。
+    stat_privacy_title: 零追踪、零广告
+    stat_privacy_desc: 无分析 SDK、无广告网络、无强制账号。我们不收集你的使用数据；可选 iCloud 同步仅通过 Apple 基础设施完成。
+  apps_section:
+    eyebrow: 我们的应用
+    title: 每个细节都用心打磨
+    subtitle: 每款应用都为 Apple 平台原生而生，完全离线可用，并尊重你的隐私。点击下方任一应用查看详情。
+    learn_more: 查看详情
+    coming_soon: 即将推出
+    expand_hint: 默认精简显示——点卡片右上角展开亮点，或一键全部展开。
+    expand_all: 全部展开
+    collapse_all: 全部收起
+    show_details: 展开简介
+    hide_details: 收起简介
+  values:
+    eyebrow: 我们的理念
+    title: 安静地把每件小事做对
+    items:
+      - title: 默认隐私
+        desc: 不要账号、不收集数据、不接入任何第三方 SDK。所有内容都只留在你的设备上。
+      - title: 原生快速
+        desc: 基于 SwiftUI 为 iOS、iPadOS 和 macOS 构建，启动迅捷、节能省电。
+      - title: 离线优先
+        desc: 所有核心功能均可在无网络环境下使用，让你的工具陪你去任何地方。
+      - title: 细节为王
+        desc: 考究的排版、真实的触感、流畅的动效、完整的深色模式。每个像素都精心雕琢。
+      - title: 三语贴心
+        desc: 支持英文、简体中文与繁体中文，随时切换，不被系统语言所限制。
+      - title: 永久无广告
+        desc: 无弹窗、无广告联盟、无套路设计。我们赢得信任，而非曝光量。
+  contact:
+    eyebrow: 联系我们
+    title: 有任何问题、建议或想法吗?
+    subtitle: 我们通常会在 48 小时内回复。如果是 Bug,烦请附上设备型号与 iOS 版本。
+    email_label: 邮箱
+    github_label: GitHub Issues
+  footer:
+    rights: 保留所有权利。
+    built_with: 用心打造。
+    select_language: 语言
+    select_theme: 外观
+    resources:
+      developer_home: 开发者主页
+      apple_refund: Apple 退款申请
+      apple_security: Apple 安全性更新
+      apple_server_status: Apple 服务器状态
+      apple_dev_status: Apple 开发者系统状态
+      apple_beta_releases: Apple 最新公测版本系统
+    resource_urls:
+      developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+      apple_refund: https://support.apple.com/zh-cn/118223
+      apple_security: https://support.apple.com/zh-cn/HT201222
+      apple_server_status: https://www.apple.com/cn/support/systemstatus/
+      apple_dev_status: https://developer.apple.com/system-status/
+      apple_beta_releases: https://developer.apple.com/cn/news/releases/
+    identify_column: 识别苹果设备
+  doc:
+    on_this_page: 本页内容
+    last_updated: 最后更新
+    back_to: 返回
+    related: 相关链接
+  toc:
+    title: 目录
+  app_pages:
+    overview: 应用概览
+    faq: 常见问题
+    privacy: 隐私政策
+    url_scheme: URL Scheme
+  buttons:
+    back_home: 返回首页
+    open_app_page: 打开支持页
+    app_store: App Store
+    testflight: TestFlight 测试版
+  badges:
+    testflight_beta: TestFlight 测试
+  language_names:
+    en: English
+    zh-CN: 简体中文
+    zh-TW: 繁體中文
+  notice:
+    language_set: "语言已切换为简体中文。"
+  err:
+    not_found_title: 页面未找到
+    not_found_subtitle: 找不到你要访问的页面。
+    go_home: 回到首页
+
+zh-TW:
+  brand:
+    name: 愛火腿腸工作室（iHTC Studio）
+  meta:
+    site_tagline: "Apple 裝置上的精品應用"
+    site_description: "為 iPhone、iPad 和 Mac 精心打造的應用程式。隱私優先、離線可用,無需帳號。"
+  nav:
+    apps: 應用
+    collections: 合集
+    app_store: App Store
+    home: 首頁
+    overview: 概覽
+    faq: 常見問題
+    privacy: 隱私政策
+    url_scheme: URL Scheme
+    contact: 聯絡我們
+    github: GitHub
+    open_menu: 打開選單
+    close_menu: 關閉選單
+    switch_app: 切換應用
+    other_apps: 其他應用
+    language: 語言
+    appearance: 外觀
+    theme_auto: 跟隨系統
+    theme_light: 淺色
+    theme_dark: 深色
+  collections_page:
+    eyebrow: 按興趣瀏覽
+    title: 合集
+    subtitle: 按國學、英語、技術、影像等主題歸類；同一應用可出現在多個合集中。
+    all: 全部
+    filter_label: 篩選合集
+    empty: 該合集暫無應用。
+  hero:
+    eyebrow: 愛火腿腸工作室（iHTC Studio）
+    title: "用心打磨。安靜好用。"
+    subtitle: "愛火腿腸工作室（iHTC Studio）為 iPhone、iPad 和 Mac 設計隱私優先的精緻工具。無帳號、不追蹤、不上傳——只是尊重你時間的好軟體。"
+    cta_explore: 瀏覽全部應用
+    cta_contact: 聯絡我們
+    stat_apps: 款應用
+    stat_offline: 離線優先
+    stat_privacy: 不追蹤
+    stat_hint: 了解更多
+    stat_tablist: 工作室亮點
+    stat_apps_title_suffix: 款精心打磨的應用
+    stat_apps_desc: 從番茄鐘到 App Store 瀏覽——每款應用均為 iPhone、iPad、Mac 原生 SwiftUI，配有獨立支援頁、FAQ 與隱私政策。
+    stat_apps_action: 瀏覽全部應用 ↓
+    stat_offline_title: 100% 離線優先的核心體驗
+    stat_offline_desc: 題庫、詞典、計時器與計算器等核心功能完全在裝置本機運行，日常使用無需 Wi-Fi 或行動網路，工具隨你所至。
+    stat_privacy_title: 零追蹤、零廣告
+    stat_privacy_desc: 無分析 SDK、無廣告網路、無強制帳號。我們不收集你的使用資料；可選 iCloud 同步僅透過 Apple 基礎設施完成。
+  apps_section:
+    eyebrow: 我們的應用
+    title: 每個細節都用心打磨
+    subtitle: 每款應用都為 Apple 平台原生而生,完全離線可用,並尊重你的隱私。點擊下方任一應用查看詳情。
+    learn_more: 查看詳情
+    coming_soon: 即將推出
+    expand_hint: 預設精簡顯示——點卡片右上角展開亮點，或一鍵全部展開。
+    expand_all: 全部展開
+    collapse_all: 全部收起
+    show_details: 展開簡介
+    hide_details: 收起簡介
+  values:
+    eyebrow: 我們的理念
+    title: 安靜地把每件小事做對
+    items:
+      - title: 預設隱私
+        desc: 不要帳號、不收集資料、不接入任何第三方 SDK。所有內容都只留在你的裝置上。
+      - title: 原生快速
+        desc: 基於 SwiftUI 為 iOS、iPadOS 和 macOS 構建,啟動迅捷、節能省電。
+      - title: 離線優先
+        desc: 所有核心功能均可在無網路環境下使用,讓你的工具陪你去任何地方。
+      - title: 細節為王
+        desc: 考究的排版、真實的觸感、流暢的動效、完整的深色模式。每個像素都精心雕琢。
+      - title: 三語貼心
+        desc: 支援英文、簡體中文與繁體中文，隨時切換，不被系統語言所限制。
+      - title: 永久無廣告
+        desc: 無彈窗、無廣告聯盟、無套路設計。我們贏得信任，而非曝光量。
+  contact:
+    eyebrow: 聯絡我們
+    title: 有任何問題、建議或想法嗎?
+    subtitle: 我們通常會在 48 小時內回覆。如果是 Bug,煩請附上裝置型號與 iOS 版本。
+    email_label: 電子郵件
+    github_label: GitHub Issues
+  footer:
+    rights: 保留所有權利。
+    built_with: 用心打造。
+    select_language: 語言
+    select_theme: 外觀
+    resources:
+      developer_home: 開發者主頁
+      apple_refund: Apple 退款申請
+      apple_security: Apple 安全性更新
+      apple_server_status: Apple 伺服器狀態
+      apple_dev_status: Apple 開發者系統狀態
+      apple_beta_releases: Apple 最新公測版本系統
+    resource_urls:
+      developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+      apple_refund: https://support.apple.com/zh-hk/118223
+      apple_security: https://support.apple.com/zh-hk/HT201222
+      apple_server_status: https://www.apple.com/hk/support/systemstatus/
+      apple_dev_status: https://developer.apple.com/system-status/
+      apple_beta_releases: https://developer.apple.com/news/releases/
+    identify_column: 辨識 Apple 裝置
+  doc:
+    on_this_page: 本頁內容
+    last_updated: 最後更新
+    back_to: 返回
+    related: 相關連結
+  toc:
+    title: 目錄
+  app_pages:
+    overview: 應用概覽
+    faq: 常見問題
+    privacy: 隱私政策
+    url_scheme: URL Scheme
+  buttons:
+    back_home: 返回首頁
+    open_app_page: 打開支援頁
+    app_store: App Store
+    testflight: TestFlight 測試版
+  badges:
+    testflight_beta: TestFlight 測試
+  language_names:
+    en: English
+    zh-CN: 简体中文
+    zh-TW: 繁體中文
+  notice:
+    language_set: "語言已切換為繁體中文。"
+  err:
+    not_found_title: 頁面未找到
+    not_found_subtitle: 找不到你要造訪的頁面。
+    go_home: 回到首頁

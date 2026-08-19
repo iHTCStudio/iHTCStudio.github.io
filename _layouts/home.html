@@ -1,0 +1,281 @@
+---
+layout: default
+page_type: home
+---
+{%- assign sorted_apps = site.data.apps | sort: "order" -%}
+
+{%- comment -%}---------- Hero ----------{%- endcomment -%}
+<section class="section section--hero hero">
+  <div class="bg-aurora" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <div class="container hero__inner">
+    <div class="hero__brand eyebrow fade-up">
+      {% include brand-wordmark.html %}
+    </div>
+
+    <h1 class="hero__title gradient-text fade-up fade-up-1">
+      <span lang="en">{{ site.data.i18n['en'].hero.title }}</span>
+      <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.title }}</span>
+      <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.title }}</span>
+    </h1>
+
+    <p class="hero__subtitle fade-up fade-up-2">
+      <span lang="en">{{ site.data.i18n['en'].hero.subtitle }}</span>
+      <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.subtitle }}</span>
+      <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.subtitle }}</span>
+    </p>
+
+    <div class="hero__ctas fade-up fade-up-3">
+      <a href="#apps" class="btn btn--primary btn--lg">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].hero.cta_explore }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.cta_explore }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.cta_explore }}</span>
+      </a>
+      <a href="#contact" class="btn btn--outline btn--lg">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].hero.cta_contact }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.cta_contact }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.cta_contact }}</span>
+      </a>
+    </div>
+
+    <div class="hero__stats fade-up fade-up-4" data-reveal-stagger data-hero-stats>
+      <div class="hero__stats-row" role="group"
+        aria-label="{{ site.data.i18n['en'].hero.stat_tablist }}"
+        data-aria-label-en="{{ site.data.i18n['en'].hero.stat_tablist }}"
+        data-aria-label-zh-CN="{{ site.data.i18n['zh-CN'].hero.stat_tablist }}"
+        data-aria-label-zh-TW="{{ site.data.i18n['zh-TW'].hero.stat_tablist }}">
+        <button type="button" class="hero__stat" data-hero-stat="apps" aria-expanded="false" aria-controls="hero-stat-panel-apps">
+          <span class="hero__stat-icon" aria-hidden="true">ⓘ</span>
+          <span class="num">{{ sorted_apps | size }}</span>
+          <span class="lbl">
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_apps }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_apps }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_apps }}</span>
+          </span>
+          <span class="hero__stat-hint">
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_hint }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_hint }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_hint }}</span>
+          </span>
+        </button>
+        <button type="button" class="hero__stat" data-hero-stat="offline" aria-expanded="false" aria-controls="hero-stat-panel-offline">
+          <span class="hero__stat-icon" aria-hidden="true">ⓘ</span>
+          <span class="num">100%</span>
+          <span class="lbl">
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_offline }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_offline }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_offline }}</span>
+          </span>
+          <span class="hero__stat-hint">
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_hint }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_hint }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_hint }}</span>
+          </span>
+        </button>
+        <button type="button" class="hero__stat" data-hero-stat="privacy" aria-expanded="false" aria-controls="hero-stat-panel-privacy">
+          <span class="hero__stat-icon" aria-hidden="true">ⓘ</span>
+          <span class="num">0</span>
+          <span class="lbl">
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_privacy }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_privacy }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_privacy }}</span>
+          </span>
+          <span class="hero__stat-hint">
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_hint }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_hint }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_hint }}</span>
+          </span>
+        </button>
+      </div>
+
+      <div class="hero__stat-detail" data-hero-stat-detail aria-hidden="true">
+        <div class="hero__stat-panel" id="hero-stat-panel-apps" data-hero-panel="apps" hidden>
+          <p class="hero__stat-panel-title">
+            <span lang="en">{{ sorted_apps | size }} {{ site.data.i18n['en'].hero.stat_apps_title_suffix }}</span>
+            <span lang="zh-CN">{{ sorted_apps | size }} {{ site.data.i18n['zh-CN'].hero.stat_apps_title_suffix }}</span>
+            <span lang="zh-TW">{{ sorted_apps | size }} {{ site.data.i18n['zh-TW'].hero.stat_apps_title_suffix }}</span>
+          </p>
+          <p class="hero__stat-panel-desc">
+            <span lang="en">{{ site.data.i18n['en'].hero.stat_apps_desc }}</span>
+            <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.stat_apps_desc }}</span>
+            <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.stat_apps_desc }}</span>
+          </p>
+          <a href="#apps" class="hero__stat-panel-link" data-hero-stat-link>
+            <span lang="en" class="inline">{{ site.data.i18n['en'].hero.stat_apps_action }}</span>
+            <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].hero.stat_apps_action }}</span>
+            <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].hero.stat_apps_action }}</span>
+          </a>
+        </div>
+        <div class="hero__stat-panel" id="hero-stat-panel-offline" data-hero-panel="offline" hidden>
+          <p class="hero__stat-panel-title">
+            <span lang="en">{{ site.data.i18n['en'].hero.stat_offline_title }}</span>
+            <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.stat_offline_title }}</span>
+            <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.stat_offline_title }}</span>
+          </p>
+          <p class="hero__stat-panel-desc">
+            <span lang="en">{{ site.data.i18n['en'].hero.stat_offline_desc }}</span>
+            <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.stat_offline_desc }}</span>
+            <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.stat_offline_desc }}</span>
+          </p>
+        </div>
+        <div class="hero__stat-panel" id="hero-stat-panel-privacy" data-hero-panel="privacy" hidden>
+          <p class="hero__stat-panel-title">
+            <span lang="en">{{ site.data.i18n['en'].hero.stat_privacy_title }}</span>
+            <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.stat_privacy_title }}</span>
+            <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.stat_privacy_title }}</span>
+          </p>
+          <p class="hero__stat-panel-desc">
+            <span lang="en">{{ site.data.i18n['en'].hero.stat_privacy_desc }}</span>
+            <span lang="zh-CN">{{ site.data.i18n['zh-CN'].hero.stat_privacy_desc }}</span>
+            <span lang="zh-TW">{{ site.data.i18n['zh-TW'].hero.stat_privacy_desc }}</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{%- comment -%}---------- Apps ----------{%- endcomment -%}
+<section class="section" id="apps">
+  <noscript>
+    <style>
+      #apps .app-card__details {
+        grid-template-rows: 1fr !important;
+        opacity: 1 !important;
+        margin-top: 14px !important;
+      }
+      #apps .app-card__toggle,
+      #apps .app-grid-toolbar { display: none !important; }
+      #apps .app-card__tagline {
+        -webkit-line-clamp: unset;
+        line-clamp: unset;
+        overflow: visible;
+        min-height: 0;
+      }
+    </style>
+  </noscript>
+  <div class="container container--wide">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].apps_section.eyebrow }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].apps_section.eyebrow }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].apps_section.eyebrow }}</span>
+      </span>
+      <h2>
+        <span lang="en">{{ site.data.i18n['en'].apps_section.title }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].apps_section.title }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].apps_section.title }}</span>
+      </h2>
+      <p class="lead">
+        <span lang="en">{{ site.data.i18n['en'].apps_section.subtitle }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].apps_section.subtitle }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].apps_section.subtitle }}</span>
+      </p>
+    </div>
+
+    <div class="app-grid-toolbar" data-app-grid-toolbar data-reveal>
+      <p class="app-grid-toolbar__hint">
+        <span lang="en">{{ site.data.i18n['en'].apps_section.expand_hint }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].apps_section.expand_hint }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].apps_section.expand_hint }}</span>
+      </p>
+      <div class="app-grid-toolbar__actions" role="group"
+           data-aria-label-en="App list density"
+           data-aria-label-zh-CN="应用列表显示密度"
+           data-aria-label-zh-TW="應用列表顯示密度">
+        <button type="button" class="app-grid-toolbar__btn" data-app-expand-all>
+          <span lang="en" class="inline">{{ site.data.i18n['en'].apps_section.expand_all }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].apps_section.expand_all }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].apps_section.expand_all }}</span>
+        </button>
+        <button type="button" class="app-grid-toolbar__btn" data-app-collapse-all>
+          <span lang="en" class="inline">{{ site.data.i18n['en'].apps_section.collapse_all }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].apps_section.collapse_all }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].apps_section.collapse_all }}</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="app-grid" data-app-grid data-reveal-stagger>
+      {%- for app in sorted_apps -%}
+        {% include app-card.html app=app %}
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{%- comment -%}---------- Values ----------{%- endcomment -%}
+<section class="section section--tight">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].values.eyebrow }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].values.eyebrow }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].values.eyebrow }}</span>
+      </span>
+      <h2>
+        <span lang="en">{{ site.data.i18n['en'].values.title }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].values.title }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].values.title }}</span>
+      </h2>
+    </div>
+
+    <div class="feature-grid" data-reveal-stagger data-feature-grid>
+      {%- assign en_items = site.data.i18n['en'].values.items -%}
+      {%- assign cn_items = site.data.i18n['zh-CN'].values.items -%}
+      {%- assign tw_items = site.data.i18n['zh-TW'].values.items -%}
+      {%- assign value_themes = site.data.values -%}
+
+      {%- for item in value_themes -%}
+        {%- assign idx = forloop.index0 -%}
+        {%- assign en_item = en_items[idx] -%}
+        {%- assign cn_item = cn_items[idx] -%}
+        {%- assign tw_item = tw_items[idx] -%}
+      <article class="feature-card" tabindex="0" data-feature-card
+        style="--feat-accent: {{ item.accent }}; --feat-from: {{ item.gradient_from }}; --feat-to: {{ item.gradient_to }};">
+        <span class="feature-card__icon">{% include icons.html name=item.icon size="20" %}</span>
+        <h3 class="feature-card__title">
+          <span lang="en">{{ en_item.title }}</span>
+          <span lang="zh-CN">{{ cn_item.title }}</span>
+          <span lang="zh-TW">{{ tw_item.title }}</span>
+        </h3>
+        <p class="feature-card__desc">
+          <span lang="en">{{ en_item.desc }}</span>
+          <span lang="zh-CN">{{ cn_item.desc }}</span>
+          <span lang="zh-TW">{{ tw_item.desc }}</span>
+        </p>
+      </article>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{%- comment -%}---------- Contact ----------{%- endcomment -%}
+<section class="section section--tight" id="contact">
+  <div class="container container--narrow">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].contact.eyebrow }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].contact.eyebrow }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].contact.eyebrow }}</span>
+      </span>
+      <h2>
+        <span lang="en">{{ site.data.i18n['en'].contact.title }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].contact.title }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].contact.title }}</span>
+      </h2>
+      <p class="lead">
+        <span lang="en">{{ site.data.i18n['en'].contact.subtitle }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].contact.subtitle }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].contact.subtitle }}</span>
+      </p>
+    </div>
+
+    <div class="hero__ctas" style="justify-content:center;display:flex;flex-wrap:wrap;gap:12px;" data-reveal>
+      <a href="mailto:{{ site.author.email }}" class="btn btn--accent btn--lg">
+        {% include icons.html name="mail" size="16" %} {{ site.author.email }}
+      </a>
+    </div>
+  </div>
+</section>

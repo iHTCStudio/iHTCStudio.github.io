@@ -1,0 +1,88 @@
+// ---------------------------------------------------------------------------
+// Footer
+// ---------------------------------------------------------------------------
+
+.site-footer {
+  margin-top: clamp(80px, 12vw, 160px);
+  padding-block: 48px 32px;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-bg-muted);
+
+  &__top {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: start;
+    margin-bottom: 36px;
+
+    @media (min-width: 760px) {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 40px;
+    }
+
+    @media (min-width: 1024px) {
+      grid-template-columns: 1.6fr repeat(5, 1fr);
+      gap: 36px;
+    }
+
+    @media (min-width: 1280px) {
+      grid-template-columns: 2fr repeat(5, 1fr);
+      gap: 48px;
+    }
+  }
+
+  &__brand {
+    display: flex; flex-direction: column; gap: 12px;
+    max-width: 360px;
+
+    .name { display: inline-flex; align-items: center; gap: 10px; font-weight: 600; }
+    .desc { color: var(--color-text-mute); font-size: var(--fs-14); margin: 0; line-height: var(--lh-relaxed); }
+  }
+
+  &__col-title {
+    display: block;
+    font-size: var(--fs-12);
+    font-weight: 600;
+    letter-spacing: var(--tracking-wide);
+    text-transform: uppercase;
+    color: var(--color-text-faint);
+    margin-bottom: 14px;
+  }
+
+  &__col {
+    display: flex; flex-direction: column; gap: 8px;
+    a {
+      color: var(--color-text);
+      font-size: var(--fs-14);
+      transition: color var(--duration-fast) var(--ease-out),
+                  opacity var(--duration-fast) var(--ease-out);
+
+      .site-footer__app-zh {
+        color: var(--color-text-faint);
+        font-weight: 400;
+        opacity: 0.72;
+      }
+
+      &:hover {
+        color: var(--color-text);
+        .site-footer__app-zh { opacity: 0.85; }
+      }
+    }
+  }
+
+  &__bottom {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding-top: 24px;
+    border-top: 1px solid var(--color-border);
+    color: var(--color-text-faint);
+    font-size: var(--fs-12);
+  }
+
+  &__legal { display: inline-flex; align-items: center; gap: 8px; }
+
+  &__tools { display: inline-flex; gap: 4px; align-items: center; }
+}

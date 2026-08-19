@@ -1,0 +1,144 @@
+# Homepage app grid is unchanged. This file powers /collections/ and the footer column.
+# An app may appear in multiple collections (list its id under each collection.apps).
+
+- id: english
+  order: 1
+  names:
+    en: English
+    zh-CN: 英语
+    zh-TW: 英語
+  taglines:
+    en: Vocabulary, roots, and bilingual reading for English learners.
+    zh-CN: 词汇、词根与双语阅读，面向英语学习。
+    zh-TW: 詞彙、詞根與雙語閱讀，面向英語學習。
+  apps:
+    - iEnglish
+    - iRootWord
+    - iBible
+
+- id: typing
+  order: 2
+  names:
+    en: Chinese Input
+    zh-CN: 中文输入
+    zh-TW: 中文輸入
+  taglines:
+    en: Wubi, Cangjie, characters and phrases — practice and look up offline.
+    zh-CN: 五笔、仓颉、汉字与词语——离线查练一体。
+    zh-TW: 五筆、倉頡、漢字與詞語——離線查練一體。
+  apps:
+    - iWuBi
+    - iCangJie
+    - iDictionary
+    - iWord
+
+- id: tech
+  order: 3
+  names:
+    en: Tech & Dev
+    zh-CN: 技术开发
+    zh-TW: 技術開發
+  taglines:
+    en: Commands, algorithms, interviews, ASC and developer tools.
+    zh-CN: 命令、算法、面试、上架与开发者工具。
+    zh-TW: 指令、演算法、面試、上架與開發者工具。
+  apps:
+    - iLinux
+    - iLeetCoder
+    - iTer
+    - iDeveloper
+    - iAppManager
+
+- id: productivity
+  order: 4
+  names:
+    en: Productivity
+    zh-CN: 效率工具
+    zh-TW: 效率工具
+  taglines:
+    en: Calendar, focus, App Store tools, Excel learning, deal tracking, web tools, converters and local peer tools.
+    zh-CN: 日历、专注、商店工具、Excel 学习、羊毛追踪、网页工具、计算换算与本机互联。
+    zh-TW: 日曆、專注、商店工具、Excel 學習、羊毛追蹤、網頁工具、計算換算與本機互聯。
+  apps:
+    - iCalendar
+    - iPomodoros
+    - iExcel
+    - iConverter
+    - iConnect
+    - iWool
+    - Weber
+    - iApp
+    - iStore
+
+- id: media
+  order: 5
+  names:
+    en: Media
+    zh-CN: 影像创作
+    zh-TW: 影像創作
+  taglines:
+    en: Photo studio, video toolbox and dual-camera capture — on-device.
+    zh-CN: 修图、视频工具箱与双摄同录——全程本机。
+    zh-TW: 修圖、影片工具箱與雙攝同錄——全程本機。
+  apps:
+    - iPhoto
+    - iVideo
+    - TwinPolarCam
+
+- id: lifestyle
+  order: 6
+  names:
+    en: Lifestyle
+    zh-CN: 生活健康
+    zh-TW: 生活健康
+  taglines:
+    en: Nutrition and calm recovery — privacy-first.
+    zh-CN: 营养与解压恢复——隐私优先。
+    zh-TW: 營養與解壓恢復——隱私優先。
+  apps:
+    - iNutrition
+    - iZen
+
+- id: campus
+  order: 7
+  names:
+    en: Campus
+    zh-CN: 校园
+    zh-TW: 校園
+  taglines:
+    en: Campus news and resources for Guilin University of Technology.
+    zh-CN: 桂林理工大学校园资讯与资料。
+    zh-TW: 桂林理工大學校園資訊與資料。
+  apps:
+    - GLUT
+
+- id: classics
+  order: 8
+  names:
+    en: Classics
+    zh-CN: 国学
+    zh-TW: 國學
+  taglines:
+    en: Poetry, classics, and traditional literacy — offline reading desks.
+    zh-CN: 诗词经典与传统蒙学——离线品读工作台。
+    zh-TW: 詩詞經典與傳統蒙學——離線品讀工作台。
+  apps:
+    - iTangPoems
+    - iSongCi
+    - iYuanQu
+    - iCouplet
+    - iLunYu
+    - iArtOfWar
+    - iVirtue
+    - iThree
+    - iRootWise
+    - iDao
+    - iYiJing
+    - iSutra
+    - iDictionary
+    - iWord
+    - iPrimer
+    - iThousand
+    - iBaiJia
+    - iWuJing
+    - iSiShu

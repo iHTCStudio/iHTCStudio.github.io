@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /apps/
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="0;url={{ site.app_store_developer_url }}">
+  <link rel="canonical" href="{{ site.app_store_developer_url }}">
+  <title>App Store · {{ site.title }}</title>
+  <script>location.replace({{ site.app_store_developer_url | jsonify }});</script>
+</head>
+<body>
+  <p>
+    <a href="{{ site.app_store_developer_url }}">Open iHTC Studio on the App Store</a>
+  </p>
+</body>
+</html>

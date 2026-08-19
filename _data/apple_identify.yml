@@ -1,0 +1,150 @@
+# Apple device identification links (from iAppStore → Settings → Apple Resources → Identify)
+- key: iphone
+  labels:
+    en: Identify Your iPhone
+    zh-CN: 识别你的 iPhone 机型
+    zh-TW: 辨識你的 iPhone 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201296
+    zh-CN: https://support.apple.com/zh-cn/HT201296
+    zh-TW: https://support.apple.com/zh-hk/HT201296
+
+- key: ipad
+  labels:
+    en: Identify Your iPad
+    zh-CN: 识别你的 iPad 机型
+    zh-TW: 辨識你的 iPad 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201471
+    zh-CN: https://support.apple.com/zh-cn/HT201471
+    zh-TW: https://support.apple.com/zh-hk/HT201471
+
+- key: ipod
+  labels:
+    en: Identify iPod Models
+    zh-CN: 识别 iPod 机型
+    zh-TW: 辨識 iPod 機型
+  urls:
+    en: https://support.apple.com/en-us/HT204217
+    zh-CN: https://support.apple.com/zh-cn/HT204217
+    zh-TW: https://support.apple.com/zh-hk/HT204217
+
+- key: macbook
+  labels:
+    en: Identify MacBook Models
+    zh-CN: 识别 MacBook 机型
+    zh-TW: 辨識 MacBook 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201608
+    zh-CN: https://support.apple.com/zh-cn/HT201608
+    zh-TW: https://support.apple.com/zh-hk/HT201608
+
+- key: macbook_air
+  labels:
+    en: Identify MacBook Air
+    zh-CN: 识别 MacBook Air 机型
+    zh-TW: 辨識 MacBook Air 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201862
+    zh-CN: https://support.apple.com/zh-cn/HT201862
+    zh-TW: https://support.apple.com/zh-hk/HT201862
+
+- key: macbook_pro
+  labels:
+    en: Identify MacBook Pro
+    zh-CN: 识别 MacBook Pro 机型
+    zh-TW: 辨識 MacBook Pro 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201300
+    zh-CN: https://support.apple.com/zh-cn/HT201300
+    zh-TW: https://support.apple.com/zh-hk/HT201300
+
+- key: mac_mini
+  labels:
+    en: Identify Mac mini
+    zh-CN: 识别 Mac mini 机型
+    zh-TW: 辨識 Mac mini 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201894
+    zh-CN: https://support.apple.com/zh-cn/HT201894
+    zh-TW: https://support.apple.com/zh-hk/HT201894
+
+- key: mac_studio
+  labels:
+    en: Identify Mac Studio
+    zh-CN: 识别 Mac Studio 机型
+    zh-TW: 辨識 Mac Studio 機型
+  urls:
+    en: https://support.apple.com/en-us/102231
+    zh-CN: https://support.apple.com/zh-cn/102231
+    zh-TW: https://support.apple.com/zh-hk/102231
+
+- key: mac_pro
+  labels:
+    en: Identify Mac Pro
+    zh-CN: 识别 Mac Pro 机型
+    zh-TW: 辨識 Mac Pro 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201805
+    zh-CN: https://support.apple.com/zh-cn/HT201805
+    zh-TW: https://support.apple.com/zh-hk/HT201805
+
+- key: imac
+  labels:
+    en: Identify Your iMac
+    zh-CN: 识别你的 iMac 机型
+    zh-TW: 辨識你的 iMac 機型
+  urls:
+    en: https://support.apple.com/en-us/HT201634
+    zh-CN: https://support.apple.com/zh-cn/HT201634
+    zh-TW: https://support.apple.com/zh-hk/HT201634
+
+- key: watch
+  labels:
+    en: Identify Your Apple Watch
+    zh-CN: 识别你的 Apple Watch
+    zh-TW: 辨識你的 Apple Watch
+  urls:
+    en: https://support.apple.com/en-us/HT204507
+    zh-CN: https://support.apple.com/zh-cn/HT204507
+    zh-TW: https://support.apple.com/zh-hk/HT204507
+
+- key: airpods
+  labels:
+    en: Identify Your AirPods
+    zh-CN: 识别你的 AirPods
+    zh-TW: 辨識你的 AirPods
+  urls:
+    en: https://support.apple.com/en-us/HT209580
+    zh-CN: https://support.apple.com/zh-cn/HT209580
+    zh-TW: https://support.apple.com/zh-hk/HT209580
+
+- key: homepod
+  labels:
+    en: Identify Your HomePod
+    zh-CN: 识别你的 HomePod
+    zh-TW: 辨識你的 HomePod
+  urls:
+    en: https://support.apple.com/en-us/HT211109
+    zh-CN: https://support.apple.com/zh-cn/HT211109
+    zh-TW: https://support.apple.com/zh-hk/HT211109
+
+- key: apple_tv
+  labels:
+    en: Identify Your Apple TV
+    zh-CN: 识别你的 Apple TV
+    zh-TW: 辨識你的 Apple TV
+  urls:
+    en: https://support.apple.com/en-us/HT200008
+    zh-CN: https://support.apple.com/zh-cn/HT200008
+    zh-TW: https://support.apple.com/zh-hk/HT200008
+
+- key: vision_pro
+  labels:
+    en: Identify Your Apple Vision Pro
+    zh-CN: 识别你的 Apple Vision Pro
+    zh-TW: 辨識你的 Apple Vision Pro
+  urls:
+    en: https://support.apple.com/en-us/125375
+    zh-CN: https://support.apple.com/zh-cn/125375
+    zh-TW: https://support.apple.com/zh-hk/125375

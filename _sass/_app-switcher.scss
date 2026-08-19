@@ -1,0 +1,322 @@
+// ---------------------------------------------------------------------------
+// Floating "other apps" rail (vertical, right side, expandable)
+// Shown on app sub-page templates, hidden on root
+// ---------------------------------------------------------------------------
+
+.app-switcher {
+  position: fixed;
+  top: calc(var(--header-height) + 12px);
+  right: 16px;
+  z-index: var(--z-rail);
+  display: none;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 8px;
+  max-height: calc(100dvh - var(--header-height) - 24px);
+  overflow: hidden;
+  border-radius: var(--radius-pill);
+  background: var(--color-bg-overlay);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+  transition: padding var(--duration-base) var(--ease-out);
+
+  // Visible on app pages
+  body[data-page-type="app"] &,
+  body[data-page-type="doc"] & {
+    display: flex;
+  }
+
+  // Hide on small mobile (use bottom drawer trigger instead)
+  @media (max-width: 540px) { display: none !important; }
+
+  // Hide rail when mobile drawer is open (avoid overlap)
+  body.is-drawer-open & { display: none !important; }
+
+  &__chevron {
+    flex: 0 0 auto;
+    width: 36px; height: 36px;
+    border-radius: var(--radius-pill);
+    display: grid; place-items: center;
+    color: var(--color-text-mute);
+    transition: color var(--duration-fast) var(--ease-out),
+                background var(--duration-fast) var(--ease-out),
+                transform var(--duration-base) var(--ease-out);
+
+    &:hover { background: var(--color-bg-muted); color: var(--color-text); }
+    svg { width: 14px; height: 14px; transition: transform var(--duration-base) var(--ease-out); }
+  }
+
+  &__viewport {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
+    width: 100%;
+    overflow: hidden;
+
+    &::before,
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 4px;
+      height: 20px;
+      z-index: 1;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity var(--duration-fast) var(--ease-out);
+    }
+
+    &::before {
+      top: 0;
+      background: linear-gradient(to bottom, var(--color-bg-overlay) 40%, transparent);
+    }
+
+    &::after {
+      bottom: 0;
+      background: linear-gradient(to top, var(--color-bg-overlay) 40%, transparent);
+    }
+
+    &.is-scrolled::before { opacity: 1; }
+    &.has-more-below::after { opacity: 1; }
+  }
+
+  &__items {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in srgb, var(--color-text-mute) 38%, transparent) transparent;
+    padding-right: 2px;
+    outline: none;
+
+    &::-webkit-scrollbar { width: 4px; }
+    &::-webkit-scrollbar-track { background: transparent; }
+    &::-webkit-scrollbar-thumb {
+      background: color-mix(in srgb, var(--color-text-mute) 35%, transparent);
+      border-radius: var(--radius-pill);
+    }
+  }
+
+  &__item {
+    --rail-from: var(--accent-from);
+    --rail-to: var(--accent-to);
+    --rail-accent: var(--accent);
+
+    flex: 0 0 auto;
+    position: relative;
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: linear-gradient(135deg, var(--rail-from), var(--rail-to));
+    color: #fff;
+    box-shadow: 0 4px 10px color-mix(in srgb, var(--rail-accent) 24%, transparent);
+    transition: transform var(--duration-base) var(--ease-spring),
+                box-shadow var(--duration-base) var(--ease-out);
+
+    svg { width: 18px; height: 18px; }
+
+    &:hover {
+      transform: scale(1.08);
+      box-shadow: 0 8px 20px color-mix(in srgb, var(--rail-accent) 36%, transparent);
+      color: #fff;
+    }
+  }
+
+  // Tooltip with app name (shown on hover)
+  &__label {
+    position: absolute;
+    right: calc(100% + 10px);
+    top: 50%;
+    transform: translateY(-50%) translateX(6px);
+    padding: 6px 10px;
+    border-radius: var(--radius-md);
+    background: var(--color-text);
+    color: var(--color-text-invert);
+    font-size: var(--fs-12);
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity var(--duration-fast) var(--ease-out),
+                transform var(--duration-base) var(--ease-out);
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 100%;
+      width: 6px; height: 6px;
+      background: var(--color-text);
+      transform: translateY(-50%) rotate(45deg);
+    }
+  }
+
+  &__item:hover &__label,
+  &__item:focus-visible &__label {
+    opacity: 1;
+    transform: translateY(-50%) translateX(0);
+  }
+
+  // Expanded variant: rail expands to a horizontal pill with names
+  &.is-expanded {
+    align-items: flex-start;
+    padding: 10px 12px 10px 10px;
+    border-radius: var(--radius-2xl);
+    width: max-content;
+    min-width: 168px;
+  }
+
+  &.is-expanded &__chevron {
+    align-self: flex-start;
+  }
+
+  &.is-expanded &__viewport {
+    align-self: stretch;
+  }
+
+  &.is-expanded &__items {
+    align-items: stretch;
+    width: 100%;
+  }
+
+  &.is-expanded &__item {
+    width: 100%;
+    height: auto;
+    min-height: 36px;
+    padding: 6px 12px 6px 6px;
+    border-radius: var(--radius-pill);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    overflow: visible;
+
+    .app-switcher__name {
+      display: inline;
+      flex: 0 0 auto;
+      white-space: nowrap;
+    }
+
+    .app-switcher__label { display: none; }
+  }
+
+  &__name {
+    display: none;
+    font-size: var(--fs-13);
+    font-weight: 500;
+    color: #fff;
+  }
+
+  &__group {
+    flex: 0 0 auto;
+    width: 100%;
+    padding: 2px 0 0;
+    text-align: center;
+  }
+
+  &__group-label {
+    display: block;
+    font-size: 0.5625rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-faint);
+    line-height: 1.2;
+    user-select: none;
+  }
+
+  &.is-expanded &__group {
+    padding-inline: 4px;
+    text-align: left;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// In-page sub-nav (for app sections: Overview / FAQ / Privacy / URL Scheme)
+// ---------------------------------------------------------------------------
+
+.subnav {
+  position: sticky;
+  top: var(--header-height);
+  z-index: calc(var(--z-header) - 1);
+  background: var(--color-bg-overlay);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--color-border);
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-block: 10px;
+
+    &::-webkit-scrollbar { display: none; }
+  }
+
+  &__app {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px 6px 6px;
+    border-radius: var(--radius-pill);
+    background: var(--color-bg-muted);
+    margin-right: 6px;
+    flex: 0 0 auto;
+
+    .icon-tile {
+      width: 22px; height: 22px;
+      border-radius: 6px;
+      display: grid; place-items: center;
+      color: #fff;
+      svg { width: 12px; height: 12px; }
+    }
+    .name {
+      font-size: var(--fs-13);
+      font-weight: 600;
+      color: var(--color-text);
+    }
+  }
+
+  &__divider {
+    width: 1px; height: 20px;
+    background: var(--color-divider);
+    margin-inline: 2px;
+    flex: 0 0 auto;
+  }
+
+  &__link {
+    flex: 0 0 auto;
+    padding: 6px 12px;
+    border-radius: var(--radius-pill);
+    font-size: var(--fs-13);
+    font-weight: 500;
+    color: var(--color-text-soft);
+    transition: background var(--duration-fast) var(--ease-out),
+                color var(--duration-fast) var(--ease-out);
+
+    &:hover { background: var(--color-bg-muted); color: var(--color-text); }
+    &.is-current {
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+    }
+  }
+}

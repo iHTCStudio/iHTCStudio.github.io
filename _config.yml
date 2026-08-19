@@ -1,0 +1,190 @@
+title: iHTC Studio
+description: Beautifully crafted apps for iPhone, iPad, and Mac. Privacy-first, offline, no account required.
+baseurl: ""
+url: "https://ihtcteam.github.io"
+
+author:
+  name: iHTC Studio
+  email: AppleOSer@gmail.com
+  github: iHTCTeam
+  repo: https://github.com/iHTCTeam/iApp
+
+# App Store developer page (site /apps/ redirects here)
+app_store_developer_url: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+
+# Custom theme — no minima
+# theme: minima
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  parse_span_html: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+permalink: pretty
+
+# Sass / SCSS
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Plugins available on GitHub Pages
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Performance optimization for GitHub Pages
+incremental: true
+liquid:
+  error_mode: strict
+
+# Default front matter for every page
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      lang_default: en
+  - scope:
+      path: "iConnect"
+    values:
+      layout: doc
+      app_id: iConnect
+  - scope:
+      path: "iConverter"
+    values:
+      layout: doc
+      app_id: iConverter
+  - scope:
+      path: "iLinux"
+    values:
+      layout: doc
+      app_id: iLinux
+  - scope:
+      path: "iWool"
+    values:
+      layout: doc
+      app_id: iWool
+  - scope:
+      path: "iPomodoros"
+    values:
+      layout: doc
+      app_id: iPomodoros
+  - scope:
+      path: "iCalendar"
+    values:
+      layout: doc
+      app_id: iCalendar
+  - scope:
+      path: "iEnglish"
+    values:
+      layout: doc
+      app_id: iEnglish
+  - scope:
+      path: "iLeetCoder"
+    values:
+      layout: doc
+      app_id: iLeetCoder
+  - scope:
+      path: "iTer"
+    values:
+      layout: doc
+      app_id: iTer
+  - scope:
+      path: "iWuBi"
+    values:
+      layout: doc
+      app_id: iWuBi
+  - scope:
+      path: "TwinPolarCam"
+    values:
+      layout: doc
+      app_id: TwinPolarCam
+  - scope:
+      path: "Weber"
+    values:
+      layout: doc
+      app_id: Weber
+  - scope:
+      path: "iVideo"
+    values:
+      layout: doc
+      app_id: iVideo
+  - scope:
+      path: "iApp"
+    values:
+      layout: doc
+      app_id: iApp
+  - scope:
+      path: "iDictionary"
+    values:
+      layout: doc
+      app_id: iDictionary
+  - scope:
+      path: "iNutrition"
+    values:
+      layout: doc
+      app_id: iNutrition
+  - scope:
+      path: "iTangPoems"
+    values:
+      layout: doc
+      app_id: iTangPoems
+  - scope:
+      path: "iSongCi"
+    values:
+      layout: doc
+      app_id: iSongCi
+  - scope:
+      path: "iYuanQu"
+    values:
+      layout: doc
+      app_id: iYuanQu
+  - scope:
+      path: "iStore"
+    values:
+      layout: doc
+      app_id: iStore
+  - scope:
+      path: "iWord"
+    values:
+      layout: doc
+      app_id: iWord
+  - scope:
+      path: "iRootWord"
+    values:
+      layout: doc
+      app_id: iRootWord
+  - scope:
+      path: "iCouplet"
+    values:
+      layout: doc
+      app_id: iCouplet
+
+# i18n: list of supported languages
+languages:
+  - code: en
+    name: English
+    short: EN
+  - code: zh-CN
+    name: 简体中文
+    short: 简
+  - code: zh-TW
+    name: 繁體中文
+    short: 繁
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .git
+  - .DS_Store
+  - "*.gemspec"

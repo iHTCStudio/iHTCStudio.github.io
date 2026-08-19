@@ -1,0 +1,179 @@
+# App Store artwork URLs synced from the iTunes Lookup API.
+# Manual overrides: set icon_url / icon_url_sm in _data/apps.yml.
+# Regenerate: python3 scripts/sync_app_icons.py
+
+iConnect:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/5c/0f/385c0f44-7bed-7157-a545-720ff2aa735e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/5c/0f/385c0f44-7bed-7157-a545-720ff2aa735e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+
+iConverter:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/91/ee/3191ee07-e014-0f15-6a04-34d2a8aa1a90/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/91/ee/3191ee07-e014-0f15-6a04-34d2a8aa1a90/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+
+iLinux:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/39/ab/a439ab63-ac25-511d-6de8-3fad99c61534/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/39/ab/a439ab63-ac25-511d-6de8-3fad99c61534/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg"
+
+iWool:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/40/7a/f8407a6b-939b-cb50-1e99-414263ee9561/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/40/7a/f8407a6b-939b-cb50-1e99-414263ee9561/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+
+iCalendar:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/56/04/235604db-6c87-a83f-3705-8e7d748506c4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/56/04/235604db-6c87-a83f-3705-8e7d748506c4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+
+iPomodoros:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/9b/fc/019bfcb7-0cf5-e458-ecf5-02e1e8865bcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/9b/fc/019bfcb7-0cf5-e458-ecf5-02e1e8865bcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.jpg"
+
+iEnglish:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/3f/16/b43f16ad-0c1d-1bc9-0f8e-0a5fbcac9963/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/3f/16/b43f16ad-0c1d-1bc9-0f8e-0a5fbcac9963/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg"
+
+iLeetCoder:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/a7/5a/6da75afe-1ce2-70fe-89da-908e642ea477/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/a7/5a/6da75afe-1ce2-70fe-89da-908e642ea477/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.jpg"
+
+iTer:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3a/4d/7a3a4dad-531d-9a53-9652-d2b3c8ea2e2d/AppIcon-0-0-1x_U007epad-0-4-85-220.jpeg/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3a/4d/7a3a4dad-531d-9a53-9652-d2b3c8ea2e2d/AppIcon-0-0-1x_U007epad-0-4-85-220.jpeg/100x100bb.jpg"
+
+iWuBi:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/8d/8f/ad8d8f9d-2adf-92a7-ee00-8fa2abb239b1/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/8d/8f/ad8d8f9d-2adf-92a7-ee00-8fa2abb239b1/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg"
+
+TwinPolarCam:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/a7/a2/e1a7a2fc-ce14-8057-cc49-e555662354f4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/a7/a2/e1a7a2fc-ce14-8057-cc49-e555662354f4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg"
+
+iPhoto:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7a/9e/757a9e35-5ad3-8554-351c-2b560a0b10ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7a/9e/757a9e35-5ad3-8554-351c-2b560a0b10ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iCangJie:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/2f/5b/d42f5b08-bd29-f2ff-91bd-493a5c655a74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/2f/5b/d42f5b08-bd29-f2ff-91bd-493a5c655a74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+Weber:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/36/1aae360e-4ef2-acab-b4f6-c28d93ed5149/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/36/1aae360e-4ef2-acab-b4f6-c28d93ed5149/AppIcon-0-0-85-220-0-5-0-2x.png/100x100bb.png"
+
+iVideo:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/4c/ee/264cee76-a604-0e20-e131-66aed6c1c14f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/4c/ee/264cee76-a604-0e20-e131-66aed6c1c14f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iApp:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/ca/e8/84cae8ba-dc61-f9e4-5a00-d85a013b963d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/ca/e8/84cae8ba-dc61-f9e4-5a00-d85a013b963d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+
+iDictionary:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b7/67/c4b767f5-733e-cb5a-a844-63bfe127ad08/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b7/67/c4b767f5-733e-cb5a-a844-63bfe127ad08/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+
+iNutrition:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/ff/c0/3dffc0c8-cb69-47a0-83ed-463e9d1b269f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/ff/c0/3dffc0c8-cb69-47a0-83ed-463e9d1b269f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iBible:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/dd/dc/eadddc62-8b9e-2300-9536-51c3781c1451/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/dd/dc/eadddc62-8b9e-2300-9536-51c3781c1451/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iTangPoems:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/ac/86/ffac8610-1b20-3559-071f-fdc104c06a36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/ac/86/ffac8610-1b20-3559-071f-fdc104c06a36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iSongCi:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/19/e2/9119e221-bbf4-6807-9d78-ac0fb2724906/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/19/e2/9119e221-bbf4-6807-9d78-ac0fb2724906/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iYuanQu:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/73/b0/1c73b0e3-bd7d-0536-70e8-2cab33a98fa9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/73/b0/1c73b0e3-bd7d-0536-70e8-2cab33a98fa9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iStore:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/35/c4/1a35c4e2-8993-417d-685f-e55f0ec22a66/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/35/c4/1a35c4e2-8993-417d-685f-e55f0ec22a66/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iWord:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/de/88/8ede88c2-b001-7bfe-da44-99b36d5b5918/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/de/88/8ede88c2-b001-7bfe-da44-99b36d5b5918/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iRootWord:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/20/04/3920046b-e8a7-d81c-4fcc-49248b532b53/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/20/04/3920046b-e8a7-d81c-4fcc-49248b532b53/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iExcel:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/98/11/79981100-1aa3-813e-486a-3da300e63e39/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/98/11/79981100-1aa3-813e-486a-3da300e63e39/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+GLUT:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3f/99/3a3f995b-46ef-3541-5573-91faab14b81a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3f/99/3a3f995b-46ef-3541-5573-91faab14b81a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.jpg"
+
+iCouplet:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/84/65/028465e9-b269-0430-4cba-8dd29f93d44b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/84/65/028465e9-b269-0430-4cba-8dd29f93d44b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iAppManager:
+  icon_url: "/assets/app-icons/iAppManager-512.png"
+  icon_url_sm: "/assets/app-icons/iAppManager-100.png"
+
+iLunYu:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/17/f0/0b17f031-0146-50dd-cdcc-ebb993647974/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/17/f0/0b17f031-0146-50dd-cdcc-ebb993647974/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iArtOfWar:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/32/be/6c32be3b-0da1-9b2d-96ba-35acf4ae80c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/32/be/6c32be3b-0da1-9b2d-96ba-35acf4ae80c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iDeveloper:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/69/f6/ef69f66a-d815-b3f7-b0aa-993846d43de8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/69/f6/ef69f66a-d815-b3f7-b0aa-993846d43de8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iVirtue:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/06/02/af06023e-7043-bb32-ab0b-3ed09e1f934e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/06/02/af06023e-7043-bb32-ab0b-3ed09e1f934e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iThree:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a1/3e/90a13e99-13c3-0955-1f9a-733f0f42ebf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a1/3e/90a13e99-13c3-0955-1f9a-733f0f42ebf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iRootWise:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/05/d8/e205d843-1dbc-41b6-26a3-dfd6972362aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/05/d8/e205d843-1dbc-41b6-26a3-dfd6972362aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iDao:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/25/51/612551ed-befa-6ca5-bae5-fcd4e25519f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/25/51/612551ed-befa-6ca5-bae5-fcd4e25519f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iYiJing:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/da/66/d6da665c-1f73-8215-bf42-93b7218ad946/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/da/66/d6da665c-1f73-8215-bf42-93b7218ad946/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iZen:
+  icon_url: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8d/e0/a88de065-684d-0e1d-ad32-1a0750a09dc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+  icon_url_sm: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8d/e0/a88de065-684d-0e1d-ad32-1a0750a09dc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+
+iSutra:
+  icon_url: "/assets/app-icons/iSutra-512.png"
+  icon_url_sm: "/assets/app-icons/iSutra-100.png"
+
+iPrimer:
+  icon_url: "/assets/app-icons/iPrimer-512.png"
+  icon_url_sm: "/assets/app-icons/iPrimer-100.png"
+
+iThousand:
+  icon_url: "/assets/app-icons/iThousand-512.png"
+  icon_url_sm: "/assets/app-icons/iThousand-100.png"
+
+iBaiJia:
+  icon_url: "/assets/app-icons/iBaiJia-512.png"
+  icon_url_sm: "/assets/app-icons/iBaiJia-100.png"
+
+iWuJing:
+  icon_url: "/assets/app-icons/iWuJing-512.png"
+  icon_url_sm: "/assets/app-icons/iWuJing-100.png"
+
+iSiShu:
+  icon_url: "/assets/app-icons/iSiShu-512.png"
+  icon_url_sm: "/assets/app-icons/iSiShu-100.png"

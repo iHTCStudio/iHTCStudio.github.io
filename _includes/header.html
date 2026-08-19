@@ -1,0 +1,188 @@
+{%- comment -%}
+Smart top header.
+
+- On homepage / site pages (page.app_id is not set):
+  brand + Apps (#apps) + Collections + lang + theme.
+- On any app sub-page (page.app_id is set):
+  brand + active app section nav (Overview / FAQ / Privacy [/ URL Scheme]).
+  Other apps are accessed via the floating right-rail (app-switcher).
+
+`current_app` is the apps.yml entry matching page.app_id (passed via include).
+{%- endcomment -%}
+{%- assign current_app = include.current_app -%}
+
+<header class="site-header" role="banner">
+  <div class="container container--fluid site-header__inner">
+    <a href="{{ '/' | relative_url }}" class="site-header__brand" aria-label="{{ site.data.i18n['en'].brand.name }} — Home">
+      {% include brand-wordmark.html %}
+    </a>
+
+    {%- if current_app -%}
+      {%- comment -%}---------- App page primary nav ----------{%- endcomment -%}
+      <nav class="site-header__primary" aria-label="{{ current_app.id }} sections">
+        <a href="{{ current_app.url | relative_url }}"
+           class="site-header__link {% if page.url == current_app.url %}is-current{% endif %}">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.overview }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.overview }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.overview }}</span>
+        </a>
+        <a href="{{ current_app.url | append: 'faq/' | relative_url }}"
+           class="site-header__link {% if page.url contains '/faq' %}is-current{% endif %}">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.faq }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.faq }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.faq }}</span>
+        </a>
+        <a href="{{ current_app.url | append: 'privacy/' | relative_url }}"
+           class="site-header__link {% if page.url contains '/privacy' %}is-current{% endif %}">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.privacy }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.privacy }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.privacy }}</span>
+        </a>
+        {%- if current_app.has_url_scheme -%}
+        <a href="{{ current_app.url | append: 'url-scheme/' | relative_url }}"
+           class="site-header__link {% if page.url contains 'url-scheme' %}is-current{% endif %}">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.url_scheme }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.url_scheme }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.url_scheme }}</span>
+        </a>
+        {%- endif -%}
+      </nav>
+    {%- else -%}
+      {%- comment -%}---------- Site primary nav (home grid unchanged; collections is a secondary page) ----------{%- endcomment -%}
+      <nav class="site-header__primary" aria-label="Site">
+        <a href="{{ '/' | relative_url }}#apps"
+           class="site-header__link {% if page.page_type == 'home' %}is-current{% endif %}">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.apps }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.apps }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.apps }}</span>
+        </a>
+        <a href="{{ '/collections/' | relative_url }}"
+           class="site-header__link {% if page.page_type == 'collections' %}is-current{% endif %}">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.collections }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.collections }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.collections }}</span>
+        </a>
+        <a href="{{ site.app_store_developer_url }}"
+           class="site-header__link"
+           target="_blank"
+           rel="noopener">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.app_store }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.app_store }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.app_store }}</span>
+        </a>
+      </nav>
+    {%- endif -%}
+
+    <div class="site-header__tools">
+      {% include language-switcher.html %}
+      {% include theme-switcher.html %}
+      <button type="button"
+              class="site-header__menu-button"
+              data-drawer-open
+              aria-controls="mobile-drawer"
+              aria-label="{{ site.data.i18n['en'].nav.open_menu }}">
+        {% include icons.html name="menu" size="20" %}
+      </button>
+    </div>
+  </div>
+</header>
+
+{%- comment -%}---------- Mobile drawer ----------{%- endcomment -%}
+<aside class="mobile-drawer" id="mobile-drawer" data-drawer aria-hidden="true">
+  <div class="mobile-drawer__top">
+    <a href="{{ '/' | relative_url }}" class="site-header__brand">
+      {% include brand-wordmark.html %}
+    </a>
+    <button type="button" class="tool-btn is-icon"
+            data-drawer-close
+            aria-label="{{ site.data.i18n['en'].nav.close_menu }}">
+      {% include icons.html name="x" size="18" %}
+    </button>
+  </div>
+
+  <div class="mobile-drawer__body">
+    {%- if current_app -%}
+      <a href="{{ current_app.url | relative_url }}"
+         class="mobile-drawer__link {% if page.url == current_app.url %}is-current{% endif %}">
+        <span lang="en" class="inline">{{ current_app.names.en }} — {{ site.data.i18n['en'].app_pages.overview }}</span>
+        <span lang="zh-CN" class="inline">{{ current_app.names['zh-CN'] }} — {{ site.data.i18n['zh-CN'].app_pages.overview }}</span>
+        <span lang="zh-TW" class="inline">{{ current_app.names['zh-TW'] }} — {{ site.data.i18n['zh-TW'].app_pages.overview }}</span>
+      </a>
+      <a href="{{ current_app.url | append: 'faq/' | relative_url }}" class="mobile-drawer__link {% if page.url contains '/faq' %}is-current{% endif %}">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.faq }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.faq }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.faq }}</span>
+      </a>
+      <a href="{{ current_app.url | append: 'privacy/' | relative_url }}" class="mobile-drawer__link {% if page.url contains '/privacy' %}is-current{% endif %}">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.privacy }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.privacy }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.privacy }}</span>
+      </a>
+      {%- if current_app.has_url_scheme -%}
+      <a href="{{ current_app.url | append: 'url-scheme/' | relative_url }}" class="mobile-drawer__link {% if page.url contains 'url-scheme' %}is-current{% endif %}">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.url_scheme }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.url_scheme }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.url_scheme }}</span>
+      </a>
+      {%- endif -%}
+
+      <div class="mobile-drawer__group">
+        <span class="mobile-drawer__group-label">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.other_apps }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.other_apps }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.other_apps }}</span>
+        </span>
+        {%- assign sorted_apps = site.data.apps | sort: "order" -%}
+        {%- for app in sorted_apps -%}
+          {%- if app.id != current_app.id -%}
+          <a href="{{ app.url | relative_url }}" class="mobile-drawer__link">
+            {{ app.display_name | default: app.id }} <span class="text-faint" style="font-size:.85em">·
+              <span lang="en" class="inline">{{ app.names.en }}</span>
+              <span lang="zh-CN" class="inline">{{ app.names['zh-CN'] }}</span>
+              <span lang="zh-TW" class="inline">{{ app.names['zh-TW'] }}</span>
+            </span>
+          </a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    {%- else -%}
+      <a href="{{ '/' | relative_url }}#apps"
+         class="mobile-drawer__link {% if page.page_type == 'home' %}is-current{% endif %}">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].nav.apps }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.apps }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.apps }}</span>
+      </a>
+      <a href="{{ '/collections/' | relative_url }}"
+         class="mobile-drawer__link {% if page.page_type == 'collections' %}is-current{% endif %}">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].nav.collections }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.collections }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.collections }}</span>
+      </a>
+      <a href="{{ site.app_store_developer_url }}"
+         class="mobile-drawer__link"
+         target="_blank"
+         rel="noopener">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].nav.app_store }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.app_store }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.app_store }}</span>
+      </a>
+      <div class="mobile-drawer__group">
+        <span class="mobile-drawer__group-label">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.apps }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.apps }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.apps }}</span>
+        </span>
+        {%- assign sorted_apps = site.data.apps | sort: "order" -%}
+        {%- for app in sorted_apps -%}
+          <a href="{{ app.url | relative_url }}" class="mobile-drawer__link">
+            {{ app.display_name | default: app.id }} <span class="text-faint" style="font-size:.85em">·
+              <span lang="en" class="inline">{{ app.names.en }}</span>
+              <span lang="zh-CN" class="inline">{{ app.names['zh-CN'] }}</span>
+              <span lang="zh-TW" class="inline">{{ app.names['zh-TW'] }}</span>
+            </span>
+          </a>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </div>
+</aside>

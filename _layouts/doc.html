@@ -1,0 +1,62 @@
+---
+layout: default
+page_type: doc
+---
+{%- assign current_app = nil -%}
+{%- for a in site.data.apps -%}
+  {%- if a.id == page.app_id -%}{%- assign current_app = a -%}{%- endif -%}
+{%- endfor -%}
+
+{%- if current_app -%}
+<style>
+  :root {
+    --accent: {{ current_app.accent.light }};
+    --accent-strong: {{ current_app.accent.light }};
+    --accent-soft: color-mix(in srgb, {{ current_app.accent.light }} 14%, transparent);
+    --accent-from: {{ current_app.accent.gradient_from }};
+    --accent-to: {{ current_app.accent.gradient_to }};
+  }
+  html[data-theme="dark"] {
+    --accent: {{ current_app.accent.dark }};
+    --accent-strong: {{ current_app.accent.dark }};
+  }
+  @media (prefers-color-scheme: dark) {
+    html[data-theme="auto"] {
+      --accent: {{ current_app.accent.dark }};
+      --accent-strong: {{ current_app.accent.dark }};
+    }
+  }
+</style>
+{%- endif -%}
+
+<section class="container container--narrow">
+  <header class="doc-header" data-reveal>
+    {%- if current_app -%}
+    <a href="{{ current_app.url | relative_url }}" class="doc-header__eyebrow">
+      <span class="doc-header__icon">{% include app-icon.html app=current_app size="11" %}</span>
+      {{ current_app.id }}
+    </a>
+    {%- endif -%}
+
+    <h1 class="doc-header__title">
+      {%- if page.doc_title_en -%}
+        <span lang="en">{{ page.doc_title_en }}</span>
+        <span lang="zh-CN">{{ page.doc_title_zh_cn | default: page.doc_title_en }}</span>
+        <span lang="zh-TW">{{ page.doc_title_zh_tw | default: page.doc_title_en }}</span>
+      {%- else -%}
+        {{ page.title | default: page.doc_title_en }}
+      {%- endif -%}
+    </h1>
+    {%- if page.last_updated -%}
+    <p class="doc-header__updated">
+      <span lang="en" class="inline">{{ site.data.i18n['en'].doc.last_updated }}: {{ page.last_updated }}</span>
+      <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].doc.last_updated }}：{{ page.last_updated }}</span>
+      <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].doc.last_updated }}：{{ page.last_updated }}</span>
+    </p>
+    {%- endif -%}
+  </header>
+
+  <article class="prose" data-reveal>
+    {{ content }}
+  </article>
+</section>
