@@ -1,0 +1,1736 @@
+- id: iConnect
+  slug: iConnect
+  url: /iConnect/
+  order: 8
+  apple_id: 1439667627
+  accent:
+    light: "#f7512e"
+    dark: "#ff8a6b"
+    gradient_from: "#fa5028"
+    gradient_to: "#ff6b40"
+  icon: radar
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iConnect
+    zh-CN: 爱联
+    zh-TW: 愛聯
+  taglines:
+    en: "Local P2P chat, PTT and file transfer for iPhone, iPad and Mac."
+    zh-CN: "iPhone、iPad 和 Mac 之间的本地点对点聊天、对讲与文件互传。"
+    zh-TW: "iPhone、iPad 和 Mac 之間的本地點對點聊天、對講與檔案互傳。"
+  blurbs:
+    en: "Chat, group chat, PTT, voice and files over local Wi-Fi between Apple devices. Reply, recall, @mentions and search; configurable file size limits. No cloud, no account, no internet required."
+    zh-CN: "通过本地 Wi-Fi 在 Apple 设备间直接聊天、群聊、对讲、语音与传文件。支持回复、撤回、@提及与搜索；可配置文件大小上限。无云端、无账号、无需联网。"
+    zh-TW: "透過本地 Wi-Fi 在 Apple 裝置間直接聊天、群組聊天、對講、語音與傳檔。支援回覆、收回、@提及與搜尋；可設定檔案大小上限。無雲端、無帳號、無需連網。"
+  highlights:
+    en: [Chat & PTT, Voice & files, Configurable size, 9 app icons]
+    zh-CN: [聊天与对讲, 语音与传文件, 可配置文件大小, 9 款图标]
+    zh-TW: [聊天與對講, 語音與傳檔, 可設定檔案大小, 9 款圖示]
+
+- id: iConverter
+  slug: iConverter
+  url: /iConverter/
+  order: 7
+  apple_id: 6763890132
+  accent:
+    light: "#fd7800"
+    dark: "#ffab5c"
+    gradient_from: "#fc6d00"
+    gradient_to: "#ff8f26"
+  icon: grid
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: iConverter
+    zh-CN: 爱计算
+    zh-TW: 愛計算
+  taglines:
+    en: "98 calculators & converters in one beautifully designed toolkit."
+    zh-CN: "98 款计算器与单位换算，集合在一个精致的工具集中。"
+    zh-TW: "98 款計算器與單位換算，集合在一個精緻的工具集中。"
+  blurbs:
+    en: "From everyday math and finance to engineering units, QR codes and JSON formatting — 98 tools and 21 interactive widgets, all offline. URL scheme & custom accent — privacy-first, no account."
+    zh-CN: "从日常计算、财务规划到工程单位、二维码与 JSON 格式化——98 个工具与 21 款交互式小组件，全部离线。支持 URL Scheme 与自定义主题色——隐私优先，无需账号。"
+    zh-TW: "從日常計算、財務規劃到工程單位、QR Code 與 JSON 格式化——98 個工具與 21 款互動式小工具，全部離線。支援 URL Scheme 與自訂主題色——隱私優先，無需帳號。"
+  highlights:
+    en: [98 tools, 21 interactive widgets, URL scheme, Custom accent color]
+    zh-CN: [98 个工具, 21 款交互式小组件, URL Scheme, 自定义主题色]
+    zh-TW: [98 個工具, 21 款互動式小工具, URL Scheme, 自訂主題色]
+
+- id: iLinux
+  slug: iLinux
+  url: /iLinux/
+  order: 18
+  apple_id: 6766474402
+  accent:
+    light: "#22c55e"
+    dark: "#4ade80"
+    gradient_from: "#22c55e"
+    gradient_to: "#0ea5e9"
+  icon: terminal
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iLinux
+    zh-CN: 爱 Linux
+    zh-TW: 愛 Linux
+  taglines:
+    en: "1650+ commands · Linux / CMD / PowerShell · offline reference."
+    zh-CN: "1650+ 条命令 · Linux / CMD / PowerShell · 离线参考。"
+    zh-TW: "1650+ 條指令 · Linux / CMD / PowerShell · 離線參考。"
+  blurbs:
+    en: "Offline shell reference for iPhone, iPad and Mac: 1650+ commands, cross-platform equivalents, iCloud sync, daily quiz and iOS widgets — no account required."
+    zh-CN: "面向 iPhone、iPad 与 Mac 的离线命令参考：1650+ 条命令、跨平台等效、iCloud 同步、每日测验与 iOS 小组件——无需账号。"
+    zh-TW: "面向 iPhone、iPad 與 Mac 的離線指令參考：1650+ 條指令、跨平台等效、iCloud 同步、每日測驗與 iOS 小工具——無需帳號。"
+  highlights:
+    en: [1650+ commands, iPhone iPad Mac, iCloud sync, Cross-platform equivalents]
+    zh-CN: [1650+ 条命令, iPhone iPad Mac, iCloud 同步, 跨平台等效]
+    zh-TW: [1650+ 條指令, iPhone iPad Mac, iCloud 同步, 跨平台等效]
+
+- id: iWool
+  slug: iWool
+  url: /iWool/
+  order: 23
+  apple_id: 6762051415
+  accent:
+    light: "#f7a004"
+    dark: "#ffd166"
+    gradient_from: "#e89400"
+    gradient_to: "#fbbf24"
+  icon: sparkle
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: iWool
+    zh-CN: 爱羊毛
+    zh-TW: 愛羊毛
+  taglines:
+    en: "Track deals, reminders and earnings — privately, on-device."
+    zh-CN: "记录活动、提醒与收益——隐私优先，数据全留在设备。"
+    zh-TW: "記錄活動、提醒與收益——隱私優先，資料全留在裝置。"
+  blurbs:
+    en: "Local deal tracker on iPhone and iPad: deep links, Quick Countdown Live Activity, pause/cancel by effective date, activity share export, 7 home summary cards, 12 widgets and share cards — no sign-up, on-device, privacy-first."
+    zh-CN: "iPhone 与 iPad 本地羊毛活动追踪：深度链接、灵动岛提醒、暂停/取消生效日、活动分享导出、首页七摘要卡、12 款小组件与分享图——无需注册，数据留在设备，隐私优先、无追踪。"
+    zh-TW: "iPhone 與 iPad 本地羊毛活動追蹤：深度連結、靈動島提醒、暫停/取消生效日、活動分享匯出、首頁七摘要卡、12 款小工具與分享圖——無需註冊，資料留在裝置，隱私優先、無追蹤。"
+  highlights:
+    en: [iwool:// deep links, Pause & share export, 12 widgets, Share PNG cards]
+    zh-CN: [iwool:// 深度链接, 暂停与分享导出, 12 款小组件, 分享 PNG 卡片]
+    zh-TW: [iwool:// 深度連結, 暫停與分享匯出, 12 款小工具, 分享 PNG 卡片]
+
+- id: iCalendar
+  slug: iCalendar
+  url: /iCalendar/
+  order: 1
+  apple_id: 6763889843
+  accent:
+    light: "#2b7fff"
+    dark: "#6ba3ff"
+    gradient_from: "#1a6ff5"
+    gradient_to: "#4d9dff"
+  icon: calendar
+  platforms: [iPhone, iPad]
+  has_url_scheme: false
+  names:
+    en: iCalendar
+    zh-CN: 爱日历
+    zh-TW: 愛日曆
+  taglines:
+    en: "Lunar calendar — 23+9 widgets, ISO week numbers, launch shortcuts, offline."
+    zh-CN: "中国农历——主屏 23+锁屏 9、ISO 周数、启动直达，全程离线。"
+    zh-TW: "中國農曆——主畫面 23+鎖定 9、ISO 週數、啟動直達，全程離線。"
+  blurbs:
+    en: "1891–2100 almanac with solar terms, festivals & countdowns; 23 home + 9 lock widgets; ISO week numbers by default, cold-start open to calendar/almanac/tear-off/countdown — offline, no account, no ads."
+    zh-CN: "覆盖 1891–2100：节气节日黄历与倒数日；23 款主屏 + 9 款锁屏；周数默认 ISO 国标，冷启动可直达月历、黄历、手翻历或倒数——全程离线、无需账号、无广告。"
+    zh-TW: "涵蓋 1891–2100：節氣節日黃曆與倒數日；23 款主畫面 + 9 款鎖定畫面；週數預設 ISO 國標，冷啟動可直達月曆、黃曆、手翻曆或倒數——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [23+9 widgets, ISO week numbers, Launch shortcuts, 1891–2100]
+    zh-CN: [主屏23+锁屏9, ISO 周数, 启动直达, 1891–2100]
+    zh-TW: [主畫面23+鎖定9, ISO 週數, 啟動直達, 1891–2100]
+
+- id: iPomodoros
+  slug: iPomodoros
+  url: /iPomodoros/
+  display_name: iPomodoro
+  order: 3
+  apple_id: 6775220048
+  accent:
+    light: "#ff4633"
+    dark: "#ff8f82"
+    gradient_from: "#e84a38"
+    gradient_to: "#ff6b52"
+  icon: tomato
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: iPomodoro
+    zh-CN: 爱番茄
+    zh-TW: 愛番茄
+  taglines:
+    en: "Focus. Track. Achieve. — Pomodoro, stats, widgets & Live Activity."
+    zh-CN: "专注、追踪、达成——番茄计时、学习统计、小组件与灵动岛。"
+    zh-TW: "專注、追蹤、達成——番茄計時、學習統計、小工具與靈動島。"
+  blurbs:
+    en: "Native focus studio for iPhone & iPad: Pomodoro cycles, free-form timer, countdown tasks and stats (goals, heatmaps, achievements, share cards). Five widget families, dual Live Activity & Siri — optional iCloud, no account."
+    zh-CN: "iPhone / iPad 原生专注工作室：番茄循环、自由计时、任务倒数日与统计（目标、热力图、成就、分享图）。五类小组件、双 Live Activity 与 Siri——可选 iCloud，无需账号。"
+    zh-TW: "iPhone / iPad 原生專注工作室：番茄循環、自由計時、任務倒數日與統計（目標、熱力圖、成就、分享圖）。五類小工具、雙 Live Activity 與 Siri——可選 iCloud，無需帳號。"
+  highlights:
+    en: [Privacy-first, 9 achievements, 5 widget families, Siri ready]
+    zh-CN: [隐私优先, 9 枚成就, 5 类小组件, Siri 就绪]
+    zh-TW: [隱私優先, 9 枚成就, 5 類小工具, Siri 就緒]
+
+- id: iEnglish
+  slug: iEnglish
+  url: /iEnglish/
+  order: 10
+  apple_id: 1236558125
+  accent:
+    light: "#e0453a"
+    dark: "#ff8f84"
+    gradient_from: "#d63d32"
+    gradient_to: "#f06a5f"
+  icon: book-a
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iEnglish
+    zh-CN: 爱英语
+    zh-TW: 愛英語
+  taglines:
+    en: "3000 core words + optional Senior/CET books — quizzes, playlists & widgets."
+    zh-CN: "3000 核心词 + 可选高中/四六级词书——测验、播放列表与小组件。"
+    zh-TW: "3000 核心詞 + 可選高中/四六級詞書——測驗、播放列表與小工具。"
+  blurbs:
+    en: "Beginner English vocab: 3000 core words A–Z, plus optional Senior / CET-4 / CET-6 books with per-book progress; quizzes, playlists and home widgets — offline on iPhone, iPad and Mac, optional iCloud."
+    zh-CN: "入门英语词汇：默认 3000 核心词，可加高中·四级·六级词书且进度按书隔离；每日测验、播放列表与主屏小组件——在 iPhone、iPad 和 Mac 上离线可用，可选 iCloud。"
+    zh-TW: "入門英語詞彙：預設 3000 核心詞，可加高中·四級·六級詞書且進度按書隔離；每日測驗、播放列表與主畫面小工具——在 iPhone、iPad 和 Mac 上離線可用，可選 iCloud。"
+  highlights:
+    en: [3000 core + exam books, Per-book progress, Quizzes, Widgets]
+    zh-CN: [核心+考试词书, 进度按书隔离, 每日测验, 小组件]
+    zh-TW: [核心+考試詞書, 進度按書隔離, 每日測驗, 小工具]
+
+- id: iLeetCoder
+  slug: iLeetCoder
+  url: /iLeetCoder/
+  display_name: iCoder
+  order: 19
+  apple_id: 1458259471
+  accent:
+    light: "#22c55e"
+    dark: "#86efac"
+    gradient_from: "#16a34a"
+    gradient_to: "#a3e635"
+  icon: code
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iCoder
+    zh-CN: 爱算法
+    zh-TW: 愛算法
+  taglines:
+    en: "999 algorithm problems, daily quiz, widgets — native on Apple platforms."
+    zh-CN: "999 道算法题库，每日测验，小组件——Apple 平台原生体验。"
+    zh-TW: "999 道演算法題庫，每日測驗，小工具——Apple 平台原生體驗。"
+  blurbs:
+    en: "LeetCode-style algorithm learning: 999 problems, daily quiz, favorites & wrong book, home-screen widgets — native on iPhone, iPad and Mac, optional iCloud, no account."
+    zh-CN: "LeetCode 风格算法学习：999 道题库、每日测验、收藏与错题本、主屏小组件——iPhone、iPad、Mac 原生体验，可选 iCloud 同步，无需账号。"
+    zh-TW: "LeetCode 風格演算法學習：999 道題庫、每日測驗、收藏與錯題本、主畫面小工具——iPhone、iPad、Mac 原生體驗，可選 iCloud 同步，無需帳號。"
+  highlights:
+    en: [999 problems, iCloud sync, Learning records, Widgets]
+    zh-CN: [999 道题库, iCloud 同步, 学习记录, 小组件]
+    zh-TW: [999 道題庫, iCloud 同步, 學習記錄, 小工具]
+  app_store_notice:
+    en: "Due to copyright restrictions, not available in mainland China — only offered outside the Chinese mainland."
+    zh-CN: "注：中国内地因版权问题，暂不支持，仅非中国大陆地区提供。"
+    zh-TW: "註：中國內地因版權問題，暫不支援，僅非中國大陸地區提供。"
+
+- id: iTer
+  slug: iTer
+  url: /iTer/
+  order: 20
+  apple_id: 1224934068
+  accent:
+    light: "#ff8700"
+    dark: "#ffb347"
+    gradient_from: "#f97316"
+    gradient_to: "#fbbf24"
+  icon: briefcase
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iTer
+    zh-CN: 爱技术
+    zh-TW: 愛技術
+  taglines:
+    en: "10,000+ IT interview questions — daily quiz, widgets, SwiftUI native."
+    zh-CN: "10000+ IT 面试题库 — 每日测验、小组件、SwiftUI 原生。"
+    zh-TW: "10000+ IT 面試題庫 — 每日測驗、小工具、SwiftUI 原生。"
+  blurbs:
+    en: "Offline interview library: 17 languages, 12 career tracks, 16 company banks. Daily quiz, favorites, Markdown answers, home & lock widgets and keyboard shortcuts — SwiftUI native, no account."
+    zh-CN: "离线面试题库：17 门语言、12 职业方向、16 企业真题。每日测验、收藏错题、Markdown 答案、主屏锁屏小组件与键盘快捷键——SwiftUI 原生，无需账号。"
+    zh-TW: "離線面試題庫：17 門語言、12 職業方向、16 企業真題。每日測驗、收藏錯題、Markdown 答案、主畫面鎖定畫面小工具與鍵盤快捷鍵——SwiftUI 原生，無需帳號。"
+  highlights:
+    en: [10000+ questions, Daily quiz, Widgets, Markdown answers, iPad & Mac keyboard]
+    zh-CN: [10000+ 题库, 每日测验, 小组件, Markdown 答案, iPad & Mac 键盘]
+    zh-TW: [10000+ 題庫, 每日測驗, 小工具, Markdown 答案, iPad & Mac 鍵盤]
+
+- id: iWuBi
+  slug: iWuBi
+  url: /iWuBi/
+  order: 13
+  apple_id: 1459028801
+  accent:
+    light: "#f97316"
+    dark: "#fdba74"
+    gradient_from: "#ea580c"
+    gradient_to: "#fb923c"
+  icon: keyboard
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iWuBi
+    zh-CN: 爱五笔
+    zh-TW: 愛五筆
+  taglines:
+    en: "Wubi input training — drills, handwriting lookup, Siri & Spotlight."
+    zh-CN: "五笔输入训练——查练一体、手写查字，Siri 与 Spotlight。"
+    zh-TW: "五筆輸入訓練——查練一體、手寫查字，Siri 與 Spotlight。"
+  blurbs:
+    en: "Practice Wubi offline: full codes and drills, wrong-char retry, handwriting OCR into search on lookup/jianma, Siri and Spotlight — privacy-first, no account, no ads."
+    zh-CN: "离线五笔查练：完整码表与练习、错字重练；查字与简码支持手写 OCR 填入搜索，Siri 与 Spotlight——隐私优先、无需账号、无广告。"
+    zh-TW: "離線五筆查練：完整碼表與練習、錯字重練；查字與簡碼支援手寫 OCR 填入搜尋，Siri 與 Spotlight——隱私優先、無需帳號、無廣告。"
+  highlights:
+    en: [Typing practice, Handwriting OCR, Siri & Spotlight, 8 widgets]
+    zh-CN: [打字练习, 手写查字, Siri 与 Spotlight, 8 款小组件]
+    zh-TW: [打字練習, 手寫查字, Siri 與 Spotlight, 8 款小工具]
+
+- id: TwinPolarCam
+  slug: TwinPolarCam
+  url: /TwinPolarCam/
+  order: 27
+  apple_id: 6749207014
+  accent:
+    light: "#1a9fff"
+    dark: "#67c8ff"
+    gradient_from: "#0d8ef5"
+    gradient_to: "#38bdf8"
+  icon: camera
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: TwinPolarCam
+    zh-CN: 太极双摄
+    zh-TW: 太極雙攝
+  taglines:
+    en: "Dual-camera recording with PiP — built for real-world interruptions."
+    zh-CN: "双摄同录 + 画中画，为真实中断场景而生。"
+    zh-TW: "雙攝同錄 + 子母畫面，為真實中斷場景而生。"
+  blurbs:
+    en: "Record front & back cameras on iPhone and compatible iPads; on-device PiP, save to Photos. Export queue, Live Activity, recoverable interruptions, emergency background save, in-app guides & trilingual UI — privacy-first, no cloud, no account."
+    zh-CN: "在 iPhone 与兼容 iPad 上前后双摄同录、本地 PiP 合成并保存相册；导出队列、Live Activity、可恢复中断、后台紧急保存、应用内教程与三语——隐私优先，无需云端、无需账号。"
+    zh-TW: "在 iPhone 與相容 iPad 上前後雙攝同錄、本機 PiP 合成並儲存相簿；匯出佇列、Live Activity、可恢復中斷、背景緊急保存、應用內教學與三語——隱私優先，無需雲端、無需帳號。"
+  highlights:
+    en: [Dual camera, Export queue, Live Activity, In-app guides]
+    zh-CN: [双摄同录, 导出队列, Live Activity, 应用内教程]
+    zh-TW: [雙攝同錄, 匯出佇列, Live Activity, 應用內教學]
+
+- id: iPhoto
+  slug: iPhoto
+  url: /iPhoto/
+  order: 24
+  apple_id: 6787360978
+  accent:
+    light: "#F2477A"
+    dark: "#FF7AA0"
+    gradient_from: "#E5386B"
+    gradient_to: "#FF6B9D"
+  icon: camera
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: iPhoto
+    zh-CN: 爱修图
+    zh-TW: 愛修圖
+  taglines:
+    en: "Private photo studio — live beauty, 3D LUT looks, collage & recipes."
+    zh-CN: "隐私优先的本地修图台——整帧美颜、3D LUT、拼图与配方。"
+    zh-TW: "隱私優先的本地修圖台——整幀美顏、3D LUT、拼圖與配方。"
+  blurbs:
+    en: "Shoot with full-frame live beauty and hold-to-compare; ~55 self-authored 3D LUTs, collage 2–9, Look recipes & ~800+ stickers; strip EXIF before share — no account, no ads."
+    zh-CN: "拍摄即可整帧美颜与按住看原图；自有 3D LUT 约 55 款、拼图 2–9、配方与约 800+ 贴纸，分享前可清 EXIF——无需账号、无广告。"
+    zh-TW: "拍攝即可整幀美顏與按住看原圖；自有 3D LUT 約 55 款、拼圖 2–9、配方與約 800+ 貼紙，分享前可清 EXIF——無需帳號、無廣告。"
+  highlights:
+    en: [Full-frame beauty, 3D LUT looks, Collage & recipes, Privacy export]
+    zh-CN: [整帧美颜, 3D LUT 滤镜, 拼图与配方, 隐私导出]
+    zh-TW: [整幀美顏, 3D LUT 濾鏡, 拼圖與配方, 隱私匯出]
+
+- id: iCangJie
+  slug: iCangJie
+  url: /iCangJie/
+  order: 14
+  apple_id: 6777959650
+  accent:
+    light: "#c73d2e"
+    dark: "#f08a7d"
+    gradient_from: "#b83224"
+    gradient_to: "#e85d4d"
+  icon: character
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iCangJie
+    zh-CN: 爱仓颉
+    zh-TW: 愛倉頡
+  taglines:
+    en: "Cangjie input training — drills, handwriting lookup & offline dictionary."
+    zh-CN: "仓颉输入训练——查练一体、手写查字与离线码表。"
+    zh-TW: "倉頡輸入訓練——查練一體、手寫查字與離線碼表。"
+  blurbs:
+    en: "Practice Cangjie offline: full codes and drills, wrong-char retry, handwriting OCR into search on lookup and jianma pages, alternate icons and Siri Shortcuts — privacy-first, no account, no ads."
+    zh-CN: "离线仓颉查练：完整码表与练习、错字重练；查字与简码页支持手写 OCR 填入搜索，备用图标与 Siri 快捷指令——隐私优先、无需账号、无广告。"
+    zh-TW: "離線倉頡查練：完整碼表與練習、錯字重練；查字與簡碼頁支援手寫 OCR 填入搜尋，備用圖示與 Siri 快捷指令——隱私優先、無需帳號、無廣告。"
+  highlights:
+    en: [27K+ chars, Handwriting OCR, Typing retry, Siri & widgets]
+    zh-CN: [2.7 万字库, 手写查字, 错字入库重练, Siri 与小组件]
+    zh-TW: [2.7 萬字庫, 手寫查字, 錯字入庫重練, Siri 與小工具]
+
+- id: Weber
+  slug: Weber
+  url: /Weber/
+  order: 28
+  apple_id: 6753136256
+  accent:
+    light: "#38bdf8"
+    dark: "#a78bfa"
+    gradient_from: "#0ea5e9"
+    gradient_to: "#c084fc"
+  icon: puzzle
+  platforms: [Mac]
+  has_url_scheme: false
+  names:
+    en: Weber
+    zh-CN: Weber
+    zh-TW: Weber
+  taglines:
+    en: "Safari extension: video speed control & Markdown copy."
+    zh-CN: "Safari 扩展：视频倍速与 Markdown 复制。"
+    zh-TW: "Safari 擴充功能：影片倍速與 Markdown 複製。"
+  blurbs:
+    en: "macOS-only Safari extension — speed control and Markdown copy from the toolbar popup. Configure in Safari, not the host app. English & Simplified Chinese UI, minimal permissions, Dark Mode ready."
+    zh-CN: "仅限 macOS 的 Safari 扩展：工具栏弹窗调速与一键 Markdown 复制。设置在 Safari 完成，不在宿主应用；界面英/简，权限最小化，自适应深色模式。"
+    zh-TW: "僅限 macOS 的 Safari 擴充功能：工具列彈窗調速與一鍵 Markdown 複製。設定在 Safari 完成，不在宿主應用；介面英/簡，權限最小化，自適應深色模式。"
+  highlights:
+    en: [Safari toolbar popup, Markdown copy, macOS only, MIT source]
+    zh-CN: [Safari 工具栏弹窗, Markdown 复制, 仅 macOS, MIT 源码]
+    zh-TW: [Safari 工具列彈出視窗, Markdown 複製, 僅 macOS, MIT 原始碼]
+
+- id: iVideo
+  slug: iVideo
+  url: /iVideo/
+  order: 26
+  apple_id: 6779898770
+  accent:
+    light: "#8b5cf6"
+    dark: "#a78bfa"
+    gradient_from: "#7c3aed"
+    gradient_to: "#a855f7"
+  icon: video
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: false
+  names:
+    en: iVideo
+    zh-CN: 爱视频
+    zh-TW: 愛視頻
+  taglines:
+    en: "Pro video toolbox — Edit Projects, stickers, 31 tools, all on-device."
+    zh-CN: "专业视频工具箱——剪辑工程、贴纸图片轨、31 工具，全部本地。"
+    zh-TW: "專業影片工具箱——剪輯工程、貼紙圖片軌、31 工具，全部本地。"
+  blurbs:
+    en: "Edit Projects tab with sticker library & image import, multi-track timelines, 31 tools, on-device subtitles, face blur & LUTs; playback 0.05–8× — batch, Live Activity & Siri, zero upload."
+    zh-CN: "常驻剪辑工程：完整贴纸库与图片导入、多轨时间线、31 工具、设备端字幕、人脸打码与 LUT；播放 0.05–8×——批处理、灵动岛与 Siri，零上传。"
+    zh-TW: "常駐剪輯工程：完整貼紙庫與圖片匯入、多軌時間線、31 工具、裝置端字幕、人臉打碼與 LUT；播放 0.05–8×——批次處理、靈動島與 Siri，零上傳。"
+  highlights:
+    en: [Edit Projects + stickers, 0.05–8× speed, On-device subtitles, Face blur & LUTs]
+    zh-CN: [工程+贴纸图片轨, 0.05–8× 变速, 设备端字幕, 人脸打码与 LUT]
+    zh-TW: [工程+貼紙圖片軌, 0.05–8× 變速, 裝置端字幕, 人臉打碼與 LUT]
+
+- id: iApp
+  slug: iApp
+  url: /iApp/
+  order: 2
+  apple_id: 6446581591
+  accent:
+    light: "#0fa3fd"
+    dark: "#5cc4ff"
+    gradient_from: "#0094ff"
+    gradient_to: "#38bdf8"
+  icon: appstore
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iApp
+    zh-CN: 爱应用
+    zh-TW: 愛應用
+  taglines:
+    en: "Third-party App Store browser — previews, version history, developer replies & 18 languages."
+    zh-CN: "第三方 App Store 浏览工具——预览视频、版本历史、开发者回复与 18 种语言。"
+    zh-TW: "第三方 App Store 瀏覽工具——預覽影片、版本歷史、開發者回覆與 18 種語言。"
+  blurbs:
+    en: "Browse 12 charts across 175 regions, watch previews, compare stores, read reviews with replies and version history; track listing and price changes. Paste store links, developer charts, favorites & widgets — no sign-in."
+    zh-CN: "浏览 175 地区 12 种榜单，看预览视频、跨区对比、读开发者回复与版本历史；监控上架/下架/降价与排名。粘贴商店链接、开发者排行、收藏与小组件——无需注册登录。"
+    zh-TW: "瀏覽 175 地區 12 種榜單，看預覽影片、跨區對比、讀開發者回覆與版本歷史；監控上架/下架/降價與排名。貼上商店連結、開發者排行、收藏與小工具——無需註冊登入。"
+  highlights:
+    en: [Developer replies, Version history, Expanded iapp:// links, 18 languages]
+    zh-CN: [开发者回复, 版本历史, 扩展 iapp:// 链接, 18 种语言]
+    zh-TW: [開發者回覆, 版本歷史, 擴展 iapp:// 連結, 18 種語言]
+
+- id: iDictionary
+  slug: iDictionary
+  url: /iDictionary/
+  order: 12
+  apple_id: 1459028775
+  accent:
+    light: "#C72929"
+    dark: "#D93838"
+    gradient_from: "#B83232"
+    gradient_to: "#E85555"
+  icon: character
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iDictionary
+    zh-CN: 爱字词典
+    zh-TW: 愛字詞典
+  taglines:
+    en: "20,000+ hanzi offline — handwriting, study tools, share cards & accents."
+    zh-CN: "2 万+ 汉字离线——手写查字、学字工具、分享卡与强调色。"
+    zh-TW: "2 萬+ 漢字離線——手寫查字、學字工具、分享卡與強調色。"
+  blurbs:
+    en: "Offline character desk: 20k+ hanzi, stroke animations, handwriting & OCR; home study tools, category browse, favorites batching, share cards and accent themes — no account, no ads, fully offline."
+    zh-CN: "离线汉字书桌：2 万+ 字、笔顺动画、手写与拍照查字；首页学字工具、分类浏览、收藏批量管理与分享卡，强调色可换——无需账号、无广告、完全离线。"
+    zh-TW: "離線漢字書桌：2 萬+ 字、筆順動畫、手寫與拍照查字；首頁學字工具、分類瀏覽、收藏批次管理與分享卡，強調色可換——無需帳號、無廣告、完全離線。"
+  highlights:
+    en: [Stroke animations, Study tools, Share cards, Fully offline]
+    zh-CN: [笔顺动画, 学字与分类, 分享卡, 完全离线]
+    zh-TW: [筆順動畫, 學字與分類, 分享卡, 完全離線]
+
+- id: iNutrition
+  slug: iNutrition
+  url: /iNutrition/
+  order: 22
+  apple_id: 1459029125
+  accent:
+    light: "#33DB80"
+    dark: "#5AEF9E"
+    gradient_from: "#22C55E"
+    gradient_to: "#34D399"
+  icon: leaf
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iNutrition
+    zh-CN: 爱营养
+    zh-TW: 愛營養
+  taglines:
+    en: "Your nutrition expert — learn food science, not calorie counting."
+    zh-CN: "我的营养专家——学习营养学，不是卡路里记账。"
+    zh-TW: "我的營養專家——學習營養學，不是卡路里記帳。"
+  blurbs:
+    en: "Knowledge-first nutrition learning: 19 original articles, 2,160+ foods, 27-nutrient encyclopedia, BMI/BMR/TDEE tools and on-device AI label reading; widgets & HealthKit — offline content, no account."
+    zh-CN: "以知识库为核心的营养学学习应用：19 篇原创文章、2160+ 种食物、27 种营养素百科、BMI/BMR/TDEE 工具与端侧 AI 营养表解读；小组件与 HealthKit——内容离线，无需账号。"
+    zh-TW: "以知識庫為核心的營養學學習應用：19 篇原創文章、2160+ 種食物、27 種營養素百科、BMI/BMR/TDEE 工具與端側 AI 營養表解讀；小工具與 HealthKit——內容離線，無需帳號。"
+  highlights:
+    en: [2160+ foods, On-device AI, HealthKit, Offline content]
+    zh-CN: [2160+ 食物, 端侧 AI, HealthKit, 离线内容]
+    zh-TW: [2160+ 食物, 端側 AI, HealthKit, 離線內容]
+
+- id: iBible
+  slug: iBible
+  url: /iBible/
+  order: 17
+  apple_id: 6793786056
+  accent:
+    light: "#C99433"
+    dark: "#E0B45A"
+    gradient_from: "#B8862B"
+    gradient_to: "#D4A84A"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iBible
+    zh-CN: 爱圣经
+    zh-TW: 愛聖經
+  taglines:
+    en: "Let God’s Word light every day — bilingual devotion, offline."
+    zh-CN: "让神的话语，成为你每一天的光——中英双语灵修，全程离线。"
+    zh-TW: "讓神的話語，成為你每一天的光——中英雙語靈修，全程離線。"
+  blurbs:
+    en: "A bilingual Bible devotion studio: full Scripture on device, Today’s Verse, parallel reading, plans & famous verses; TTS, share cards, 5 widgets, Live Activity & Siri — fully offline, no account, no ads."
+    zh-CN: "中英双语圣经灵修工作台。全本经文本地可读：今日一经、中英对照、读经计划与金句；朗读、分享卡、5 款小组件与实时活动、Siri——全程离线、无需账号、无广告。"
+    zh-TW: "中英雙語聖經靈修工作台。全本經文本地可讀：今日一經、中英對照、讀經計劃與金句；朗讀、分享卡、5 款小工具與即時動態、Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [Full Bible offline, Today’s Verse, Bilingual read, Widgets & Live Activity]
+    zh-CN: [全本离线可读, 今日一经, 中英对照, 小组件与实时活动]
+    zh-TW: [全本離線可讀, 今日一經, 中英對照, 小工具與即時動態]
+
+- id: iTangPoems
+  slug: iTangPoems
+  url: /iTangPoems/
+  order: 4
+  apple_id: 1459029099
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iTangPoems
+    zh-CN: 爱唐诗
+    zh-TW: 愛唐詩
+  taglines:
+    en: "Immersive Tang poetry — read aloud, study, recite, daily poem."
+    zh-CN: "回到唐朝，品味纸醉金迷的诗句——朗读·背诵·沉浸·每日一诗。"
+    zh-TW: "回到唐朝，品味紙醉金迷的詩句——朗讀·背誦·沉浸·每日一詩。"
+  blurbs:
+    en: "Immersive Tang poetry studio with 368 poems (classics + famous extras): karaoke TTS, study, reading Live Activity; five-way browse, daily poem, 6 widgets & iCloud — fully offline, no account, no ads."
+    zh-CN: "沉浸式唐诗工作台。内置 368 首（三百首+名篇精选）：卡拉 OK 朗读、背诵、品诗实时活动；五分区浏览、每日一诗、6 款小组件与 iCloud——全程离线、无需账号、无广告。"
+    zh-TW: "沉浸式唐詩工作台。內建 368 首（三百首+名篇精選）：卡拉 OK 朗讀、背誦、品詩即時動態；五分區瀏覽、每日一詩、6 款小工具與 iCloud——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [368 poems, Handwriting search, Karaoke recite, 6 widgets]
+    zh-CN: [368 首诗, 手写寻诗, 卡拉 OK 朗读, 6 款小组件]
+    zh-TW: [368 首詩, 手寫尋詩, Karaoke 朗讀, 6 款小工具]
+
+- id: iSongCi
+  slug: iSongCi
+  url: /iSongCi/
+  order: 5
+  apple_id: 6788433450
+  accent:
+    light: "#E53935"
+    dark: "#FF6B6B"
+    gradient_from: "#B03E30"
+    gradient_to: "#E53935"
+  icon: ci
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iSongCi
+    zh-CN: 爱宋词
+    zh-TW: 愛宋詞
+  taglines:
+    en: "One ci a day — 21,592 Song lyrics offline with continuous reading & widgets."
+    zh-CN: "每日一词——21,592 首宋词离线品读·词学堂·飞花令·小组件。"
+    zh-TW: "每日一詞——21,592 首宋詞離線品讀·詞學堂·飛花令·小工具。"
+  blurbs:
+    en: "A Song Ci studio with all 21,592 lyrics: modern commentary, Ci School & Fly Flower, daily ci, continuous reading & playlists; traditional glyphs, speech rate, background audio, line pick on cards & widgets — fully offline, no account, no ads."
+    zh-CN: "垂直深耕宋词的品读工作台。全量 21,592 首词作，白话赏析、词学堂与飞花令、今日一词、连续朗读与词单；繁体字形与语速音调、后台播放、词卡选句与小组件——全程离线、无需账号、无广告。"
+    zh-TW: "垂直深耕宋詞的品讀工作台。全量 21,592 首詞作，白話賞析、詞學堂與飛花令、今日一詞、連續朗讀與詞單；繁體字形與語速音調、背景播放、詞卡選句與小工具——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [21592 ci works, Handwriting search, Ci School, Fly Flower]
+    zh-CN: [21592 首词, 手写寻词, 词学堂, 飞花令]
+    zh-TW: [21592 首詞, 手寫尋詞, 詞學堂, 飛花令]
+
+- id: iYuanQu
+  slug: iYuanQu
+  url: /iYuanQu/
+  order: 6
+  apple_id: 6788432853
+  accent:
+    light: "#B0761F"
+    dark: "#E0AC55"
+    gradient_from: "#A5641F"
+    gradient_to: "#D4923A"
+  icon: qu
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iYuanQu
+    zh-CN: 爱元曲
+    zh-TW: 愛元曲
+  taglines:
+    en: "Immersive Yuan verse — daily qu, curated notes, continuous reading & widgets."
+    zh-CN: "沉浸品读元曲——每日一曲·精选译注·连读朗读·宫调曲牌。"
+    zh-TW: "沉浸品讀元曲——每日一曲·精選譯註·連讀朗讀·宮調曲牌。"
+  blurbs:
+    en: "A Yuan-verse studio with 8,969 works: curated notes & translations, daily qu, continuous reading; line pick on cards, title long-press menu, gongdiao/qupai, indexes & widgets — fully offline, no account, no ads."
+    zh-CN: "垂直深耕元曲的品读工作台。全量 8,969 首曲作，含精选译注与译文、每日一曲、连续朗读；曲卡选行、标题长按菜单、宫调曲牌、作者与杂剧索引、竖排阅读与小组件——全程离线、无需账号、无广告。"
+    zh-TW: "垂直深耕元曲的品讀工作台。全量 8,969 首曲作，含精選譯註與譯文、每日一曲、連續朗讀；曲卡選行、標題長按選單、宮調曲牌、作者與雜劇索引、直排閱讀與小工具——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [8969 qu works, Handwriting search, Continuous read, Gongdiao & qupai]
+    zh-CN: [8969 首曲作, 手写寻曲, 连续朗读, 宫调曲牌]
+    zh-TW: [8969 首曲作, 手寫尋曲, 連續朗讀, 宮調曲牌]
+
+- id: iStore
+  slug: iStore
+  url: /iStore/
+  order: 9
+  apple_id: 6786123132
+  accent:
+    light: "#0d9488"
+    dark: "#2dd4bf"
+    gradient_from: "#0f766e"
+    gradient_to: "#14b8a6"
+  icon: globe
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: iStore
+    zh-CN: 爱商店
+    zh-TW: 愛商店
+  taglines:
+    en: "One-tap App Store region switching — 175 regions, favorites, map & widgets."
+    zh-CN: "一键切换 App Store 地区——175 个地区、收藏置顶、地图选区与小组件。"
+    zh-TW: "一鍵切換 App Store 地區——175 個地區、收藏置頂、地圖選區與小工具。"
+  blurbs:
+    en: "Switch storefronts across 175 regions via Apple’s official links. Browse by continent, favorite regions, check availability, pick on a map; open from widgets & Siri — optional iCloud, no account."
+    zh-CN: "通过 Apple 官方链接，一键在 175 个地区间切换商店地区。按大洲浏览、收藏置顶、查询上架、地图选区；小组件与 Siri 直达——可选 iCloud，无需账号。"
+    zh-TW: "透過 Apple 官方連結，一鍵在 175 個地區間切換商店地區。依大洲瀏覽、收藏置頂、查詢上架、地圖選區；小工具與 Siri 直達——可選 iCloud，無需帳號。"
+  highlights:
+    en: [175 regions, App availability, Map picker, Widgets & Siri]
+    zh-CN: [175 个地区, 上架查询, 地图选区, 小组件与 Siri]
+    zh-TW: [175 個地區, 上架查詢, 地圖選區, 小工具與 Siri]
+
+- id: iWord
+  slug: iWord
+  url: /iWord/
+  order: 15
+  apple_id: 6786757206
+  accent:
+    light: "#3366F0"
+    dark: "#5B8FFF"
+    gradient_from: "#2952CC"
+    gradient_to: "#4D7FFF"
+  icon: wordbook
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iWord
+    zh-CN: 爱词语
+    zh-TW: 愛詞語
+  taglines:
+    en: "Explore Chinese language & culture — idioms, folk sayings, wordplay, offline."
+    zh-CN: "探索中华语言与文化——成语、俗语、文字游戏，完全离线。"
+    zh-TW: "探索中華語言與文化——成語、俗語、文字遊戲，完全離線。"
+  blurbs:
+    en: "Offline Chinese language library: 107,000+ entries across idioms, xiehouyu, tongue twisters, proverbs, couplets & riddles. Full-text search, SRS review, quizzes & word games, TTS & widgets — no account, no ads."
+    zh-CN: "完全离线的中华词语文化图书馆：成语、歇后语、绕口令、谚语、对联与谜语共 10 万+ 词条。全文搜索、SRS 复习、测验与文字游戏、朗读与小组件——无需账号、无广告。"
+    zh-TW: "完全離線的中華詞語文化圖書館：成語、歇後語、繞口令、諺語、對聯與謎語共 10 萬+ 詞條。全文搜尋、SRS 複習、測驗與文字遊戲、朗讀與小工具——無需帳號、無廣告。"
+  highlights:
+    en: [107K+ entries, SRS review, Word games, FTS5 search]
+    zh-CN: [10 万+ 词条, SRS 复习, 文字游戏, FTS5 搜索]
+    zh-TW: [10 萬+ 詞條, SRS 複習, 文字遊戲, FTS5 搜尋]
+
+- id: iRootWord
+  slug: iRootWord
+  url: /iRootWord/
+  order: 11
+  apple_id: 1459029123
+  accent:
+    light: "#4D73F2"
+    dark: "#7A9AFF"
+    gradient_from: "#3D5FD9"
+    gradient_to: "#6B8FFF"
+  icon: roots
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iRootWord
+    zh-CN: 爱词根
+    zh-TW: 愛詞根
+  taglines:
+    en: "English roots & affixes — custom lists, share cards and review undo."
+    zh-CN: "英语词根词缀——自定义词单、分享卡片与复习撤销。"
+    zh-TW: "英語詞根詞綴——自訂詞單、分享卡片與複習撤銷。"
+  blurbs:
+    en: "Offline roots desk: browse affixes, build custom word lists apart from favorites, share cards, review with about 3s undo, widgets & Siri — privacy-first, no account, no ads."
+    zh-CN: "离线词根书桌：浏览词根词缀，自定义词单与收藏彼此独立，分享卡片，复习约 3 秒可撤销；小组件与 Siri——隐私优先、无需账号、无广告。"
+    zh-TW: "離線詞根書桌：瀏覽詞根詞綴，自訂詞單與收藏彼此獨立，分享卡片，複習約 3 秒可撤銷；小工具與 Siri——隱私優先、無需帳號、無廣告。"
+  highlights:
+    en: [240+ affixes, Word decomposer, Leitner SRS, Widgets & Siri]
+    zh-CN: [240+ 词根词缀, 离线拆词, Leitner 复习, 小组件与 Siri]
+    zh-TW: [240+ 詞根詞綴, 離線拆詞, Leitner 複習, 小工具與 Siri]
+
+- id: iExcel
+  slug: iExcel
+  url: /iExcel/
+  order: 21
+  apple_id: 1231811461
+  accent:
+    light: "#217346"
+    dark: "#3D9B5F"
+    gradient_from: "#1A5C38"
+    gradient_to: "#2E8B57"
+  icon: spreadsheet
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iExcel
+    zh-CN: 爱表格
+    zh-TW: 愛表格
+  taglines:
+    en: "Learn Excel formulas, functions & tips — fully offline."
+    zh-CN: "学习 Excel 公式、函数与技巧——完全离线。"
+    zh-TW: "學習 Excel 公式、函數與技巧——完全離線。"
+  blurbs:
+    en: "Offline Excel learning for iPhone, iPad and Mac: 265 functions, tips, lessons, quizzes and a formula playground. Progress, daily function, 4 widgets & Siri — optional iCloud, no account."
+    zh-CN: "面向 iPhone、iPad 与 Mac 的离线 Excel 学习工作台：265 个函数、实用技巧、课程测验与公式演练场。进度打卡、每日一函数、4 款小组件与 Siri——可选 iCloud，无需账号。"
+    zh-TW: "面向 iPhone、iPad 與 Mac 的離線 Excel 學習工作台：265 個函數、實用技巧、課程測驗與公式演練場。進度打卡、每日一函數、4 款小工具與 Siri——可選 iCloud，無需帳號。"
+  highlights:
+    en: [265 functions, Formula playground, Progress & streaks, Widgets & Siri]
+    zh-CN: [265 个函数, 公式演练场, 进度与打卡, 小组件与 Siri]
+    zh-TW: [265 個函數, 公式演練場, 進度與打卡, 小工具與 Siri]
+
+- id: GLUT
+  slug: GLUT
+  url: /GLUT/
+  display_name: GLUT Campus
+  order: 29
+  apple_id: 968615456
+  accent:
+    light: "#429CF9"
+    dark: "#6BB3FF"
+    gradient_from: "#2B7FFF"
+    gradient_to: "#55A8FB"
+  icon: book-a
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: false
+  names:
+    en: GLUT Campus
+    zh-CN: 桂林理工大学校园通
+    zh-TW: 桂林理工大學校園通
+  taglines:
+    en: "Campus news, study updates & resources for GLUT — 10th anniversary rebuild."
+    zh-CN: "桂工校闻、学习资讯与校园资料——十周年全面焕新。"
+    zh-TW: "桂工校聞、學習資訊與校園資料——十週年全面煥新。"
+  blurbs:
+    en: "Campus news for GLUT: notices, academic updates, searchable materials, favorites & long-image share, campus VR, widgets & anniversary countdown, 13 icons — iPhone, iPad & Mac. No account, no ads."
+    zh-CN: "桂工校园资讯：公开要闻、学习资讯与可搜索资料；收藏长图、校园 VR、小组件与周年倒计时、13 套图标——iPhone、iPad 与 Mac。无需账号、无广告。"
+    zh-TW: "桂工校園資訊：公開要聞、學習資訊與可搜尋資料；收藏長圖、校園 VR、小工具與週年倒數、13 套圖示——iPhone、iPad 與 Mac。無需帳號、無廣告。"
+  highlights:
+    en: [Campus news, iOS widgets, Campus VR, 13 icons]
+    zh-CN: [校闻通知, iOS 小组件, 校园 VR, 13 套图标]
+    zh-TW: [校聞通知, iOS 小工具, 校園 VR, 13 套圖示]
+
+- id: iCouplet
+  slug: iCouplet
+  url: /iCouplet/
+  order: 16
+  apple_id: 6793778879
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: couplet
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iCouplet
+    zh-CN: 爱对联
+    zh-TW: 愛對聯
+  taglines:
+    en: "Immersive couplets — recite, vertical reading, study & daily couplet."
+    zh-CN: "沉浸式对联工作台——诵联·竖排品鉴·对课学堂·每日一联。"
+    zh-TW: "沉浸式對聯工作台——誦聯·直排品鑑·對課學堂·每日一聯。"
+  blurbs:
+    en: "An immersive couplet studio with 3369 works: karaoke TTS, vertical reading, study & 对对子; daily couplet, share cards, widgets & Live Activity — fully offline, no account, no ads."
+    zh-CN: "沉浸式对联诵读工作台。内置 3369 副名联：卡拉 OK 诵联、竖排品鉴、对课与对对子；每日一联、联卡分享、小组件与实时活动——全程离线、无需账号、无广告。"
+    zh-TW: "沉浸式對聯誦讀工作台。內建 3369 副名聯：卡拉 OK 誦聯、直排品鑑、對課與對對子；每日一聯、聯卡分享、小工具與即時動態——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [3369 couplets, Karaoke TTS, Study modes, Widgets & Live Activity]
+    zh-CN: [3369 副联, 卡拉 OK 诵联, 对课学堂, 小组件与实时活动]
+    zh-TW: [3369 副聯, 卡拉 OK 誦聯, 對課學堂, 小工具與即時動態]
+
+- id: iAppManager
+  slug: iAppManager
+  url: /iAppManager/
+  order: 30
+  apple_id: 6794497110
+  icon_url: "/assets/app-icons/iAppManager-512.png"
+  icon_url_sm: "/assets/app-icons/iAppManager-100.png"
+  accent:
+    light: "#2E9B5E"
+    dark: "#4ADE80"
+    gradient_from: "#249E5C"
+    gradient_to: "#3BBF7A"
+  icon: briefcase
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iAppManager
+    zh-CN: 爱应用者
+    zh-TW: 愛應用者
+  taglines:
+    en: "ASC native desk — versions, assets, IAP, TestFlight & readable reports."
+    zh-CN: "ASC 原生工作台——版本、素材、内购、TestFlight 与可读报表。"
+    zh-TW: "ASC 原生工作台——版本、素材、內購、TestFlight 與可讀報表。"
+  blurbs:
+    en: "API Key login on iPhone, iPad and Mac: versions, batch assets, IAP, TestFlight, and wide-table sales reports with lightweight charts — keys in Keychain, Apple traffic only, no tracking."
+    zh-CN: "API Key 登录：版本与批量素材、内购、TestFlight，以及宽表销量报表与轻量图表——密钥存钥匙串，直连 Apple，无追踪。"
+    zh-TW: "API Key 登入：版本與批次素材、內購、TestFlight，以及寬表銷量報表與輕量圖表——金鑰存鑰匙圈，直連 Apple，無追蹤。"
+  highlights:
+    en: [API Key login, Batch assets, Readable reports, TestFlight & IAP]
+    zh-CN: [API Key 登录, 批量素材, 可读报表, TestFlight 与内购]
+    zh-TW: [API Key 登入, 批次素材, 可讀報表, TestFlight 與內購]
+
+- id: iLunYu
+  slug: iLunYu
+  url: /iLunYu/
+  order: 31
+  apple_id: 6795595147
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iLunYu
+    zh-CN: 爱论语
+    zh-TW: 愛論語
+  taglines:
+    en: "Rediscover the Analects — bilingual reading, recite, study & daily verse."
+    zh-CN: "一论一语间，重新发现中华之美——对照品鉴·诵读·习礼学堂·162 名句。"
+    zh-TW: "一論一語間，重新發現中華之美——對照品鑑·誦讀·習禮學堂·162 名句。"
+  blurbs:
+    en: "Offline Analects studio: 512 chapters with bilingual + vernacular, karaoke recite, Study classroom & hunt; Daily Verse, 162 lines, widgets & Siri — no account, no ads."
+    zh-CN: "全本《论语》512 章离线品读：中英对照与白话、段级高亮诵读、习礼学堂与寻章；每日一则、162 名句、论卡、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "全本《論語》512 章離線品讀：中英對照與白話、段級高亮誦讀、習禮學堂與尋章；每日一則、162 名句、論卡、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [512 Analects chapters, Handwriting search, Ritual Study, Daily Saying]
+    zh-CN: [512 章论语, 手写寻句, 习礼学堂, 每日一则]
+    zh-TW: [512 章論語, 手寫尋句, 習禮學堂, 每日一則]
+
+- id: iArtOfWar
+  slug: iArtOfWar
+  url: /iArtOfWar/
+  order: 32
+  apple_id: 6795595036
+  accent:
+    light: "#B38626"
+    dark: "#D4A84A"
+    gradient_from: "#A5641F"
+    gradient_to: "#D4923A"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iArtOfWar
+    zh-CN: 爱兵法
+    zh-TW: 愛兵法
+  taglines:
+    en: "Strategy classics, offline — bilingual reading, recite, study & daily stratagem."
+    zh-CN: "一计一谋间，重新发现中华之美——对照品鉴·诵读·谋略学堂·120 名计。"
+    zh-TW: "一計一謀間，重新發現中華之美——對照品鑑·誦讀·謀略學堂·120 名計。"
+  blurbs:
+    en: "174 classics offline: Sun Tzu, Sun Bin, Wujing & 36 Stratagems; mixed-language recite, Strategy classroom & hunt; Daily Stratagem, 120 lines, widgets & Siri — no account, no ads."
+    zh-CN: "174 篇兵法离线品读：孙子、孙膑、武经与三十六计；混读诵读、谋略学堂与寻谋；每日一计、120 名句、谋卡、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "174 篇兵法離線品讀：孫子、孫臏、武經與三十六計；混讀誦讀、謀略學堂與尋謀；每日一計、120 名句、謀卡、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [174 stratagems, Handwriting search, Strategy Study, Daily tip refresh]
+    zh-CN: [174 篇兵法, 手写寻计, 谋略学堂, 每日一计可换篇]
+    zh-TW: [174 篇兵法, 手寫尋計, 謀略學堂, 每日一計可換篇]
+
+- id: iDeveloper
+  slug: iDeveloper
+  url: /iDeveloper/
+  order: 33
+  apple_id: 1240856775
+  accent:
+    light: "#2F6BFF"
+    dark: "#5B8CFF"
+    gradient_from: "#2F6BFF"
+    gradient_to: "#5B8CFF"
+  icon: code
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iDeveloper
+    zh-CN: 爱开发者
+    zh-TW: 愛開發者
+  taglines:
+    en: "Developer pocket studio — 176 tools, device models & bilingual refs."
+    zh-CN: "开发者随身工作台——176 工具、设备型号百科与双语速查。"
+    zh-TW: "開發者隨身工作台——176 工具、裝置型號百科與雙語速查。"
+  blurbs:
+    en: "176 offline tools plus ~255 device-model entries and 14 bilingual references; smart Share, Home widgets & Focus Live Activity — privacy-first, no account, no ads."
+    zh-CN: "176 离线工具，含约 255 条设备型号百科与 14 主题双语速查；Share 智能推荐、主屏小组件与专注灵动岛——隐私优先、无需账号、无广告。"
+    zh-TW: "176 離線工具，含約 255 條裝置型號百科與 14 主題雙語速查；Share 智慧推薦、主畫面小工具與專注靈動島——隱私優先、無需帳號、無廣告。"
+  highlights:
+    en: [176 tools, Device models, Bilingual refs, Live Activity]
+    zh-CN: [176 工具, 设备型号百科, 双语速查, 灵动岛]
+    zh-TW: [176 工具, 裝置型號百科, 雙語速查, 靈動島]
+
+- id: iVirtue
+  slug: iVirtue
+  url: /iVirtue/
+  order: 34
+  apple_id: 6796000304
+  accent:
+    light: "#387A5C"
+    dark: "#4FA87A"
+    gradient_from: "#2E6B4F"
+    gradient_to: "#4A9B72"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iVirtue
+    zh-CN: 爱弟子规
+    zh-TW: 愛弟子規
+  taglines:
+    en: "Di Zi Gui for families — bilingual reading, recite, virtue study & daily practice."
+    zh-CN: "一子一规间，美德从今日开始——对照品读·朗读·美德学堂。"
+    zh-TW: "一子一規間，美德從今日開始——對照品讀·朗讀·美德學堂。"
+  blurbs:
+    en: "Offline Di Zi Gui studio: 90 stanzas with vernacular & English, karaoke recite, Virtue classroom & practice history; Daily Rule, share cards, widgets & Siri — no account, no ads."
+    zh-CN: "全本《弟子规》90 韵段离线品读：中英对照与白话、句级高亮朗读、美德学堂与践行历史；每日一规、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "全本《弟子規》90 韻段離線品讀：中英對照與白話、句級高亮朗讀、美德學堂與踐行歷史；每日一規、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [90 rhyme sections, Handwriting search, Virtue Study, Widgets & Siri]
+    zh-CN: [90 韵段, 手写寻句, 美德学堂, 小组件与 Siri]
+    zh-TW: [90 韻段, 手寫尋句, 美德學堂, 小工具與 Siri]
+
+- id: iThree
+  slug: iThree
+  url: /iThree/
+  order: 35
+  apple_id: 6796002326
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iThree
+    zh-CN: 爱三字经
+    zh-TW: 愛三字經
+  taglines:
+    en: "San Zi Jing, offline — bilingual reading, recite, study & a daily line."
+    zh-CN: "三字成诵，蒙以养正——对照品读·诵读·蒙学学堂。"
+    zh-TW: "三字成誦，蒙以養正——對照品讀·誦讀·蒙學學堂。"
+  blurbs:
+    en: "Offline San Zi Jing studio: 48 passages with pinyin, vernacular & English; karaoke recite, study modes & Hunt; Daily Line, stories, widgets & Siri — no account, no ads."
+    zh-CN: "全本《三字经》48 段离线品读：逐句拼音与白话英译、句级高亮诵读、蒙学四模式与寻句；每日一句、典故典籍、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "全本《三字經》48 段離線品讀：逐句拼音與白話英譯、句級高亮誦讀、蒙學四模式與尋句；每日一句、典故典籍、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [48 San Zi Jing sections, Handwriting search, Primer Hunt, Daily Line]
+    zh-CN: [48 段三字经, 手写寻句, 蒙学寻句, 每日一句]
+    zh-TW: [48 段三字經, 手寫尋句, 蒙學尋句, 每日一句]
+
+- id: iRootWise
+  slug: iRootWise
+  url: /iRootWise/
+  order: 36
+  apple_id: 6797013590
+  accent:
+    light: "#8B6541"
+    dark: "#B88B5D"
+    gradient_from: "#7A5638"
+    gradient_to: "#A07848"
+  icon: leaf
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iRootWise
+    zh-CN: 爱菜根谭
+    zh-TW: 愛菜根譚
+  taglines:
+    en: "Chew the root of wisdom — Caigentan, sit, daily practice."
+    zh-CN: "嚼得菜根，百事可做——双语品读·静坐·修心日课。"
+    zh-TW: "嚼得菜根，百事可做——雙語品讀·靜坐·修心日課。"
+  blurbs:
+    en: "697 deduped Ming/Qing passages offline: vernacular & English, Daily Tan, meditation, five cultivation paths; famous-line widgets & Siri — no account, no ads."
+    zh-CN: "《菜根谭》明·清刻本去重 697 则离线：白话赏析与全书英译、每日一谭、静坐呼吸、五条修心路径；名句小组件与 Siri——无需账号、无广告。"
+    zh-TW: "《菜根譚》明·清刻本去重 697 則離線：白話賞析與全書英譯、每日一譚、靜坐呼吸、五條修心路徑；名句小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [697 sayings, Handwriting search, Quiet sit, Five daily practices]
+    zh-CN: [697 则篇目, 手写寻句, 静坐呼吸, 五条修心课]
+    zh-TW: [697 則篇目, 手寫尋句, 靜坐呼吸, 五條修心課]
+
+- id: iDao
+  slug: iDao
+  url: /iDao/
+  order: 37
+  apple_id: 6796016006
+  accent:
+    light: "#2B879E"
+    dark: "#40A6B8"
+    gradient_from: "#1F6B80"
+    gradient_to: "#3899AD"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iDao
+    zh-CN: 爱道德经
+    zh-TW: 愛道德經
+  taglines:
+    en: "The Tao, one chapter a day — dual notes, recite & Study Hall."
+    zh-CN: "道可道，从今日一章开始——双注对照·诵读·道学堂。"
+    zh-TW: "道可道，從今日一章開始——雙注對照·誦讀·道學堂。"
+  blurbs:
+    en: "Offline Tao Te Ching studio: 81 chapters with pinyin, dual commentaries & dual English (including extra texts); karaoke recite, Study Hall & Seek the Tao; Daily Chapter, 74 lines, widgets & Siri — no account, no ads."
+    zh-CN: "全本《道德经》81 章离线：白话与拼音、双家古注、主经与扩展经双英译、句级高亮诵读、道学堂与寻道；每日一章、74 名句、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "全本《道德經》81 章離線：白話與拼音、雙家古注、主經與擴展經雙英譯、句級高亮誦讀、道學堂與尋道；每日一章、74 名句、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [81 Dao De Jing chapters, Handwriting search, Dao Study, Daily Chapter]
+    zh-CN: [81 章道德经, 手写寻章, 道学堂寻道, 每日一章]
+    zh-TW: [81 章道德經, 手寫尋章, 道學堂尋道, 每日一章]
+
+- id: iYiJing
+  slug: iYiJing
+  url: /iYiJing/
+  order: 38
+  apple_id: 6796014759
+  accent:
+    light: "#CC3B2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iYijing
+    zh-CN: 爱周易
+    zh-TW: 愛周易
+  taglines:
+    en: "One hexagram, a world — study, cast culturally & learn."
+    zh-CN: "一卦一世界，从今日一卦开始——对照研读·起卦·易学学堂。"
+    zh-TW: "一卦一世界，從今日一卦開始——對照研讀·起卦·易學學堂。"
+  blurbs:
+    en: "Offline Zhouyi studio: 64 hexagrams with vernacular, pinyin & English; cultural casting, Study Hall & keyword hunt; Daily Hexagram, Ten Wings, widgets & Siri — no account, no ads."
+    zh-CN: "全本六十四卦离线研读：卦爻辞与彖象、白话拼音与英译、文化起卦与易学学堂；每日一卦、十翼名句、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "全本六十四卦離線研讀：卦爻辭與彖象、白話拼音與英譯、文化起卦與易學學堂；每日一卦、十翼名句、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [64 hexagrams, Handwriting search, Yi Study, Daily Hexagram]
+    zh-CN: [六十四卦, 手写寻卦, 易学学堂, 每日一卦]
+    zh-TW: [六十四卦, 手寫尋卦, 易學學堂, 每日一卦]
+
+- id: iZen
+  slug: iZen
+  url: /iZen/
+  order: 39
+  apple_id: 6757993810
+  accent:
+    light: "#2E7A6B"
+    dark: "#52AD94"
+    gradient_from: "#1E6B5C"
+    gradient_to: "#389E8A"
+  icon: sparkle
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iZen
+    zh-CN: 爱禅
+    zh-TW: 愛禪
+  taglines:
+    en: "Reboot your mind — breathe, soundscape & three-layer recovery."
+    zh-CN: "给大脑一次重启——呼吸·音景·科学解压。"
+    zh-TW: "給大腦一次重啟——呼吸·音景·科學解壓。"
+  blurbs:
+    en: "Offline three-layer recovery: 47 practices, ~500 quotes, 17 science briefs; multi-mode breathing, procedural soundscape, 1-min assessment & crisis helplines; Daily Zen, share cards, widgets & Siri — no account, no ads."
+    zh-CN: "三层离线恢复：47 练习、500 语录、17 篇科学依据；呼吸练习、合成音景、压力自评与危机热线；今日一禅、分享卡、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "三層離線恢復：47 練習、500 語錄、17 篇科學依據；呼吸練習、合成音景、壓力自評與危機熱線；今日一禪、分享卡、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [3-layer recovery, Voice-guided breath, Crisis helplines, Widgets & Siri]
+    zh-CN: [三层恢复体系, 呼吸语音引导, 危机热线目录, 小组件与 Siri]
+    zh-TW: [三層恢復體系, 呼吸語音引導, 危機熱線目錄, 小工具與 Siri]
+
+- id: iSutra
+  slug: iSutra
+  url: /iSutra/
+  order: 40
+  apple_id: 6796014949
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iSutra
+    zh-CN: 爱佛经
+    zh-TW: 愛佛經
+  taglines:
+    en: "One phone, countless sutras — read, recite, chant & copy."
+    zh-CN: "一部手机，万卷真经——对照品读·诵经·念诵功课。"
+    zh-TW: "一部手機，萬卷真經——對照品讀·誦經·念誦功課。"
+  blurbs:
+    en: "Offline sutra studio: 144-index library with Diamond & Dizang volumes; bilingual read, recite, wooden-fish chant, copy-sutra & practice; Daily Sutra, widgets & Siri — no account, no ads."
+    zh-CN: "常诵经典离线品读：144 索引与金刚地藏大部；中英对照、诵经、木鱼、抄经与功课；今日一经、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "常誦經典離線品讀：144 索引與金剛地藏大部；中英對照、誦經、木魚、抄經與功課；今日一經、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [144 sutra index entries, Handwriting search, Chant & copy, Daily Sutra]
+    zh-CN: [144 索引语料, 手写寻经, 念诵与抄经, 今日一经]
+    zh-TW: [144 索引語料, 手寫尋經, 念誦與抄經, 今日一經]
+
+- id: iPrimer
+  slug: iPrimer
+  url: /iPrimer/
+  order: 41
+  apple_id: 6798921004
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iPrimer
+    zh-CN: 爱小学
+    zh-TW: 愛小學
+  taglines:
+    en: "Study · meditate · reflect — Zhu Xi's Xiaoxue for daily growth."
+    zh-CN: "一小一学，童蒙修身——对照品读·诵读·品格学堂·静心冥想。"
+    zh-TW: "一小一學，童蒙修身——對照品讀·誦讀·品格學堂·靜心冥想。"
+  blurbs:
+    en: "Offline Xiaoxue studio: 388 chapters with vernacular, notes & English; recite, Character Study, six meditations & reflection journal; Daily Study, widgets & Siri — no account, no ads."
+    zh-CN: "全本《小学》388 章离线：白话集注与英译、诵读工作台、品格学堂与六套静心冥想；每日一学、反思日记、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "全本《小學》388 章離線：白話集注與英譯、誦讀工作台、品格學堂與六套靜心冥想；每日一學、反思日記、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [388 chapters, Meditation, Character Study, Daily Study]
+    zh-CN: [388 章小学, 静心冥想, 品格学堂, 每日一学]
+    zh-TW: [388 章小學, 靜心冥想, 品格學堂, 每日一學]
+
+- id: iThousand
+  slug: iThousand
+  url: /iThousand/
+  order: 42
+  apple_id: 6796010801
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iThousand
+    zh-CN: 爱千字文
+    zh-TW: 愛千字文
+  taglines:
+    en: "Four primers — stroke cards, handwriting lookup & Primer Hall."
+    zh-CN: "一千一字间，识字开蒙——部件字卡·手写寻字·蒙学堂。"
+    zh-TW: "一千一字間，識字開蒙——部件字卡·手寫尋字·蒙學堂。"
+  blurbs:
+    en: "Offline primer studio: 122 passages of Qianziwen, San Zi Jing, Baijiaxing & Di Zi Gui; component stroke cards, handwriting lookup, recite & Primer Hall; Daily Line, widgets & Siri — no account, no ads."
+    zh-CN: "四部蒙学 122 篇离线：千字文、三字经、百家姓与弟子规；方位部件字卡、手写寻字、诵读与蒙学堂；每日一句、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "四部蒙學 122 篇離線：千字文、三字經、百家姓與弟子規；方位部件字卡、手寫尋字、誦讀與蒙學堂；每日一句、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [122 passages, Handwriting lookup, Component cards, Primer Hall]
+    zh-CN: [122 篇蒙学, 手写寻字, 部件字卡, 蒙学堂]
+    zh-TW: [122 篇蒙學, 手寫尋字, 部件字卡, 蒙學堂]
+
+- id: iBaiJia
+  slug: iBaiJia
+  url: /iBaiJia/
+  order: 43
+  apple_id: 6796013615
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: character
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iBaiJia
+    zh-CN: 爱百家姓
+    zh-TW: 愛百家姓
+  taglines:
+    en: "Hundred Family Surnames — 967 surnames, handwriting lookup & Study Hall."
+    zh-CN: "沉浸式姓氏文化——967 姓·手写查姓·四言诵读·姓氏学堂。"
+    zh-TW: "沉浸式姓氏文化——967 姓·手寫查姓·四言誦讀·姓氏學堂。"
+  blurbs:
+    en: "Offline surname studio: 967 surnames with origin & English; eight browse axes, handwriting lookup, recitation & Study Hall; Daily Surname, stroke tracing, widgets & Siri — no account, no ads."
+    zh-CN: "967 姓离线文化工作台：起源郡望与英译、八维浏览、手写查姓、四言诵读与姓氏学堂；今日一姓、笔顺描红、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "967 姓離線文化工作台：起源郡望與英譯、八維瀏覽、手寫查姓、四言誦讀與姓氏學堂；今日一姓、筆順描紅、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [967 surnames, Handwriting lookup, Study Hall, Daily Surname]
+    zh-CN: [967 个姓氏, 手写查姓, 姓氏学堂, 今日一姓]
+    zh-TW: [967 個姓氏, 手寫查姓, 姓氏學堂, 今日一姓]
+
+- id: iWuJing
+  slug: iWuJing
+  url: /iWuJing/
+  order: 44
+  apple_id: 6797013704
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iWuJing
+    zh-CN: 爱五经
+    zh-TW: 愛五經
+  taglines:
+    en: "Five Classics, one desk — bilingual reading, recite & study offline."
+    zh-CN: "五经一案，温故知新——对照品读·诵读·经学学堂。"
+    zh-TW: "五經一案，溫故知新——對照品讀·誦讀·經學學堂。"
+  blurbs:
+    en: "Offline Five Classics studio: 819 passages across Shijing, Shujing, Liji, Yijing and Chunqiu; recite, Classics Study, gloss & variants, Daily Classic, widgets & Siri — no account, no ads."
+    zh-CN: "五经 819 篇离线工作台：诗经、尚书、礼记、周易与春秋左传；中英对白话、诵读、经学学堂、训诂异文；每日一经、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "五經 819 篇離線工作台：詩經、尚書、禮記、周易與春秋左傳；中英對照白話、誦讀、經學學堂、訓詁異文；每日一經、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [819 Five Classics passages, Handwriting search, Classics Study, Daily Classic]
+    zh-CN: [819 篇五经, 手写检索, 经学学堂, 每日一经]
+    zh-TW: [819 篇五經, 手寫檢索, 經學學堂, 每日一經]
+
+- id: iSiShu
+  slug: iSiShu
+  url: /iSiShu/
+  order: 45
+  apple_id: 6797013698
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iSiShu
+    zh-CN: 爱四书
+    zh-TW: 愛四書
+  taglines:
+    en: "Four Books — trilingual study, handwriting search & 113 famous lines."
+    zh-CN: "四书三层对照——手写寻句·精读学堂·113 名句。"
+    zh-TW: "四書三層對照——手寫尋句·精讀學堂·113 名句。"
+  blurbs:
+    en: "Offline Four Books: 1257 passages with Legge-aligned English; handwriting search, recite, focused study, 113 famous lines, Daily Saying, widgets & Siri — no account, no ads."
+    zh-CN: "四书 1257 章句离线：文言白话与句级对齐英译；手写寻句、诵读、精读学堂与 113 名句；每日一言、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "四書 1257 章句離線：文言白話與句級對齊英譯；手寫尋句、誦讀、精讀學堂與 113 名句；每日一言、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [1257 passages, Handwriting search, 113 famous lines, Daily Saying]
+    zh-CN: [1257 章句, 手写寻句, 113 名句, 每日一言]
+    zh-TW: [1257 章句, 手寫尋句, 113 名句, 每日一言]
+
+- id: iSage
+  slug: iSage
+  url: /iSage/
+  order: 46
+  apple_id: 1231833729
+  icon_url: "/assets/app-icons/iSage-512.png"
+  icon_url_sm: "/assets/app-icons/iSage-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iSage
+    zh-CN: 爱增广贤文
+    zh-TW: 愛增廣賢文
+  taglines:
+    en: "One saying, a way to live — bilingual reading, scenes & Sage Academy."
+    zh-CN: "一句一智间，处世可循——对照品鉴·场景映射·贤文学堂。"
+    zh-TW: "一句一智間，處世可循——對照品鑑·場景映射·賢文學堂。"
+  blurbs:
+    en: "Offline Zengguang Xianwen studio: 1084 sayings across the classic recension and Zhou Xitao’s New Augmented Wisdom; vernacular, English, sage readings & life scenes; Today’s Wisdom, recite, Sage Academy, widgets & Siri — no account, no ads."
+    zh-CN: "增广贤文 1084 句离线品鉴：古训本与周希陶新增广上下集；白话、英译、贤者解读与生活场景；今日一智、诵读、贤文学堂、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "增廣賢文 1084 句離線品鑑：古訓本與周希陶新增廣上下集；白話、英譯、賢者解讀與生活場景；今日一智、誦讀、賢文學堂、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [1084 sayings, Life scenes, Sage Academy, Today's Wisdom]
+    zh-CN: [1084 贤句, 场景映射, 贤文学堂, 今日一智]
+    zh-TW: [1084 賢句, 場景映射, 賢文學堂, 今日一智]
+
+- id: iPrecepts
+  slug: iPrecepts
+  url: /iPrecepts/
+  order: 47
+  icon_url: "/assets/app-icons/iPrecepts-512.png"
+  icon_url_sm: "/assets/app-icons/iPrecepts-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iPrecepts
+    zh-CN: 爱家训
+    zh-TW: 愛家訓
+  taglines:
+    en: "One precept, a family way — bilingual reading, parallel compare & study."
+    zh-CN: "一句一训间，家风可传——对照品读·跨代对读·家训学堂。"
+    zh-TW: "一句一訓間，家風可傳——對照品讀·跨代對讀·家訓學堂。"
+  blurbs:
+    en: "Offline family-precept studio: 118 works from Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan and more; vernacular, English, parallel compare; Daily Precept, recite, study, widgets & Siri — no account, no ads."
+    zh-CN: "家训 118 篇离线品读：朱子双璧、颜氏、诫子、曾国藩与钱氏等；白话、英译、跨代对照；今日一训、诵读、家训学堂、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "家訓 118 篇離線品讀：朱子雙璧、顏氏、誡子、曾國藩與錢氏等；白話、英譯、跨代對照；今日一訓、誦讀、家訓學堂、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [118 precepts, Parallel compare, Family study, Daily Precept]
+    zh-CN: [118 篇家训, 跨代对照, 家训学堂, 今日一训]
+    zh-TW: [118 篇家訓, 跨代對照, 家訓學堂, 今日一訓]
+
+- id: iRhyme
+  slug: iRhyme
+  url: /iRhyme/
+  order: 48
+  icon_url: "/assets/app-icons/iRhyme-512.png"
+  icon_url_sm: "/assets/app-icons/iRhyme-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iRhyme
+    zh-CN: 爱声律启蒙
+    zh-TW: 愛聲律啟蒙
+  taglines:
+    en: "One rhyme pair at a time — parallelism, same-rhyme compare & study."
+    zh-CN: "一声一律间，属对开蒙——对仗可视化·同韵对照·声律学堂。"
+    zh-TW: "一聲一律間，屬對開蒙——對仗可視化·同韻對照·聲律學堂。"
+  blurbs:
+    en: "Offline sound-rhyme studio: 312 passages of Shenglü Qimeng, Li Weng Dui Yun across thirty rhymes, Qian Jia Shi and You Xue Qiong Lin; recite, study, Today’s Rhyme, widgets & Siri — no account, no ads."
+    zh-CN: "声律 312 篇离线学堂：声律启蒙、笠翁对韵三十韵，以及千家诗与幼学琼林；对仗可视化、诵读、声律学堂、今日一律、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "聲律 312 篇離線學堂：聲律啟蒙、笠翁對韻三十韻，以及千家詩與幼學瓊林；對仗可視化、誦讀、聲律學堂、今日一律、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [312 passages, Parallelism view, Rhyme study, Today's Rhyme]
+    zh-CN: [312 篇声律, 对仗可视化, 声律学堂, 今日一律]
+    zh-TW: [312 篇聲律, 對仗可視化, 聲律學堂, 今日一律]
+
+- id: iXin
+  slug: iXin
+  url: /iXin/
+  order: 49
+  icon_url: "/assets/app-icons/iXin-512.png"
+  icon_url_sm: "/assets/app-icons/iXin-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iXin
+    zh-CN: 爱王阳明
+    zh-TW: 愛王陽明
+  taglines:
+    en: "Knowing and acting as one — bilingual reading, journal & Heart School."
+    zh-CN: "一知一行间，心学可践——对照品读·知行日记·心学堂。"
+    zh-TW: "一知一行間，心學可踐——對照品讀·知行日記·心學堂。"
+  blurbs:
+    en: "Offline Yangming studio: 102 passages from Chuanxilu, Inquiry on the Great Learning, Longchang instructions, poems and annals; vernacular, English, Knowing-Acting journal; Daily Insight, recite, study, widgets & Siri — no account, no ads."
+    zh-CN: "阳明心学 102 篇离线学堂：传习录、大学问、龙场教条与诗文年谱；白话、英译、知行日记；每日一心、诵读、心学堂、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "陽明心學 102 篇離線學堂：傳習錄、大學問、龍場教條與詩文年譜；白話、英譯、知行日記；每日一心、誦讀、心學堂、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [102 passages, Knowing-Acting journal, Heart School, Daily Insight]
+    zh-CN: [102 篇心学, 知行日记, 心学堂, 每日一心]
+    zh-TW: [102 篇心學, 知行日記, 心學堂, 每日一心]
+
+- id: iZhuangZi
+  slug: iZhuangZi
+  url: /iZhuangZi/
+  order: 50
+  icon_url: "/assets/app-icons/iZhuangZi-512.png"
+  icon_url_sm: "/assets/app-icons/iZhuangZi-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iZhuangZi
+    zh-CN: 爱庄子
+    zh-TW: 愛莊子
+  taglines:
+    en: "One passage of Zhuangzi — bilingual reading, parables & Dao study."
+    zh-CN: "一庄一子间，逍遥可读——对照品读·寓言入门·庄学学堂。"
+    zh-TW: "一莊一子間，逍遙可讀——對照品讀·寓言入門·莊學學堂。"
+  blurbs:
+    en: "Offline Zhuangzi studio: all 33 chapters, Inner / Outer / Miscellaneous, 701 paragraphs with vernacular and Legge English; parables, Ask Zhuangzi, recite, study, Daily Zhuangzi, widgets & Siri — no account, no ads."
+    zh-CN: "庄子 33 篇离线品读：内篇、外篇与杂篇，701 段白话与 Legge 英译；寓言入门、问庄子、诵读、庄学学堂、今日一子、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "莊子 33 篇離線品讀：內篇、外篇與雜篇，701 段白話與 Legge 英譯；寓言入門、問莊子、誦讀、莊學學堂、今日一子、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [33 Zhuangzi chapters, Daily refresh, Ask Zhuangzi, Dao Study]
+    zh-CN: [33 篇庄子, 今日一子可换篇, 问庄子, 庄学学堂]
+    zh-TW: [33 篇莊子, 今日一子可換篇, 問莊子, 莊學學堂]
+
+- id: iGuanZhi
+  slug: iGuanZhi
+  url: /iGuanZhi/
+  order: 51
+  apple_id: 6808958120
+  icon_url: "/assets/app-icons/iGuanZhi-512.png"
+  icon_url_sm: "/assets/app-icons/iGuanZhi-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iGuanZhi
+    zh-CN: 爱古文观止
+    zh-TW: 愛古文觀止
+  taglines:
+    en: "Guwen Guanzhi — fable how-to, genre lexicon & long category guides."
+    zh-CN: "古文观止——寓言怎么用·文体辞书·分类长导读。"
+    zh-TW: "古文觀止——寓言怎麼用·文體辭書·分類長導讀。"
+  blurbs:
+    en: "Offline Guwen Guanzhi close reading: 222 essays with how-to on anecdotes, genre lexicon & long browse guides; recite, Classics Study, Essay Hunt; Daily Essay, widgets & Siri — fully offline, no account, no ads."
+    zh-CN: "古文观止 222 篇离线研读：典故「怎么用」、文体辞书与分类长导读；今日一文、寻章学堂、古卡、小组件与 Siri——全程离线、无需账号、无广告。"
+    zh-TW: "古文觀止 222 篇離線研讀：典故「怎麼用」、文體辭書與分類長導讀；今日一文、尋章學堂、古卡、小工具與 Siri——全程離線、無需帳號、無廣告。"
+  highlights:
+    en: [222 essays, Fable how-to, Genre lexicon, Daily Essay]
+    zh-CN: [222 篇古文, 寓言怎么用, 文体辞书, 今日一文]
+    zh-TW: [222 篇古文, 寓言怎麼用, 文體辭書, 今日一文]
+
+- id: iHanFei
+  slug: iHanFei
+  url: /iHanFei/
+  order: 52
+  apple_id: 6808957997
+  icon_url: "/assets/app-icons/iHanFei-512.png"
+  icon_url_sm: "/assets/app-icons/iHanFei-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iHanFei
+    zh-CN: 爱韩非子
+    zh-TW: 愛韓非子
+  taglines:
+    en: "Han Feizi — fables how-to, Legalism Study & random daily chapter."
+    zh-CN: "一篇一法间——寓言怎么用·法家学堂·首页随机一篇。"
+    zh-TW: "一篇一法間——寓言怎麼用·法家學堂·首頁隨機一篇。"
+  blurbs:
+    en: "Offline Han Feizi: 55 chapters, 85 fables with practical how-to, 47 concepts; Daily Stratagem with smarter refresh, random chapter, Legalism Study & widgets — no account, no ads."
+    zh-CN: "韩非子 55 篇离线：85 则寓言含「怎么用」、47 概念；每日一法换篇更聪明，首页可随机一篇，寻法学堂与小组件——无需账号、无广告。"
+    zh-TW: "韓非子 55 篇離線：85 則寓言含「怎麼用」、47 概念；每日一法換篇更聰明，首頁可隨機一篇，尋法學堂與小工具——無需帳號、無廣告。"
+  highlights:
+    en: [55 chapters, Fable how-to, Random chapter, Daily refresh]
+    zh-CN: [55 篇韩非, 寓言怎么用, 首页随机, 每日一法换篇]
+    zh-TW: [55 篇韓非, 寓言怎麼用, 首頁隨機, 每日一法換篇]
+
+- id: iLvShi
+  slug: iLvShi
+  url: /iLvShi/
+  order: 53
+  apple_id: 6808957717
+  icon_url: "/assets/app-icons/iLvShi-512.png"
+  icon_url_sm: "/assets/app-icons/iLvShi-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iLvShi
+    zh-CN: 爱吕氏春秋
+    zh-TW: 愛呂氏春秋
+  taglines:
+    en: "One season, one passage — four-layer reading & Almanac."
+    zh-CN: "一春一秋间，月令可读——四层品读·春秋学堂·本月月令。"
+    zh-TW: "一春一秋間，月令可讀——四層品讀·春秋學堂·本月月令。"
+  blurbs:
+    en: "Offline Lüshi Chunqiu studio: 160 passages with Gao You notes, vernacular & English; Almanac widget, Spring–Autumn Study, Daily Passage, widgets & Siri — no account, no ads."
+    zh-CN: "吕氏春秋 160 篇离线：高诱注与白话英译、月令、每日一文、寻秋学堂、秋卡、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "呂氏春秋 160 篇離線：高誘注與白話英譯、月令、每日一文、尋秋學堂、秋卡、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [160 passages, Gao You notes, Almanac, Daily Passage]
+    zh-CN: [160 篇春秋, 高诱四层, 本月月令, 每日一文]
+    zh-TW: [160 篇春秋, 高誘四層, 本月月令, 每日一文]
+
+- id: iMencius
+  slug: iMencius
+  url: /iMencius/
+  order: 54
+  apple_id: 6808957787
+  icon_url: "/assets/app-icons/iMencius-512.png"
+  icon_url_sm: "/assets/app-icons/iMencius-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iMencius
+    zh-CN: 爱孟子
+    zh-TW: 愛孟子
+  taglines:
+    en: "One Mencius saying — analogies, dialogue & Nurturing Qi Study."
+    zh-CN: "一孟一子，与浩然同行——对照品读·喻言·养气学堂。"
+    zh-TW: "一孟一子，與浩然同行——對照品讀·喻言·養氣學堂。"
+  blurbs:
+    en: "Offline Mencius studio: 690 chapters, 3549 verses, analogies & dialogue map; recite, Nurturing Qi Study, Yi Hunt; Daily Saying, widgets & Siri — no account, no ads."
+    zh-CN: "孟子 690 章离线：3549 句三层对照、喻言与问对、每日一语、寻义学堂、孟卡、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "孟子 690 章離線：3549 句三層對照、喻言與問對、每日一語、尋義學堂、孟卡、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [690 chapters, Analogies, Nurturing Qi Study, Daily Saying]
+    zh-CN: [690 章孟子, 喻言问对, 养气学堂, 每日一语]
+    zh-TW: [690 章孟子, 喻言問對, 養氣學堂, 每日一語]
+
+- id: iMoZi
+  slug: iMoZi
+  url: /iMoZi/
+  order: 55
+  apple_id: 1240858394
+  icon_url: "/assets/app-icons/iMoZi-512.png"
+  icon_url_sm: "/assets/app-icons/iMoZi-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iMoZi
+    zh-CN: 爱墨子
+    zh-TW: 愛墨子
+  taglines:
+    en: "Mozi — four long guides, vernacular layer & foldable intros."
+    zh-CN: "墨子——四页长导读·白话层·可折叠导读卡。"
+    zh-TW: "墨子——四頁長導讀·白話層·可折疊導讀卡。"
+  blurbs:
+    en: "Offline Mozi: Ten Theses map, four long Mohist guides, vernacular layer and foldable intro cards; recite, Mo Study, Hunt; Daily Mo, widgets & Siri — no account, no ads."
+    zh-CN: "墨子离线研读：十论图谱、墨学四页长导读、白话层与可折叠导读卡；今日一墨、寻墨学堂、墨卡、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "墨子離線研讀：十論圖譜、墨學四頁長導讀、白話層與可折疊導讀卡；今日一墨、尋墨學堂、墨卡、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [Mozi library, Four long guides, Vernacular layer, Daily Mo]
+    zh-CN: [墨子全书, 四页长导读, 白话层, 今日一墨]
+    zh-TW: [墨子全書, 四頁長導讀, 白話層, 今日一墨]
+
+- id: iXunZi
+  slug: iXunZi
+  url: /iXunZi/
+  order: 56
+  apple_id: 6475755747
+  icon_url: "/assets/app-icons/iXunZi-512.png"
+  icon_url_sm: "/assets/app-icons/iXunZi-100.png"
+  accent:
+    light: "#C43C2E"
+    dark: "#E85A4A"
+    gradient_from: "#A83328"
+    gradient_to: "#D94F3F"
+  icon: scroll
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iXunZi
+    zh-CN: 爱荀子
+    zh-TW: 愛荀子
+  taglines:
+    en: "Xunzi — concept & idiom lexicons, bilingual reading & Study."
+    zh-CN: "荀子——概念成语辞书·对照品读·荀学学堂。"
+    zh-TW: "荀子——概念成語辭書·對照品讀·荀學學堂。"
+  blurbs:
+    en: "Offline Xunzi studio: concept & idiom lexicons deepen study beside bilingual reading; recite, Academy Study, Hunt; Daily Xun, widgets & Siri — no account, no ads."
+    zh-CN: "荀子离线研读：概念与成语升为辞书，对照品读更稳；每日一荀、劝学书院、寻荀、荀卡、小组件与 Siri——无需账号、无广告。"
+    zh-TW: "荀子離線研讀：概念與成語升為辭書，對照品讀更穩；每日一荀、勸學書院、尋荀、荀卡、小工具與 Siri——無需帳號、無廣告。"
+  highlights:
+    en: [Xunzi library, Concept lexicon, Idiom lexicon, Daily Xun]
+    zh-CN: [荀子全书, 概念辞书, 成语辞书, 今日一荀]
+    zh-TW: [荀子全書, 概念辭書, 成語辭書, 今日一荀]
+
+- id: iBrowser
+  slug: iBrowser
+  url: /iBrowser/
+  order: 57
+  apple_id: 948944368
+  accent:
+    light: "#00B9FD"
+    dark: "#5AD0FF"
+    gradient_from: "#00A8E8"
+    gradient_to: "#42B4F9"
+  icon: globe
+  platforms: [iPhone, iPad]
+  has_url_scheme: true
+  names:
+    en: iBrowser
+    zh-CN: 全屏浏览器
+    zh-TW: 全螢幕瀏覽器
+  taglines:
+    en: "True full-screen browser — widgets, Shortcuts, child lock."
+    zh-CN: "真实无边全屏浏览——小组件、快捷指令与儿童锁。"
+    zh-TW: "真實無邊全螢幕瀏覽——小工具、捷徑與兒童鎖。"
+  blurbs:
+    en: "Immersive browsing on iPhone & iPad: float ball, Home/Lock widgets, Siri & Shortcuts, optional iCloud for bookmarks — child lock keeps the page fixed; no ads, no pop-ups."
+    zh-CN: "iPhone / iPad 沉浸全屏：悬浮球、主屏锁屏小组件、Siri 与快捷指令，书签可选 iCloud；儿童锁固定页面——无广告、无弹窗。"
+    zh-TW: "iPhone / iPad 沉浸全螢幕：懸浮球、主畫面鎖定小工具、Siri 與捷徑，書籤可選 iCloud；兒童鎖固定頁面——無廣告、無彈窗。"
+  highlights:
+    en: [Widgets & Shortcuts, Float ball, Child lock, Optional iCloud]
+    zh-CN: [小组件与快捷指令, 悬浮球, 儿童锁, 可选 iCloud]
+    zh-TW: [小工具與捷徑, 懸浮球, 兒童鎖, 可選 iCloud]
+
+- id: iMusic
+  slug: iMusic
+  url: /iMusic/
+  order: 25
+  apple_id: 6810284659
+  accent:
+    light: "#E4406C"
+    dark: "#FF8AA8"
+    gradient_from: "#E4406C"
+    gradient_to: "#FF98B0"
+  icon: note
+  platforms: [iPhone, iPad, Mac]
+  has_url_scheme: true
+  names:
+    en: iMusic
+    zh-CN: 爱音乐
+    zh-TW: 愛音樂
+  taglines:
+    en: "Curated listening studio — Daily Piece, immersive play & song ID."
+    zh-CN: "精编导听工作台——今日一乐、沉浸播放与听歌识曲。"
+    zh-TW: "精編導聽工作台——今日一樂、沉浸播放與聽歌識曲。"
+  blurbs:
+    en: "4,800+ original listening notes offline: Daily Piece, immersive player and song ID; 10 share cards, widgets & Siri. Plays via Apple Music (30s preview if unsubscribed). No account, no ads."
+    zh-CN: "4800+ 首原创导听离线在机：今日一乐、沉浸播放与听歌识曲；十套乐卡、小组件与 Siri。播放走 Apple Music（未订阅 30 秒试听），无需账号、无广告。"
+    zh-TW: "4800+ 首原創導聽離線在機：今日一樂、沉浸播放與聽歌識曲；十套樂卡、小工具與 Siri。播放走 Apple Music（未訂閱 30 秒試聽），無需帳號、無廣告。"
+  highlights:
+    en: [4800+ guides, Immersive player, Song ID, Daily Piece]
+    zh-CN: [4800+ 导听, 沉浸播放, 听歌识曲, 今日一乐]
+    zh-TW: [4800+ 導聽, 沉浸播放, 聽歌識曲, 今日一樂]

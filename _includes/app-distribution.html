@@ -1,0 +1,111 @@
+{%- comment -%}
+App download CTAs — App Store & TestFlight (data-driven from apps.yml).
+
+Usage:
+  {% include app-distribution.html app=current_app variant="hero" %}
+  {% include app-distribution.html app=app variant="card" %}
+
+apps.yml (per app, all optional):
+  distribution:
+    app_store:
+      enabled: false          # default: true when apple_id is set
+    testflight:
+      enabled: true           # default: true when url is set; set false to hide
+      url: https://testflight.apple.com/join/XXXX
+      notice:                 # optional tooltip (hero only)
+        en: "..."
+        zh-CN: "..."
+        zh-TW: "..."
+  icon_url: "..."             # manual icon override (sync script)
+  icon_url_sm: "..."
+{%- endcomment -%}
+
+{%- assign dist = include.app.distribution -%}
+{%- assign tf = nil -%}
+{%- if dist -%}{%- assign tf = dist.testflight -%}{%- endif -%}
+{%- assign tf_url = "" -%}
+{%- if tf and tf.url -%}{%- assign tf_url = tf.url | strip -%}{%- endif -%}
+{%- assign tf_show = false -%}
+{%- if tf_url != "" -%}
+  {%- if tf.enabled == false -%}
+    {%- assign tf_show = false -%}
+  {%- else -%}
+    {%- assign tf_show = true -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- assign as_show = false -%}
+{%- if include.app.apple_id -%}
+  {%- assign as_show = true -%}
+  {%- if dist and dist.app_store.enabled == false -%}
+    {%- assign as_show = false -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- assign variant = include.variant | default: "hero" -%}
+
+{%- if variant == "hero" -%}
+  {%- if tf_show or as_show -%}
+  <div class="app-distribution app-distribution--hero">
+    {%- if tf_show -%}
+    <span class="app-hero__cta-tip{% if tf.notice %} has-tooltip{% endif %}">
+      <a href="{{ tf_url }}" target="_blank" rel="noopener" class="btn btn--testflight"
+        {%- if tf.notice %} aria-describedby="testflight-notice-{{ include.app.id }}"{% endif -%}>
+        {% include icons.html name="testflight" size="20" %}
+        <span lang="en" class="inline">{{ site.data.i18n['en'].buttons.testflight }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].buttons.testflight }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].buttons.testflight }}</span>
+      </a>
+      {%- if tf.notice -%}
+      <span class="app-hero__tooltip" id="testflight-notice-{{ include.app.id }}" role="tooltip">
+        <span lang="en">{{ tf.notice.en }}</span>
+        <span lang="zh-CN">{{ tf.notice['zh-CN'] }}</span>
+        <span lang="zh-TW">{{ tf.notice['zh-TW'] }}</span>
+      </span>
+      {%- endif -%}
+    </span>
+    {%- endif -%}
+    {%- if as_show -%}
+    <span class="app-hero__cta-tip{% if include.app.app_store_notice %} has-tooltip{% endif %}">
+      <a href="https://apps.apple.com/app/id{{ include.app.apple_id }}" target="_blank" rel="noopener"
+        class="btn{% if tf_show %} btn--ghost{% else %} btn--accent{% endif %}"
+        {%- if include.app.app_store_notice %} aria-describedby="app-store-notice-{{ include.app.id }}"{% endif -%}>
+        {% include icons.html name="apple" size="20" %}
+        <span lang="en" class="inline">{{ site.data.i18n['en'].buttons.app_store }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].buttons.app_store }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].buttons.app_store }}</span>
+      </a>
+      {%- if include.app.app_store_notice -%}
+      <span class="app-hero__tooltip" id="app-store-notice-{{ include.app.id }}" role="tooltip">
+        <span lang="en">{{ include.app.app_store_notice.en }}</span>
+        <span lang="zh-CN">{{ include.app.app_store_notice['zh-CN'] }}</span>
+        <span lang="zh-TW">{{ include.app.app_store_notice['zh-TW'] }}</span>
+      </span>
+      {%- endif -%}
+    </span>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+
+{%- elsif variant == "chip" -%}
+  {%- if tf_show -%}
+  <span class="chip chip--beta">
+    <span lang="en" class="inline">{{ site.data.i18n['en'].badges.testflight_beta }}</span>
+    <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].badges.testflight_beta }}</span>
+    <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].badges.testflight_beta }}</span>
+  </span>
+  {%- endif -%}
+
+{%- elsif variant == "card" -%}
+  {%- if tf_show -%}
+  <div class="app-distribution app-distribution--card">
+    <a href="{{ tf_url }}" target="_blank" rel="noopener" class="app-distribution__card-link">
+      {% include icons.html name="testflight" size="16" %}
+      <span lang="en" class="inline">{{ site.data.i18n['en'].buttons.testflight }}</span>
+      <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].buttons.testflight }}</span>
+      <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].buttons.testflight }}</span>
+      {% include icons.html name="arrow-up-right" size="14" %}
+    </a>
+  </div>
+  {%- endif -%}
+{%- endif -%}

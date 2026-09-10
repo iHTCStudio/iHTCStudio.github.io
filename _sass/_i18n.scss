@@ -1,0 +1,31 @@
+// ---------------------------------------------------------------------------
+// Multi-language content visibility.
+// Author marks blocks with [lang="en"|"zh-CN"|"zh-TW"]. Only the block matching
+// <html lang="..."> is shown.
+//
+// IMPORTANT: the hide rule must NOT match <html> itself (which also carries
+// a lang attribute set by the boot script). `:not(html)` enforces that.
+// ---------------------------------------------------------------------------
+
+// Always keep root visible.
+html { display: block; }
+
+:not(html)[lang="en"],
+:not(html)[lang="zh-CN"],
+:not(html)[lang="zh-TW"] { display: none; }
+
+html[lang|="en"]   [lang="en"]    { display: revert; }
+html[lang="zh-CN"] [lang="zh-CN"] { display: revert; }
+html[lang="zh-TW"] [lang="zh-TW"] { display: revert; }
+
+// While the boot script hasn't set html[lang] yet, default to English.
+html:not([lang]) [lang="en"] { display: revert; }
+
+// Inline variants — keep flow inline (e.g. inside an <a> or sentence).
+:not(html)[lang="en"].inline,
+:not(html)[lang="zh-CN"].inline,
+:not(html)[lang="zh-TW"].inline { display: none; }
+
+html[lang|="en"]   [lang="en"].inline   { display: inline; }
+html[lang="zh-CN"] [lang="zh-CN"].inline { display: inline; }
+html[lang="zh-TW"] [lang="zh-TW"].inline { display: inline; }

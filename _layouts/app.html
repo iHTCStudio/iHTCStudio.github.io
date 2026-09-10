@@ -1,0 +1,91 @@
+---
+layout: default
+page_type: app
+---
+{%- assign current_app = nil -%}
+{%- for a in site.data.apps -%}
+  {%- if a.id == page.app_id -%}{%- assign current_app = a -%}{%- endif -%}
+{%- endfor -%}
+
+<style>
+  /* Per-app accent color injected at runtime */
+  :root {
+    --accent: {{ current_app.accent.light }};
+    --accent-strong: {{ current_app.accent.light }};
+    --accent-soft: color-mix(in srgb, {{ current_app.accent.light }} 14%, transparent);
+    --accent-from: {{ current_app.accent.gradient_from }};
+    --accent-to: {{ current_app.accent.gradient_to }};
+  }
+  html[data-theme="dark"] {
+    --accent: {{ current_app.accent.dark }};
+    --accent-strong: {{ current_app.accent.dark }};
+  }
+  @media (prefers-color-scheme: dark) {
+    html[data-theme="auto"] {
+      --accent: {{ current_app.accent.dark }};
+      --accent-strong: {{ current_app.accent.dark }};
+    }
+  }
+</style>
+
+<section class="app-hero">
+  <div class="bg-aurora" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <div class="container app-hero__inner">
+    <div class="app-hero__icon fade-up">
+      {% include app-icon.html app=current_app size="44" %}
+    </div>
+
+    <h1 class="app-hero__title fade-up fade-up-1">
+      {{ current_app.display_name | default: current_app.id }}
+      <span style="font-size:0.55em;color:var(--color-text-mute);font-weight:500;letter-spacing:-0.01em;">
+        <span lang="en" class="inline"> · {{ current_app.names.en }}</span>
+        <span lang="zh-CN" class="inline"> · {{ current_app.names['zh-CN'] }}</span>
+        <span lang="zh-TW" class="inline"> · {{ current_app.names['zh-TW'] }}</span>
+      </span>
+    </h1>
+
+    <p class="app-hero__subtitle fade-up fade-up-2">
+      <span lang="en">{{ current_app.taglines.en }}</span>
+      <span lang="zh-CN">{{ current_app.taglines['zh-CN'] }}</span>
+      <span lang="zh-TW">{{ current_app.taglines['zh-TW'] }}</span>
+    </p>
+
+    <div class="app-hero__chips fade-up fade-up-3">
+      {% include app-distribution.html app=current_app variant="chip" %}
+      {%- for p in current_app.platforms -%}<span class="chip chip--accent">{{ p }}</span>{%- endfor -%}
+      <span lang="en" class="inline">
+        {%- for h in current_app.highlights.en -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+      </span>
+      <span lang="zh-CN" class="inline">
+        {%- for h in current_app.highlights['zh-CN'] -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+      </span>
+      <span lang="zh-TW" class="inline">
+        {%- for h in current_app.highlights['zh-TW'] -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+      </span>
+    </div>
+
+    <div class="app-hero__ctas fade-up fade-up-4">
+      {% include app-distribution.html app=current_app variant="hero" %}
+      <a href="{{ current_app.url | append: 'faq/' | relative_url }}" class="btn btn--ghost">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.faq }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.faq }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.faq }}</span>
+      </a>
+      <a href="{{ current_app.url | append: 'privacy/' | relative_url }}" class="btn btn--ghost">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].app_pages.privacy }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.privacy }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.privacy }}</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="container container--narrow">
+    <article class="prose" data-reveal>
+      {{ content }}
+    </article>
+  </div>
+</section>

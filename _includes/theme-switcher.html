@@ -1,0 +1,50 @@
+{%- comment -%}
+Theme switcher dropdown (Auto / Light / Dark).
+{%- endcomment -%}
+<div class="dropdown" data-dropdown>
+  <button type="button"
+          class="tool-btn is-icon"
+          data-dropdown-trigger
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-label="{{ site.data.i18n['en'].nav.appearance }}">
+    {% include icons.html name="sun" size="16" %}
+  </button>
+  <div class="dropdown__panel" data-dropdown-panel role="menu">
+    {%- for L in site.languages -%}
+      {%- assign tt = site.data.i18n[L.code] -%}
+      {% if forloop.first %}
+      <button type="button" class="dropdown__item" role="menuitemradio" aria-checked="false"
+              data-theme-toggle data-theme-value="auto">
+        <span class="flex gap-3" style="display:inline-flex;align-items:center;gap:8px;">
+          {% include icons.html name="auto" size="14" %}
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.theme_auto }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.theme_auto }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.theme_auto }}</span>
+        </span>
+        <span class="dropdown__check">{% include icons.html name="check" size="14" %}</span>
+      </button>
+      <button type="button" class="dropdown__item" role="menuitemradio" aria-checked="false"
+              data-theme-toggle data-theme-value="light">
+        <span style="display:inline-flex;align-items:center;gap:8px;">
+          {% include icons.html name="sun" size="14" %}
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.theme_light }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.theme_light }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.theme_light }}</span>
+        </span>
+        <span class="dropdown__check">{% include icons.html name="check" size="14" %}</span>
+      </button>
+      <button type="button" class="dropdown__item" role="menuitemradio" aria-checked="false"
+              data-theme-toggle data-theme-value="dark">
+        <span style="display:inline-flex;align-items:center;gap:8px;">
+          {% include icons.html name="moon" size="14" %}
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.theme_dark }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.theme_dark }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.theme_dark }}</span>
+        </span>
+        <span class="dropdown__check">{% include icons.html name="check" size="14" %}</span>
+      </button>
+      {% endif %}
+    {%- endfor -%}
+  </div>
+</div>

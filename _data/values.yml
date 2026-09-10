@@ -1,0 +1,25 @@
+# Homepage value cards — icon + accent palette (shared across locales)
+- icon: shield
+  accent: "#3b82f6"
+  gradient_from: "#60a5fa"
+  gradient_to: "#2563eb"
+- icon: bolt
+  accent: "#10b981"
+  gradient_from: "#6ee7b7"
+  gradient_to: "#059669"
+- icon: wifi-off
+  accent: "#d97706"
+  gradient_from: "#fcd34d"
+  gradient_to: "#ea580c"
+- icon: diamond
+  accent: "#8b5cf6"
+  gradient_from: "#c4b5fd"
+  gradient_to: "#7c3aed"
+- icon: globe
+  accent: "#0891b2"
+  gradient_from: "#67e8f9"
+  gradient_to: "#0e7490"
+- icon: check
+  accent: "#e11d48"
+  gradient_from: "#fda4af"
+  gradient_to: "#be123c"

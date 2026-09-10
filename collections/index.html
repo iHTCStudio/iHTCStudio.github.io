@@ -1,0 +1,129 @@
+---
+layout: default
+page_type: collections
+permalink: /collections/
+title: Collections
+---
+{%- assign sorted_collections = site.data.collections | sort: "order" -%}
+{%- assign sorted_apps = site.data.apps | sort: "order" -%}
+
+<section class="section section--tight collections-hero">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].collections_page.eyebrow }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].collections_page.eyebrow }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].collections_page.eyebrow }}</span>
+      </span>
+      <h1>
+        <span lang="en">{{ site.data.i18n['en'].collections_page.title }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].collections_page.title }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].collections_page.title }}</span>
+      </h1>
+      <p class="lead">
+        <span lang="en">{{ site.data.i18n['en'].collections_page.subtitle }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].collections_page.subtitle }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].collections_page.subtitle }}</span>
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="section section--tight collections-page" data-collections-page>
+  <div class="container container--wide">
+    <div class="collections-chips" role="tablist"
+         data-collections-chips
+         data-aria-label-en="{{ site.data.i18n['en'].collections_page.filter_label }}"
+         data-aria-label-zh-CN="{{ site.data.i18n['zh-CN'].collections_page.filter_label }}"
+         data-aria-label-zh-TW="{{ site.data.i18n['zh-TW'].collections_page.filter_label }}"
+         data-reveal>
+      <button type="button"
+              class="collections-chip is-active"
+              role="tab"
+              aria-selected="true"
+              data-collection-filter="all"
+              id="collection-tab-all">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].collections_page.all }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].collections_page.all }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].collections_page.all }}</span>
+        <span class="collections-chip__count" data-collection-count="all">{{ sorted_apps | size }}</span>
+      </button>
+      {%- for collection in sorted_collections -%}
+      <button type="button"
+              class="collections-chip"
+              role="tab"
+              aria-selected="false"
+              data-collection-filter="{{ collection.id }}"
+              id="collection-tab-{{ collection.id }}">
+        <span lang="en" class="inline">{{ collection.names.en }}</span>
+        <span lang="zh-CN" class="inline">{{ collection.names['zh-CN'] }}</span>
+        <span lang="zh-TW" class="inline">{{ collection.names['zh-TW'] }}</span>
+        <span class="collections-chip__count">{{ collection.apps | size }}</span>
+      </button>
+      {%- endfor -%}
+    </div>
+
+    <div class="app-grid-toolbar" data-app-grid-toolbar data-reveal>
+      <p class="app-grid-toolbar__hint">
+        <span lang="en">{{ site.data.i18n['en'].apps_section.expand_hint }}</span>
+        <span lang="zh-CN">{{ site.data.i18n['zh-CN'].apps_section.expand_hint }}</span>
+        <span lang="zh-TW">{{ site.data.i18n['zh-TW'].apps_section.expand_hint }}</span>
+      </p>
+      <div class="app-grid-toolbar__actions" role="group"
+           data-aria-label-en="App list density"
+           data-aria-label-zh-CN="应用列表显示密度"
+           data-aria-label-zh-TW="應用列表顯示密度">
+        <button type="button" class="app-grid-toolbar__btn" data-app-expand-all>
+          <span lang="en" class="inline">{{ site.data.i18n['en'].apps_section.expand_all }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].apps_section.expand_all }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].apps_section.expand_all }}</span>
+        </button>
+        <button type="button" class="app-grid-toolbar__btn" data-app-collapse-all>
+          <span lang="en" class="inline">{{ site.data.i18n['en'].apps_section.collapse_all }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].apps_section.collapse_all }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].apps_section.collapse_all }}</span>
+        </button>
+      </div>
+    </div>
+
+    <div data-app-grid>
+      {%- for collection in sorted_collections -%}
+      <section class="collection-block"
+               id="{{ collection.id }}"
+               data-collection-block="{{ collection.id }}"
+               data-reveal>
+        <header class="collection-block__head">
+          <h2 class="collection-block__title">
+            <span lang="en">{{ collection.names.en }}</span>
+            <span lang="zh-CN">{{ collection.names['zh-CN'] }}</span>
+            <span lang="zh-TW">{{ collection.names['zh-TW'] }}</span>
+          </h2>
+          <p class="collection-block__tagline">
+            <span lang="en">{{ collection.taglines.en }}</span>
+            <span lang="zh-CN">{{ collection.taglines['zh-CN'] }}</span>
+            <span lang="zh-TW">{{ collection.taglines['zh-TW'] }}</span>
+          </p>
+        </header>
+
+        <div class="app-grid" data-reveal-stagger>
+          {%- for app_id in collection.apps -%}
+            {%- assign app = nil -%}
+            {%- for a in site.data.apps -%}
+              {%- if a.id == app_id -%}{%- assign app = a -%}{%- endif -%}
+            {%- endfor -%}
+            {%- if app -%}
+              {% include app-card.html app=app details_suffix=collection.id %}
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </section>
+      {%- endfor -%}
+    </div>
+
+    <p class="collections-empty" data-collections-empty hidden>
+      <span lang="en">{{ site.data.i18n['en'].collections_page.empty }}</span>
+      <span lang="zh-CN">{{ site.data.i18n['zh-CN'].collections_page.empty }}</span>
+      <span lang="zh-TW">{{ site.data.i18n['zh-TW'].collections_page.empty }}</span>
+    </p>
+  </div>
+</section>

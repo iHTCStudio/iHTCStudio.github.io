@@ -1,0 +1,99 @@
+{%- comment -%}
+  JSON-LD for search engines. Embedded in <head>; not shown in the page UI.
+{%- endcomment -%}
+{%- assign sd_app = nil -%}
+{%- if page.app_id -%}
+  {%- for a in site.data.apps -%}
+    {%- if a.id == page.app_id -%}{%- assign sd_app = a -%}{%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if page.layout == 'app' and sd_app -%}
+{%- assign sd_dist = sd_app.distribution -%}
+{%- assign sd_offer_url = nil -%}
+{%- assign sd_as_enabled = true -%}
+{%- if sd_dist and sd_dist.app_store.enabled == false -%}
+  {%- assign sd_as_enabled = false -%}
+{%- endif -%}
+{%- assign sd_tf = sd_dist.testflight -%}
+{%- assign sd_tf_enabled = false -%}
+{%- if sd_tf and sd_tf.url != blank and sd_tf.enabled != false -%}
+  {%- assign sd_tf_enabled = true -%}
+{%- endif -%}
+{%- if sd_app.apple_id and sd_as_enabled -%}
+  {%- assign sd_offer_url = "https://apps.apple.com/app/id" | append: sd_app.apple_id -%}
+{%- elsif sd_tf_enabled -%}
+  {%- assign sd_offer_url = sd_tf.url -%}
+{%- elsif sd_app.apple_id -%}
+  {%- assign sd_offer_url = "https://apps.apple.com/app/id" | append: sd_app.apple_id -%}
+{%- endif -%}
+{%- if sd_offer_url -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": {{ sd_app.display_name | default: sd_app.names.en | jsonify }},
+  "alternateName": [
+    {{ sd_app.names.en | jsonify }},
+    {{ sd_app.names['zh-CN'] | jsonify }},
+    {{ sd_app.names['zh-TW'] | jsonify }}
+  ],
+  "description": {{ page.description | default: sd_app.blurbs.en | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "applicationCategory": "MobileApplication",
+  "operatingSystem": {{ sd_app.platforms | join: ", " | jsonify }},
+  "author": {
+    "@type": "Organization",
+    "name": {{ site.author.name | jsonify }},
+    "url": {{ site.url | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.author.name | jsonify }},
+    "url": {{ site.url | jsonify }}
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": {{ sd_offer_url | jsonify }}
+  }
+}
+</script>
+{%- endif -%}
+{%- elsif page.url == '/' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.author.name | jsonify }},
+    "alternateName": "iHTCTeam",
+    "url": {{ site.url | jsonify }},
+    "logo": {{ "/assets/brand/ihtc-studio-logo-64.png" | absolute_url | jsonify }},
+    "email": {{ site.author.email | jsonify }}
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "iHTC Studio Apps",
+  "numberOfItems": {{ site.data.apps | size }},
+  "itemListElement": [
+    {%- assign sorted_sd_apps = site.data.apps | sort: "order" -%}
+    {%- for app in sorted_sd_apps -%}
+    {
+      "@type": "ListItem",
+      "position": {{ app.order | default: forloop.index }},
+      "url": {{ app.url | absolute_url | jsonify }},
+      "name": {{ app.display_name | default: app.names.en | jsonify }}
+    }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+}
+</script>
+{%- endif -%}
