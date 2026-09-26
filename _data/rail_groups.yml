@@ -1,0 +1,23 @@
+# Optional group labels for the right app rail (i18n).
+# Assign `group: <key>` on an app in apps.yml; a divider appears when the
+# group changes. Apps stay sorted by `order` — keep same-group apps adjacent.
+tools:
+  en: Tools
+  zh-CN: 工具
+  zh-TW: 工具
+language:
+  en: Language
+  zh-CN: 语言
+  zh-TW: 語言
+dev:
+  en: Dev
+  zh-CN: 开发
+  zh-TW: 開發
+media:
+  en: Media
+  zh-CN: 媒体
+  zh-TW: 媒體
+life:
+  en: Life
+  zh-CN: 生活
+  zh-TW: 生活

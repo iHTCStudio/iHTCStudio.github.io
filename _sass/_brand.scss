@@ -1,0 +1,68 @@
+// ---------------------------------------------------------------------------
+// iHTC Studio brand wordmark
+// ---------------------------------------------------------------------------
+
+.brand-wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+
+  &__logo {
+    flex: 0 0 auto;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    border-radius: 6px;
+  }
+
+  &__name {
+    font-weight: 600;
+    font-size: inherit;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.site-header__brand .brand-wordmark__name {
+  font-size: var(--fs-15);
+}
+
+.site-footer__brand .brand-wordmark__name {
+  font-size: var(--fs-16);
+}
+
+.hero__brand {
+  justify-content: center;
+  margin-bottom: var(--space-5);
+
+  .brand-wordmark__logo {
+    width: 32px;
+    height: 32px;
+  }
+
+  .brand-wordmark__name {
+    font-size: var(--fs-15);
+    font-weight: 600;
+    color: var(--color-text-soft);
+  }
+}
+
+.mobile-drawer__top .brand-wordmark__name {
+  font-size: var(--fs-15);
+}
+
+@media (max-width: 420px) {
+  .site-header__brand .brand-wordmark__name {
+    max-width: 9.5rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .site-header__brand .brand-wordmark__name {
+    display: none;
+  }
+}

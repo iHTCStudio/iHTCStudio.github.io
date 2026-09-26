@@ -1,0 +1,110 @@
+{%- assign sorted_apps = site.data.apps | sort: "order" -%}
+<footer class="site-footer" role="contentinfo">
+  <div class="container container--fluid">
+    <div class="site-footer__top">
+      <div class="site-footer__brand">
+        <span class="name">
+          {% include brand-wordmark.html %}
+        </span>
+        <p class="desc">
+          <span lang="en">{{ site.data.i18n['en'].meta.site_description }}</span>
+          <span lang="zh-CN">{{ site.data.i18n['zh-CN'].meta.site_description }}</span>
+          <span lang="zh-TW">{{ site.data.i18n['zh-TW'].meta.site_description }}</span>
+        </p>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.apps }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.apps }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.apps }}</span>
+        </span>
+        <div class="site-footer__col">
+          {%- for app in sorted_apps -%}
+          <a href="{{ app.url | relative_url }}">
+            <span lang="en" class="inline">{{ app.id }}</span>
+            <span lang="zh-CN" class="inline">{{ app.id }} <span class="site-footer__app-zh">· {{ app.names['zh-CN'] }}</span></span>
+            <span lang="zh-TW" class="inline">{{ app.id }} <span class="site-footer__app-zh">· {{ app.names['zh-TW'] }}</span></span>
+          </a>
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.collections }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.collections }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.collections }}</span>
+        </span>
+        <div class="site-footer__col">
+          {%- assign sorted_collections = site.data.collections | sort: "order" -%}
+          {%- for collection in sorted_collections -%}
+          <a href="{{ '/collections/' | relative_url }}#{{ collection.id }}">
+            <span lang="en" class="inline">{{ collection.names.en }}</span>
+            <span lang="zh-CN" class="inline">{{ collection.names['zh-CN'] }}</span>
+            <span lang="zh-TW" class="inline">{{ collection.names['zh-TW'] }}</span>
+          </a>
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          <span lang="en" class="inline">Resources</span>
+          <span lang="zh-CN" class="inline">资源</span>
+          <span lang="zh-TW" class="inline">資源</span>
+        </span>
+        <div class="site-footer__col">
+          {%- assign resource_keys = "developer_home,apple_refund,apple_security,apple_server_status,apple_dev_status,apple_beta_releases" | split: "," -%}
+          {%- for key in resource_keys -%}
+          <a href="{{ site.data.i18n['en'].footer.resource_urls[key] }}" target="_blank" rel="noopener" lang="en" class="inline">{{ site.data.i18n['en'].footer.resources[key] }}</a>
+          <a href="{{ site.data.i18n['zh-CN'].footer.resource_urls[key] }}" target="_blank" rel="noopener" lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].footer.resources[key] }}</a>
+          <a href="{{ site.data.i18n['zh-TW'].footer.resource_urls[key] }}" target="_blank" rel="noopener" lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].footer.resources[key] }}</a>
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].footer.identify_column }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].footer.identify_column }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].footer.identify_column }}</span>
+        </span>
+        <div class="site-footer__col">
+          {%- for item in site.data.apple_identify -%}
+          <a href="{{ item.urls.en }}" target="_blank" rel="noopener" lang="en" class="inline">{{ item.labels.en }}</a>
+          <a href="{{ item.urls['zh-CN'] }}" target="_blank" rel="noopener" lang="zh-CN" class="inline">{{ item.labels['zh-CN'] }}</a>
+          <a href="{{ item.urls['zh-TW'] }}" target="_blank" rel="noopener" lang="zh-TW" class="inline">{{ item.labels['zh-TW'] }}</a>
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          <span lang="en" class="inline">{{ site.data.i18n['en'].nav.contact }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].nav.contact }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].nav.contact }}</span>
+        </span>
+        <div class="site-footer__col">
+          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <span class="site-footer__legal">
+        © {{ "now" | date: "%Y" }}
+        <span lang="en" class="inline">{{ site.data.i18n['en'].brand.name }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].brand.name }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].brand.name }}</span>.
+        <span lang="en" class="inline">{{ site.data.i18n['en'].footer.rights }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].footer.rights }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].footer.rights }}</span>
+      </span>
+      <span class="site-footer__tools">
+        {% include language-switcher.html %}
+        {% include theme-switcher.html %}
+      </span>
+    </div>
+  </div>
+</footer>

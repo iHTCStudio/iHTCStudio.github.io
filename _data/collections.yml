@@ -1,0 +1,268 @@
+# Homepage app grid is unchanged. This file powers /collections/ and the footer column.
+# An app may appear in multiple collections (list its id under each collection.apps).
+
+- id: english
+  order: 1
+  names:
+    en: English
+    zh-CN: 英语
+    zh-TW: 英語
+  taglines:
+    en: Vocabulary, roots, and bilingual reading for English learners.
+    zh-CN: 词汇、词根与双语阅读，面向英语学习。
+    zh-TW: 詞彙、詞根與雙語閱讀，面向英語學習。
+  apps:
+    - iEnglish
+    - iRootWord
+    - iBible
+
+- id: typing
+  order: 2
+  names:
+    en: Chinese Input
+    zh-CN: 中文输入
+    zh-TW: 中文輸入
+  taglines:
+    en: Wubi, Cangjie, characters and phrases — practice and look up offline.
+    zh-CN: 五笔、仓颉、汉字与词语——离线查练一体。
+    zh-TW: 五筆、倉頡、漢字與詞語——離線查練一體。
+  apps:
+    - iWuBi
+    - iCangJie
+    - iDictionary
+    - iWord
+
+- id: tech
+  order: 3
+  names:
+    en: Tech & Dev
+    zh-CN: 技术开发
+    zh-TW: 技術開發
+  taglines:
+    en: Commands, algorithms, interviews, ASC and developer tools.
+    zh-CN: 命令、算法、面试、上架与开发者工具。
+    zh-TW: 指令、演算法、面試、上架與開發者工具。
+  apps:
+    - iLinux
+    - iLeetCoder
+    - iTer
+    - iDeveloper
+    - iAppManager
+
+- id: productivity
+  order: 4
+  names:
+    en: Productivity
+    zh-CN: 效率工具
+    zh-TW: 效率工具
+  taglines:
+    en: Calendar, focus, App Store tools, Excel learning, deal tracking, full-screen browser, web tools, converters and local peer tools.
+    zh-CN: 日历、专注、商店工具、Excel 学习、羊毛追踪、全屏浏览、网页工具、计算换算与本机互联。
+    zh-TW: 日曆、專注、商店工具、Excel 學習、羊毛追蹤、全螢幕瀏覽、網頁工具、計算換算與本機互聯。
+  apps:
+    - iCalendar
+    - iPomodoros
+    - iExcel
+    - iConverter
+    - iConnect
+    - iWool
+    - Weber
+    - iBrowser
+    - iApp
+    - iStore
+
+- id: media
+  order: 5
+  names:
+    en: Media
+    zh-CN: 影像创作
+    zh-TW: 影像創作
+  taglines:
+    en: Photo studio, video toolbox and dual-camera capture — on-device.
+    zh-CN: 修图、视频工具箱与双摄同录——全程本机。
+    zh-TW: 修圖、影片工具箱與雙攝同錄——全程本機。
+  apps:
+    - iPhoto
+    - iVideo
+    - TwinPolarCam
+
+- id: music
+  order: 6
+  names:
+    en: Music
+    zh-CN: 音乐
+    zh-TW: 音樂
+  taglines:
+    en: Curated listening guides — hear why a song stays with you.
+    zh-CN: 精编导听——听见一首歌被记住的理由。
+    zh-TW: 精編導聽——聽見一首歌被記住的理由。
+  apps:
+    - iMusic
+
+- id: lifestyle
+  order: 7
+  names:
+    en: Lifestyle
+    zh-CN: 生活健康
+    zh-TW: 生活健康
+  taglines:
+    en: Nutrition and calm recovery — privacy-first.
+    zh-CN: 营养与解压恢复——隐私优先。
+    zh-TW: 營養與解壓恢復——隱私優先。
+  apps:
+    - iNutrition
+    - iZen
+
+- id: campus
+  order: 8
+  names:
+    en: Campus
+    zh-CN: 校园
+    zh-TW: 校園
+  taglines:
+    en: Campus news and resources for Guilin University of Technology.
+    zh-CN: 桂林理工大学校园资讯与资料。
+    zh-TW: 桂林理工大學校園資訊與資料。
+  apps:
+    - GLUT
+
+- id: classics
+  order: 14
+  names:
+    en: Classics
+    zh-CN: 国学
+    zh-TW: 國學
+  taglines:
+    en: The full classics shelf — also split into lexicon, poetry, primers, Four Books & Five Classics, and masters.
+    zh-CN: 国学总览；也可按中文字词、诗词曲联、蒙学开蒙、四书五经、诸子百家再看。
+    zh-TW: 國學總覽；也可按中文字詞、詩詞曲聯、蒙學開蒙、四書五經、諸子百家再看。
+  apps:
+    - iTangPoems
+    - iSongCi
+    - iYuanQu
+    - iCouplet
+    - iLunYu
+    - iArtOfWar
+    - iVirtue
+    - iThree
+    - iRootWise
+    - iDao
+    - iYiJing
+    - iSutra
+    - iDictionary
+    - iWord
+    - iPrimer
+    - iThousand
+    - iBaiJia
+    - iWuJing
+    - iSiShu
+    - iSage
+    - iPrecepts
+    - iRhyme
+    - iXin
+    - iZhuangZi
+    - iXunZi
+    - iMoZi
+    - iMencius
+    - iLvShi
+    - iHanFei
+    - iGuanZhi
+    - iBianQue
+    - iGuige
+    - iLiezi
+    - iShangYang
+    - iZengZi
+    - iZiSi
+
+- id: poetry
+  order: 10
+  names:
+    en: Poetry
+    zh-CN: 诗词曲联
+    zh-TW: 詩詞曲聯
+  taglines:
+    en: Tang poems, Song lyrics, Yuan songs, couplets, and rhyme primers.
+    zh-CN: 唐诗、宋词、元曲、对联与声律——离线品读。
+    zh-TW: 唐詩、宋詞、元曲、對聯與聲律——離線品讀。
+  apps:
+    - iTangPoems
+    - iSongCi
+    - iYuanQu
+    - iCouplet
+    - iRhyme
+
+- id: four-classics
+  order: 12
+  names:
+    en: Four Books & Five Classics
+    zh-CN: 四书五经
+    zh-TW: 四書五經
+  taglines:
+    en: Analects, Mencius, Zhongyong, Great Learning, Yi Jing, and the two complete shelves.
+    zh-CN: 论语、孟子、中庸、大学、周易，以及四书与五经全书。
+    zh-TW: 論語、孟子、中庸、大學、周易，以及四書與五經全書。
+  apps:
+    - iSiShu
+    - iWuJing
+    - iLunYu
+    - iMencius
+    - iYiJing
+    - iZengZi
+    - iZiSi
+
+- id: masters
+  order: 13
+  names:
+    en: Masters
+    zh-CN: 诸子百家
+    zh-TW: 諸子百家
+  taglines:
+    en: Daoist, Legalist, Mohist, military, medical, and Warring States desks.
+    zh-CN: 道、法、墨、兵、医与战国纵横——一家一桌。
+    zh-TW: 道、法、墨、兵、醫與戰國縱橫——一家一桌。
+  apps:
+    - iDao
+    - iZhuangZi
+    - iLiezi
+    - iXunZi
+    - iMoZi
+    - iHanFei
+    - iShangYang
+    - iGuige
+    - iArtOfWar
+    - iLvShi
+    - iBianQue
+
+- id: primers
+  order: 11
+  names:
+    en: Primers
+    zh-CN: 蒙学开蒙
+    zh-TW: 蒙學開蒙
+  taglines:
+    en: San Zi Jing, Di Zi Gui, Thousand Characters, surnames, family precepts, and rhyme.
+    zh-CN: 三字经、弟子规、千字文、百家姓、家训贤文与声律。
+    zh-TW: 三字經、弟子規、千字文、百家姓、家訓賢文與聲律。
+  apps:
+    - iThree
+    - iVirtue
+    - iThousand
+    - iPrimer
+    - iBaiJia
+    - iSage
+    - iPrecepts
+    - iRhyme
+
+- id: characters
+  order: 9
+  names:
+    en: Characters & Words
+    zh-CN: 中文字词
+    zh-TW: 中文字詞
+  taglines:
+    en: Character dictionary and idioms — look up and browse offline.
+    zh-CN: 汉字词典与成语俗语——离线查字、读词。
+    zh-TW: 漢字詞典與成語俗語——離線查字、讀詞。
+  apps:
+    - iDictionary
+    - iWord

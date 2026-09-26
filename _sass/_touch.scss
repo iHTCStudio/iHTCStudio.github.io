@@ -1,0 +1,57 @@
+// ---------------------------------------------------------------------------
+// Touch & coarse-pointer — mobile-friendly interaction
+// ---------------------------------------------------------------------------
+
+html.is-touch {
+  .hero__stat,
+  .feature-card,
+  .app-card,
+  .hero__stat-panel-link,
+  .btn {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+
+  // Hover-only cues are always visible on touch screens
+  .hero__stat-hint,
+  .hero__stat-icon {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// Minimum comfortable tap targets (Apple HIG ~44pt)
+@media (pointer: coarse), (max-width: 768px) {
+  .hero__stat {
+    min-height: 48px;
+    padding-block: 18px 28px;
+  }
+
+  .hero__stat-panel-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 8px 4px 8px 0;
+  }
+
+  .feature-card {
+    min-height: 48px;
+  }
+
+  .app-card__hit {
+    // Primary content is the tap target; keep comfortable vertical rhythm
+    padding-block: 4px;
+  }
+
+  .app-card__toggle {
+    width: 44px;
+    height: 44px;
+    top: 10px;
+    right: 10px;
+  }
+
+  .app-grid-toolbar__btn {
+    min-height: 44px;
+    padding-inline: 16px;
+  }
+}

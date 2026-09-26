@@ -1,0 +1,49 @@
+{%- comment -%}
+Floating right-rail to switch to other apps.
+Visible only on app sub-page templates (CSS controls visibility based on
+body[data-page-type]).
+
+Each item is themed with the target app's accent color via inline style vars.
+
+Optional grouping (for 40+ apps): set `group: <key>` on an app in apps.yml;
+labels live in _data/rail_groups.yml. Keep same-group apps adjacent in order.
+{%- endcomment -%}
+{%- assign current_app = include.current_app -%}
+{%- assign sorted_apps = site.data.apps | sort: "order" -%}
+
+<aside class="app-switcher" aria-label="Switch app">
+  <button class="app-switcher__chevron" type="button"
+          aria-expanded="false"
+          aria-label="Expand app switcher">
+    {% include icons.html name="chevron-left" size="14" %}
+  </button>
+  <div class="app-switcher__viewport" data-app-switcher-viewport>
+    <div class="app-switcher__items" data-app-switcher-items tabindex="-1">
+      {%- assign prev_group = nil -%}
+      {%- for app in sorted_apps -%}
+        {%- if current_app and app.id == current_app.id -%}{%- continue -%}{%- endif -%}
+        {%- unless app.group == prev_group -%}
+          {%- if app.group -%}
+            {%- assign grp = site.data.rail_groups[app.group] -%}
+            {%- if grp -%}
+              <div class="app-switcher__group" role="presentation" aria-hidden="true">
+                <span class="app-switcher__group-label" lang="en">{{ grp.en }}</span>
+                <span class="app-switcher__group-label" lang="zh-CN">{{ grp['zh-CN'] }}</span>
+                <span class="app-switcher__group-label" lang="zh-TW">{{ grp['zh-TW'] }}</span>
+              </div>
+            {%- endif -%}
+          {%- endif -%}
+          {%- assign prev_group = app.group -%}
+        {%- endunless -%}
+        <a href="{{ app.url | relative_url }}"
+           class="app-switcher__item"
+           style="--rail-from: {{ app.accent.gradient_from }}; --rail-to: {{ app.accent.gradient_to }}; --rail-accent: {{ app.accent.light }};"
+           aria-label="{{ app.id }}">
+          {% include app-icon.html app=app size="18" %}
+          <span class="app-switcher__name">{{ app.id }}</span>
+          <span class="app-switcher__label">{{ app.id }}</span>
+        </a>
+      {%- endfor -%}
+    </div>
+  </div>
+</aside>

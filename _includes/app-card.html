@@ -1,0 +1,93 @@
+{%- comment -%}
+Reusable homepage-style app card.
+
+Usage:
+  {% include app-card.html app=app %}
+  {% include app-card.html app=app details_suffix=collection.id %}
+
+`details_suffix` keeps aria-controls / details ids unique when the same app
+appears in multiple collections on one page.
+{%- endcomment -%}
+{%- assign app = include.app -%}
+{%- assign app_title = app.display_name | default: app.id -%}
+{%- if include.details_suffix -%}
+  {%- assign details_id = "app-card-details-" | append: include.details_suffix | append: "-" | append: app.id -%}
+{%- else -%}
+  {%- assign details_id = "app-card-details-" | append: app.id -%}
+{%- endif -%}
+<article class="app-card"
+   data-app-card
+   style="--card-from: {{ app.accent.gradient_from }}; --card-to: {{ app.accent.gradient_to }}; --card-accent: {{ app.accent.light }};">
+  <div class="app-card__shell">
+    <button type="button"
+            class="app-card__toggle"
+            data-app-card-toggle
+            aria-expanded="false"
+            aria-controls="{{ details_id }}"
+            data-label-expand-en="{{ site.data.i18n['en'].apps_section.show_details }} — {{ app_title }}"
+            data-label-expand-zh-CN="{{ site.data.i18n['zh-CN'].apps_section.show_details }} — {{ app_title }}"
+            data-label-expand-zh-TW="{{ site.data.i18n['zh-TW'].apps_section.show_details }} — {{ app_title }}"
+            data-label-collapse-en="{{ site.data.i18n['en'].apps_section.hide_details }} — {{ app_title }}"
+            data-label-collapse-zh-CN="{{ site.data.i18n['zh-CN'].apps_section.hide_details }} — {{ app_title }}"
+            data-label-collapse-zh-TW="{{ site.data.i18n['zh-TW'].apps_section.hide_details }} — {{ app_title }}">
+      {% include icons.html name="chevron-down" size="18" %}
+    </button>
+
+    <a href="{{ app.url | relative_url }}" class="app-card__hit">
+      <div class="app-card__top">
+        <div class="app-card__icon">
+          {% include app-icon.html app=app size="28" %}
+        </div>
+        <div class="app-card__heading">
+          <h3 class="app-card__title">{{ app_title }}</h3>
+          <span class="app-card__name-zh">
+            <span lang="en" class="inline">{{ app.names.en }}</span>
+            <span lang="zh-CN" class="inline">{{ app.names['zh-CN'] }}</span>
+            <span lang="zh-TW" class="inline">{{ app.names['zh-TW'] }}</span>
+          </span>
+        </div>
+      </div>
+      <p class="app-card__tagline">
+        <span lang="en">{{ app.taglines.en }}</span>
+        <span lang="zh-CN">{{ app.taglines['zh-CN'] }}</span>
+        <span lang="zh-TW">{{ app.taglines['zh-TW'] }}</span>
+      </p>
+    </a>
+
+    <div class="app-card__details" id="{{ details_id }}" data-app-card-details aria-hidden="true">
+      <div class="app-card__details-inner">
+        <p class="app-card__blurb">
+          <span lang="en">{{ app.blurbs.en }}</span>
+          <span lang="zh-CN">{{ app.blurbs['zh-CN'] }}</span>
+          <span lang="zh-TW">{{ app.blurbs['zh-TW'] }}</span>
+        </p>
+        <div class="app-card__chips">
+          <span lang="en">
+            {%- for h in app.highlights.en -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+          </span>
+          <span lang="zh-CN">
+            {%- for h in app.highlights['zh-CN'] -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+          </span>
+          <span lang="zh-TW">
+            {%- for h in app.highlights['zh-TW'] -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="app-card__footer">
+      <span class="app-card__meta">
+        {% include app-distribution.html app=app variant="chip" %}
+        <span class="app-card__platforms">
+          {%- for p in app.platforms -%}{{ p }}{% unless forloop.last %} · {% endunless %}{%- endfor -%}
+        </span>
+      </span>
+      <a href="{{ app.url | relative_url }}" class="app-card__cta">
+        <span lang="en" class="inline">{{ site.data.i18n['en'].apps_section.learn_more }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].apps_section.learn_more }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].apps_section.learn_more }}</span>
+      </a>
+    </div>
+  </div>
+  {% include app-distribution.html app=app variant="card" %}
+</article>
