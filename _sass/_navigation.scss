@@ -1,0 +1,273 @@
+// ---------------------------------------------------------------------------
+// Top header navigation — Apple-style slim glass bar
+// ---------------------------------------------------------------------------
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-header);
+  height: var(--header-height);
+  background: var(--color-bg-overlay);
+  backdrop-filter: saturate(180%) blur(18px);
+  -webkit-backdrop-filter: saturate(180%) blur(18px);
+  border-bottom: 1px solid var(--color-border);
+  transition: background var(--duration-base) var(--ease-out),
+              border-color var(--duration-base) var(--ease-out);
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    gap: 12px;
+  }
+
+  &__brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    font-size: var(--fs-15);
+    letter-spacing: -0.01em;
+    color: var(--color-text);
+    white-space: nowrap;
+    flex-shrink: 0;
+    text-decoration: none;
+
+    &:hover { color: var(--color-text); opacity: 0.78; }
+  }
+
+  // ----- desktop primary nav (apps + sections) ----------------------------
+  &__primary {
+    display: none;
+    min-width: 0;
+
+    @media (min-width: 768px) {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      flex: 1;
+      justify-content: center;
+    }
+  }
+
+  &__link {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 12px;
+    border-radius: var(--radius-pill);
+    font-size: var(--fs-14);
+    font-weight: 500;
+    color: var(--color-text-soft);
+    transition: color var(--duration-fast) var(--ease-out),
+                background var(--duration-fast) var(--ease-out);
+
+    &:hover { color: var(--color-text); background: var(--color-bg-muted); }
+    &.is-current { color: var(--color-text); background: var(--color-bg-muted); }
+
+    &.is-current::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: 2px;
+      width: 4px;
+      height: 4px;
+      border-radius: 999px;
+      background: var(--accent);
+      transform: translateX(-50%);
+    }
+  }
+
+  // ----- right cluster (lang + theme + github) ---------------------------
+  &__tools {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    flex-shrink: 0;
+    margin-left: auto;
+  }
+
+  // ----- mobile menu trigger ---------------------------------------------
+  &__menu-button {
+    display: inline-flex;
+    @media (min-width: 768px) { display: none; }
+    width: 36px; height: 36px;
+    border-radius: var(--radius-pill);
+    align-items: center; justify-content: center;
+    color: var(--color-text);
+    transition: background var(--duration-fast) var(--ease-out);
+
+    &:hover { background: var(--color-bg-muted); }
+
+    .icon-line {
+      width: 16px; height: 2px; background: currentColor;
+      border-radius: 2px; position: relative;
+      transition: transform var(--duration-base) var(--ease-out);
+
+      &::before, &::after {
+        content: ""; position: absolute; left: 0; width: 16px; height: 2px;
+        background: currentColor; border-radius: 2px;
+        transition: transform var(--duration-base) var(--ease-out);
+      }
+      &::before { top: -6px; }
+      &::after { top: 6px; }
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Pill toolbar buttons (used in header tools + footer)
+// ---------------------------------------------------------------------------
+.tool-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  height: 32px;
+  border-radius: var(--radius-pill);
+  font-size: var(--fs-13);
+  font-weight: 500;
+  color: var(--color-text-soft);
+  transition: background var(--duration-fast) var(--ease-out),
+              color var(--duration-fast) var(--ease-out);
+  white-space: nowrap;
+
+  &:hover { background: var(--color-bg-muted); color: var(--color-text); }
+
+  svg { width: 14px; height: 14px; flex: 0 0 auto; }
+
+  &.is-icon { width: 32px; height: 32px; padding: 0; justify-content: center;
+    svg { width: 16px; height: 16px; }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Dropdown panel (language + theme)
+// ---------------------------------------------------------------------------
+.dropdown {
+  position: relative;
+
+  &__panel {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    min-width: 180px;
+    padding: 6px;
+    background: var(--color-bg-elevated);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    backdrop-filter: blur(20px);
+    opacity: 0;
+    transform: translateY(-6px) scale(0.96);
+    pointer-events: none;
+    transition: opacity var(--duration-base) var(--ease-out),
+                transform var(--duration-base) var(--ease-out);
+    z-index: var(--z-overlay);
+  }
+
+  &__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: 100%;
+    padding: 8px 12px;
+    border-radius: var(--radius-md);
+    font-size: var(--fs-14);
+    color: var(--color-text);
+    text-align: left;
+    cursor: pointer;
+    transition: background var(--duration-fast) var(--ease-out);
+
+    &:hover { background: var(--color-bg-muted); }
+    &[aria-checked="true"] {
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      font-weight: 600;
+    }
+    &[aria-checked="true"] .dropdown__check { opacity: 1; }
+  }
+
+  &__check {
+    opacity: 0;
+    width: 14px; height: 14px;
+    color: var(--accent);
+  }
+
+  &__divider {
+    height: 1px;
+    background: var(--color-divider);
+    margin: 4px 6px;
+  }
+
+  &.is-open .dropdown__panel {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    pointer-events: auto;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Mobile drawer (for nav links)
+// ---------------------------------------------------------------------------
+.mobile-drawer {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-modal);
+  display: grid;
+  grid-template-rows: var(--header-height) 1fr;
+  background: var(--color-bg-overlay);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--duration-base) var(--ease-out);
+
+  @media (min-width: 768px) { display: none !important; }
+
+  &.is-open { opacity: 1; pointer-events: auto; }
+
+  &__top {
+    display: flex; align-items: center; justify-content: space-between;
+    padding-inline: clamp(20px, 4vw, 40px);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  &__body {
+    display: flex; flex-direction: column;
+    padding: 24px clamp(20px, 4vw, 40px) 40px;
+    gap: 4px;
+    overflow-y: auto;
+  }
+
+  &__link {
+    display: block;
+    padding: 14px 0;
+    font-size: var(--fs-21);
+    font-weight: 500;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-divider);
+
+    &.is-current { color: var(--accent); }
+  }
+
+  &__group {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid var(--color-divider);
+  }
+
+  &__group-label {
+    display: block;
+    font-size: var(--fs-12);
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    color: var(--color-text-faint);
+    margin-bottom: 8px;
+  }
+}
+
+body.is-drawer-open { overflow: hidden; }

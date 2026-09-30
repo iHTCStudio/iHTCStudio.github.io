@@ -1,0 +1,167 @@
+{%- comment -%}
+App Store screenshots gallery for app support pages.
+Three locale sets (en / zh-CN / zh-TW) aligned with site language.
+
+Usage:
+  {% include app-screenshots.html app=current_app %}
+{%- endcomment -%}
+{%- assign shots_meta = site.data.app_screenshots[include.app.id] -%}
+{%- assign shot_langs = "en|zh-CN|zh-TW" | split: "|" -%}
+{%- assign shot_platforms = "iphone|ipad|mac" | split: "|" -%}
+{%- assign has_any_screenshots = false -%}
+
+{%- if shots_meta -%}
+  {%- for lang in shot_langs -%}
+    {%- assign lang_meta = shots_meta[lang] -%}
+    {%- if lang_meta -%}
+      {%- if lang_meta.iphone and lang_meta.iphone.size > 0 -%}{%- assign has_any_screenshots = true -%}{%- endif -%}
+      {%- if lang_meta.ipad and lang_meta.ipad.size > 0 -%}{%- assign has_any_screenshots = true -%}{%- endif -%}
+      {%- if lang_meta.mac and lang_meta.mac.size > 0 -%}{%- assign has_any_screenshots = true -%}{%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if shots_meta and has_any_screenshots -%}
+<section class="app-screenshots fade-up"
+         data-app-screenshots
+         aria-label="App Store previews"
+         data-screenshot-counter-en="{{ site.data.i18n.en.app_pages.screenshot_counter }}"
+         data-screenshot-counter-zh-CN="{{ site.data.i18n['zh-CN'].app_pages.screenshot_counter }}"
+         data-screenshot-counter-zh-TW="{{ site.data.i18n['zh-TW'].app_pages.screenshot_counter }}">
+  <div class="container container--wide">
+    <header class="app-screenshots__head">
+      <h2 class="app-screenshots__title">
+        <span lang="en" class="inline">{{ site.data.i18n.en.app_pages.screenshots }}</span>
+        <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.screenshots }}</span>
+        <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.screenshots }}</span>
+      </h2>
+    </header>
+
+    {%- for lang in shot_langs -%}
+      {%- assign lang_meta = shots_meta[lang] -%}
+      {%- if lang_meta -%}
+      {%- assign has_iphone = false -%}
+      {%- assign has_ipad = false -%}
+      {%- assign has_mac = false -%}
+      {%- if lang_meta.iphone and lang_meta.iphone.size > 0 -%}{%- assign has_iphone = true -%}{%- endif -%}
+      {%- if lang_meta.ipad and lang_meta.ipad.size > 0 -%}{%- assign has_ipad = true -%}{%- endif -%}
+      {%- if lang_meta.mac and lang_meta.mac.size > 0 -%}{%- assign has_mac = true -%}{%- endif -%}
+      {%- assign platform_count = 0 -%}
+      {%- if has_iphone -%}{%- assign platform_count = platform_count | plus: 1 -%}{%- endif -%}
+      {%- if has_ipad -%}{%- assign platform_count = platform_count | plus: 1 -%}{%- endif -%}
+      {%- if has_mac -%}{%- assign platform_count = platform_count | plus: 1 -%}{%- endif -%}
+      {%- if platform_count > 0 -%}
+
+      {%- assign default_platform = "iphone" -%}
+      {%- unless has_iphone -%}
+        {%- if has_ipad -%}{%- assign default_platform = "ipad" -%}
+        {%- elsif has_mac -%}{%- assign default_platform = "mac" -%}
+        {%- endif -%}
+      {%- endunless -%}
+
+    <div class="app-screenshots__locale" lang="{{ lang }}" data-screenshot-locale="{{ lang }}">
+      {%- if platform_count > 1 -%}
+      <div class="app-screenshots__tabs" role="tablist" aria-label="Device">
+        {%- if has_iphone -%}
+        <button type="button" class="app-screenshots__tab is-active" role="tab" aria-selected="true" data-screenshot-tab="iphone">
+          <span lang="en" class="inline">{{ site.data.i18n.en.app_pages.screenshot_iphone }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.screenshot_iphone }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.screenshot_iphone }}</span>
+        </button>
+        {%- endif -%}
+        {%- if has_ipad -%}
+        <button type="button" class="app-screenshots__tab{% unless has_iphone %} is-active{% endunless %}" role="tab" aria-selected="{% if has_iphone %}false{% else %}true{% endif %}" data-screenshot-tab="ipad">
+          <span lang="en" class="inline">{{ site.data.i18n.en.app_pages.screenshot_ipad }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.screenshot_ipad }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.screenshot_ipad }}</span>
+        </button>
+        {%- endif -%}
+        {%- if has_mac -%}
+        <button type="button" class="app-screenshots__tab{% unless has_iphone or has_ipad %} is-active{% endunless %}" role="tab" aria-selected="{% if has_iphone or has_ipad %}false{% else %}true{% endif %}" data-screenshot-tab="mac">
+          <span lang="en" class="inline">{{ site.data.i18n.en.app_pages.screenshot_mac }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.screenshot_mac }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.screenshot_mac }}</span>
+        </button>
+        {%- endif -%}
+      </div>
+      {%- endif -%}
+
+      {%- for platform in shot_platforms -%}
+        {%- assign platform_shots = lang_meta[platform] -%}
+        {%- if platform_shots and platform_shots.size > 0 -%}
+      <div class="app-screenshots__panel{% if platform == default_platform %} is-active{% endif %}"
+           data-screenshot-panel="{{ platform }}"
+           role="tabpanel"
+           {% unless platform == default_platform %}hidden{% endunless %}>
+        <div class="app-screenshots__strip-wrap">
+          <div class="app-screenshots__strip" data-screenshot-strip tabindex="0">
+            {%- for shot in platform_shots -%}
+              {%- assign full_url = shot.full | default: shot.url -%}
+              {%- assign aspect = "9 / 19.5" -%}
+              {%- if shot.width and shot.height and shot.width > 0 -%}
+                {%- assign aspect = shot.width | append: " / " | append: shot.height -%}
+              {%- elsif platform == "mac" -%}
+                {%- assign aspect = "16 / 10" -%}
+              {%- elsif platform == "ipad" -%}
+                {%- assign aspect = "3 / 4" -%}
+              {%- endif -%}
+            <button type="button"
+                    class="app-screenshots__item"
+                    data-screenshot-open
+                    data-screenshot-index="{{ forloop.index0 }}"
+                    data-screenshot-platform="{{ platform }}"
+                    aria-label="Screenshot {{ forloop.index }} of {{ platform_shots.size }}">
+              <span class="app-screenshots__frame" style="aspect-ratio: {{ aspect }};">
+                <img class="app-screenshots__img"
+                     src="{{ shot.url }}"
+                     data-full-src="{{ full_url }}"
+                     alt=""
+                     width="{{ shot.width | default: 480 }}"
+                     height="{{ shot.height | default: 1040 }}"
+                     loading="lazy"
+                     decoding="async" />
+              </span>
+            </button>
+            {%- endfor -%}
+          </div>
+        </div>
+        <p class="app-screenshots__hint">
+          <span lang="en" class="inline">{{ site.data.i18n.en.app_pages.screenshot_hint }}</span>
+          <span lang="zh-CN" class="inline">{{ site.data.i18n['zh-CN'].app_pages.screenshot_hint }}</span>
+          <span lang="zh-TW" class="inline">{{ site.data.i18n['zh-TW'].app_pages.screenshot_hint }}</span>
+        </p>
+      </div>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+      {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
+  <dialog class="screenshot-lightbox" data-screenshot-lightbox aria-label="Screenshot viewer">
+    <div class="screenshot-lightbox__backdrop" data-screenshot-close tabindex="-1"></div>
+    <div class="screenshot-lightbox__shell">
+      <button type="button" class="screenshot-lightbox__close" data-screenshot-close aria-label="Close">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 5l10 10M15 5L5 15" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <button type="button" class="screenshot-lightbox__nav screenshot-lightbox__nav--prev" data-screenshot-prev aria-label="Previous">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+          <path d="M13.5 4.5L7 11l6.5 6.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <button type="button" class="screenshot-lightbox__nav screenshot-lightbox__nav--next" data-screenshot-next aria-label="Next">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+          <path d="M8.5 4.5L15 11l-6.5 6.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <figure class="screenshot-lightbox__figure">
+        <img class="screenshot-lightbox__img" data-screenshot-lightbox-img alt="" decoding="async" />
+        <figcaption class="screenshot-lightbox__counter" data-screenshot-counter aria-live="polite"></figcaption>
+      </figure>
+    </div>
+  </dialog>
+</section>
+{%- endif -%}

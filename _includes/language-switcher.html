@@ -1,0 +1,34 @@
+{%- comment -%}
+Language dropdown. Reads supported languages from _config.yml -> languages.
+Click handlers attach via data-lang-toggle in main.js.
+{%- endcomment -%}
+<div class="dropdown" data-dropdown>
+  <button type="button"
+          class="tool-btn"
+          data-dropdown-trigger
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-label="{{ site.data.i18n['en'].nav.language }}">
+    {% include icons.html name="globe" size="14" %}
+    <span data-lang-current
+          data-lang-label-en="EN"
+          data-lang-label-zh-CN="简"
+          data-lang-label-zh-TW="繁">EN</span>
+  </button>
+  <div class="dropdown__panel" data-dropdown-panel role="menu">
+    {%- for L in site.languages -%}
+      <button type="button"
+              class="dropdown__item"
+              role="menuitemradio"
+              aria-checked="false"
+              data-lang-toggle
+              data-lang-value="{{ L.code }}"
+              data-toast-en="Language set to English."
+              data-toast-zh-CN="语言已切换为简体中文。"
+              data-toast-zh-TW="語言已切換為繁體中文。">
+        <span>{{ L.name }}</span>
+        <span class="dropdown__check">{% include icons.html name="check" size="14" %}</span>
+      </button>
+    {%- endfor -%}
+  </div>
+</div>
