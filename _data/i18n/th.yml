@@ -1,0 +1,157 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: แอปและเครื่องมือสำหรับอุปกรณ์ Apple
+  site_description: แอปที่ออกแบบอย่างพิถีพิถันสำหรับ iPhone, iPad และ Mac เน้นความเป็นส่วนตัว ใช้งานออฟไลน์ได้ และไม่ต้องมีบัญชี
+nav:
+  apps: แอป
+  collections: คอลเลกชัน
+  app_store: App Store
+  home: หน้าแรก
+  overview: ภาพรวม
+  faq: คำถามที่พบบ่อย
+  privacy: ความเป็นส่วนตัว
+  url_scheme: URL Scheme
+  contact: ติดต่อ
+  github: GitHub
+  open_menu: เปิดเมนู
+  close_menu: ปิดเมนู
+  switch_app: สลับแอป
+  other_apps: แอปอื่น ๆ
+  language: ภาษา
+  appearance: รูปลักษณ์
+  theme_auto: ตามระบบ
+  theme_light: สว่าง
+  theme_dark: มืด
+collections_page:
+  eyebrow: เลือกดูตามหัวข้อ
+  title: คอลเลกชัน
+  subtitle: แอปที่จัดกลุ่มตามความสนใจ — ตัวอักษร กวีนิพนธ์ แบบเรียนเบื้องต้น สี่ตำรา ปราชญ์ ตำราคลาสสิก ภาษาอังกฤษ เทคโนโลยี
+    และอื่น ๆ แอปหนึ่งตัวอาจอยู่ในหลายคอลเลกชันได้
+  all: ทั้งหมด
+  filter_label: กรองคอลเลกชัน
+  empty: ไม่มีแอปในคอลเลกชันนี้
+hero:
+  eyebrow: iHTC Studio
+  title: แอปที่ประณีต ซอฟต์แวร์ที่สงบ
+  subtitle: iHTC Studio ออกแบบแอปที่ให้ความสำคัญกับความเป็นส่วนตัวสำหรับ iPhone, iPad และ Mac ไม่มีบัญชี ไม่มีการติดตาม ไม่มีคลาวด์
+    — มีเพียงเครื่องมือที่คิดมาอย่างดีและเคารพเวลาของคุณ
+  cta_explore: ดูแอปทั้งหมด
+  cta_contact: ติดต่อเรา
+  stat_apps: แอป
+  stat_offline: ออฟไลน์เป็นหลัก
+  stat_privacy: ไม่มีการติดตาม
+  stat_hint: ดูเพิ่มเติม
+  stat_tablist: จุดเด่นของสตูดิโอ
+  stat_apps_title_suffix: แอปที่สร้างอย่างพิถีพิถัน
+  stat_apps_desc: ตั้งแต่ตัวจับเวลา Pomodoro ไปจนถึงการเรียกดู App Store — ทุกแอปเป็นเนทีฟด้วย SwiftUI สำหรับ iPhone, iPad
+    และ Mac พร้อมหน้าสนับสนุน คำถามที่พบบ่อย และนโยบายความเป็นส่วนตัวของตัวเอง
+  stat_apps_action: ดูแอปทั้งหมด ↓
+  stat_offline_title: ฟีเจอร์หลักทำงานออฟไลน์ 100%
+  stat_offline_desc: คลังโจทย์ พจนานุกรม ตัวจับเวลา และเครื่องคิดเลขทำงานบนอุปกรณ์ของคุณทั้งหมด ไม่ต้องใช้ Wi‑Fi หรือเครือข่ายมือถือสำหรับการใช้งานประจำวัน
+    — เครื่องมือของคุณไปกับคุณทุกที่
+  stat_privacy_title: ไม่ติดตาม ไม่มีโฆษณา
+  stat_privacy_desc: ไม่มี SDK วิเคราะห์ข้อมูล ไม่มีเครือข่ายโฆษณา ไม่บังคับให้มีบัญชี เราไม่เก็บข้อมูลการใช้งานของคุณเลย
+    การซิงก์ iCloud แบบเลือกได้ใช้โครงสร้างพื้นฐานของ Apple เท่านั้น
+apps_section:
+  eyebrow: แอปของเรา
+  title: ใส่ใจในทุกรายละเอียด
+  subtitle: ทุกแอปออกแบบให้ให้ความรู้สึกเป็นเนทีฟบนอุปกรณ์ Apple ทำงานออฟไลน์ได้เต็มรูปแบบ และเคารพความเป็นส่วนตัวของคุณ เลือกแอปที่สนใจเพื่อดูรายละเอียด
+  learn_more: ดูเพิ่มเติม
+  coming_soon: เร็ว ๆ นี้
+  expand_hint: แสดงแบบกะทัดรัดเป็นค่าเริ่มต้น — เปิดการ์ดเพื่อดูจุดเด่น หรือขยายทั้งหมด
+  expand_all: ขยายทั้งหมด
+  collapse_all: ย่อทั้งหมด
+  show_details: แสดงรายละเอียด
+  hide_details: ซ่อนรายละเอียด
+  list_density_aria: ความหนาแน่นของรายการแอป
+values:
+  eyebrow: สิ่งที่เรายึดมั่น
+  title: แอปเงียบ ๆ ที่คู่ควรกับพื้นที่บนอุปกรณ์ของคุณ
+  items:
+  - title: ความเป็นส่วนตัวเป็นค่าเริ่มต้น
+    desc: ไม่มีบัญชี ไม่มีการวิเคราะห์ข้อมูล ไม่มี SDK จากบุคคลที่สาม ข้อมูลของคุณอยู่บนอุปกรณ์ของคุณเสมอ
+  - title: เนทีฟและรวดเร็ว
+    desc: สร้างด้วย SwiftUI สำหรับ iOS, iPadOS และ macOS ปรับแต่งให้เปิดได้ทันทีและประหยัดแบตเตอรี่
+  - title: ออฟไลน์เป็นหลัก
+    desc: ฟีเจอร์หลักทุกอย่างใช้งานได้โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต เครื่องมือของคุณควรใช้งานได้ทุกที่ที่คุณอยู่
+  - title: ออกแบบอย่างละเอียด
+    desc: ตัวอักษรที่คัดสรรมาอย่างดี การตอบสนองแบบสัมผัสจริง แอนิเมชันลื่นไหล และโหมดมืดเต็มรูปแบบ ประณีตในทุกพิกเซลของทุกหน้าจอ
+  - title: เว็บไซต์หลายภาษา
+    desc: เว็บไซต์รองรับ 10 ภาษา — สลับได้ทุกเมื่อ ส่วนอินเทอร์เฟซในแอปเป็นไปตามหน้า App Store ของแต่ละแอป
+  - title: ปลอดโฆษณาตลอดไป
+    desc: ไม่มีป๊อปอัป ไม่มีเครือข่ายโฆษณา ไม่มี dark pattern เราต้องการความไว้วางใจ ไม่ใช่ยอดการแสดงผล
+contact:
+  eyebrow: ติดต่อเรา
+  title: มีคำถาม ข้อเสนอแนะ หรือไอเดียไหม
+  subtitle: โดยปกติเราจะตอบกลับภายใน 48 ชั่วโมง หากพบข้อบกพร่อง โปรดแจ้งรุ่นอุปกรณ์และเวอร์ชัน iOS ของคุณ
+  email_label: อีเมล
+  github_label: GitHub Issues
+footer:
+  rights: สงวนลิขสิทธิ์
+  built_with: สร้างด้วยความใส่ใจ
+  select_language: ภาษา
+  select_theme: รูปลักษณ์
+  resources:
+    developer_home: หน้าแรกของนักพัฒนา
+    apple_refund: ขอคืนเงินจาก Apple
+    apple_security: การอัปเดตความปลอดภัยของ Apple
+    apple_server_status: สถานะเซิร์ฟเวอร์ของ Apple
+    apple_dev_status: สถานะระบบ Apple Developer
+    apple_beta_releases: รุ่นเบต้าสาธารณะล่าสุดของ Apple
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: ระบุรุ่นอุปกรณ์ Apple
+  resources_column: ทรัพยากร
+doc:
+  on_this_page: ในหน้านี้
+  last_updated: อัปเดตล่าสุด
+  back_to: กลับไปที่
+  related: ที่เกี่ยวข้อง
+toc:
+  title: สารบัญ
+app_pages:
+  overview: ภาพรวม
+  faq: คำถามที่พบบ่อย
+  privacy: นโยบายความเป็นส่วนตัว
+  url_scheme: URL Scheme
+  screenshots: ตัวอย่างบน App Store
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: แตะภาพหน้าจอเพื่อดูขนาดเต็ม · เลื่อนเพื่อเรียกดู
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: กลับไปหน้าแรก
+  open_app_page: เปิดหน้าสนับสนุน
+  app_store: App Store
+  testflight: TestFlight เบต้า
+badges:
+  testflight_beta: TestFlight เบต้า
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: ค้นหาภาษา…
+  no_results: ไม่พบภาษาที่ตรงกัน
+notice:
+  language_set: ตั้งค่าภาษาเป็นไทยแล้ว
+  content_fallback_en: หน้านี้แสดงเป็นภาษาอังกฤษสำหรับภาษาที่คุณเลือก
+  app_ui_language: ภาษาของอินเทอร์เฟซในแอปเป็นไปตามหน้าผลิตภัณฑ์บน App Store ของภูมิภาคคุณ
+err:
+  not_found_title: ไม่พบหน้านี้
+  not_found_subtitle: ไม่พบหน้าที่คุณกำลังมองหา
+  go_home: ไปที่หน้าแรก

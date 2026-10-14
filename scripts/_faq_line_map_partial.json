@@ -1,0 +1,200 @@
+{
+  "### Can I back up my data?": {
+    "ja": "### データをバックアップできますか？",
+    "ko": "### 데이터를 백업할 수 있나요?",
+    "ru": "### Могу ли я создать резервную копию данных?",
+    "th": "### ฉันสำรองข้อมูลได้หรือไม่?",
+    "de": "### Kann ich meine Daten sichern?",
+    "fr": "### Puis-je sauvegarder mes données ?",
+    "tr": "### Verilerimi yedekleyebilir miyim?"
+  },
+  "### Can I open Yugong without browsing the whole catalog?": {
+    "ja": "### 目録全体を見ずに「愚公」を開けますか？",
+    "ko": "### 전체 목록을 보지 않고 「愚公」을 열 수 있나요?",
+    "ru": "### Можно ли открыть «Юйгун», не просматривая весь каталог?",
+    "th": "### เปิด 「愚公」 ได้โดยไม่ต้องเรียกดูทั้งคลังหรือไม่?",
+    "de": "### Kann ich „Yugong“ öffnen, ohne den gesamten Katalog zu durchsuchen?",
+    "fr": "### Puis-je ouvrir « Yugong » sans parcourir tout le catalogue ?",
+    "tr": "### Tüm kataloğa bakmadan «Yugong» açılabilir mi?"
+  },
+  "### How is this different from a simple classics reader?": {
+    "ja": "### 単純な古典リーダーとどう違いますか？",
+    "ko": "### 단순 고전 리더와 어떻게 다른가요?",
+    "ru": "### Чем это отличается от простого читателя классики?",
+    "th": "### ต่างจากโปรแกรมอ่านคลาสสิกทั่วไปอย่างไร?",
+    "de": "### Worin unterscheidet sich das von einem einfachen Klassik-Leser?",
+    "fr": "### En quoi est-ce différent d’un simple lecteur de classiques ?",
+    "tr": "### Basit bir klasik okuyucudan farkı nedir?"
+  },
+  "### How is this different from a simple surname list?": {
+    "ja": "### 単純な姓リストとどう違いますか？",
+    "ko": "### 단순한 성씨 목록과 어떻게 다른가요?",
+    "ru": "### Чем это отличается от простого списка фамилий?",
+    "th": "### ต่างจากรายชื่อนามสกุลธรรมดาอย่างไร?",
+    "de": "### Worin unterscheidet sich das von einer einfachen Nachnamenliste?",
+    "fr": "### En quoi est-ce différent d’une simple liste de noms de famille ?",
+    "tr": "### Basit bir soyadı listesinden farkı nedir?"
+  },
+  "### How many surnames are included?": {
+    "ja": "### 姓はいくつ収録されていますか？",
+    "ko": "### 성씨는 몇 개 포함되나요?",
+    "ru": "### Сколько фамилий включено?",
+    "th": "### มีนามสกุลกี่รายการ?",
+    "de": "### Wie viele Nachnamen sind enthalten?",
+    "fr": "### Combien de noms de famille sont inclus ?",
+    "tr": "### Kaç soyadı var?"
+  },
+  "### Is Speak to Each Kind a consulting product?": {
+    "ja": "### 「Speak to Each Kind」はコンサル商品ですか？",
+    "ko": "### 「Speak to Each Kind」은 컨설팅 상품인가요?",
+    "ru": "### Является ли Speak to Each Kind консультационным продуктом?",
+    "th": "### Speak to Each Kind เป็นบริการที่ปรึกษาหรือไม่?",
+    "de": "### Ist Speak to Each Kind ein Beratungsprodukt?",
+    "fr": "### Speak to Each Kind est-il un produit de conseil ?",
+    "tr": "### Speak to Each Kind bir danışmanlık ürünü mü?"
+  },
+  "### What about meditation and Life Guidance?": {
+    "ja": "### 瞑想と Life Guidance について",
+    "ko": "### 명상과 Life Guidance는?",
+    "ru": "### Что насчёт медитации и Life Guidance?",
+    "th": "### การทำสมาธิและ Life Guidance เป็นอย่างไร?",
+    "de": "### Was ist mit Meditation und Life Guidance?",
+    "fr": "### Et la méditation et Life Guidance ?",
+    "tr": "### Meditasyon ve Life Guidance?"
+  },
+  "### What are life scenes?": {
+    "ja": "### ライフシーンとは？",
+    "ko": "### 라이프 씬이란?",
+    "ru": "### Что такое life scenes?",
+    "th": "### life scenes คืออะไร?",
+    "de": "### Was sind Life Scenes?",
+    "fr": "### Que sont les life scenes ?",
+    "tr": "### Life scenes nedir?"
+  },
+  "### What are tap-to-gloss terms?": {
+    "ja": "### タップで表示する語注とは？",
+    "ko": "### 탭하여 보는 어휘 주석이란?",
+    "ru": "### Что такое tap-to-gloss terms?",
+    "th": "### tap-to-gloss terms คืออะไร?",
+    "de": "### Was sind Tap-to-Gloss-Begriffe?",
+    "fr": "### Que sont les termes tap-to-gloss ?",
+    "tr": "### Tap-to-gloss terimleri nedir?"
+  },
+  "### What browse dimensions are available?": {
+    "ja": "### どのような閲覧軸がありますか？",
+    "ko": "### 어떤 탐색 축이 있나요?",
+    "ru": "### Какие измерения просмотра доступны?",
+    "th": "### มีมิติการเรียกดูอะไรบ้าง?",
+    "de": "### Welche Browse-Dimensionen gibt es?",
+    "fr": "### Quelles dimensions de navigation existent ?",
+    "tr": "### Hangi göz atma boyutları var?"
+  },
+  "### What does recitation mean here?": {
+    "ja": "### ここでの「朗誦」とは？",
+    "ko": "### 여기서 낭독(recitation)이란?",
+    "ru": "### Что здесь означает recitation?",
+    "th": "### ที่นี่ recitation หมายถึงอะไร?",
+    "de": "### Was bedeutet hier Rezitation?",
+    "fr": "### Que signifie la récitation ici ?",
+    "tr": "### Burada recitation ne demek?"
+  },
+  "### What is Ask Mozi?": {
+    "ja": "### Ask Mozi とは？",
+    "ko": "### Ask Mozi란?",
+    "ru": "### Что такое Ask Mozi?",
+    "th": "### Ask Mozi คืออะไร?",
+    "de": "### Was ist Ask Mozi?",
+    "fr": "### Qu’est-ce qu’Ask Mozi ?",
+    "tr": "### Ask Mozi nedir?"
+  },
+  "### What is Daily Passage?": {
+    "ja": "### Daily Passage とは？",
+    "ko": "### Daily Passage란?",
+    "ru": "### Что такое Daily Passage?",
+    "th": "### Daily Passage คืออะไร?",
+    "de": "### Was ist Daily Passage?",
+    "fr": "### Qu’est-ce que Daily Passage ?",
+    "tr": "### Daily Passage nedir?"
+  },
+  "### What is Daily Saying?": {
+    "ja": "### Daily Saying とは？",
+    "ko": "### Daily Saying이란?",
+    "ru": "### Что такое Daily Saying?",
+    "th": "### Daily Saying คืออะไร?",
+    "de": "### Was ist Daily Saying?",
+    "fr": "### Qu’est-ce que Daily Saying ?",
+    "tr": "### Daily Saying nedir?"
+  },
+  "### What is Daily Stratagem?": {
+    "ja": "### Daily Stratagem とは？",
+    "ko": "### Daily Stratagem이란?",
+    "ru": "### Что такое Daily Stratagem?",
+    "th": "### Daily Stratagem คืออะไร?",
+    "de": "### Was ist Daily Stratagem?",
+    "fr": "### Qu’est-ce que Daily Stratagem ?",
+    "tr": "### Daily Stratagem nedir?"
+  },
+  "### What is Daily Study?": {
+    "ja": "### Daily Study とは？",
+    "ko": "### Daily Study란?",
+    "ru": "### Что такое Daily Study?",
+    "th": "### Daily Study คืออะไร?",
+    "de": "### Was ist Daily Study?",
+    "fr": "### Qu’est-ce que Daily Study ?",
+    "tr": "### Daily Study nedir?"
+  },
+  "### What is Daily Surname?": {
+    "ja": "### Daily Surname とは？",
+    "ko": "### Daily Surname이란?",
+    "ru": "### Что такое Daily Surname?",
+    "th": "### Daily Surname คืออะไร?",
+    "de": "### Was ist Daily Surname?",
+    "fr": "### Qu’est-ce que Daily Surname ?",
+    "tr": "### Daily Surname nedir?"
+  },
+  "### What is Today’s Essay?": {
+    "ja": "### Today’s Essay とは？",
+    "ko": "### Today’s Essay란?",
+    "ru": "### Что такое Today’s Essay?",
+    "th": "### Today’s Essay คืออะไร?",
+    "de": "### Was ist Today’s Essay?",
+    "fr": "### Qu’est-ce que Today’s Essay ?",
+    "tr": "### Today’s Essay nedir?"
+  },
+  "### What is Today’s Mo?": {
+    "ja": "### Today’s Mo とは？",
+    "ko": "### Today’s Mo란?",
+    "ru": "### Что такое Today’s Mo?",
+    "th": "### Today’s Mo คืออะไร?",
+    "de": "### Was ist Today’s Mo?",
+    "fr": "### Qu’est-ce que Today’s Mo ?",
+    "tr": "### Today’s Mo nedir?"
+  },
+  "### What is Today’s Rhyme?": {
+    "ja": "### Today’s Rhyme とは？",
+    "ko": "### Today’s Rhyme란?",
+    "ru": "### Что такое Today’s Rhyme?",
+    "th": "### Today’s Rhyme คืออะไร?",
+    "de": "### Was ist Today’s Rhyme?",
+    "fr": "### Qu’est-ce que Today’s Rhyme ?",
+    "tr": "### Today’s Rhyme nedir?"
+  },
+  "### What is Today’s Wisdom?": {
+    "ja": "### Today’s Wisdom とは？",
+    "ko": "### Today’s Wisdom란?",
+    "ru": "### Что такое Today’s Wisdom?",
+    "th": "### Today’s Wisdom คืออะไร?",
+    "de": "### Was ist Today’s Wisdom?",
+    "fr": "### Qu’est-ce que Today’s Wisdom ?",
+    "tr": "### Today’s Wisdom nedir?"
+  },
+  "### What is parallelism visualization?": {
+    "ja": "### 対仗の可視化とは？",
+    "ko": "### parallelism visualization이란?",
+    "ru": "### Что такое parallelism visualization?",
+    "th": "### parallelism visualization คืออะไร?",
+    "de": "### Was ist Parallelism Visualization?",
+    "fr": "### Qu’est-ce que la parallelism visualization ?",
+    "tr": "### Parallelism visualization nedir?"
+  }
+}

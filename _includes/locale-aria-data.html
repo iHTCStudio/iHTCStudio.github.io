@@ -1,0 +1,11 @@
+{%- comment -%}
+Emit data-aria-label-{code} attributes for client-side aria sync (main.js).
+Usage: {% include locale-aria-data.html section="collections_page" key="filter_label" %}
+{%- endcomment -%}
+{%- assign sec = include.section -%}
+{%- assign key = include.key -%}
+{%- for L in site.languages -%}
+{%- assign bundle = site.data.i18n[L.code] -%}
+{%- assign val = bundle[sec][key] -%}
+ data-aria-label-{{ L.code }}="{{ val | escape }}"
+{%- endfor -%}

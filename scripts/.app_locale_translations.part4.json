@@ -1,0 +1,594 @@
+{
+  "iXin": {
+    "ja": {
+      "taglines": "知行合一 — 対訳リーディング・ジャーナル・心学。",
+      "blurbs": "オフラインの陽明学アトリエ：『伝習録』『大学問』、龍場の教え、詩と年譜から102章。現代語訳・英訳、知行ジャーナル、今日の一悟、音読、学習、ウィジェットとSiri対応 — アカウント不要、広告なし。",
+      "highlights": ["102章", "知行ジャーナル", "心学", "今日の一悟"]
+    },
+    "ko": {
+      "taglines": "지행합일 — 대역 읽기, 저널, 심학.",
+      "blurbs": "오프라인 양명학 스튜디오: 『전습록』, 『대학문』, 용장 가르침, 시와 연보에서 102개 구절. 현대어·영어 번역, 지행 저널, 오늘의 깨달음, 낭송, 학습, 위젯과 Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["102개 구절", "지행 저널", "심학", "오늘의 깨달음"]
+    },
+    "ru": {
+      "taglines": "Единство знания и действия — билингвальное чтение, дневник и школа сердца.",
+      "blurbs": "Офлайн-студия Ван Янмина: 102 фрагмента из «Чуаньси лу», «Вопросов о Великом учении», наставлений Лунчана, стихов и хроники. Современный китайский и английский, дневник «знание — действие», «Озарение дня», заучивание, изучение, виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": ["102 фрагмента", "Дневник знания и действия", "Школа сердца", "Озарение дня"]
+    },
+    "th": {
+      "taglines": "ความรู้และการกระทำเป็นหนึ่งเดียว — อ่านสองภาษา บันทึก และสำนักแห่งใจ",
+      "blurbs": "สตูดิโอหยางหมิงแบบออฟไลน์: 102 บทจาก «ชวนซีลู่» «ต้าเสวียเวิ่น» คำสอนหลงชาง บทกวีและประวัติ พร้อมคำแปลภาษาจีนปัจจุบันและอังกฤษ บันทึกความรู้-การกระทำ ข้อคิดประจำวัน ท่องจำ เรียนรู้ วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["102 บท", "บันทึกความรู้-การกระทำ", "สำนักแห่งใจ", "ข้อคิดประจำวัน"]
+    },
+    "de": {
+      "taglines": "Wissen und Handeln als Einheit — zweisprachig lesen, Journal & Herzschule.",
+      "blurbs": "Offline-Studio zu Wang Yangming: 102 Passagen aus dem Chuanxilu, den Fragen zum Großen Lernen, den Longchang-Lehren, Gedichten und Annalen. Moderne chinesische und englische Fassung, Journal zu Wissen und Handeln, Tagesimpuls, Rezitieren, Lernen, Widgets & Siri — ohne Konto, ohne Werbung.",
+      "highlights": ["102 Passagen", "Journal Wissen & Handeln", "Herzschule", "Tagesimpuls"]
+    },
+    "fr": {
+      "taglines": "Savoir et agir ne font qu'un — lecture bilingue, journal et École du cœur.",
+      "blurbs": "Atelier Wang Yangming hors ligne : 102 passages du Chuanxilu, des Questions sur la Grande Étude, des enseignements de Longchang, poèmes et annales. Version chinoise moderne et anglaise, journal Savoir-Agir, Éclairage du jour, récitation, étude, widgets et Siri — sans compte, sans publicité.",
+      "highlights": ["102 passages", "Journal Savoir-Agir", "École du cœur", "Éclairage du jour"]
+    },
+    "tr": {
+      "taglines": "Bilmek ve eylemek bir — iki dilli okuma, günlük ve Kalp Okulu.",
+      "blurbs": "Çevrimdışı Wang Yangming atölyesi: Chuanxilu, Büyük Öğrenim Üzerine Sorular, Longchang öğütleri, şiirler ve yıllıklardan 102 pasaj. Güncel Çince ve İngilizce, Bilgi-Eylem günlüğü, Günün İlhamı, ezberleme, çalışma, widget'lar ve Siri — hesap yok, reklam yok.",
+      "highlights": ["102 pasaj", "Bilgi-Eylem günlüğü", "Kalp Okulu", "Günün İlhamı"]
+    }
+  },
+  "iZhuangZi": {
+    "ja": {
+      "taglines": "一日一章の荘子 — 対訳リーディング・寓話・道の学び。",
+      "blurbs": "オフラインの荘子アトリエ：内篇・外篇・雑篇の全33篇、701段を現代語訳とレッグ英訳で収録。寓話、荘子に問う、音読、学習、今日の荘子、ウィジェットとSiri対応 — アカウント不要、広告なし。",
+      "highlights": ["荘子全33篇", "毎日更新", "荘子に問う", "道の学び"]
+    },
+    "ko": {
+      "taglines": "하루 한 편의 장자 — 대역 읽기, 우화, 도 공부.",
+      "blurbs": "오프라인 장자 스튜디오: 내편·외편·잡편 전 33편, 701개 단락을 현대어와 레게 영역으로 수록. 우화, 장자에게 묻기, 낭송, 학습, 오늘의 장자, 위젯과 Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["장자 33편", "매일 갱신", "장자에게 묻기", "도 공부"]
+    },
+    "ru": {
+      "taglines": "Один фрагмент Чжуанцзы — билингвальное чтение, притчи и изучение Дао.",
+      "blurbs": "Офлайн-студия Чжуанцзы: все 33 главы (внутренние, внешние, смешанные), 701 абзац с современным китайским и английским переводом Легга. Притчи, «Спроси Чжуанцзы», заучивание, изучение, «Чжуанцзы дня», виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": ["33 главы Чжуанцзы", "Ежедневное обновление", "Спроси Чжуанцзы", "Изучение Дао"]
+    },
+    "th": {
+      "taglines": "จวงจื่อวันละตอน — อ่านสองภาษา อุปมานิทัศน์ และการศึกษาเต๋า",
+      "blurbs": "สตูดิโอจวงจื่อแบบออฟไลน์: ครบ 33 บท ทั้งบทใน บทนอก และบทเบ็ดเตล็ด 701 ย่อหน้า พร้อมคำแปลจีนปัจจุบันและอังกฤษของเลกก์ อุปมานิทัศน์ ถามจวงจื่อ ท่องจำ เรียนรู้ จวงจื่อประจำวัน วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["จวงจื่อ 33 บท", "อัปเดตทุกวัน", "ถามจวงจื่อ", "ศึกษาเต๋า"]
+    },
+    "de": {
+      "taglines": "Eine Passage Zhuangzi — zweisprachig lesen, Gleichnisse & Dao-Studium.",
+      "blurbs": "Offline-Zhuangzi-Studio: alle 33 Kapitel (innere, äußere, gemischte), 701 Absätze mit moderner chinesischer und englischer Fassung nach Legge. Gleichnisse, Zhuangzi befragen, Rezitieren, Lernen, Zhuangzi des Tages, Widgets & Siri — ohne Konto, ohne Werbung.",
+      "highlights": ["33 Zhuangzi-Kapitel", "Täglich neu", "Zhuangzi befragen", "Dao-Studium"]
+    },
+    "fr": {
+      "taglines": "Un passage de Zhuangzi — lecture bilingue, paraboles et étude du Dao.",
+      "blurbs": "Atelier Zhuangzi hors ligne : les 33 chapitres (intérieurs, extérieurs, divers), 701 paragraphes avec version chinoise moderne et traduction anglaise de Legge. Paraboles, Interroger Zhuangzi, récitation, étude, Zhuangzi du jour, widgets et Siri — sans compte, sans publicité.",
+      "highlights": ["33 chapitres de Zhuangzi", "Renouvelé chaque jour", "Interroger Zhuangzi", "Étude du Dao"]
+    },
+    "tr": {
+      "taglines": "Zhuangzi'den bir pasaj — iki dilli okuma, meseller ve Dao çalışması.",
+      "blurbs": "Çevrimdışı Zhuangzi atölyesi: İç, Dış ve Karma bölümlerin tamamı olan 33 bölüm, 701 paragraf; güncel Çince ve Legge'in İngilizce çevirisiyle. Meseller, Zhuangzi'ye Sor, ezberleme, çalışma, Günün Zhuangzi'si, widget'lar ve Siri — hesap yok, reklam yok.",
+      "highlights": ["33 Zhuangzi bölümü", "Günlük yenileme", "Zhuangzi'ye Sor", "Dao Çalışması"]
+    }
+  },
+  "iGuanZhi": {
+    "ja": {
+      "taglines": "古文観止 — 寓話の読み解き・文体辞典・長編ガイド。",
+      "blurbs": "オフラインで精読する『古文観止』：222篇に、逸話の読み方、文体辞典、長編の分類ガイドを付属。音読、古典学習、名文ハント、今日の一篇、ウィジェットとSiri対応 — 完全オフライン、アカウント不要、広告なし。",
+      "highlights": ["222篇", "寓話の読み解き", "文体辞典", "今日の一篇"]
+    },
+    "ko": {
+      "taglines": "고문관지 — 우화 읽기 요령, 문체 사전, 긴 분류 가이드.",
+      "blurbs": "오프라인으로 정독하는 『고문관지』: 222편에 일화 읽기 요령, 문체 사전, 긴 분류 탐색 가이드를 더했습니다. 낭송, 고전 학습, 명문 찾기, 오늘의 글, 위젯과 Siri 지원 — 완전 오프라인, 계정 불필요, 광고 없음.",
+      "highlights": ["222편", "우화 읽기 요령", "문체 사전", "오늘의 글"]
+    },
+    "ru": {
+      "taglines": "Гувэнь гуаньчжи — как читать притчи, словарь жанров и подробные путеводители.",
+      "blurbs": "Внимательное офлайн-чтение «Гувэнь гуаньчжи»: 222 эссе с подсказками по анекдотам, словарём жанров и длинными тематическими путеводителями. Заучивание, изучение классики, поиск эссе, «Эссе дня», виджеты и Siri — полностью офлайн, без аккаунта и рекламы.",
+      "highlights": ["222 эссе", "Как читать притчи", "Словарь жанров", "Эссе дня"]
+    },
+    "th": {
+      "taglines": "กู่เหวินกวนจื่อ — วิธีอ่านนิทานเปรียบเทียบ พจนานุกรมรูปแบบ และคู่มือหมวดหมู่ฉบับยาว",
+      "blurbs": "อ่านกู่เหวินกวนจื่ออย่างละเอียดแบบออฟไลน์: 222 บทความ พร้อมวิธีอ่านเรื่องเล่า พจนานุกรมรูปแบบงานเขียน และคู่มือเรียกดูตามหมวด ท่องจำ ศึกษาคัมภีร์ ค้นบทความ บทความประจำวัน วิดเจ็ตและ Siri — ออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["222 บทความ", "วิธีอ่านนิทาน", "พจนานุกรมรูปแบบ", "บทความประจำวัน"]
+    },
+    "de": {
+      "taglines": "Guwen Guanzhi — Fabeln erschließen, Gattungslexikon & lange Kategorienführer.",
+      "blurbs": "Offline-Nahlektüre des Guwen Guanzhi: 222 Essays mit Leseanleitung für Anekdoten, Gattungslexikon und langen Übersichtsführern. Rezitieren, Klassikerstudium, Essay-Jagd, Essay des Tages, Widgets & Siri — komplett offline, ohne Konto, ohne Werbung.",
+      "highlights": ["222 Essays", "Fabeln erschließen", "Gattungslexikon", "Essay des Tages"]
+    },
+    "fr": {
+      "taglines": "Guwen Guanzhi — lire les fables, lexique des genres et longs guides par catégorie.",
+      "blurbs": "Lecture attentive du Guwen Guanzhi hors ligne : 222 essais avec méthode pour les anecdotes, lexique des genres et longs guides de navigation. Récitation, étude des classiques, chasse aux essais, Essai du jour, widgets et Siri — entièrement hors ligne, sans compte, sans publicité.",
+      "highlights": ["222 essais", "Lire les fables", "Lexique des genres", "Essai du jour"]
+    },
+    "tr": {
+      "taglines": "Guwen Guanzhi — fabl okuma rehberi, tür sözlüğü ve uzun kategori kılavuzları.",
+      "blurbs": "Çevrimdışı Guwen Guanzhi yakın okuması: 222 deneme; anekdot okuma rehberi, tür sözlüğü ve uzun gezinti kılavuzlarıyla. Ezberleme, Klasik Çalışması, Deneme Avı, Günün Denemesi, widget'lar ve Siri — tamamen çevrimdışı, hesap yok, reklam yok.",
+      "highlights": ["222 deneme", "Fabl okuma rehberi", "Tür sözlüğü", "Günün Denemesi"]
+    }
+  },
+  "iHanFei": {
+    "ja": {
+      "taglines": "韓非子 — 寓話の実践読解・法家学習・毎日のランダム一篇。",
+      "blurbs": "オフラインの韓非子：全55篇、実践的な読み方付きの寓話85編、47の概念を収録。賢く更新される今日の策、ランダム一篇、法家学習、ウィジェット対応 — アカウント不要、広告なし。",
+      "highlights": ["全55篇", "寓話の読み方", "ランダム一篇", "毎日更新"]
+    },
+    "ko": {
+      "taglines": "한비자 — 우화 활용법, 법가 공부, 매일 무작위 한 편.",
+      "blurbs": "오프라인 한비자: 55편, 실용 해설이 담긴 우화 85편, 47개 개념 수록. 더 똑똑하게 갱신되는 오늘의 책략, 무작위 편, 법가 공부, 위젯 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["55편", "우화 활용법", "무작위 편", "매일 갱신"]
+    },
+    "ru": {
+      "taglines": "Хань Фэйцзы — практикум по притчам, изучение легизма и случайная глава дня.",
+      "blurbs": "Хань Фэйцзы офлайн: 55 глав, 85 притч с практическими пояснениями, 47 понятий. «Стратагема дня» с умным обновлением, случайная глава, изучение легизма и виджеты — без аккаунта и рекламы.",
+      "highlights": ["55 глав", "Практикум по притчам", "Случайная глава", "Ежедневное обновление"]
+    },
+    "th": {
+      "taglines": "หานเฟยจื่อ — วิธีใช้นิทานเปรียบเทียบ ศึกษาสำนักนิตินิยม และสุ่มบทประจำวัน",
+      "blurbs": "หานเฟยจื่อแบบออฟไลน์: 55 บท นิทาน 85 เรื่องพร้อมแนวทางนำไปใช้ และ 47 แนวคิด กลยุทธ์ประจำวันที่รีเฟรชอย่างชาญฉลาด สุ่มบท ศึกษาสำนักนิตินิยม และวิดเจ็ต — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["55 บท", "วิธีใช้นิทาน", "สุ่มบท", "รีเฟรชทุกวัน"]
+    },
+    "de": {
+      "taglines": "Han Feizi — Fabeln praktisch erschließen, Legalismus-Studium & Zufallskapitel des Tages.",
+      "blurbs": "Han Feizi offline: 55 Kapitel, 85 Fabeln mit praktischer Anleitung, 47 Begriffe. Strategem des Tages mit klügerer Aktualisierung, Zufallskapitel, Legalismus-Studium & Widgets — ohne Konto, ohne Werbung.",
+      "highlights": ["55 Kapitel", "Fabeln praktisch", "Zufallskapitel", "Täglich neu"]
+    },
+    "fr": {
+      "taglines": "Han Feizi — fables mode d'emploi, étude du légisme et chapitre aléatoire du jour.",
+      "blurbs": "Han Feizi hors ligne : 55 chapitres, 85 fables avec conseils pratiques, 47 concepts. Stratagème du jour à actualisation plus intelligente, chapitre aléatoire, étude du légisme et widgets — sans compte, sans publicité.",
+      "highlights": ["55 chapitres", "Fables mode d'emploi", "Chapitre aléatoire", "Renouvelé chaque jour"]
+    },
+    "tr": {
+      "taglines": "Han Feizi — fabllar için uygulama rehberi, Legalizm Çalışması ve günlük rastgele bölüm.",
+      "blurbs": "Çevrimdışı Han Feizi: 55 bölüm, uygulamalı rehberli 85 fabl, 47 kavram. Daha akıllı yenilenen Günün Stratejisi, rastgele bölüm, Legalizm Çalışması ve widget'lar — hesap yok, reklam yok.",
+      "highlights": ["55 bölüm", "Fabl rehberi", "Rastgele bölüm", "Günlük yenileme"]
+    }
+  },
+  "iLvShi": {
+    "ja": {
+      "taglines": "一季一章 — 四層読解と暦。",
+      "blurbs": "オフラインの呂氏春秋アトリエ：160章に高誘注、現代語訳、英訳を付属。暦ウィジェット、春秋学習、今日の一章、ウィジェットとSiri対応 — アカウント不要、広告なし。",
+      "highlights": ["160章", "高誘注", "暦", "今日の一章"]
+    },
+    "ko": {
+      "taglines": "한 계절에 한 구절 — 4층 읽기와 절기력.",
+      "blurbs": "오프라인 여씨춘추 스튜디오: 160개 구절에 고유 주석, 현대어, 영어 번역을 더했습니다. 절기력 위젯, 춘추 학습, 오늘의 구절, 위젯과 Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["160개 구절", "고유 주석", "절기력", "오늘의 구절"]
+    },
+    "ru": {
+      "taglines": "Сезон — фрагмент: четырёхслойное чтение и календарь.",
+      "blurbs": "Офлайн-студия «Люйши чуньцю»: 160 фрагментов с комментариями Гао Ю, переводом на современный китайский и английский. Виджет календаря, изучение «Весен и осеней», «Фрагмент дня», виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": ["160 фрагментов", "Комментарии Гао Ю", "Календарь", "Фрагмент дня"]
+    },
+    "th": {
+      "taglines": "หนึ่งฤดูหนึ่งตอน — อ่านสี่ชั้นและปฏิทินตามฤดู",
+      "blurbs": "สตูดิโอหลี่ชื่อชุนชิวแบบออฟไลน์: 160 ตอน พร้อมอรรถาธิบายของเกาโหยว คำแปลจีนปัจจุบันและอังกฤษ วิดเจ็ตปฏิทิน ศึกษาชุนชิว ตอนประจำวัน วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["160 ตอน", "อรรถาธิบายเกาโหยว", "ปฏิทิน", "ตอนประจำวัน"]
+    },
+    "de": {
+      "taglines": "Eine Jahreszeit, eine Passage — vierschichtiges Lesen & Almanach.",
+      "blurbs": "Offline-Studio zum Lüshi Chunqiu: 160 Passagen mit Gao-You-Kommentar, moderner chinesischer und englischer Fassung. Almanach-Widget, Frühling-Herbst-Studium, Passage des Tages, Widgets & Siri — ohne Konto, ohne Werbung.",
+      "highlights": ["160 Passagen", "Gao-You-Kommentar", "Almanach", "Passage des Tages"]
+    },
+    "fr": {
+      "taglines": "Une saison, un passage — lecture à quatre niveaux et almanach.",
+      "blurbs": "Atelier Lüshi Chunqiu hors ligne : 160 passages avec notes de Gao You, version chinoise moderne et anglaise. Widget almanach, étude Printemps-Automne, Passage du jour, widgets et Siri — sans compte, sans publicité.",
+      "highlights": ["160 passages", "Notes de Gao You", "Almanach", "Passage du jour"]
+    },
+    "tr": {
+      "taglines": "Bir mevsim, bir pasaj — dört katmanlı okuma ve Almanak.",
+      "blurbs": "Çevrimdışı Lüshi Chunqiu atölyesi: Gao You notları, güncel Çince ve İngilizce çevirisiyle 160 pasaj. Almanak widget'ı, İlkbahar-Sonbahar Çalışması, Günün Pasajı, widget'lar ve Siri — hesap yok, reklam yok.",
+      "highlights": ["160 pasaj", "Gao You notları", "Almanak", "Günün Pasajı"]
+    }
+  },
+  "iMencius": {
+    "ja": {
+      "taglines": "一日一孟子 — 比喩・対話・浩然の気の学び。",
+      "blurbs": "オフラインの孟子アトリエ：690章、3549節、比喩と対話マップを収録。音読、浩然の気の学習、義のハント、今日の一言、ウィジェットとSiri対応 — アカウント不要、広告なし。",
+      "highlights": ["690章", "比喩", "浩然の気の学習", "今日の一言"]
+    },
+    "ko": {
+      "taglines": "맹자 한마디 — 비유, 대화, 호연지기 공부.",
+      "blurbs": "오프라인 맹자 스튜디오: 690장, 3549절, 비유와 대화 지도 수록. 낭송, 호연지기 공부, 의(義) 찾기, 오늘의 말씀, 위젯과 Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["690장", "비유", "호연지기 공부", "오늘의 말씀"]
+    },
+    "ru": {
+      "taglines": "Одно изречение Мэнцзы — аналогии, диалоги и изучение воспитания ци.",
+      "blurbs": "Офлайн-студия Мэнцзы: 690 глав, 3549 стихов, карта аналогий и диалогов. Заучивание, изучение воспитания ци, поиск «и» (долга), «Изречение дня», виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": ["690 глав", "Аналогии", "Изучение воспитания ци", "Изречение дня"]
+    },
+    "th": {
+      "taglines": "คำสอนเมิ่งจื่อวันละประโยค — อุปมา บทสนทนา และการบ่มเพาะชี่",
+      "blurbs": "สตูดิโอเมิ่งจื่อแบบออฟไลน์: 690 บท 3,549 วรรค แผนที่อุปมาและบทสนทนา ท่องจำ ศึกษาการบ่มเพาะชี่ ค้นหาหลักอี้ คำสอนประจำวัน วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["690 บท", "อุปมา", "ศึกษาการบ่มเพาะชี่", "คำสอนประจำวัน"]
+    },
+    "de": {
+      "taglines": "Ein Wort des Mengzi — Analogien, Dialoge & Studium der Qi-Pflege.",
+      "blurbs": "Offline-Mencius-Studio: 690 Kapitel, 3549 Verse, Analogien und Dialogkarte. Rezitieren, Studium der Qi-Pflege, Yi-Jagd, Spruch des Tages, Widgets & Siri — ohne Konto, ohne Werbung.",
+      "highlights": ["690 Kapitel", "Analogien", "Studium der Qi-Pflege", "Spruch des Tages"]
+    },
+    "fr": {
+      "taglines": "Une parole de Mencius — analogies, dialogues et étude de la culture du qi.",
+      "blurbs": "Atelier Mencius hors ligne : 690 chapitres, 3549 versets, carte des analogies et des dialogues. Récitation, étude de la culture du qi, chasse au yi, Parole du jour, widgets et Siri — sans compte, sans publicité.",
+      "highlights": ["690 chapitres", "Analogies", "Étude de la culture du qi", "Parole du jour"]
+    },
+    "tr": {
+      "taglines": "Mencius'tan bir söz — benzetmeler, diyaloglar ve Qi Beslemesi Çalışması.",
+      "blurbs": "Çevrimdışı Mencius atölyesi: 690 bölüm, 3549 ayet, benzetme ve diyalog haritası. Ezberleme, Qi Beslemesi Çalışması, Yi Avı, Günün Sözü, widget'lar ve Siri — hesap yok, reklam yok.",
+      "highlights": ["690 bölüm", "Benzetmeler", "Qi Beslemesi Çalışması", "Günün Sözü"]
+    }
+  },
+  "iMoZi": {
+    "ja": {
+      "taglines": "墨子 — 四つの長編ガイド・現代語層・折りたたみ解説。",
+      "blurbs": "オフラインの墨子：十論マップ、墨家の四つの長編ガイド、現代語層、折りたたみ式の解説カード。音読、墨学学習、ハント、今日の墨、ウィジェットとSiri対応 — アカウント不要、広告なし。",
+      "highlights": ["墨子ライブラリ", "四つの長編ガイド", "現代語層", "今日の墨"]
+    },
+    "ko": {
+      "taglines": "묵자 — 네 가지 긴 가이드, 현대어 층, 접이식 소개.",
+      "blurbs": "오프라인 묵자: 십론 지도, 묵가의 긴 가이드 네 편, 현대어 층, 접이식 소개 카드. 낭송, 묵학 공부, 찾기, 오늘의 묵자, 위젯과 Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["묵자 서재", "긴 가이드 네 편", "현대어 층", "오늘의 묵자"]
+    },
+    "ru": {
+      "taglines": "Мо-цзы — четыре больших путеводителя, слой на современном языке и сворачиваемые вступления.",
+      "blurbs": "Мо-цзы офлайн: карта «Десяти тезисов», четыре больших путеводителя по моизму, слой современного перевода и сворачиваемые карточки-введения. Заучивание, изучение мо-цзы, поиск, «Мо-цзы дня», виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": ["Библиотека Мо-цзы", "Четыре больших путеводителя", "Слой современного перевода", "Мо-цзы дня"]
+    },
+    "th": {
+      "taglines": "มั่วจื่อ — คู่มือยาวสี่ชุด ชั้นภาษาปัจจุบัน และคำนำแบบพับได้",
+      "blurbs": "มั่วจื่อแบบออฟไลน์: แผนที่สิบทฤษฎี คู่มือยาวสี่ชุดของสำนักม่อ ชั้นภาษาจีนปัจจุบัน และการ์ดแนะนำแบบพับได้ ท่องจำ ศึกษามั่วจื่อ ค้นหา มั่วจื่อประจำวัน วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["คลังมั่วจื่อ", "คู่มือยาวสี่ชุด", "ชั้นภาษาปัจจุบัน", "มั่วจื่อประจำวัน"]
+    },
+    "de": {
+      "taglines": "Mozi — vier lange Leitfäden, moderne Sprachschicht & aufklappbare Einführungen.",
+      "blurbs": "Mozi offline: Karte der Zehn Thesen, vier lange mohistische Leitfäden, moderne Sprachschicht und aufklappbare Einführungskarten. Rezitieren, Mozi-Studium, Jagd, Mozi des Tages, Widgets & Siri — ohne Konto, ohne Werbung.",
+      "highlights": ["Mozi-Bibliothek", "Vier lange Leitfäden", "Moderne Sprachschicht", "Mozi des Tages"]
+    },
+    "fr": {
+      "taglines": "Mozi — quatre longs guides, couche en chinois moderne et introductions repliables.",
+      "blurbs": "Mozi hors ligne : carte des Dix Thèses, quatre longs guides mohistes, couche en chinois moderne et cartes d'introduction repliables. Récitation, étude de Mozi, chasse, Mozi du jour, widgets et Siri — sans compte, sans publicité.",
+      "highlights": ["Bibliothèque Mozi", "Quatre longs guides", "Couche en chinois moderne", "Mozi du jour"]
+    },
+    "tr": {
+      "taglines": "Mozi — dört uzun rehber, güncel dil katmanı ve katlanabilir girişler.",
+      "blurbs": "Çevrimdışı Mozi: On Tez haritası, dört uzun Mohist rehber, güncel dil katmanı ve katlanabilir giriş kartları. Ezberleme, Mo Çalışması, Av, Günün Mozi'si, widget'lar ve Siri — hesap yok, reklam yok.",
+      "highlights": ["Mozi kütüphanesi", "Dört uzun rehber", "Güncel dil katmanı", "Günün Mozi'si"]
+    }
+  },
+  "iXunZi": {
+    "ja": {
+      "taglines": "荀子 — 概念・成語辞典、対訳リーディング、学習。",
+      "blurbs": "オフラインの荀子アトリエ：概念辞典と成語辞典が対訳リーディングの学びを深めます。音読、学府学習、ハント、今日の荀、ウィジェットとSiri対応 — アカウント不要、広告なし。",
+      "highlights": ["荀子ライブラリ", "概念辞典", "成語辞典", "今日の荀"]
+    },
+    "ko": {
+      "taglines": "순자 — 개념·성어 사전, 대역 읽기, 학습.",
+      "blurbs": "오프라인 순자 스튜디오: 개념 사전과 성어 사전이 대역 읽기와 함께 공부를 깊게 해 줍니다. 낭송, 학원 공부, 찾기, 오늘의 순자, 위젯과 Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["순자 서재", "개념 사전", "성어 사전", "오늘의 순자"]
+    },
+    "ru": {
+      "taglines": "Сюньцзы — словари понятий и идиом, билингвальное чтение и изучение.",
+      "blurbs": "Офлайн-студия Сюньцзы: словари понятий и идиом углубляют изучение наряду с билингвальным чтением. Заучивание, изучение в академии, поиск, «Сюньцзы дня», виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": ["Библиотека Сюньцзы", "Словарь понятий", "Словарь идиом", "Сюньцзы дня"]
+    },
+    "th": {
+      "taglines": "สวินจื่อ — พจนานุกรมแนวคิดและสำนวน อ่านสองภาษา และการศึกษา",
+      "blurbs": "สตูดิโอสวินจื่อแบบออฟไลน์: พจนานุกรมแนวคิดและสำนวนช่วยให้เรียนลึกขึ้นควบคู่การอ่านสองภาษา ท่องจำ ศึกษาในสำนัก ค้นหา สวินจื่อประจำวัน วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["คลังสวินจื่อ", "พจนานุกรมแนวคิด", "พจนานุกรมสำนวน", "สวินจื่อประจำวัน"]
+    },
+    "de": {
+      "taglines": "Xunzi — Begriffs- & Idiomlexika, zweisprachig lesen & Studium.",
+      "blurbs": "Offline-Xunzi-Studio: Begriffs- und Idiomlexika vertiefen das Studium neben der zweisprachigen Lektüre. Rezitieren, Akademie-Studium, Jagd, Xunzi des Tages, Widgets & Siri — ohne Konto, ohne Werbung.",
+      "highlights": ["Xunzi-Bibliothek", "Begriffslexikon", "Idiomlexikon", "Xunzi des Tages"]
+    },
+    "fr": {
+      "taglines": "Xunzi — lexiques de concepts et d'expressions, lecture bilingue et étude.",
+      "blurbs": "Atelier Xunzi hors ligne : les lexiques de concepts et d'expressions approfondissent l'étude à côté de la lecture bilingue. Récitation, étude à l'Académie, chasse, Xunzi du jour, widgets et Siri — sans compte, sans publicité.",
+      "highlights": ["Bibliothèque Xunzi", "Lexique de concepts", "Lexique d'expressions", "Xunzi du jour"]
+    },
+    "tr": {
+      "taglines": "Xunzi — kavram ve deyim sözlükleri, iki dilli okuma ve Çalışma.",
+      "blurbs": "Çevrimdışı Xunzi atölyesi: kavram ve deyim sözlükleri, iki dilli okumanın yanında çalışmayı derinleştirir. Ezberleme, Akademi Çalışması, Av, Günün Xunzi'si, widget'lar ve Siri — hesap yok, reklam yok.",
+      "highlights": ["Xunzi kütüphanesi", "Kavram sözlüğü", "Deyim sözlüğü", "Günün Xunzi'si"]
+    }
+  },
+  "iBrowser": {
+    "ja": {
+      "taglines": "真のフルスクリーンブラウザ — ウィジェット、ショートカット、子供ロック。",
+      "blurbs": "iPhone・iPadで没入ブラウジング：フロートボール、ホーム/ロック画面ウィジェット、SiriとShortcuts、ブックマーク用の任意のiCloud。子供ロックでページを固定。広告なし、ポップアップなし。",
+      "highlights": ["ウィジェットとショートカット", "フロートボール", "子供ロック", "任意のiCloud"]
+    },
+    "ko": {
+      "taglines": "진정한 전체 화면 브라우저 — 위젯, 단축어, 자녀 잠금.",
+      "blurbs": "iPhone·iPad에서 몰입형 브라우징: 플로트 볼, 홈/잠금 화면 위젯, Siri와 단축어, 북마크용 선택적 iCloud. 자녀 잠금으로 페이지를 고정합니다. 광고 없음, 팝업 없음.",
+      "highlights": ["위젯과 단축어", "플로트 볼", "자녀 잠금", "선택적 iCloud"]
+    },
+    "ru": {
+      "taglines": "Настоящий полноэкранный браузер — виджеты, «Команды», детский замок.",
+      "blurbs": "Погружение в просмотр на iPhone и iPad: плавающий шар, виджеты экрана «Домой» и блокировки, Siri и «Команды», необязательный iCloud для закладок. Детский замок фиксирует страницу. Без рекламы и всплывающих окон.",
+      "highlights": ["Виджеты и «Команды»", "Плавающий шар", "Детский замок", "Необязательный iCloud"]
+    },
+    "th": {
+      "taglines": "เบราว์เซอร์เต็มหน้าจอจริง — วิดเจ็ต คำสั่งลัด และล็อกเด็ก",
+      "blurbs": "เรียกดูเว็บแบบดื่มด่ำบน iPhone และ iPad: ลูกบอลลอย วิดเจ็ตหน้าจอโฮม/ล็อก Siri และคำสั่งลัด iCloud เสริมสำหรับบุ๊กมาร์ก ล็อกเด็กตรึงหน้าเว็บไว้ ไม่มีโฆษณา ไม่มีป๊อปอัป",
+      "highlights": ["วิดเจ็ตและคำสั่งลัด", "ลูกบอลลอย", "ล็อกเด็ก", "iCloud เสริม"]
+    },
+    "de": {
+      "taglines": "Echter Vollbild-Browser — Widgets, Kurzbefehle, Kindersperre.",
+      "blurbs": "Immersives Surfen auf iPhone & iPad: Schwebekugel, Widgets für Home- und Sperrbildschirm, Siri & Kurzbefehle, optionales iCloud für Lesezeichen — die Kindersperre hält die Seite fest. Keine Werbung, keine Pop-ups.",
+      "highlights": ["Widgets & Kurzbefehle", "Schwebekugel", "Kindersperre", "Optionales iCloud"]
+    },
+    "fr": {
+      "taglines": "Vrai navigateur plein écran — widgets, Raccourcis, verrou enfant.",
+      "blurbs": "Navigation immersive sur iPhone et iPad : bulle flottante, widgets écran d'accueil/verrouillé, Siri et Raccourcis, iCloud optionnel pour les favoris — le verrou enfant fixe la page. Sans publicité, sans pop-up.",
+      "highlights": ["Widgets et Raccourcis", "Bulle flottante", "Verrou enfant", "iCloud optionnel"]
+    },
+    "tr": {
+      "taglines": "Gerçek tam ekran tarayıcı — widget'lar, Kestirmeler, çocuk kilidi.",
+      "blurbs": "iPhone ve iPad'de sürükleyici gezinme: yüzen top, Ana/Kilit ekranı widget'ları, Siri ve Kestirmeler, yer imleri için isteğe bağlı iCloud — çocuk kilidi sayfayı sabit tutar. Reklam yok, açılır pencere yok.",
+      "highlights": ["Widget'lar ve Kestirmeler", "Yüzen top", "Çocuk kilidi", "İsteğe bağlı iCloud"]
+    }
+  },
+  "iBianQue": {
+    "ja": {
+      "taglines": "難経の問診 — 四診・図譜・文化学習。",
+      "blurbs": "オフラインの扁鵲工房：『史記』の列伝、八十一難、四診の場面、2D経絡図譜。今日の術、鵲学習、ウィジェットとSiri対応 — 文化学習用であり、医療アドバイスではありません。",
+      "highlights": ["八十一難", "四診", "経絡図譜", "今日の術"]
+    },
+    "ko": {
+      "taglines": "난경 문진 — 사진, 도보, 문화 공부.",
+      "blurbs": "오프라인 편작 공방: 『사기』 열전, 81난, 사진 장면, 2D 경락 도보. 오늘의 의술, 작 공부, 위젯과 Siri 지원 — 문화 학습용이며 의학적 조언이 아닙니다.",
+      "highlights": ["81난", "사진(四診)", "경락 도보", "오늘의 의술"]
+    },
+    "ru": {
+      "taglines": "Наньцзин: расспрос — четыре метода диагностики, атлас и культурное изучение.",
+      "blurbs": "Офлайн-мастерская Бянь Цюэ: биография из «Ши цзи», 81 трудный вопрос, сцены четырёх методов диагностики и 2D-атлас меридианов. «Искусство дня», изучение Цюэ, виджеты и Siri — культурное изучение, а не медицинская рекомендация.",
+      "highlights": ["81 трудный вопрос", "Четыре метода диагностики", "Атлас меридианов", "Искусство дня"]
+    },
+    "th": {
+      "taglines": "การซักถามตามหนานจิง — สี่วิธีตรวจ แผนภาพ และการศึกษาวัฒนธรรม",
+      "blurbs": "เวิร์กช็อปเปี่ยนเชวี่ยแบบออฟไลน์: ชีวประวัติจากบันทึกประวัติศาสตร์ 81 ปัญหาแห่งหนานจิง ฉากสี่วิธีตรวจ และแผนภาพเส้นลมปราณ 2 มิติ ศาสตร์ประจำวัน ศึกษาเชวี่ย วิดเจ็ตและ Siri — เพื่อการเรียนรู้วัฒนธรรม ไม่ใช่คำแนะนำทางการแพทย์",
+      "highlights": ["81 ปัญหา", "สี่วิธีตรวจ", "แผนภาพเส้นลมปราณ", "ศาสตร์ประจำวัน"]
+    },
+    "de": {
+      "taglines": "Nan-Jing-Befragung — vier Untersuchungen, Atlas & Kulturstudium.",
+      "blurbs": "Offline-Werkstatt zu Bian Que: Biografie aus dem Shiji, 81 Schwierigkeiten, Szenen der vier Untersuchungen und 2D-Meridianatlas. Kunst des Tages, Que-Studium, Widgets & Siri — Kulturstudium, kein medizinischer Rat.",
+      "highlights": ["81 Schwierigkeiten", "Vier Untersuchungen", "Meridianatlas", "Kunst des Tages"]
+    },
+    "fr": {
+      "taglines": "Interrogatoire du Nan Jing — quatre examens, atlas et étude culturelle.",
+      "blurbs": "Atelier Bian Que hors ligne : biographie du Shiji, 81 Difficultés, scènes des quatre examens et atlas 2D des méridiens. Art du jour, étude de Que, widgets et Siri — étude culturelle, pas un avis médical.",
+      "highlights": ["81 Difficultés", "Quatre examens", "Atlas des méridiens", "Art du jour"]
+    },
+    "tr": {
+      "taglines": "Nan Jing sorgulaması — dört muayene, atlas ve kültürel çalışma.",
+      "blurbs": "Çevrimdışı Bian Que atölyesi: Shiji biyografisi, 81 Zorluk, dört muayene sahneleri ve 2D meridyen atlası. Günün Sanatı, Que Çalışması, widget'lar ve Siri — kültürel çalışmadır, tıbbi tavsiye değildir.",
+      "highlights": ["81 Zorluk", "Dört muayene", "Meridyen atlası", "Günün Sanatı"]
+    }
+  },
+  "iGuige": {
+    "ja": {
+      "taglines": "鬼谷子工房 — 術カード・事例・人を見て語る。",
+      "blurbs": "オフラインの鬼谷子工房：誤用への注意付きの術カード40枚、戦国の事例200件、「人を見て語る」。今日の策、学院、ウィジェットとSiri対応 — 学びのためのアプリであり、営業ツールではありません。",
+      "highlights": ["術カード40枚", "事例200件", "人を見て語る", "今日の策"]
+    },
+    "ko": {
+      "taglines": "귀곡자 공방 — 술 카드, 사례, 상대에 맞게 말하기.",
+      "blurbs": "오프라인 귀곡자 공방: 오용 경고가 담긴 술 카드 40장, 전국시대 사례 200건, 상대에 맞게 말하기. 오늘의 책략, 학원, 위젯과 Siri 지원 — 공부를 위한 앱이며 영업 도구가 아닙니다.",
+      "highlights": ["술 카드 40장", "사례 200건", "상대에 맞게 말하기", "오늘의 책략"]
+    },
+    "ru": {
+      "taglines": "Мастерская Гуйгуцзы — карточки искусств, случаи и «Говори с каждым по-своему».",
+      "blurbs": "Офлайн-мастерская Гуйгуцзы: 40 карточек искусств с предупреждениями о злоупотреблении, 200 случаев эпохи Сражающихся царств и «Говори с каждым по-своему». «Стратагема дня», академия, виджеты и Siri — для изучения, а не для отдела продаж.",
+      "highlights": ["40 карточек искусств", "200 случаев", "Говори с каждым по-своему", "Стратагема дня"]
+    },
+    "th": {
+      "taglines": "เวิร์กช็อปกุ่ยกู่จื่อ — การ์ดศาสตร์ กรณีศึกษา และพูดให้เหมาะกับแต่ละคน",
+      "blurbs": "เวิร์กช็อปกุ่ยกู่จื่อแบบออฟไลน์: การ์ดศาสตร์ 40 ใบพร้อมคำเตือนการใช้ผิด กรณีศึกษายุครัฐศึก 200 เรื่อง และพูดให้เหมาะกับแต่ละคน กลยุทธ์ประจำวัน สำนักศึกษา วิดเจ็ตและ Siri — เพื่อการเรียนรู้ ไม่ใช่เครื่องมือขาย",
+      "highlights": ["การ์ดศาสตร์ 40 ใบ", "200 กรณีศึกษา", "พูดให้เหมาะกับแต่ละคน", "กลยุทธ์ประจำวัน"]
+    },
+    "de": {
+      "taglines": "Guiguzi-Werkstatt — Kunstkarten, Fälle & Jedem angemessen sprechen.",
+      "blurbs": "Offline-Guiguzi-Werkstatt: 40 Kunstkarten mit Warnhinweisen vor Missbrauch, 200 Fälle der Streitenden Reiche und „Jedem angemessen sprechen“. Strategie des Tages, Akademie, Widgets & Siri — zum Studium, kein Verkaufstisch.",
+      "highlights": ["40 Kunstkarten", "200 Fälle", "Jedem angemessen sprechen", "Strategie des Tages"]
+    },
+    "fr": {
+      "taglines": "Atelier Guiguzi — cartes d'art, cas et Parler à chacun selon sa nature.",
+      "blurbs": "Atelier Guiguzi hors ligne : 40 cartes d'art avec mises en garde contre les abus, 200 cas des Royaumes combattants et Parler à chacun selon sa nature. Stratégie du jour, académie, widgets et Siri — pour étudier, pas un bureau de vente.",
+      "highlights": ["40 cartes d'art", "200 cas", "Parler à chacun", "Stratégie du jour"]
+    },
+    "tr": {
+      "taglines": "Guiguzi atölyesi — sanat kartları, vakalar ve Herkese Uygun Konuşma.",
+      "blurbs": "Çevrimdışı Guiguzi atölyesi: kötüye kullanım uyarılı 40 sanat kartı, Savaşan Devletler dönemine ait 200 vaka ve Herkese Uygun Konuşma. Günün Stratejisi, akademi, widget'lar ve Siri — çalışma içindir, satış masası değildir.",
+      "highlights": ["40 sanat kartı", "200 vaka", "Herkese Uygun Konuşma", "Günün Stratejisi"]
+    }
+  },
+  "iLiezi": {
+    "ja": {
+      "taglines": "135話で読む列子 — 寓話・虚風命・今日の列子。",
+      "blurbs": "『列子』を丸ごとオフラインで：135の物語単位、愚公・風に乗る・斉の人、そして虚・風・命のグラフ。今日の列子、列子学習、ウィジェットとSiri対応 — 名言集ではなく、一冊のテキストとして。",
+      "highlights": ["135の物語単位", "寓話の間", "虚・風・命", "今日の列子"]
+    },
+    "ko": {
+      "taglines": "135개 단위로 읽는 열자 — 우화, 허·풍·명, 오늘의 열자.",
+      "blurbs": "『열자』 전체를 오프라인으로: 135개 이야기 단위, 우공·바람 타기·제나라 사람, 그리고 허·풍·명 그래프. 오늘의 열자, 열자 공부, 위젯과 Siri 지원 — 명언 모음이 아닌 하나의 텍스트입니다.",
+      "highlights": ["135개 이야기 단위", "우화관", "허·풍·명", "오늘의 열자"]
+    },
+    "ru": {
+      "taglines": "Ле-цзы в 135 фрагментах — притчи, пустота—ветер—судьба и «Ле-цзы дня».",
+      "blurbs": "Полный «Ле-цзы» офлайн: 135 сюжетных единиц, Юй Гун, езда на ветре, человек из Ци и граф «пустота—ветер—судьба». «Ле-цзы дня», изучение Ле-цзы, виджеты и Siri — цельный текст, а не стена цитат.",
+      "highlights": ["135 сюжетных единиц", "Зал притч", "Пустота—ветер—судьба", "Ле-цзы дня"]
+    },
+    "th": {
+      "taglines": "เลี่ยจื่อใน 135 ตอน — นิทานเปรียบเทียบ ว่าง–ลม–ชะตา และเลี่ยจื่อประจำวัน",
+      "blurbs": "เลี่ยจื่อฉบับสมบูรณ์แบบออฟไลน์: 135 หน่วยเรื่องเล่า อวี๋กง ขี่ลม คนแคว้นฉี และกราฟว่าง–ลม–ชะตา เลี่ยจื่อประจำวัน ศึกษาเลี่ยจื่อ วิดเจ็ตและ Siri — เป็นตำราเล่มเดียว ไม่ใช่กำแพงคำคม",
+      "highlights": ["135 หน่วยเรื่องเล่า", "หอนิทาน", "ว่าง–ลม–ชะตา", "เลี่ยจื่อประจำวัน"]
+    },
+    "de": {
+      "taglines": "Liezi in 135 Einheiten — Fabeln, Leere–Wind–Schicksal & Liezi des Tages.",
+      "blurbs": "Das vollständige Liezi offline: 135 Erzähleinheiten, Yugong, auf dem Wind reiten, der Mann aus Qi und der Graph Leere–Wind–Schicksal. Liezi des Tages, Liezi-Studium, Widgets & Siri — ein Text, keine Zitatwand.",
+      "highlights": ["135 Erzähleinheiten", "Fabelhalle", "Leere–Wind–Schicksal", "Liezi des Tages"]
+    },
+    "fr": {
+      "taglines": "Liezi en 135 unités — fables, vide–vent–destin et Liezi du jour.",
+      "blurbs": "Le Liezi complet hors ligne : 135 unités narratives, Yugong, chevaucher le vent, l'homme de Qi et le graphe vide–vent–destin. Liezi du jour, étude de Liezi, widgets et Siri — un seul texte, pas un mur de citations.",
+      "highlights": ["135 unités narratives", "Salle des fables", "Vide–vent–destin", "Liezi du jour"]
+    },
+    "tr": {
+      "taglines": "135 birimde Liezi — fabllar, boşluk–rüzgâr–kader ve Günün Liezi'si.",
+      "blurbs": "Liezi'nin tamamı çevrimdışı: 135 hikâye birimi, Yugong, rüzgâra binmek, Qi'li adam ve boşluk–rüzgâr–kader grafiği. Günün Liezi'si, Liezi Çalışması, widget'lar ve Siri — tek bir metin, söz duvarı değil.",
+      "highlights": ["135 hikâye birimi", "Fabl salonu", "Boşluk–rüzgâr–kader", "Günün Liezi'si"]
+    }
+  },
+  "iShangYang": {
+    "ja": {
+      "taglines": "歴史としての商君書 — 四層・法令・年表。",
+      "blurbs": "オフラインの『商君書』：四層読解、改革法令60条、紀元前361〜338年の年表。今日の変法、変法学習、ウィジェットとSiri対応 — 歴史学習用であり、統治の処方箋ではありません。",
+      "highlights": ["四層読解", "法令60条", "改革年表", "今日の変法"]
+    },
+    "ko": {
+      "taglines": "역사로 읽는 상군서 — 4층, 법령, 연표.",
+      "blurbs": "오프라인 『상군서』: 4층 읽기, 개혁 법령 60조, 기원전 361~338년 연표. 오늘의 변법, 변법 공부, 위젯과 Siri 지원 — 역사 학습용이며 통치 처방이 아닙니다.",
+      "highlights": ["4층 읽기", "법령 60조", "개혁 연표", "오늘의 변법"]
+    },
+    "ru": {
+      "taglines": "«Книга правителя Шана» как история — четыре слоя, указы и хроника.",
+      "blurbs": "«Шан цзюнь шу» офлайн: четырёхслойное чтение, 60 реформаторских указов и хроника 361–338 гг. до н. э. «Реформа дня», изучение реформ, виджеты и Siri — историческое изучение, а не рецепт управления.",
+      "highlights": ["Четырёхслойное чтение", "60 указов", "Хроника реформ", "Реформа дня"]
+    },
+    "th": {
+      "taglines": "ซางจวินชูในฐานะประวัติศาสตร์ — สี่ชั้น พระราชโองการ และพงศาวดาร",
+      "blurbs": "ซางจวินชูแบบออฟไลน์: อ่านสี่ชั้น พระราชโองการปฏิรูป 60 ฉบับ และพงศาวดาร 361–338 ปีก่อน ค.ศ. การปฏิรูปประจำวัน ศึกษาการปฏิรูป วิดเจ็ตและ Siri — เพื่อการศึกษาประวัติศาสตร์ ไม่ใช่ข้อกำหนดในการปกครอง",
+      "highlights": ["อ่านสี่ชั้น", "โองการ 60 ฉบับ", "พงศาวดารปฏิรูป", "การปฏิรูปประจำวัน"]
+    },
+    "de": {
+      "taglines": "Shangjunshu als Geschichte — vier Schichten, Edikte & Chronik.",
+      "blurbs": "Das Buch des Herrn Shang offline: vierschichtiges Lesen, 60 Reformedikte und eine Chronik von 361–338 v. Chr. Reform des Tages, Reformstudium, Widgets & Siri — historisches Studium, keine Regierungsanleitung.",
+      "highlights": ["Vierschichtiges Lesen", "60 Edikte", "Reformchronik", "Reform des Tages"]
+    },
+    "fr": {
+      "taglines": "Le Shangjunshu comme histoire — quatre niveaux, édits et chronique.",
+      "blurbs": "Le Livre du seigneur Shang hors ligne : lecture à quatre niveaux, 60 édits de réforme et chronique de 361–338 av. J.-C. Réforme du jour, étude de la réforme, widgets et Siri — étude historique, pas une prescription de gouvernement.",
+      "highlights": ["Lecture à quatre niveaux", "60 édits", "Chronique des réformes", "Réforme du jour"]
+    },
+    "tr": {
+      "taglines": "Tarih olarak Shangjunshu — dört katman, fermanlar ve kronik.",
+      "blurbs": "Çevrimdışı Lord Shang Kitabı: dört katmanlı okuma, 60 reform fermanı ve MÖ 361–338 kroniği. Günün Reformu, Reform Çalışması, widget'lar ve Siri — tarihsel çalışmadır, yönetim reçetesi değildir.",
+      "highlights": ["Dört katmanlı okuma", "60 ferman", "Reform kroniği", "Günün Reformu"]
+    }
+  },
+  "iZengZi": {
+    "ja": {
+      "taglines": "曽子の系譜 — 三省・八条目・閉じた一式。",
+      "blurbs": "オフラインで読む閉じた曽子セット：『論語』抄録、『大学』、『孝経』、三問ジャーナル。今日の省察、修養堂、ウィジェットとSiri対応 — 『論語』や『孟子』の全文ではありません。",
+      "highlights": ["閉じた曽子セット", "三問ジャーナル", "八条目", "今日の省察"]
+    },
+    "ko": {
+      "taglines": "증자 계보 — 삼성, 팔조목, 닫힌 구성.",
+      "blurbs": "오프라인으로 읽는 닫힌 증자 세트: 『논어』 발췌, 『대학』, 『효경』, 세 가지 질문 저널. 오늘의 성찰, 수양당, 위젯과 Siri 지원 — 『논어』나 『맹자』 전문이 아닙니다.",
+      "highlights": ["닫힌 증자 세트", "세 질문 저널", "팔조목", "오늘의 성찰"]
+    },
+    "ru": {
+      "taglines": "Линия Цзэн-цзы — три самопроверки, восемь шагов и замкнутый свод.",
+      "blurbs": "Замкнутый свод Цзэн-цзы офлайн: отрывки из «Лунь юй», «Великое учение», «Сяо цзин» и дневник из трёх вопросов. «Размышление дня», зал совершенствования, виджеты и Siri — это не полный «Лунь юй» и не «Мэнцзы».",
+      "highlights": ["Замкнутый свод Цзэн-цзы", "Дневник из трёх вопросов", "Восемь шагов", "Размышление дня"]
+    },
+    "th": {
+      "taglines": "สายเจิงจื่อ — ตรวจตนสามข้อ แปดขั้นตอน และชุดเนื้อหาปิด",
+      "blurbs": "ชุดเจิงจื่อแบบปิดที่ใช้ออฟไลน์: บทคัดจากหลุนอวี่ ต้าเสวีย เสี้ยวจิง และบันทึกสามคำถาม ข้อคิดประจำวัน หอบ่มเพาะตน วิดเจ็ตและ Siri — ไม่ใช่หลุนอวี่หรือเมิ่งจื่อฉบับเต็ม",
+      "highlights": ["ชุดเจิงจื่อแบบปิด", "บันทึกสามคำถาม", "แปดขั้นตอน", "ข้อคิดประจำวัน"]
+    },
+    "de": {
+      "taglines": "Zengzi-Linie — drei Selbstprüfungen, acht Schritte & ein geschlossenes Set.",
+      "blurbs": "Ein geschlossenes Zengzi-Set offline: Auszüge aus den Gesprächen, das Große Lernen, das Xiaojing und ein Drei-Fragen-Journal. Reflexion des Tages, Kultivierungshalle, Widgets & Siri — nicht die vollständigen Gespräche oder Mengzi.",
+      "highlights": ["Geschlossenes Zengzi-Set", "Drei-Fragen-Journal", "Acht Schritte", "Reflexion des Tages"]
+    },
+    "fr": {
+      "taglines": "La lignée de Zengzi — trois examens de soi, huit étapes et un corpus fermé.",
+      "blurbs": "Un corpus Zengzi fermé hors ligne : extraits des Entretiens, Grande Étude, Xiaojing et journal en trois questions. Réflexion du jour, Salle de cultivation, widgets et Siri — pas l'intégrale des Entretiens ni de Mencius.",
+      "highlights": ["Corpus Zengzi fermé", "Journal en trois questions", "Huit étapes", "Réflexion du jour"]
+    },
+    "tr": {
+      "taglines": "Zengzi çizgisi — üç öz-sorgulama, sekiz adım ve kapalı bir set.",
+      "blurbs": "Çevrimdışı kapalı bir Zengzi seti: Analekta alıntıları, Büyük Öğrenim, Xiaojing ve üç soruluk günlük. Günün Tefekkürü, Yetiştirme Salonu, widget'lar ve Siri — Analekta'nın veya Mencius'un tamamı değildir.",
+      "highlights": ["Kapalı Zengzi seti", "Üç soruluk günlük", "Sekiz adım", "Günün Tefekkürü"]
+    }
+  },
+  "iZiSi": {
+    "ja": {
+      "taglines": "子思と中庸 — 五つの階梯・慎独・郭店楚簡。",
+      "blurbs": "オフラインの子思工房：朱熹『中庸章句』の33章、郭店楚簡の五行、慎独のアトリエ。今日の思索、子思学習、ウィジェットとSiri対応 — 四書セットではありません。",
+      "highlights": ["『中庸』33章", "五行", "慎独", "五つの階梯"]
+    },
+    "ko": {
+      "taglines": "자사와 중용 — 다섯 단계, 신독, 곽점 죽간.",
+      "blurbs": "오프라인 자사 공방: 주희의 『중용장구』 33장, 곽점 죽간의 오행, 신독 스튜디오. 오늘의 사색, 자사 공부, 위젯과 Siri 지원 — 사서 묶음이 아닙니다.",
+      "highlights": ["『중용』 33장", "오행", "신독", "다섯 단계"]
+    },
+    "ru": {
+      "taglines": "Цзы Сы и «Срединное и неизменное» — пять шагов, бдительность в одиночестве и бамбуковые таблички Годянь.",
+      "blurbs": "Офлайн-мастерская Цзы Сы: 33 главы «Чжунъюн» по Чжу Си, «Пять поступков» из Годянь и студия бдительности в одиночестве. «Мысль дня», изучение Цзы Сы, виджеты и Siri — это не набор «Четверокнижия».",
+      "highlights": ["33 главы «Чжунъюн»", "Пять поступков", "Бдительность в одиночестве", "Пять шагов"]
+    },
+    "th": {
+      "taglines": "จื่อซือกับหลักมัชฌิมา — ห้าขั้น การระวังตนยามอยู่ลำพัง และแผ่นไม้ไผ่กัวเตี้ยน",
+      "blurbs": "เวิร์กช็อปจื่อซือแบบออฟไลน์: 33 บทจงยงฉบับจูซี ห้าพฤติปฏิบัติจากแผ่นไม้ไผ่กัวเตี้ยน และสตูดิโอการระวังตนยามอยู่ลำพัง ความคิดวันนี้ ศึกษาจื่อซือ วิดเจ็ตและ Siri — ไม่ใช่ชุดคัมภีร์สี่เล่ม",
+      "highlights": ["จงยง 33 บท", "ห้าพฤติปฏิบัติ", "ระวังตนยามอยู่ลำพัง", "ห้าขั้น"]
+    },
+    "de": {
+      "taglines": "Zisi & die Mitte — fünf Schritte, Wachsamkeit & Guodian-Bambusstreifen.",
+      "blurbs": "Offline-Zisi-Werkstatt: Zhu Xis 33 Zhongyong-Kapitel, die Fünf Verhaltensweisen von Guodian und ein Studio zur Wachsamkeit. Gedanke des Tages, Zisi-Studium, Widgets & Siri — nicht das Paket der Vier Bücher.",
+      "highlights": ["33 Zhongyong-Kapitel", "Fünf Verhaltensweisen", "Wachsamkeit", "Fünf Schritte"]
+    },
+    "fr": {
+      "taglines": "Zisi et le Juste Milieu — cinq étapes, vigilance et lamelles de Guodian.",
+      "blurbs": "Atelier Zisi hors ligne : les 33 chapitres du Zhongyong selon Zhu Xi, les Cinq Conduites de Guodian et un studio de la vigilance. Pensée du jour, étude de Zisi, widgets et Siri — pas le lot des Quatre Livres.",
+      "highlights": ["33 chapitres du Zhongyong", "Cinq Conduites", "Vigilance", "Cinq étapes"]
+    },
+    "tr": {
+      "taglines": "Zisi ve Orta Yol — beş adım, uyanıklık ve Guodian bambu şeritleri.",
+      "blurbs": "Çevrimdışı Zisi atölyesi: Zhu Xi'nin 33 Zhongyong bölümü, Guodian'ın Beş Davranışı ve Uyanıklık atölyesi. Günün Düşüncesi, Zisi Çalışması, widget'lar ve Siri — Dört Kitap paketi değildir.",
+      "highlights": ["33 Zhongyong bölümü", "Beş Davranış", "Uyanıklık", "Beş adım"]
+    }
+  },
+  "iWidget": {
+    "ja": {
+      "taglines": "ウィジェットデザイナー — プリセット54種・壁紙調色・タップガード・オフラインカレンダー。",
+      "blurbs": "ブロックからホーム・ロック画面・コントロールセンター用のボードを作成：旧暦、天気、カウントダウン、デバイス情報。スロットごとの壁紙、透明ウィジェット、Siriと `iwidget://` 対応 — iCloudは任意、アカウント不要。",
+      "highlights": ["プリセット54種", "ブロックエディタ", "タップガード", "ホーム＋ロックウィジェット"]
+    },
+    "ko": {
+      "taglines": "위젯 디자이너 — 프리셋 54종, 배경화면 색조, 탭 방지, 오프라인 달력.",
+      "blurbs": "블록으로 홈·잠금 화면·제어 센터 보드를 만드세요: 음력, 날씨, 디데이, 기기 정보. 슬롯별 배경화면, 투명 위젯, Siri와 `iwidget://` 지원 — iCloud는 선택, 계정 불필요.",
+      "highlights": ["프리셋 54종", "블록 편집기", "탭 방지", "홈 + 잠금 위젯"]
+    },
+    "ru": {
+      "taglines": "Конструктор виджетов — 54 пресета, тонировка обоев, защита от нажатий, офлайн-календарь.",
+      "blurbs": "Собирайте панели для экрана «Домой», экрана блокировки и Пункта управления из блоков: лунный календарь, погода, обратный отсчёт и данные устройства. Свои обои для каждого слота, прозрачные виджеты, Siri и `iwidget://` — iCloud по желанию, без аккаунта.",
+      "highlights": ["54 готовых набора", "Редактор блоков", "Защита от нажатий", "Виджеты «Домой» и блокировки"]
+    },
+    "th": {
+      "taglines": "ตัวออกแบบวิดเจ็ต — พรีเซ็ต 54 ชุด ปรับโทนวอลเปเปอร์ กันแตะพลาด และปฏิทินออฟไลน์",
+      "blurbs": "สร้างบอร์ดสำหรับหน้าจอโฮม หน้าจอล็อก และศูนย์ควบคุมจากบล็อก: ปฏิทินจันทรคติ สภาพอากาศ นับถอยหลัง และข้อมูลอุปกรณ์ วอลเปเปอร์แยกตามช่อง วิดเจ็ตโปร่งใส Siri และ `iwidget://` — iCloud เป็นตัวเลือก ไม่ต้องมีบัญชี",
+      "highlights": ["พรีเซ็ต 54 ชุด", "ตัวแก้ไขบล็อก", "กันแตะพลาด", "วิดเจ็ตโฮม + ล็อก"]
+    },
+    "de": {
+      "taglines": "Widget-Designer — 54 Vorlagen, Hintergrundtönung, Tippschutz, Offline-Kalender.",
+      "blurbs": "Baue Boards für Home-, Sperrbildschirm und Kontrollzentrum aus Blöcken: Mondkalender, Wetter, Countdowns & Gerätedaten. Hintergründe pro Slot, transparente Widgets, Siri & `iwidget://` — iCloud optional, ohne Konto.",
+      "highlights": ["54 Vorlagensets", "Block-Editor", "Tippschutz", "Home- + Sperrbildschirm-Widgets"]
+    },
+    "fr": {
+      "taglines": "Concepteur de widgets — 54 préréglages, teinte du fond d'écran, bouclier anti-tap, calendrier hors ligne.",
+      "blurbs": "Créez des tableaux pour l'écran d'accueil, l'écran verrouillé et le Centre de contrôle à partir de blocs : calendrier lunaire, météo, comptes à rebours et infos de l'appareil. Fonds d'écran par emplacement, widgets transparents, Siri et `iwidget://` — iCloud optionnel, sans compte.",
+      "highlights": ["54 jeux prédéfinis", "Éditeur de blocs", "Bouclier anti-tap", "Widgets accueil + verrouillage"]
+    },
+    "tr": {
+      "taglines": "Widget tasarımcısı — 54 hazır set, duvar kâğıdı tonu, dokunma kalkanı, çevrimdışı takvim.",
+      "blurbs": "Bloklardan Ana ekran, Kilit ekranı ve Denetim Merkezi panoları oluşturun: ay takvimi, hava durumu, geri sayımlar ve cihaz bilgileri. Yuva başına duvar kâğıtları, şeffaf widget'lar, Siri ve `iwidget://` — iCloud isteğe bağlı, hesap yok.",
+      "highlights": ["54 hazır set", "Blok düzenleyici", "Dokunma kalkanı", "Ana + Kilit widget'ları"]
+    }
+  }
+}

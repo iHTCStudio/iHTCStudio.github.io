@@ -1,0 +1,15 @@
+{%- comment -%}
+Render site.data.i18n[locale][section][key] for every supported language.
+
+Usage:
+  {% include i18n-key.html section="nav" key="apps" %}
+  {% include i18n-key.html section="apps_section" key="learn_more" inline=true %}
+{%- endcomment -%}
+{%- assign sec = include.section -%}
+{%- assign key = include.key -%}
+{%- assign inline_class = "" -%}
+{%- if include.inline -%}{%- assign inline_class = " inline" -%}{%- endif -%}
+{%- for L in site.languages -%}
+{%- assign bundle = site.data.i18n[L.code] -%}
+<span lang="{{ L.code }}" class="{{ inline_class | strip }}">{{ bundle[sec][key] }}</span>
+{%- endfor -%}

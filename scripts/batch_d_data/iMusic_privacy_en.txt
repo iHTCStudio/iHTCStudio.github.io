@@ -1,0 +1,123 @@
+**Last updated:** September 9, 2026
+
+iHTC Studio ("we", "us" or "our") built **iMusic** (also known as "爱音乐" / "愛音樂", Bundle ID `com.iHTCboy.iMusic`). This Privacy Policy explains what data is (and is not) handled when you use the app. **Apple App Review** and users may rely on **this page** as the public privacy policy for the app. For App Store Connect, open this Privacy Policy in your browser and copy the address from the address bar (the public site domain may change over time).
+
+## Summary (Apple Privacy Nutrition Label alignment)
+
+| Topic | Our practice |
+|-------|----------------|
+| Account | **Not required** — no registration, email sign-in, or phone number |
+| Data collection by iHTC Studio | **Data Not Collected** — we do **not** operate a backend that receives your personal data |
+| Network | Listening **guides** work **offline** after install. **Playback** and **song ID** use Apple services after you authorize them |
+| Analytics / ads / tracking | **None** — no third-party analytics, advertising, or tracking SDKs; no App Tracking Transparency use |
+| Optional Apple services | **Apple Music / MusicKit**, **ShazamKit**, **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities** |
+
+## Data Collection
+
+We do **not** collect, sell, or share personal information for advertising or analytics.
+
+- **No account** — You can browse every bundled guide without creating an account with us.
+- **No analytics or ads** — The app binary does not integrate third-party analytics, advertising, or crash-reporting SDKs that phone home to us.
+- **No guide upload** — Favorites, listen lists, later, notes, history, and preferences stay on your device (and optionally in **your** iCloud). They are never uploaded to iHTC Studio servers because **we do not run such servers for this app**.
+- **No song hosting** — We do not ship full audio. Matched playback is delivered by **Apple Music**. We cache at most a **30-second catalog preview** on device when you are not subscribed.
+
+## How the App Works
+
+- **Bundled library** — Piece indexes, guides, artist notes, categories, collections, famous lines, and the daily calendar ship inside the app / widget bundle. Browsing guides does not require a network request.
+- **Apple Music (MusicKit)** — When you play a piece and grant access, the app matches the curated catalog (ISRC first, then artist + title) and plays through Apple’s player. Subscription status is queried from Apple; a timeout is treated as **unknown**, not as “unsubscribed.” Artwork URLs may be fetched to show covers. We do not receive your Apple ID or payment details.
+- **30-second previews** — If you are not subscribed, Apple’s preview may be stored under `Caches` on your device (LRU; not a full track). Cellular / Low Power / Low Data modes do not prefetch the next preview. Settings can clear artwork and preview caches separately without touching favorites or listen lists.
+- **Song ID (ShazamKit)** — Used only when you open Recognize. Microphone audio is processed by **Apple’s** recognition; we do not keep a recording archive. A catalog hit opens the on-device guide.
+- **On-device speech** — Reading a guide aloud uses Apple’s **AVSpeechSynthesizer**. We do not send guide text to iHTC Studio.
+- **Widgets & App Group** — The app and widgets share preferences via App Group `group.com.iHTCboy.iMusic` on your device. Live Activity artwork is a small JPEG in that group plus a token — not the full image inside the activity payload.
+- **Daily notifications** — Scheduled locally. Tapping opens a deep link to a piece ID on device.
+- **Share cards** — Rendered on device. Saving uses **Photo Library add-only** only when you tap save.
+- **Optional tip** — Consumable **StoreKit** purchase processed by Apple.
+- **Optional Spotlight** — **Off by default.** If you enable it, indexes are submitted to the system on device.
+
+## Data Stored on Your Device
+
+| Data | Where | Purpose |
+|------|-------|---------|
+| Guide library (indexes + shards) | App / Widget bundle | Offline reading |
+| Favorites, listen lists, later | App Group UserDefaults | Your lists |
+| Notes, history, recitation progress | App Group UserDefaults | Continue listening / reading |
+| Streak / check-in | App Group UserDefaults | Daily habit |
+| Appearance, language, speech, tabs | App Group UserDefaults | Settings |
+| Daily Piece cache & notification prefs | App Group UserDefaults | Today’s ID and schedule |
+| Share-card preferences | App Group UserDefaults | Last style / canvas |
+| Artwork URL map & decoded covers | App Group + memory / disk cache | Show covers; silent prefetch only after MusicKit is authorized |
+| 30-second preview files | App Caches | Play previews offline after first hit |
+| Live Activity thumbnail | App Group JPEG + token | Lock Screen / Dynamic Island while **reading** a guide |
+| MusicKit / Shazam authorization | System | Remember your choice |
+| Onboarding & rating prompts | Device UserDefaults | Welcome / review |
+
+Uninstalling removes sandbox and App Group data (subject to iOS/macOS). Optional iCloud copies remain in **your** iCloud until you clear them. Apple Music library and subscriptions stay with Apple.
+
+## iCloud Sync (Optional)
+
+If you enable **iCloud Sync** in Settings, the app mirrors selected user data through Apple’s **`NSUbiquitousKeyValueStore`** tied to **your Apple ID**:
+
+- Favorites
+- Listen lists
+- Later
+- Notes
+- Listening / reading history
+- Recitation progress
+- Streaks
+
+Guides themselves already ship in the app. Artwork files and preview audio are **not** synced through KVS. Sync traffic goes to **Apple iCloud**, not to iHTC Studio. You can disable sync in Settings. We cannot read your iCloud contents.
+
+## Permissions
+
+iMusic requests permissions only when a feature needs them:
+
+| Permission | When | Why |
+|------------|------|-----|
+| **Apple Music / Media Library** | You continue on the Music explanation, or you tap play | Match and play catalog tracks; load artwork |
+| **Microphone** | You open Song ID | Recognize music playing around you |
+| **Notifications** | You enable Daily Piece reminders | Local scheduling |
+| **Photo Library (Add Only)** | You save a music card | Write the rendered image; no full-library read |
+| **iCloud** | You enable sync | Mirror lists / notes / history / streaks |
+| **Live Activities (iOS)** | You leave Reading Live Activity on (default on) | Show the guide you are **reading** on Lock Screen / Dynamic Island |
+| **Background audio** | You leave background audio on | Continue MusicKit / preview / TTS when not in the foreground |
+
+We do **not** request Contacts, precise Location, Camera, or Tracking. We do **not** request full Photo Library read access.
+
+## What We Do Not Do
+
+- We do **not** sell personal data or build advertising profiles.
+- We do **not** require an account or social login.
+- We do **not** embed third-party ad, analytics, or social SDKs for data collection.
+- We do **not** store full songs on device or on our servers.
+- We do **not** keep Shazam microphone buffers after recognition.
+- We do **not** show a custom Dynamic Island for **music playback** — only for reading a guide, and only if you leave that setting on.
+- We do **not** receive StoreKit payment card numbers.
+
+## Children’s Privacy
+
+iMusic does not knowingly collect personal data from anyone, including children under 13 (or the equivalent age in your region). Because we do not operate a data-collection backend, there is no child profile stored with us. Apple Music and Shazam follow Apple’s terms and age rules.
+
+## Third Parties
+
+- **Apple** — App Store, MusicKit / Apple Music, ShazamKit, optional StoreKit, optional iCloud KVS, system TTS, Share Sheet destinations you pick, notifications, Live Activities, Siri / Shortcuts.
+- **No other third-party SDKs** for ads, analytics, or social login are included for data collection.
+
+## International Users
+
+Guides work offline on your device. Apple Music, Shazam, and iCloud follow Apple’s terms and regional availability. Catalog matching depends on the storefront of the signed-in Apple ID.
+
+## Data Retention & Deletion
+
+- **On device** — Clear artwork / preview caches in **Settings → Storage**. Uninstalling removes the sandbox and App Group data.
+- **iCloud (optional)** — Remains in **your** iCloud until you disable sync and/or clear it through Apple’s tools.
+- **iHTC Studio** — We have no server-side account dataset to delete.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. The “Last updated” date at the top will change, and the revised policy will be posted on this page.
+
+## Contact Us
+
+- **Email:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)
+
+We typically respond within 48 hours.

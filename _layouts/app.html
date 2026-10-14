@@ -1,0 +1,79 @@
+---
+layout: default
+page_type: app
+---
+{%- assign current_app = nil -%}
+{%- for a in site.data.apps -%}
+  {%- if a.id == page.app_id -%}{%- assign current_app = a -%}{%- endif -%}
+{%- endfor -%}
+
+<style>
+  /* Per-app accent color injected at runtime */
+  :root {
+    --accent: {{ current_app.accent.light }};
+    --accent-strong: {{ current_app.accent.light }};
+    --accent-soft: color-mix(in srgb, {{ current_app.accent.light }} 14%, transparent);
+    --accent-from: {{ current_app.accent.gradient_from }};
+    --accent-to: {{ current_app.accent.gradient_to }};
+  }
+  html[data-theme="dark"] {
+    --accent: {{ current_app.accent.dark }};
+    --accent-strong: {{ current_app.accent.dark }};
+  }
+  @media (prefers-color-scheme: dark) {
+    html[data-theme="auto"] {
+      --accent: {{ current_app.accent.dark }};
+      --accent-strong: {{ current_app.accent.dark }};
+    }
+  }
+</style>
+
+<section class="app-hero">
+  <div class="bg-aurora" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <div class="container app-hero__inner">
+    <div class="app-hero__icon fade-up">
+      {% include app-icon.html app=current_app size="44" %}
+    </div>
+
+    <h1 class="app-hero__title fade-up fade-up-1">
+      {{ current_app.display_name | default: current_app.id }}
+      <span style="font-size:0.55em;color:var(--color-text-mute);font-weight:500;letter-spacing:-0.01em;">
+        {%- for L in site.languages -%}
+        <span lang="{{ L.code }}" class="inline"> · {{ current_app.names[L.code] | default: current_app.names.en }}</span>
+        {%- endfor -%}
+      </span>
+    </h1>
+
+    <p class="app-hero__subtitle fade-up fade-up-2">
+      {% include locale-field.html object=current_app.taglines %}
+    </p>
+
+    <div class="app-hero__chips fade-up fade-up-3">
+      {% include app-distribution.html app=current_app variant="chip" %}
+      {%- for p in current_app.platforms -%}<span class="chip chip--accent">{{ p }}</span>{%- endfor -%}
+      {% include app-highlights-chips.html app=current_app %}
+    </div>
+
+    <div class="app-hero__ctas fade-up fade-up-4">
+      {% include app-distribution.html app=current_app variant="hero" %}
+      <a href="{{ current_app.url | append: 'faq/' | relative_url }}" class="btn btn--ghost">
+        {% include i18n-spans.html section="app_pages" key="faq" %}
+      </a>
+      <a href="{{ current_app.url | append: 'privacy/' | relative_url }}" class="btn btn--ghost">
+        {% include i18n-spans.html section="app_pages" key="privacy" %}
+      </a>
+    </div>
+  </div>
+</section>
+
+{% include app-screenshots.html app=current_app %}
+
+<section class="section section--tight">
+  <div class="container container--narrow">
+    <article class="prose" data-reveal>
+      {{ content }}
+    </article>
+  </div>
+</section>

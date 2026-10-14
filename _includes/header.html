@@ -1,0 +1,143 @@
+{%- comment -%}
+Smart top header — i18n via site.languages + i18n-spans / locale-field.
+{%- endcomment -%}
+{%- assign current_app = include.current_app -%}
+
+<header class="site-header" role="banner">
+  <div class="container container--fluid site-header__inner">
+    <a href="{{ '/' | relative_url }}" class="site-header__brand" aria-label="{{ site.data.i18n['en'].brand.name }} — Home">
+      {% include brand-wordmark.html %}
+    </a>
+
+    {%- if current_app -%}
+      <nav class="site-header__primary" aria-label="{{ current_app.id }} sections">
+        <a href="{{ current_app.url | relative_url }}"
+           class="site-header__link {% if page.url == current_app.url %}is-current{% endif %}">
+          {% include i18n-spans.html section="app_pages" key="overview" %}
+        </a>
+        <a href="{{ current_app.url | append: 'faq/' | relative_url }}"
+           class="site-header__link {% if page.url contains '/faq' %}is-current{% endif %}">
+          {% include i18n-spans.html section="app_pages" key="faq" %}
+        </a>
+        <a href="{{ current_app.url | append: 'privacy/' | relative_url }}"
+           class="site-header__link {% if page.url contains '/privacy' %}is-current{% endif %}">
+          {% include i18n-spans.html section="app_pages" key="privacy" %}
+        </a>
+        {%- if current_app.has_url_scheme -%}
+        <a href="{{ current_app.url | append: 'url-scheme/' | relative_url }}"
+           class="site-header__link {% if page.url contains 'url-scheme' %}is-current{% endif %}">
+          {% include i18n-spans.html section="app_pages" key="url_scheme" %}
+        </a>
+        {%- endif -%}
+      </nav>
+    {%- else -%}
+      <nav class="site-header__primary" aria-label="Site">
+        <a href="{{ '/' | relative_url }}#apps"
+           class="site-header__link {% if page.page_type == 'home' %}is-current{% endif %}">
+          {% include i18n-spans.html section="nav" key="apps" %}
+        </a>
+        <a href="{{ '/collections/' | relative_url }}"
+           class="site-header__link {% if page.page_type == 'collections' %}is-current{% endif %}">
+          {% include i18n-spans.html section="nav" key="collections" %}
+        </a>
+        <a href="{{ site.app_store_developer_url }}"
+           class="site-header__link"
+           target="_blank"
+           rel="noopener">
+          {% include i18n-spans.html section="nav" key="app_store" %}
+        </a>
+      </nav>
+    {%- endif -%}
+
+    <div class="site-header__tools">
+      {% include language-switcher.html %}
+      {% include theme-switcher.html %}
+      <button type="button"
+              class="site-header__menu-button"
+              data-drawer-open
+              aria-controls="mobile-drawer"
+              aria-label="{{ site.data.i18n['en'].nav.open_menu }}">
+        {% include icons.html name="menu" size="20" %}
+      </button>
+    </div>
+  </div>
+</header>
+
+<aside class="mobile-drawer" id="mobile-drawer" data-drawer aria-hidden="true">
+  <div class="mobile-drawer__top">
+    <a href="{{ '/' | relative_url }}" class="site-header__brand">
+      {% include brand-wordmark.html %}
+    </a>
+    <button type="button" class="tool-btn is-icon"
+            data-drawer-close
+            aria-label="{{ site.data.i18n['en'].nav.close_menu }}">
+      {% include icons.html name="x" size="18" %}
+    </button>
+  </div>
+
+  <div class="mobile-drawer__body">
+    {%- if current_app -%}
+      <a href="{{ current_app.url | relative_url }}"
+         class="mobile-drawer__link {% if page.url == current_app.url %}is-current{% endif %}">
+        {%- for L in site.languages -%}
+        <span lang="{{ L.code }}" class="inline">{{ current_app.names[L.code] | default: current_app.names.en }} — {{ site.data.i18n[L.code].app_pages.overview }}</span>
+        {%- endfor -%}
+      </a>
+      <a href="{{ current_app.url | append: 'faq/' | relative_url }}" class="mobile-drawer__link {% if page.url contains '/faq' %}is-current{% endif %}">
+        {% include i18n-spans.html section="app_pages" key="faq" %}
+      </a>
+      <a href="{{ current_app.url | append: 'privacy/' | relative_url }}" class="mobile-drawer__link {% if page.url contains '/privacy' %}is-current{% endif %}">
+        {% include i18n-spans.html section="app_pages" key="privacy" %}
+      </a>
+      {%- if current_app.has_url_scheme -%}
+      <a href="{{ current_app.url | append: 'url-scheme/' | relative_url }}" class="mobile-drawer__link {% if page.url contains 'url-scheme' %}is-current{% endif %}">
+        {% include i18n-spans.html section="app_pages" key="url_scheme" %}
+      </a>
+      {%- endif -%}
+
+      <div class="mobile-drawer__group">
+        <span class="mobile-drawer__group-label">
+          {% include i18n-spans.html section="nav" key="other_apps" %}
+        </span>
+        {%- assign sorted_apps = site.data.apps | sort: "order" -%}
+        {%- for app in sorted_apps -%}
+          {%- if app.id != current_app.id -%}
+          <a href="{{ app.url | relative_url }}" class="mobile-drawer__link">
+            {{ app.display_name | default: app.id }} <span class="text-faint" style="font-size:.85em">·
+              {% include locale-field.html object=app.names inline=true %}
+            </span>
+          </a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    {%- else -%}
+      <a href="{{ '/' | relative_url }}#apps"
+         class="mobile-drawer__link {% if page.page_type == 'home' %}is-current{% endif %}">
+        {% include i18n-spans.html section="nav" key="apps" %}
+      </a>
+      <a href="{{ '/collections/' | relative_url }}"
+         class="mobile-drawer__link {% if page.page_type == 'collections' %}is-current{% endif %}">
+        {% include i18n-spans.html section="nav" key="collections" %}
+      </a>
+      <a href="{{ site.app_store_developer_url }}"
+         class="mobile-drawer__link"
+         target="_blank"
+         rel="noopener">
+        {% include i18n-spans.html section="nav" key="app_store" %}
+      </a>
+      <div class="mobile-drawer__group">
+        <span class="mobile-drawer__group-label">
+          {% include i18n-spans.html section="nav" key="apps" %}
+        </span>
+        {%- assign sorted_apps = site.data.apps | sort: "order" -%}
+        {%- for app in sorted_apps -%}
+          <a href="{{ app.url | relative_url }}" class="mobile-drawer__link">
+            {{ app.display_name | default: app.id }} <span class="text-faint" style="font-size:.85em">·
+              {% include locale-field.html object=app.names inline=true %}
+            </span>
+          </a>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </div>
+</aside>

@@ -1,0 +1,158 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: Apple cihazlar için uygulamalar ve araçlar
+  site_description: iPhone, iPad ve Mac için özenle hazırlanmış uygulamalar. Önce gizlilik, çevrimdışı çalışma, hesap gerektirmez.
+nav:
+  apps: Uygulamalar
+  collections: Koleksiyonlar
+  app_store: App Store
+  home: Ana sayfa
+  overview: Genel bakış
+  faq: SSS
+  privacy: Gizlilik
+  url_scheme: URL Scheme
+  contact: İletişim
+  github: GitHub
+  open_menu: Menüyü aç
+  close_menu: Menüyü kapat
+  switch_app: Uygulama değiştir
+  other_apps: Diğer uygulamalar
+  language: Dil
+  appearance: Görünüm
+  theme_auto: Sistem
+  theme_light: Açık
+  theme_dark: Koyu
+collections_page:
+  eyebrow: Temaya göre göz atın
+  title: Koleksiyonlar
+  subtitle: İlgi alanlarına göre gruplanmış uygulamalar — karakterler, şiir, ilk okuma kitapları, Dört Kitap, bilgeler, klasikler,
+    İngilizce, teknoloji ve daha fazlası. Bir uygulama birden fazla koleksiyonda yer alabilir.
+  all: Tümü
+  filter_label: Koleksiyonları filtrele
+  empty: Bu koleksiyonda uygulama yok.
+hero:
+  eyebrow: iHTC Studio
+  title: Özenle yapılmış uygulamalar. Sakin yazılımlar.
+  subtitle: iHTC Studio, iPhone, iPad ve Mac için gizliliği ön planda tutan uygulamalar tasarlar. Hesap yok, izleme yok, bulut
+    yok — yalnızca zamanınıza saygı duyan, düşünülmüş araçlar.
+  cta_explore: Uygulamaları keşfet
+  cta_contact: Bize ulaşın
+  stat_apps: Uygulama
+  stat_offline: Önce çevrimdışı
+  stat_privacy: İzleme yok
+  stat_hint: Daha fazla bilgi
+  stat_tablist: Stüdyo öne çıkanlar
+  stat_apps_title_suffix: özenle hazırlanmış uygulama
+  stat_apps_desc: Pomodoro zamanlayıcılarından App Store gezintisine — her uygulama iPhone, iPad ve Mac için yerel SwiftUI
+    ile geliştirilmiştir ve kendi destek sayfası, SSS bölümü ve gizlilik politikasına sahiptir.
+  stat_apps_action: Tüm uygulamalara göz at ↓
+  stat_offline_title: Temel özellikler %100 çevrimdışı
+  stat_offline_desc: Soru bankaları, sözlükler, zamanlayıcılar ve hesap makineleri tamamen cihazınızda çalışır. Günlük kullanım
+    için Wi‑Fi veya hücresel veri gerekmez — araçlarınız her yerde sizinle.
+  stat_privacy_title: Sıfır izleme, sıfır reklam
+  stat_privacy_desc: Analiz SDK'sı yok, reklam ağı yok, zorunlu hesap yok. Kullanım verilerinizi asla toplamayız. İsteğe bağlı
+    iCloud eşzamanlaması yalnızca Apple altyapısını kullanır.
+apps_section:
+  eyebrow: Uygulamalarımız
+  title: Özenle yapıldı, ayrıntılarla cilalandı
+  subtitle: Her uygulama Apple cihazlarda yerel hissettirecek, tamamen çevrimdışı çalışacak ve gizliliğinize saygı duyacak
+    şekilde tasarlandı. Daha fazla bilgi için birini seçin.
+  learn_more: Daha fazla bilgi
+  coming_soon: Yakında
+  expand_hint: Varsayılan olarak kompakt — öne çıkanlar için bir kartı açın veya tümünü genişletin.
+  expand_all: Tümünü genişlet
+  collapse_all: Tümünü daralt
+  show_details: Ayrıntıları göster
+  hide_details: Ayrıntıları gizle
+  list_density_aria: Uygulama listesi yoğunluğu
+values:
+  eyebrow: İnandıklarımız
+  title: Yerini hak eden sessiz uygulamalar
+  items:
+  - title: Varsayılan olarak gizlilik
+    desc: Hesap yok, analiz yok, üçüncü taraf SDK yok. Verileriniz her zaman cihazınızda kalır.
+  - title: Yerel ve hızlı
+    desc: iOS, iPadOS ve macOS için SwiftUI ile geliştirildi. Anında açılış ve pil dostu performans için ayarlandı.
+  - title: Önce çevrimdışı
+    desc: Tüm temel özellikler internet bağlantısı olmadan çalışır. Araçlarınız siz nereye giderseniz orada çalışmalı.
+  - title: Ayrıntılarda tasarım
+    desc: Özenli tipografi, gerçek dokunsal geri bildirim, akıcı hareket ve tam Karanlık Mod. Her ekranda piksel işçiliği.
+  - title: Çok dilli site
+    desc: Web sitesinde on dil — istediğiniz zaman geçiş yapın. Uygulama içi arayüz, her uygulamanın App Store sayfasını izler.
+  - title: Her zaman reklamsız
+    desc: Açılır pencere yok, reklam ağı yok, karanlık desen yok. Gösterim değil, güven kazanırız.
+contact:
+  eyebrow: Bize ulaşın
+  title: Sorularınız, geri bildirimleriniz veya fikirleriniz mi var?
+  subtitle: Genellikle 48 saat içinde yanıt veririz. Hatalar için lütfen cihaz modelinizi ve iOS sürümünüzü paylaşın.
+  email_label: E-posta
+  github_label: GitHub Issues
+footer:
+  rights: Tüm hakları saklıdır.
+  built_with: Özenle yapıldı.
+  select_language: Dil
+  select_theme: Görünüm
+  resources:
+    developer_home: Geliştirici ana sayfası
+    apple_refund: Apple iade talebi
+    apple_security: Apple güvenlik güncellemeleri
+    apple_server_status: Apple sunucu durumu
+    apple_dev_status: Apple Developer sistem durumu
+    apple_beta_releases: Apple'ın en son herkese açık beta sürümleri
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: Apple cihazlarını tanıyın
+  resources_column: Kaynaklar
+doc:
+  on_this_page: Bu sayfada
+  last_updated: Son güncelleme
+  back_to: Geri dön
+  related: İlgili
+toc:
+  title: İçindekiler
+app_pages:
+  overview: Genel bakış
+  faq: SSS
+  privacy: Gizlilik Politikası
+  url_scheme: URL Scheme
+  screenshots: App Store Önizlemeleri
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: Tam boyutta görmek için ekran görüntüsüne dokunun · gezinmek için kaydırın
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: Ana sayfaya dön
+  open_app_page: Destek sayfasını aç
+  app_store: App Store
+  testflight: TestFlight Beta
+badges:
+  testflight_beta: TestFlight Beta
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: Dil ara…
+  no_results: Eşleşen dil yok.
+notice:
+  language_set: Dil Türkçe olarak ayarlandı.
+  content_fallback_en: Bu sayfa, seçtiğiniz dil için İngilizce gösterilmektedir.
+  app_ui_language: Uygulama içi arayüz dilleri, bölgenizdeki App Store ürün sayfasını izler.
+err:
+  not_found_title: Sayfa bulunamadı
+  not_found_subtitle: Aradığınız sayfayı bulamıyoruz.
+  go_home: Ana sayfaya git

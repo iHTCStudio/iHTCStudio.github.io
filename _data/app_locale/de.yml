@@ -1,0 +1,592 @@
+iConnect:
+  taglines: Lokaler P2P-Chat, PTT und Dateiübertragung für iPhone, iPad und Mac.
+  blurbs: Chat, Gruppenchat, PTT, Sprachnachrichten und Dateien über lokales WLAN zwischen Apple-Geräten. Antworten, Zurückrufen,
+    @Erwähnungen und Suche; konfigurierbare Dateigrößenlimits. Keine Cloud, kein Account, keine Internetverbindung nötig.
+  highlights:
+  - Chat & PTT
+  - Sprache & Dateien
+  - Konfigurierbare Größe
+  - 9 App-Symbole
+iConverter:
+  taglines: 101 Rechner & Umrechner — Fürsorgemodus, Mediendownload, Live-Aktivität.
+  blurbs: 101 Offline-Werkzeuge mit 21 interaktiven Widgets; Fürsorgemodus, In-App-Hilfe, Lupe, Mediendownload & Teilen-Erweiterung;
+    QR-Verlauf & Live-Aktivitäten auf dem iPhone — URL-Scheme, Datenschutz zuerst.
+  highlights:
+  - 101 Werkzeuge
+  - Fürsorgemodus
+  - Mediendownload
+  - Live-Aktivität
+iLinux:
+  taglines: 1650+ Befehle · Linux / CMD / PowerShell · Offline-Referenz.
+  blurbs: 'Offline-Shell-Referenz für iPhone, iPad und Mac: 1650+ Befehle, plattformübergreifende Entsprechungen, iCloud-Sync,
+    tägliches Quiz und iOS-Widgets — kein Account nötig.'
+  highlights:
+  - 1650+ Befehle
+  - iPhone iPad Mac
+  - iCloud-Sync
+  - Plattformübergreifende Entsprechungen
+iWool:
+  taglines: Deals, Erinnerungen und Einnahmen verfolgen — privat, auf dem Gerät.
+  blurbs: 'Lokaler Deal-Tracker für iPhone und iPad: Deep Links, Quick-Countdown-Live-Activity, Pausieren/Kündigen zum Stichtag,
+    Export der Aktivität zum Teilen, 7 Übersichtskarten auf dem Home-Bildschirm, 12 Widgets und Teilen-Karten — ohne Registrierung,
+    auf dem Gerät, Datenschutz zuerst.'
+  highlights:
+  - iwool://-Deep-Links
+  - Pausieren & Export zum Teilen
+  - 12 Widgets
+  - PNG-Teilen-Karten
+iCalendar:
+  taglines: Mondkalender — 25+9 Widgets, transparente Stile, Tab-Leiste, offline.
+  blurbs: Almanach 1891–2100, umfangreicherer 黄历, Datumsleiste auf dem Home-Bildschirm und Widget „Almanach heute“; 25 Home-
+    und 9 Sperrbildschirm-Widgets inkl. transparenter iOS-17-Stile; Countdown folgt dem gewählten Tag — offline, ohne Account.
+  highlights:
+  - 25+9 Widgets
+  - Almanach heute
+  - Transparente Widgets
+  - 1891–2100
+iPomodoros:
+  taglines: Fokussieren. Erfassen. Erreichen. — Pomodoro, Statistiken, Widgets & Live-Aktivität.
+  blurbs: 'Native Fokus-App für iPhone und iPad: Pomodoro-Zyklen, freier Timer, Countdown-Aufgaben und Statistiken (Ziele,
+    Heatmaps, Erfolge, Teilen-Karten). Fünf Widget-Familien, doppelte Live-Aktivität & Siri — optionales iCloud, ohne Account.'
+  highlights:
+  - Datenschutz zuerst
+  - 9 Erfolge
+  - 5 Widget-Familien
+  - Siri-fähig
+iEnglish:
+  taglines: 3000 Kernwörter + optionale Senior-/CET-Bücher — Quiz, Playlists & Widgets.
+  blurbs: 'Englisch-Vokabeln für Einsteiger: 3000 Kernwörter von A–Z, dazu optionale Senior-/CET-4-/CET-6-Bücher mit Fortschritt
+    pro Buch; Quiz, Playlists und Home-Widgets — offline auf iPhone, iPad und Mac, optionales iCloud.'
+  highlights:
+  - 3000 Kernwörter + Prüfungsbücher
+  - Fortschritt pro Buch
+  - Quiz
+  - Widgets
+iLeetCoder:
+  taglines: 999 Algorithmus-Aufgaben, tägliches Quiz, Widgets — nativ auf Apple-Plattformen.
+  blurbs: 'Algorithmen lernen im LeetCode-Stil: 999 Aufgaben, tägliches Quiz, Favoriten und Fehlerbuch, Widgets für den Home-Bildschirm
+    — nativ auf iPhone, iPad und Mac, iCloud optional, ohne Account.'
+  highlights:
+  - 999 Aufgaben
+  - iCloud-Sync
+  - Lernverlauf
+  - Widgets
+iTer:
+  taglines: 10.000+ IT-Interviewfragen — tägliches Quiz, Widgets, natives SwiftUI.
+  blurbs: 'Offline-Interviewbibliothek: 17 Sprachen, 12 Karrierepfade, 16 Firmen-Fragensammlungen. Tägliches Quiz, Favoriten,
+    Antworten in Markdown, Widgets für Home- und Sperrbildschirm sowie Tastaturkürzel — natives SwiftUI, ohne Account.'
+  highlights:
+  - 10.000+ Fragen
+  - Tägliches Quiz
+  - Widgets
+  - Markdown-Antworten
+  - iPad- & Mac-Tastatur
+iWuBi:
+  taglines: Wubi-Eingabetraining — Übungen, Handschriftsuche, Siri & Spotlight.
+  blurbs: 'Wubi offline üben: vollständige Codes und Übungen, Wiederholung falscher Zeichen, Handschrift-OCR für die Suche
+    auf den Nachschlage-/Jianma-Seiten, Siri und Spotlight — Datenschutz zuerst, ohne Account, ohne Werbung.'
+  highlights:
+  - Tipptraining
+  - Handschrift-OCR
+  - Siri & Spotlight
+  - 8 Widgets
+TwinPolarCam:
+  taglines: Dual-Kamera-Aufnahme mit PiP — gebaut für Unterbrechungen im Alltag.
+  blurbs: Front- und Rückkamera gleichzeitig aufnehmen auf iPhone und kompatiblen iPads; PiP auf dem Gerät, Speichern in Fotos.
+    Export-Warteschlange, Live Activity, wiederherstellbare Unterbrechungen, Notfall-Speichern im Hintergrund, Anleitungen
+    in der App und dreisprachige Oberfläche — Datenschutz zuerst, keine Cloud, ohne Account.
+  highlights:
+  - Dual-Kamera
+  - Export-Warteschlange
+  - Live Activity
+  - Anleitungen in der App
+iPhoto:
+  taglines: Privates Fotostudio — Live-Beauty, 3D-LUT-Looks, Collagen und Rezepte.
+  blurbs: Fotografieren mit Vollbild-Live-Beauty und Gedrückthalten zum Vergleich; ca. 55 selbst erstellte 3D-LUTs, Collagen
+    aus 2–9 Bildern, Look-Rezepte und ~800+ Sticker; EXIF vor dem Teilen entfernen — ohne Account, ohne Werbung.
+  highlights:
+  - Vollbild-Beauty
+  - 3D-LUT-Looks
+  - Collagen & Rezepte
+  - Datenschutz-Export
+iCangJie:
+  taglines: Cangjie-Eingabetraining — Übungen, Handschriftsuche & Offline-Wörterbuch.
+  blurbs: 'Cangjie offline üben: vollständige Codes und Übungen, Wiederholung falscher Zeichen, Handschrift-OCR für die Suche
+    auf den Nachschlage- und Jianma-Seiten, alternative App-Symbole und Siri-Kurzbefehle — Datenschutz zuerst, ohne Account,
+    ohne Werbung.'
+  highlights:
+  - 27.000+ Zeichen
+  - Handschrift-OCR
+  - Tipp-Wiederholung
+  - Siri & Widgets
+Weber:
+  taglines: 'Safari-Erweiterung: Videotempo steuern und als Markdown kopieren.'
+  blurbs: Safari-Erweiterung nur für macOS — Tempo steuern und als Markdown kopieren über das Popup in der Symbolleiste. Die
+    Einstellungen erfolgen in Safari, nicht in der Host-App. Oberfläche auf Englisch und Vereinfachtem Chinesisch, minimale
+    Berechtigungen, Dark-Mode-fähig.
+  highlights:
+  - Popup in der Safari-Symbolleiste
+  - Markdown kopieren
+  - Nur macOS
+  - MIT-Quellcode
+iVideo:
+  taglines: Profi-Video-Toolbox — Schnittprojekte, Sticker, 31 Werkzeuge, alles auf dem Gerät.
+  blurbs: Tab „Schnittprojekte“ mit Sticker-Bibliothek und Bildimport, Mehrspur-Timelines, 31 Werkzeuge, Untertitel auf dem
+    Gerät, Gesichtsunschärfe und LUTs; Wiedergabe 0,05–8× — Stapelverarbeitung, Live Activity und Siri, kein Upload.
+  highlights:
+  - Schnittprojekte + Sticker
+  - 0,05–8× Tempo
+  - Untertitel auf dem Gerät
+  - Gesichtsunschärfe & LUTs
+iApp:
+  taglines: App-Store-Browser von Drittanbietern — Vorschauen, Versionsverlauf, Entwicklerantworten & 18 Sprachen.
+  blurbs: Stöbere in 12 Charts aus 175 Regionen, sieh dir Vorschauen an, vergleiche Stores, lies Bewertungen mit Antworten
+    und den Versionsverlauf; verfolge Änderungen an Eintrag und Preis. Store-Links einfügen, Entwickler-Charts, Favoriten
+    & Widgets — ohne Anmeldung.
+  highlights:
+  - Entwicklerantworten
+  - Versionsverlauf
+  - Erweiterte iapp://-Links
+  - 18 Sprachen
+iDictionary:
+  taglines: Über 20.000 Hanzi offline — Handschrift, Lernwerkzeuge, Teilen-Karten & Akzentfarben.
+  blurbs: 'Offline-Zeichenpult: 20.000+ Hanzi, Strichanimationen, Handschrift & OCR; Lernwerkzeuge auf dem Home-Bildschirm,
+    Kategorien-Browser, Favoriten-Stapelverarbeitung, Teilen-Karten und Akzentthemen — ohne Account, ohne Werbung, komplett
+    offline.'
+  highlights:
+  - Strichanimationen
+  - Lernwerkzeuge
+  - Teilen-Karten
+  - Komplett offline
+iNutrition:
+  taglines: Ihr Ernährungsexperte — Lebensmittelwissenschaft lernen statt Kalorien zählen.
+  blurbs: 'Wissensorientiertes Ernährungslernen: 19 Originalartikel, 2.160+ Lebensmittel, Enzyklopädie mit 27 Nährstoffen,
+    BMI-/BMR-/TDEE-Rechner und KI-Etikettenerkennung auf dem Gerät; Widgets und HealthKit — Inhalte offline, ohne Account.'
+  highlights:
+  - 2.160+ Lebensmittel
+  - KI auf dem Gerät
+  - HealthKit
+  - Offline-Inhalte
+iBible:
+  taglines: Gottes Wort erhellt jeden Tag — zweisprachige Andacht, offline.
+  blurbs: 'Zweisprachiges Bibel-Andachtsstudio: die vollständige Schrift auf dem Gerät, Vers des Tages, Paralleltext, Pläne
+    und bekannte Verse; Vorlesen, Teilen-Karten, 5 Widgets, Live Activity und Siri — komplett offline, ohne Account, ohne
+    Werbung.'
+  highlights:
+  - Ganze Bibel offline
+  - Vers des Tages
+  - Zweisprachig lesen
+  - Widgets & Live Activity
+iTangPoems:
+  taglines: Tang-Dichtung zum Eintauchen — vorlesen, lernen, rezitieren, Gedicht des Tages.
+  blurbs: 'Immersives Tang-Poesie-Studio mit 368 Gedichten (Klassiker + bekannte Ergänzungen): Karaoke-TTS, Lernmodus, Live-Aktivität
+    beim Lesen; fünf Wege zum Stöbern, Gedicht des Tages, 6 Widgets & iCloud — komplett offline, ohne Account, ohne Werbung.'
+  highlights:
+  - 368 Gedichte
+  - Handschriftsuche
+  - Karaoke-Rezitation
+  - 6 Widgets
+iSongCi:
+  taglines: Ein Ci pro Tag — 21.592 Song-Lyrics offline mit Dauerlesen & Widgets.
+  blurbs: 'Ein Song-Ci-Studio mit allen 21.592 Dichtungen: moderne Kommentare, Ci-Schule & Blumenflug-Spiel, Ci des Tages,
+    Dauerlesen & Playlists; traditionelle Schriftzeichen, Sprechtempo, Hintergrundaudio, Zeilenauswahl auf Karten & Widgets
+    — komplett offline, ohne Account, ohne Werbung.'
+  highlights:
+  - 21.592 Ci-Werke
+  - Handschriftsuche
+  - Ci-Schule
+  - Blumenflug
+iYuanQu:
+  taglines: Yuan-Dichtung zum Eintauchen — Qu des Tages, kuratierte Anmerkungen, Dauerlesen & Widgets.
+  blurbs: 'Ein Yuan-Verse-Studio mit 8.969 Werken: kuratierte Anmerkungen & Übersetzungen, Qu des Tages, Dauerlesen; Zeilenauswahl
+    auf Karten, Titel-Long-Press-Menü, Gongdiao/Qupai, Register & Widgets — komplett offline, ohne Account, ohne Werbung.'
+  highlights:
+  - 8.969 Qu-Werke
+  - Handschriftsuche
+  - Dauerlesen
+  - Gongdiao & Qupai
+iStore:
+  taglines: App-Store-Region per Fingertipp wechseln — 175 Regionen, Favoriten, Karte & Widgets.
+  blurbs: Wechsle über Apples offizielle Links zwischen Storefronts in 175 Regionen. Nach Kontinent stöbern, Regionen favorisieren,
+    Verfügbarkeit prüfen, auf einer Karte auswählen; Start über Widgets & Siri — optionales iCloud, ohne Account.
+  highlights:
+  - 175 Regionen
+  - App-Verfügbarkeit
+  - Kartenauswahl
+  - Widgets & Siri
+iWord:
+  taglines: Chinesische Sprache & Kultur entdecken — Idiome, Sprichwörter, Wortspiele, offline.
+  blurbs: 'Offline-Bibliothek zur chinesischen Sprache: 107.000+ Einträge zu Idiomen, Xiehouyu, Zungenbrechern, Sprichwörtern,
+    Couplets & Rätseln. Volltextsuche, SRS-Wiederholung, Quiz & Wortspiele, TTS & Widgets — ohne Account, ohne Werbung.'
+  highlights:
+  - 107.000+ Einträge
+  - SRS-Wiederholung
+  - Wortspiele
+  - FTS5-Suche
+iRootWord:
+  taglines: Englische Wortwurzeln & Affixe — eigene Listen, Teilen-Karten und Rückgängig bei der Wiederholung.
+  blurbs: 'Offline-Wurzelwerkstatt: Affixe durchstöbern, eigene Wortlisten getrennt von Favoriten anlegen, Teilen-Karten,
+    Wiederholung mit ca. 3 s Rückgängig, Widgets & Siri — Datenschutz zuerst, ohne Account, ohne Werbung.'
+  highlights:
+  - Über 240 Affixe
+  - Wortzerleger
+  - Leitner-SRS
+  - Widgets & Siri
+iExcel:
+  taglines: Excel-Formeln, Funktionen und Tipps lernen — komplett offline.
+  blurbs: 'Excel offline lernen auf iPhone, iPad und Mac: 265 Funktionen, Tipps, Lektionen, Quizze und ein Formel-Spielplatz.
+    Fortschritt, Funktion des Tages, 4 Widgets und Siri — iCloud optional, ohne Account.'
+  highlights:
+  - 265 Funktionen
+  - Formel-Spielplatz
+  - Fortschritt & Serien
+  - Widgets & Siri
+GLUT:
+  taglines: Campus-News, Studieninfos und Materialien für GLUT — Neuaufbau zum 10. Jubiläum.
+  blurbs: 'Campus-News für GLUT: Mitteilungen, akademische Neuigkeiten, durchsuchbare Materialien, Favoriten und Teilen als
+    Langbild, Campus-VR, Widgets und Jubiläums-Countdown, 13 Icons — für iPhone, iPad und Mac. Ohne Account, ohne Werbung.'
+  highlights:
+  - Campus-News
+  - iOS-Widgets
+  - Campus-VR
+  - 13 Icons
+iCouplet:
+  taglines: Couplets zum Eintauchen — rezitieren, vertikal lesen, lernen & Couplet des Tages.
+  blurbs: 'Ein immersives Couplet-Studio mit 3369 Werken: Karaoke-TTS, vertikales Lesen, Lernen & 对对子; Couplet des Tages,
+    Teilen-Karten, Widgets & Live-Aktivität — komplett offline, ohne Account, ohne Werbung.'
+  highlights:
+  - 3369 Couplets
+  - Karaoke-TTS
+  - Lernmodi
+  - Widgets & Live-Aktivität
+iAppManager:
+  taglines: Natives ASC-Pult — Versionen, Assets, IAP, TestFlight und lesbare Berichte.
+  blurbs: 'Anmeldung per API-Schlüssel auf iPhone, iPad und Mac: Versionen, Assets im Stapel, IAP, TestFlight und breite Verkaufsberichte
+    mit schlanken Diagrammen — Schlüssel im Schlüsselbund, nur Apple-Datenverkehr, kein Tracking.'
+  highlights:
+  - Anmeldung per API-Schlüssel
+  - Assets im Stapel
+  - Lesbare Berichte
+  - TestFlight & IAP
+iLunYu:
+  taglines: Die Gespräche des Konfuzius neu entdecken — zweisprachig lesen, rezitieren, lernen und Spruch des Tages.
+  blurbs: 'Offline-Studio für die Gespräche des Konfuzius: 512 Kapitel zweisprachig mit moderner Übertragung, Karaoke-Rezitation,
+    Lernklasse und Suche; Spruch des Tages, 162 Zeilen, Widgets und Siri — ohne Account, ohne Werbung.'
+  highlights:
+  - 512 Kapitel der Gespräche
+  - Handschriftsuche
+  - Rituelles Lernen
+  - Spruch des Tages
+iArtOfWar:
+  taglines: Strategie-Klassiker offline — zweisprachig lesen, rezitieren, lernen und Kriegslist des Tages.
+  blurbs: '174 Klassiker offline: Sunzi, Sun Bin, Wujing und die 36 Strategeme; Rezitation in gemischten Sprachen, Strategie-Klasse
+    und Suche; Kriegslist des Tages, 120 Zeilen, Widgets und Siri — ohne Account, ohne Werbung.'
+  highlights:
+  - 174 Strategeme
+  - Handschriftsuche
+  - Strategie-Lernen
+  - Täglich neuer Tipp
+iDeveloper:
+  taglines: Das Entwickler-Studio für die Hosentasche – 176 Tools, Gerätemodelle und zweisprachige Referenzen.
+  blurbs: 176 Offline-Tools, rund 255 Gerätemodelle und 14 zweisprachige Referenzen; intelligentes Teilen, Home-Widgets und
+    Live Activity für den Fokus. Datenschutz zuerst, ohne Konto, ohne Werbung.
+  highlights:
+  - 176 Tools
+  - Gerätemodelle
+  - Zweisprachige Referenzen
+  - Live Activity
+iVirtue:
+  taglines: Di Zi Gui für die ganze Familie – zweisprachig lesen, rezitieren, Tugenden lernen und täglich üben.
+  blurbs: 'Offline-Studio für das Di Zi Gui: 90 Strophen mit modernem Chinesisch und Englisch, Karaoke-Rezitation, Tugendklasse
+    und Übungsverlauf; Tagesregel, Teilen-Karten, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 90 Reimabschnitte
+  - Handschriftsuche
+  - Tugendstudium
+  - Widgets und Siri
+iThree:
+  taglines: Das San Zi Jing offline – zweisprachig lesen, rezitieren, lernen und eine Zeile pro Tag.
+  blurbs: 'Offline-Studio für das San Zi Jing: 48 Abschnitte mit Pinyin, modernem Chinesisch und Englisch; Karaoke-Rezitation,
+    Lernmodi und Fibel-Jagd; Zeile des Tages, Geschichten, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 48 Abschnitte des San Zi Jing
+  - Handschriftsuche
+  - Fibel-Jagd
+  - Zeile des Tages
+iRootWise:
+  taglines: An der Wurzel der Weisheit kauen – Caigentan, stilles Sitzen, tägliche Praxis.
+  blurbs: '697 bereinigte Passagen aus der Ming- und Qing-Zeit offline: modernes Chinesisch und Englisch, Tan des Tages, Meditation,
+    fünf Wege der Selbstkultivierung; Widgets mit berühmten Zeilen und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 697 Sinnsprüche
+  - Handschriftsuche
+  - Stilles Sitzen
+  - Fünf tägliche Übungen
+iDao:
+  taglines: Das Daodejing, ein Kapitel pro Tag – doppelte Kommentare, Rezitation und Lernsaal.
+  blurbs: 'Offline-Studio für das Daodejing: 81 Kapitel mit Pinyin, zwei Kommentaren und zwei englischen Fassungen (inklusive
+    Zusatztexte); Karaoke-Rezitation, Lernsaal und Suche nach dem Dao; Kapitel des Tages, 74 Zeilen, Widgets und Siri. Ohne
+    Konto, ohne Werbung.'
+  highlights:
+  - 81 Kapitel des Daodejing
+  - Handschriftsuche
+  - Dao-Studium
+  - Kapitel des Tages
+iYiJing:
+  taglines: Ein Hexagramm, eine Welt – studieren, kulturell werfen und lernen.
+  blurbs: 'Offline-Studio für das Zhouyi: 64 Hexagramme mit modernem Chinesisch, Pinyin und Englisch; kulturelles Werfen,
+    Lernsaal und Stichwortsuche; Hexagramm des Tages, Zehn Flügel, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 64 Hexagramme
+  - Handschriftsuche
+  - Yijing-Studium
+  - Hexagramm des Tages
+iZen:
+  taglines: Den Geist neu starten – Atmen, Klanglandschaft und dreistufige Erholung.
+  blurbs: 'Dreistufige Erholung offline: 47 Übungen, rund 500 Zitate, 17 Wissenschaftskurzberichte; Atmen in mehreren Modi,
+    prozedurale Klanglandschaft, 1-Minuten-Check und Krisenhotlines; Zen des Tages, Teilen-Karten, Widgets und Siri. Ohne
+    Konto, ohne Werbung.'
+  highlights:
+  - Dreistufige Erholung
+  - Atmen mit Sprachführung
+  - Krisenhotlines
+  - Widgets und Siri
+iSutra:
+  taglines: Ein Handy, unzählige Sutras – lesen, rezitieren, intonieren und abschreiben.
+  blurbs: 'Offline-Sutra-Studio: Bibliothek mit 144 Indexeinträgen samt Diamant-Sutra und Dizang-Bänden; zweisprachiges Lesen,
+    Rezitieren, Gesang zum Holzfisch, Sutra-Abschrift und Übungsverlauf; Sutra des Tages, Widgets und Siri. Ohne Konto, ohne
+    Werbung.'
+  highlights:
+  - 144 Sutra-Indexeinträge
+  - Handschriftsuche
+  - Intonieren und Abschreiben
+  - Sutra des Tages
+iPrimer:
+  taglines: Lernen · meditieren · reflektieren – Zhu Xis Xiaoxue für tägliches Wachstum.
+  blurbs: 'Offline-Studio für das Xiaoxue: 388 Kapitel mit modernem Chinesisch, Anmerkungen und Englisch; Rezitation, Charakterstudium,
+    sechs Meditationen und Reflexionstagebuch; Studium des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 388 Kapitel
+  - Meditation
+  - Charakterstudium
+  - Studium des Tages
+iThousand:
+  taglines: Vier Fibeln – Strichkarten nach Komponenten, Handschriftsuche und Fibelhalle.
+  blurbs: 'Offline-Fibelstudio: 122 Abschnitte aus Qianziwen, San Zi Jing, Baijiaxing und Di Zi Gui; Strichkarten nach Komponenten,
+    Handschriftsuche, Rezitation und Fibelhalle; Zeile des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 122 Abschnitte
+  - Handschriftsuche
+  - Komponentenkarten
+  - Fibelhalle
+iBaiJia:
+  taglines: Hundert Familiennamen – 967 Nachnamen, Handschriftsuche und Lernsaal.
+  blurbs: 'Offline-Studio für Familiennamen: 967 Nachnamen mit Herkunft und englischer Umschrift; acht Browse-Achsen, Handschriftsuche,
+    Rezitation und Lernsaal; Name des Tages, Strichnachzeichnen, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 967 Nachnamen
+  - Handschriftsuche
+  - Lernsaal
+  - Name des Tages
+iWuJing:
+  taglines: Die Fünf Klassiker an einem Schreibtisch – zweisprachig lesen, rezitieren und offline lernen.
+  blurbs: 'Offline-Studio für die Fünf Klassiker: 819 Passagen aus Shijing, Shujing, Liji, Yijing und Chunqiu; Rezitation,
+    Klassikerstudium, Worterklärungen und Textvarianten; Klassiker des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 819 Passagen der Fünf Klassiker
+  - Handschriftsuche
+  - Klassikerstudium
+  - Klassiker des Tages
+iSiShu:
+  taglines: Die Vier Bücher – dreisprachiges Studium, Handschriftsuche und 113 berühmte Zeilen.
+  blurbs: 'Die Vier Bücher offline: 1257 Passagen mit englischer Fassung nach Legge; Handschriftsuche, Rezitation, konzentriertes
+    Studium, 113 berühmte Zeilen, Spruch des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 1257 Passagen
+  - Handschriftsuche
+  - 113 berühmte Zeilen
+  - Spruch des Tages
+iSage:
+  taglines: Ein Spruch, ein Lebensweg – zweisprachig lesen, Lebensszenen und Weisen-Akademie.
+  blurbs: 'Offline-Studio für das Zengguang Xianwen: 1084 Sprüche aus der klassischen Fassung und Zhou Xitaos Neuer erweiterter
+    Weisheit; modernes Chinesisch, Englisch, Deutungen der Weisen und Lebensszenen; Weisheit des Tages, Rezitation, Weisen-Akademie,
+    Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 1084 Sprüche
+  - Lebensszenen
+  - Weisen-Akademie
+  - Weisheit des Tages
+iPrecepts:
+  taglines: Eine Lehre, ein Familienweg – zweisprachig lesen, Parallelvergleich und Studium.
+  blurbs: 'Offline-Studio für Familienlehren: 118 Werke von Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan und anderen; modernes
+    Chinesisch, Englisch, Parallelvergleich; Familienlehre des Tages, Rezitation, Studium, Widgets und Siri. Ohne Konto, ohne
+    Werbung.'
+  highlights:
+  - 118 Familienlehren
+  - Parallelvergleich
+  - Familienstudium
+  - Lehre des Tages
+iRhyme:
+  taglines: Ein Reimpaar nach dem anderen – Parallelismus, Gleichreim-Vergleich und Studium.
+  blurbs: 'Offline-Studio für Klang und Reim: 312 Passagen aus Shenglü Qimeng, Li Weng Dui Yun über dreißig Reime, Qian Jia
+    Shi und You Xue Qiong Lin; Rezitation, Studium, Reim des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.'
+  highlights:
+  - 312 Passagen
+  - Parallelismus-Ansicht
+  - Reimstudium
+  - Reim des Tages
+iXin:
+  taglines: Wissen und Handeln als Einheit — zweisprachig lesen, Journal & Herzschule.
+  blurbs: 'Offline-Studio zu Wang Yangming: 102 Passagen aus dem Chuanxilu, den Fragen zum Großen Lernen, den Longchang-Lehren,
+    Gedichten und Annalen. Moderne chinesische und englische Fassung, Journal zu Wissen und Handeln, Tagesimpuls, Rezitieren,
+    Lernen, Widgets & Siri — ohne Konto, ohne Werbung.'
+  highlights:
+  - 102 Passagen
+  - Journal Wissen & Handeln
+  - Herzschule
+  - Tagesimpuls
+iZhuangZi:
+  taglines: Eine Passage Zhuangzi — zweisprachig lesen, Gleichnisse & Dao-Studium.
+  blurbs: 'Offline-Zhuangzi-Studio: alle 33 Kapitel (innere, äußere, gemischte), 701 Absätze mit moderner chinesischer und
+    englischer Fassung nach Legge. Gleichnisse, Zhuangzi befragen, Rezitieren, Lernen, Zhuangzi des Tages, Widgets & Siri
+    — ohne Konto, ohne Werbung.'
+  highlights:
+  - 33 Zhuangzi-Kapitel
+  - Täglich neu
+  - Zhuangzi befragen
+  - Dao-Studium
+iGuanZhi:
+  taglines: Guwen Guanzhi — Fabeln erschließen, Gattungslexikon & lange Kategorienführer.
+  blurbs: 'Offline-Nahlektüre des Guwen Guanzhi: 222 Essays mit Leseanleitung für Anekdoten, Gattungslexikon und langen Übersichtsführern.
+    Rezitieren, Klassikerstudium, Essay-Jagd, Essay des Tages, Widgets & Siri — komplett offline, ohne Konto, ohne Werbung.'
+  highlights:
+  - 222 Essays
+  - Fabeln erschließen
+  - Gattungslexikon
+  - Essay des Tages
+iHanFei:
+  taglines: Han Feizi — Fabeln praktisch erschließen, Legalismus-Studium & Zufallskapitel des Tages.
+  blurbs: 'Han Feizi offline: 55 Kapitel, 85 Fabeln mit praktischer Anleitung, 47 Begriffe. Strategem des Tages mit klügerer
+    Aktualisierung, Zufallskapitel, Legalismus-Studium & Widgets — ohne Konto, ohne Werbung.'
+  highlights:
+  - 55 Kapitel
+  - Fabeln praktisch
+  - Zufallskapitel
+  - Täglich neu
+iLvShi:
+  taglines: Eine Jahreszeit, eine Passage — vierschichtiges Lesen & Almanach.
+  blurbs: 'Offline-Studio zum Lüshi Chunqiu: 160 Passagen mit Gao-You-Kommentar, moderner chinesischer und englischer Fassung.
+    Almanach-Widget, Frühling-Herbst-Studium, Passage des Tages, Widgets & Siri — ohne Konto, ohne Werbung.'
+  highlights:
+  - 160 Passagen
+  - Gao-You-Kommentar
+  - Almanach
+  - Passage des Tages
+iMencius:
+  taglines: Ein Wort des Mengzi — Analogien, Dialoge & Studium der Qi-Pflege.
+  blurbs: 'Offline-Mencius-Studio: 690 Kapitel, 3549 Verse, Analogien und Dialogkarte. Rezitieren, Studium der Qi-Pflege,
+    Yi-Jagd, Spruch des Tages, Widgets & Siri — ohne Konto, ohne Werbung.'
+  highlights:
+  - 690 Kapitel
+  - Analogien
+  - Studium der Qi-Pflege
+  - Spruch des Tages
+iMoZi:
+  taglines: Mozi — vier lange Leitfäden, moderne Sprachschicht & aufklappbare Einführungen.
+  blurbs: 'Mozi offline: Karte der Zehn Thesen, vier lange mohistische Leitfäden, moderne Sprachschicht und aufklappbare Einführungskarten.
+    Rezitieren, Mozi-Studium, Jagd, Mozi des Tages, Widgets & Siri — ohne Konto, ohne Werbung.'
+  highlights:
+  - Mozi-Bibliothek
+  - Vier lange Leitfäden
+  - Moderne Sprachschicht
+  - Mozi des Tages
+iXunZi:
+  taglines: Xunzi — Begriffs- & Idiomlexika, zweisprachig lesen & Studium.
+  blurbs: 'Offline-Xunzi-Studio: Begriffs- und Idiomlexika vertiefen das Studium neben der zweisprachigen Lektüre. Rezitieren,
+    Akademie-Studium, Jagd, Xunzi des Tages, Widgets & Siri — ohne Konto, ohne Werbung.'
+  highlights:
+  - Xunzi-Bibliothek
+  - Begriffslexikon
+  - Idiomlexikon
+  - Xunzi des Tages
+iBrowser:
+  taglines: Echter Vollbild-Browser — Widgets, Kurzbefehle, Kindersperre.
+  blurbs: 'Immersives Surfen auf iPhone & iPad: Schwebekugel, Widgets für Home- und Sperrbildschirm, Siri & Kurzbefehle, optionales
+    iCloud für Lesezeichen — die Kindersperre hält die Seite fest. Keine Werbung, keine Pop-ups.'
+  highlights:
+  - Widgets & Kurzbefehle
+  - Schwebekugel
+  - Kindersperre
+  - Optionales iCloud
+iMusic:
+  taglines: Kuratiertes Hörstudio — Stück des Tages, immersiver Player und Songerkennung.
+  blurbs: '5.300+ originale Hörnotizen offline: Stück des Tages, immersiver Player (Cover Flow und Hintergrundstile) und Songerkennung;
+    Apple-Music-Katalog auf Künstlerseiten; Widgets und Siri. Ohne Account, ohne Werbung.'
+  highlights:
+  - 5.300+ Hörführer
+  - Cover-Flow-Player
+  - Songerkennung
+  - Stück des Tages
+iBianQue:
+  taglines: Nan-Jing-Befragung — vier Untersuchungen, Atlas & Kulturstudium.
+  blurbs: 'Offline-Werkstatt zu Bian Que: Biografie aus dem Shiji, 81 Schwierigkeiten, Szenen der vier Untersuchungen und
+    2D-Meridianatlas. Kunst des Tages, Que-Studium, Widgets & Siri — Kulturstudium, kein medizinischer Rat.'
+  highlights:
+  - 81 Schwierigkeiten
+  - Vier Untersuchungen
+  - Meridianatlas
+  - Kunst des Tages
+iGuige:
+  taglines: Guiguzi-Werkstatt — Kunstkarten, Fälle & Jedem angemessen sprechen.
+  blurbs: 'Offline-Guiguzi-Werkstatt: 40 Kunstkarten mit Warnhinweisen vor Missbrauch, 200 Fälle der Streitenden Reiche und
+    „Jedem angemessen sprechen“. Strategie des Tages, Akademie, Widgets & Siri — zum Studium, kein Verkaufstisch.'
+  highlights:
+  - 40 Kunstkarten
+  - 200 Fälle
+  - Jedem angemessen sprechen
+  - Strategie des Tages
+iLiezi:
+  taglines: Liezi in 135 Einheiten — Fabeln, Leere–Wind–Schicksal & Liezi des Tages.
+  blurbs: 'Das vollständige Liezi offline: 135 Erzähleinheiten, Yugong, auf dem Wind reiten, der Mann aus Qi und der Graph
+    Leere–Wind–Schicksal. Liezi des Tages, Liezi-Studium, Widgets & Siri — ein Text, keine Zitatwand.'
+  highlights:
+  - 135 Erzähleinheiten
+  - Fabelhalle
+  - Leere–Wind–Schicksal
+  - Liezi des Tages
+iShangYang:
+  taglines: Shangjunshu als Geschichte — vier Schichten, Edikte & Chronik.
+  blurbs: 'Das Buch des Herrn Shang offline: vierschichtiges Lesen, 60 Reformedikte und eine Chronik von 361–338 v. Chr. Reform
+    des Tages, Reformstudium, Widgets & Siri — historisches Studium, keine Regierungsanleitung.'
+  highlights:
+  - Vierschichtiges Lesen
+  - 60 Edikte
+  - Reformchronik
+  - Reform des Tages
+iZengZi:
+  taglines: Zengzi-Linie — drei Selbstprüfungen, acht Schritte & ein geschlossenes Set.
+  blurbs: 'Ein geschlossenes Zengzi-Set offline: Auszüge aus den Gesprächen, das Große Lernen, das Xiaojing und ein Drei-Fragen-Journal.
+    Reflexion des Tages, Kultivierungshalle, Widgets & Siri — nicht die vollständigen Gespräche oder Mengzi.'
+  highlights:
+  - Geschlossenes Zengzi-Set
+  - Drei-Fragen-Journal
+  - Acht Schritte
+  - Reflexion des Tages
+iZiSi:
+  taglines: Zisi & die Mitte — fünf Schritte, Wachsamkeit & Guodian-Bambusstreifen.
+  blurbs: 'Offline-Zisi-Werkstatt: Zhu Xis 33 Zhongyong-Kapitel, die Fünf Verhaltensweisen von Guodian und ein Studio zur
+    Wachsamkeit. Gedanke des Tages, Zisi-Studium, Widgets & Siri — nicht das Paket der Vier Bücher.'
+  highlights:
+  - 33 Zhongyong-Kapitel
+  - Fünf Verhaltensweisen
+  - Wachsamkeit
+  - Fünf Schritte
+iWidget:
+  taglines: Widget-Designer — 54 Vorlagen, Hintergrundtönung, Tippschutz, Offline-Kalender.
+  blurbs: 'Baue Boards für Home-, Sperrbildschirm und Kontrollzentrum aus Blöcken: Mondkalender, Wetter, Countdowns & Gerätedaten.
+    Hintergründe pro Slot, transparente Widgets, Siri & `iwidget://` — iCloud optional, ohne Konto.'
+  highlights:
+  - 54 Vorlagensets
+  - Block-Editor
+  - Tippschutz
+  - Home- + Sperrbildschirm-Widgets

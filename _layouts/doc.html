@@ -1,0 +1,84 @@
+---
+layout: default
+page_type: doc
+---
+{%- assign current_app = nil -%}
+{%- for a in site.data.apps -%}
+  {%- if a.id == page.app_id -%}{%- assign current_app = a -%}{%- endif -%}
+{%- endfor -%}
+
+{%- if current_app -%}
+<style>
+  :root {
+    --accent: {{ current_app.accent.light }};
+    --accent-strong: {{ current_app.accent.light }};
+    --accent-soft: color-mix(in srgb, {{ current_app.accent.light }} 14%, transparent);
+    --accent-from: {{ current_app.accent.gradient_from }};
+    --accent-to: {{ current_app.accent.gradient_to }};
+  }
+  html[data-theme="dark"] {
+    --accent: {{ current_app.accent.dark }};
+    --accent-strong: {{ current_app.accent.dark }};
+  }
+  @media (prefers-color-scheme: dark) {
+    html[data-theme="auto"] {
+      --accent: {{ current_app.accent.dark }};
+      --accent-strong: {{ current_app.accent.dark }};
+    }
+  }
+</style>
+{%- endif -%}
+
+<section class="container container--narrow">
+  <header class="doc-header" data-reveal>
+    {%- if current_app -%}
+    <a href="{{ current_app.url | relative_url }}" class="doc-header__eyebrow">
+      <span class="doc-header__icon">{% include app-icon.html app=current_app size="11" %}</span>
+      {{ current_app.id }}
+    </a>
+    {%- endif -%}
+
+    <h1 class="doc-header__title">
+      {%- if page.doc_title_en -%}
+        {%- for L in site.languages -%}
+          {%- assign doc_t = page.doc_title_en -%}
+          {%- if L.code == 'zh-CN' and page.doc_title_zh_cn -%}{%- assign doc_t = page.doc_title_zh_cn -%}{%- endif -%}
+          {%- if L.code == 'zh-TW' and page.doc_title_zh_tw -%}{%- assign doc_t = page.doc_title_zh_tw -%}{%- endif -%}
+          {%- if L.code != 'en' and L.code != 'zh-CN' and L.code != 'zh-TW' -%}
+            {%- assign doc_key = page.doc_kind | default: 'privacy' -%}
+            {%- if page.url contains '/faq' -%}{%- assign doc_key = 'faq' -%}{%- endif -%}
+            {%- if page.url contains '/url-scheme' -%}{%- assign doc_key = 'url_scheme' -%}{%- endif -%}
+            {%- if page.url contains '/index' or page.url == page.app_id -%}{%- assign doc_key = 'overview' -%}{%- endif -%}
+            {%- assign doc_t = site.data.i18n[L.code].app_pages[doc_key] | default: page.doc_title_en -%}
+          {%- endif -%}
+          <span lang="{{ L.code }}">{{ doc_t }}</span>
+        {%- endfor -%}
+      {%- else -%}
+        {{ page.title | default: page.doc_title_en }}
+      {%- endif -%}
+    </h1>
+    {%- if page.last_updated -%}
+    <p class="doc-header__updated">
+      {%- for L in site.languages -%}
+        <span lang="{{ L.code }}" class="inline">{{ site.data.i18n[L.code].doc.last_updated }}: {{ page.last_updated }}</span>
+      {%- endfor -%}
+    </p>
+    {%- endif -%}
+  </header>
+
+  <article class="prose" data-reveal>
+    <p class="lang-fallback-banner" role="status">
+      {%- for L in site.languages -%}
+        <span lang="{{ L.code }}">{{ site.data.i18n[L.code].notice.content_fallback_en }}</span>
+      {%- endfor -%}
+    </p>
+    {%- if current_app and site.data.locale_policies.app_ui_notice_default -%}
+    <p class="app-ui-notice" role="note">
+      {%- for L in site.languages -%}
+        <span lang="{{ L.code }}">{{ site.data.i18n[L.code].notice.app_ui_language }}</span>
+      {%- endfor -%}
+    </p>
+    {%- endif -%}
+    {{ content }}
+  </article>
+</section>

@@ -1,0 +1,591 @@
+iConnect:
+  taglines: iPhone, iPad ve Mac için yerel P2P sohbet, PTT ve dosya aktarımı.
+  blurbs: Apple aygıtları arasında yerel Wi-Fi üzerinden sohbet, grup sohbeti, PTT, ses ve dosya aktarımı. Yanıtlama, geri
+    çağırma, @bahsetmeler ve arama; yapılandırılabilir dosya boyutu sınırları. Bulut yok, hesap yok, internet gerekmez.
+  highlights:
+  - Sohbet ve PTT
+  - Ses ve dosyalar
+  - Yapılandırılabilir boyut
+  - 9 uygulama simgesi
+iConverter:
+  taglines: 101 hesap makinesi ve dönüştürücü — bakım modu, medya indirme, Canlı Etkinlik.
+  blurbs: 21 etkileşimli widget ile 101 çevrimdışı araç; Bakım Modu, uygulama içi Yardım, büyüteç, medya indirme ve Paylaş
+    uzantısı; iPhone’da QR geçmişi ve Canlı Etkinlikler — URL şeması, önce gizlilik.
+  highlights:
+  - 101 araç
+  - Bakım Modu
+  - Medya indirme
+  - Canlı Etkinlik
+iLinux:
+  taglines: 1650+ komut · Linux / CMD / PowerShell · çevrimdışı başvuru.
+  blurbs: 'iPhone, iPad ve Mac için çevrimdışı kabuk başvurusu: 1650+ komut, platformlar arası karşılıklar, iCloud senkronizasyonu,
+    günlük sınav ve iOS widget’ları — hesap gerekmez.'
+  highlights:
+  - 1650+ komut
+  - iPhone iPad Mac
+  - iCloud senkronizasyonu
+  - Platformlar arası karşılıklar
+iWool:
+  taglines: Fırsatları, hatırlatıcıları ve kazançları takip edin — özel olarak, cihazda.
+  blurbs: 'iPhone ve iPad için yerel fırsat takipçisi: derin bağlantılar, Quick Countdown Live Activity, yürürlük tarihine
+    göre duraklatma/iptal, etkinlik paylaşım dışa aktarımı, 7 ana ekran özet kartı, 12 widget ve paylaşım kartları — kayıt
+    yok, cihazda çalışır, önce gizlilik.'
+  highlights:
+  - iwool:// derin bağlantılar
+  - Duraklatma ve paylaşım dışa aktarımı
+  - 12 widget
+  - PNG paylaşım kartları
+iCalendar:
+  taglines: Ay takvimi — 25+9 widget, şeffaf stiller, sekme çubuğu, çevrimdışı.
+  blurbs: 1891–2100 almanak, daha zengin 黄历, ana ekran tarih paneli ve “Bugünün Almanağı” widget’ı; iOS 17 şeffaf stilleri
+    dahil 25 ana ekran + 9 kilit ekranı widget’ı; geri sayım seçilen güne göre ilerler — çevrimdışı, hesap gerekmez.
+  highlights:
+  - 25+9 widget
+  - Bugünün Almanağı
+  - Şeffaf widget’lar
+  - 1891–2100
+iPomodoros:
+  taglines: Odaklan. Takip et. Başar. — Pomodoro, istatistikler, widget’lar ve Canlı Etkinlik.
+  blurbs: 'iPhone ve iPad için yerel odak stüdyosu: Pomodoro döngüleri, serbest zamanlayıcı, geri sayım görevleri ve istatistikler
+    (hedefler, ısı haritaları, başarımlar, paylaşım kartları). Beş widget ailesi, çift Canlı Etkinlik ve Siri — isteğe bağlı
+    iCloud, hesap gerekmez.'
+  highlights:
+  - Önce gizlilik
+  - 9 başarım
+  - 5 widget ailesi
+  - Siri uyumlu
+iEnglish:
+  taglines: 3000 temel kelime + isteğe bağlı Senior/CET kitapları — testler, çalma listeleri ve widget’lar.
+  blurbs: 'Yeni başlayanlar için İngilizce kelime uygulaması: A–Z 3000 temel kelime, ayrıca kitap bazında ilerleme takibi
+    sunan isteğe bağlı Senior / CET-4 / CET-6 kitapları; testler, çalma listeleri ve ana ekran widget’ları — iPhone, iPad
+    ve Mac’te çevrimdışı, isteğe bağlı iCloud.'
+  highlights:
+  - 3000 temel kelime + sınav kitapları
+  - Kitap bazında ilerleme
+  - Testler
+  - Widget’lar
+iLeetCoder:
+  taglines: 999 algoritma sorusu, günlük sınav, widget’lar — Apple platformlarında yerel.
+  blurbs: 'LeetCode tarzı algoritma öğrenimi: 999 soru, günlük sınav, favoriler ve yanlışlar defteri, ana ekran widget’ları
+    — iPhone, iPad ve Mac’te yerel, iCloud isteğe bağlı, hesap yok.'
+  highlights:
+  - 999 soru
+  - iCloud senkronizasyonu
+  - Öğrenme kayıtları
+  - Widget’lar
+iTer:
+  taglines: 10.000+ BT mülakat sorusu — günlük sınav, widget’lar, yerel SwiftUI.
+  blurbs: 'Çevrimdışı mülakat kütüphanesi: 17 dil, 12 kariyer yolu, 16 şirket soru bankası. Günlük sınav, favoriler, Markdown
+    yanıtlar, ana ve kilit ekranı widget’ları ve klavye kısayolları — yerel SwiftUI, hesap yok.'
+  highlights:
+  - 10000+ soru
+  - Günlük sınav
+  - Widget’lar
+  - Markdown yanıtlar
+  - iPad ve Mac klavyesi
+iWuBi:
+  taglines: Wubi giriş eğitimi — alıştırmalar, el yazısıyla arama, Siri ve Spotlight.
+  blurbs: 'Wubi’yi çevrimdışı çalışın: tam kodlar ve alıştırmalar, yanlış karakteri yeniden deneme, arama/jianma sayfalarında
+    aramaya aktarılan el yazısı OCR, Siri ve Spotlight — önce gizlilik, hesap yok, reklam yok.'
+  highlights:
+  - Yazma alıştırması
+  - El yazısı OCR
+  - Siri ve Spotlight
+  - 8 widget
+TwinPolarCam:
+  taglines: PiP ile çift kameralı kayıt — gerçek hayattaki kesintilere göre tasarlandı.
+  blurbs: iPhone ve uyumlu iPad’lerde ön ve arka kamerayla kayıt yapın; cihazda PiP, Fotoğraflar’a kaydetme. Dışa aktarma
+    kuyruğu, Live Activity, kurtarılabilir kesintiler, acil arka plan kaydı, uygulama içi rehberler ve üç dilli arayüz — önce
+    gizlilik, bulut yok, hesap yok.
+  highlights:
+  - Çift kamera
+  - Dışa aktarma kuyruğu
+  - Live Activity
+  - Uygulama içi rehberler
+iPhoto:
+  taglines: Özel fotoğraf stüdyosu — canlı güzellik, 3D LUT görünümleri, kolaj ve tarifler.
+  blurbs: Tam kare canlı güzellik ve basılı tutarak karşılaştırma ile çekim yapın; kendi hazırladığımız yaklaşık 55 adet 3D
+    LUT, 2–9 fotoğraflık kolajlar, görünüm tarifleri ve ~800+ çıkartma; paylaşmadan önce EXIF verisini kaldırın — hesap yok,
+    reklam yok.
+  highlights:
+  - Tam kare güzellik
+  - 3D LUT görünümleri
+  - Kolaj ve tarifler
+  - Gizlilik dostu dışa aktarım
+iCangJie:
+  taglines: Cangjie giriş eğitimi — alıştırmalar, el yazısıyla arama ve çevrimdışı sözlük.
+  blurbs: 'Cangjie’yi çevrimdışı çalışın: tam kodlar ve alıştırmalar, yanlış karakteri yeniden deneme, arama ve jianma sayfalarında
+    aramaya aktarılan el yazısı OCR, alternatif simgeler ve Siri Kısayolları — önce gizlilik, hesap yok, reklam yok.'
+  highlights:
+  - 27 bin+ karakter
+  - El yazısı OCR
+  - Yazmayı yeniden deneme
+  - Siri ve widget’lar
+Weber:
+  taglines: 'Safari uzantısı: video hızı kontrolü ve Markdown kopyalama.'
+  blurbs: Yalnızca macOS için Safari uzantısı — araç çubuğu açılır penceresinden hız kontrolü ve Markdown kopyalama. Ayarlar
+    ana uygulamada değil Safari’de yapılır. İngilizce ve Basitleştirilmiş Çince arayüz, asgari izinler, Koyu Mod uyumlu.
+  highlights:
+  - Safari araç çubuğu açılır penceresi
+  - Markdown kopyalama
+  - Yalnızca macOS
+  - MIT kaynak kodu
+iVideo:
+  taglines: Profesyonel video araç seti — Düzenleme Projeleri, çıkartmalar, 31 araç, hepsi cihazda.
+  blurbs: Çıkartma kütüphanesi ve görsel içe aktarma içeren Düzenleme Projeleri sekmesi, çok kanallı zaman çizelgeleri, 31
+    araç, cihazda altyazı, yüz bulanıklaştırma ve LUT’lar; 0,05–8× oynatma — toplu işlem, Live Activity ve Siri, sıfır yükleme.
+  highlights:
+  - Düzenleme Projeleri + çıkartmalar
+  - 0,05–8× hız
+  - Cihazda altyazı
+  - Yüz bulanıklaştırma ve LUT’lar
+iApp:
+  taglines: Üçüncü taraf App Store tarayıcısı — önizlemeler, sürüm geçmişi, geliştirici yanıtları ve 18 dil.
+  blurbs: 175 bölgede 12 listeye göz atın, önizlemeleri izleyin, mağazaları karşılaştırın, yanıtlı yorumları ve sürüm geçmişini
+    okuyun; liste ve fiyat değişikliklerini takip edin. Mağaza bağlantısı yapıştırma, geliştirici listeleri, favoriler ve
+    widget’lar — oturum açmadan.
+  highlights:
+  - Geliştirici yanıtları
+  - Sürüm geçmişi
+  - Genişletilmiş iapp:// bağlantıları
+  - 18 dil
+iDictionary:
+  taglines: 20.000+ hanzi çevrimdışı — el yazısı, çalışma araçları, paylaşım kartları ve vurgu temaları.
+  blurbs: 'Çevrimdışı karakter masası: 20 binden fazla hanzi, çizgi sırası animasyonları, el yazısı ve OCR; ana ekran çalışma
+    araçları, kategoriye göre gezinme, favorilerde toplu işlem, paylaşım kartları ve vurgu temaları — hesap yok, reklam yok,
+    tamamen çevrimdışı.'
+  highlights:
+  - Çizgi sırası animasyonları
+  - Çalışma araçları
+  - Paylaşım kartları
+  - Tamamen çevrimdışı
+iNutrition:
+  taglines: Beslenme uzmanınız — kalori saymayı değil, gıda bilimini öğrenin.
+  blurbs: 'Bilgi odaklı beslenme öğrenimi: 19 özgün makale, 2.160+ besin, 27 besin öğesi ansiklopedisi, BMI/BMR/TDEE araçları
+    ve cihazda yapay zekâyla etiket okuma; widget’lar ve HealthKit — içerik çevrimdışı, hesap yok.'
+  highlights:
+  - 2160+ besin
+  - Cihazda yapay zekâ
+  - HealthKit
+  - Çevrimdışı içerik
+iBible:
+  taglines: Tanrı’nın Sözü her günü aydınlatsın — iki dilli ibadet, çevrimdışı.
+  blurbs: 'İki dilli Kutsal Kitap ibadet stüdyosu: Kutsal Kitap’ın tamamı cihazda, Günün Ayeti, paralel okuma, planlar ve
+    ünlü ayetler; sesli okuma, paylaşım kartları, 5 widget, Live Activity ve Siri — tamamen çevrimdışı, hesap yok, reklam
+    yok.'
+  highlights:
+  - Tüm Kutsal Kitap çevrimdışı
+  - Günün Ayeti
+  - İki dilli okuma
+  - Widget ve Live Activity
+iTangPoems:
+  taglines: Sürükleyici Tang şiiri — sesli okuma, çalışma, ezberleme, günün şiiri.
+  blurbs: '368 şiirlik (klasikler + ünlü ek eserler) sürükleyici Tang şiiri stüdyosu: karaoke tarzı TTS, çalışma, okuma Canlı
+    Etkinliği; beş farklı gezinme yolu, günün şiiri, 6 widget ve iCloud — tamamen çevrimdışı, hesap yok, reklam yok.'
+  highlights:
+  - 368 şiir
+  - El yazısıyla arama
+  - Karaoke tarzı ezber
+  - 6 widget
+iSongCi:
+  taglines: Günde bir ci — 21.592 Song sözü çevrimdışı, kesintisiz okuma ve widget’larla.
+  blurbs: 'Tüm 21.592 eseri içeren bir Song Ci stüdyosu: modern yorumlar, Ci Okulu ve Uçan Çiçek, günün ci’si, kesintisiz
+    okuma ve çalma listeleri; geleneksel yazı, konuşma hızı, arka planda ses, kartlarda ve widget’larda dize seçimi — tamamen
+    çevrimdışı, hesap yok, reklam yok.'
+  highlights:
+  - 21.592 ci eseri
+  - El yazısıyla arama
+  - Ci Okulu
+  - Uçan Çiçek
+iYuanQu:
+  taglines: Sürükleyici Yuan şiiri — günün qu’su, seçilmiş notlar, kesintisiz okuma ve widget’lar.
+  blurbs: '8.969 eserlik bir Yuan şiiri stüdyosu: seçilmiş notlar ve çeviriler, günün qu’su, kesintisiz okuma; kartlarda dize
+    seçimi, başlığa uzun basma menüsü, gongdiao/qupai, dizinler ve widget’lar — tamamen çevrimdışı, hesap yok, reklam yok.'
+  highlights:
+  - 8.969 qu eseri
+  - El yazısıyla arama
+  - Kesintisiz okuma
+  - Gongdiao ve qupai
+iStore:
+  taglines: Tek dokunuşla App Store bölgesi değiştirme — 175 bölge, favoriler, harita ve widget’lar.
+  blurbs: Apple’ın resmî bağlantılarıyla 175 bölgedeki mağazalar arasında geçiş yapın. Kıtaya göre gezinin, bölgeleri favorilere
+    ekleyin, uygunluğu kontrol edin, haritadan seçin; widget’lardan ve Siri’den açın — isteğe bağlı iCloud, hesap gerekmez.
+  highlights:
+  - 175 bölge
+  - Uygulama uygunluğu
+  - Harita seçici
+  - Widget’lar ve Siri
+iWord:
+  taglines: Çin dilini ve kültürünü keşfedin — deyimler, halk sözleri, kelime oyunları, çevrimdışı.
+  blurbs: 'Çevrimdışı Çince dil kütüphanesi: deyimler, xiehouyu, tekerlemeler, atasözleri, beyitler ve bilmeceler dahil 107.000’den
+    fazla madde. Tam metin arama, SRS tekrarı, testler ve kelime oyunları, TTS ve widget’lar — hesap yok, reklam yok.'
+  highlights:
+  - 107 bin+ madde
+  - SRS tekrarı
+  - Kelime oyunları
+  - FTS5 arama
+iRootWord:
+  taglines: İngilizce kökler ve ekler — özel listeler, paylaşım kartları ve tekrarı geri alma.
+  blurbs: 'Çevrimdışı kök masası: ekleri keşfedin, favorilerden ayrı özel kelime listeleri oluşturun, paylaşım kartları, yaklaşık
+    3 sn geri alma ile tekrar, widget’lar ve Siri — önce gizlilik, hesap yok, reklam yok.'
+  highlights:
+  - 240+ ek
+  - Kelime ayrıştırıcı
+  - Leitner SRS
+  - Widget’lar ve Siri
+iExcel:
+  taglines: Excel formüllerini, işlevlerini ve ipuçlarını öğrenin — tamamen çevrimdışı.
+  blurbs: 'iPhone, iPad ve Mac için çevrimdışı Excel öğrenimi: 265 işlev, ipuçları, dersler, sınavlar ve formül deneme alanı.
+    İlerleme, günün işlevi, 4 widget ve Siri — iCloud isteğe bağlı, hesap yok.'
+  highlights:
+  - 265 işlev
+  - Formül deneme alanı
+  - İlerleme ve seriler
+  - Widget ve Siri
+GLUT:
+  taglines: GLUT için kampüs haberleri, ders güncellemeleri ve kaynaklar — 10. yıl yenilemesi.
+  blurbs: 'GLUT kampüs haberleri: duyurular, akademik güncellemeler, aranabilir materyaller, favoriler ve uzun görsel paylaşımı,
+    kampüs VR, widget’lar ve yıldönümü geri sayımı, 13 simge — iPhone, iPad ve Mac’te. Hesap yok, reklam yok.'
+  highlights:
+  - Kampüs haberleri
+  - iOS widget’ları
+  - Kampüs VR
+  - 13 simge
+iCouplet:
+  taglines: Sürükleyici beyitler — ezberleme, dikey okuma, çalışma ve günün beyti.
+  blurbs: '3369 eserlik sürükleyici bir beyit stüdyosu: karaoke tarzı TTS, dikey okuma, çalışma ve 对对子; günün beyti, paylaşım
+    kartları, widget’lar ve Canlı Etkinlik — tamamen çevrimdışı, hesap yok, reklam yok.'
+  highlights:
+  - 3369 beyit
+  - Karaoke tarzı TTS
+  - Çalışma modları
+  - Widget’lar ve Canlı Etkinlik
+iAppManager:
+  taglines: Yerel ASC masası — sürümler, varlıklar, IAP, TestFlight ve okunaklı raporlar.
+  blurbs: 'iPhone, iPad ve Mac’te API Anahtarı ile giriş: sürümler, toplu varlıklar, IAP, TestFlight ve hafif grafikli geniş
+    tablolu satış raporları — anahtarlar Anahtar Zinciri’nde, yalnızca Apple trafiği, takip yok.'
+  highlights:
+  - API Anahtarı ile giriş
+  - Toplu varlıklar
+  - Okunaklı raporlar
+  - TestFlight ve IAP
+iLunYu:
+  taglines: Konfüçyüs’ün Sohbetleri’ni yeniden keşfedin — iki dilli okuma, ezberleme, çalışma ve günün sözü.
+  blurbs: 'Çevrimdışı Sohbetler stüdyosu: iki dilli ve günümüz Çincesi karşılıklı 512 bölüm, karaoke tarzı ezber, Çalışma
+    sınıfı ve keşif; Günün Sözü, 162 cümle, widget’lar ve Siri — hesap yok, reklam yok.'
+  highlights:
+  - 512 Sohbetler bölümü
+  - El yazısıyla arama
+  - Ritüel çalışma
+  - Günün Sözü
+iArtOfWar:
+  taglines: Strateji klasikleri çevrimdışı — iki dilli okuma, ezberleme, çalışma ve günün stratejisi.
+  blurbs: 'Çevrimdışı 174 klasik: Sun Tzu, Sun Bin, Wujing ve 36 Strateji; karma dilli ezber, Strateji sınıfı ve keşif; Günün
+    Stratejisi, 120 cümle, widget’lar ve Siri — hesap yok, reklam yok.'
+  highlights:
+  - 174 strateji
+  - El yazısıyla arama
+  - Strateji çalışması
+  - Günlük ipucu yenileme
+iDeveloper:
+  taglines: Geliştiricinin cep stüdyosu — 176 araç, cihaz modelleri ve iki dilli referanslar.
+  blurbs: 176 çevrimdışı araç, yaklaşık 255 cihaz modeli ve 14 iki dilli referans; akıllı paylaşım, Ana Ekran widget'ları
+    ve odak modu için Live Activity. Önce gizlilik; hesap ve reklam yok.
+  highlights:
+  - 176 araç
+  - Cihaz modelleri
+  - İki dilli referanslar
+  - Live Activity
+iVirtue:
+  taglines: Aileler için Di Zi Gui — iki dilli okuma, ezber, erdem çalışması ve günlük pratik.
+  blurbs: 'Çevrimdışı Di Zi Gui stüdyosu: modern Çince ve İngilizce açıklamalı 90 bölüm, karaoke tarzı ezber, Erdem Dersliği
+    ve pratik geçmişi; Günün Kuralı, paylaşım kartları, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 90 kafiyeli bölüm
+  - El yazısı arama
+  - Erdem çalışması
+  - Widget'lar ve Siri
+iThree:
+  taglines: Çevrimdışı San Zi Jing — iki dilli okuma, ezber, çalışma ve günün dizesi.
+  blurbs: 'Çevrimdışı San Zi Jing stüdyosu: pinyin, modern Çince ve İngilizce açıklamalı 48 bölüm; karaoke tarzı ezber, çalışma
+    modları ve Av; Günün Dizesi, hikâyeler, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - San Zi Jing'den 48 bölüm
+  - El yazısı arama
+  - Alfabe Avı
+  - Günün Dizesi
+iRootWise:
+  taglines: Bilgeliğin kökünü çiğne — Caigentan, sessiz oturuş ve günlük pratik.
+  blurbs: 'Tekrarlardan arındırılmış 697 Ming/Qing pasajı çevrimdışı: modern Çince ve İngilizce, Günün Tan''ı, meditasyon,
+    beş arınma yolu; ünlü söz widget''ları ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 697 özdeyiş
+  - El yazısı arama
+  - Sessiz oturuş
+  - Beş günlük pratik
+iDao:
+  taglines: Günde bir bölüm Dao — çifte şerh, ezber ve Çalışma Salonu.
+  blurbs: 'Çevrimdışı Dao De Jing stüdyosu: pinyin, iki şerh ve iki İngilizce çeviriyle (ek metinler dahil) 81 bölüm; karaoke
+    tarzı ezber, Çalışma Salonu ve Dao Arayışı; Günün Bölümü, 74 dize, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - Dao De Jing'in 81 bölümü
+  - El yazısı arama
+  - Dao çalışması
+  - Günün Bölümü
+iYiJing:
+  taglines: Bir heksagram, bir dünya — çalış, kültürel olarak at ve öğren.
+  blurbs: 'Çevrimdışı Zhouyi stüdyosu: modern Çince, pinyin ve İngilizce açıklamalı 64 heksagram; kültürel atış, Çalışma Salonu
+    ve anahtar kelime avı; Günün Heksagramı, On Kanat, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 64 heksagram
+  - El yazısı arama
+  - Yi çalışması
+  - Günün Heksagramı
+iZen:
+  taglines: Zihnini yeniden başlat — nefes, ses manzarası ve üç katmanlı toparlanma.
+  blurbs: 'Çevrimdışı üç katmanlı toparlanma: 47 pratik, yaklaşık 500 söz, 17 bilim özeti; çok modlu nefes, prosedürel ses
+    manzarası, 1 dakikalık değerlendirme ve kriz yardım hatları; Günün Zen''i, paylaşım kartları, widget''lar ve Siri. Hesap
+    ve reklam yok.'
+  highlights:
+  - 3 katmanlı toparlanma
+  - Sesli rehberli nefes
+  - Kriz yardım hatları
+  - Widget'lar ve Siri
+iSutra:
+  taglines: Tek telefon, sayısız sutra — oku, ezberle, ilahi söyle ve kopyala.
+  blurbs: 'Çevrimdışı sutra stüdyosu: Elmas ve Dizang ciltlerini içeren 144 girişlik kitaplık; iki dilli okuma, ezber, tahta
+    balık eşliğinde ilahi, sutra kopyalama ve pratik geçmişi; Günün Sutrası, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 144 sutra dizin girişi
+  - El yazısı arama
+  - İlahi ve kopyalama
+  - Günün Sutrası
+iPrimer:
+  taglines: Çalış · meditasyon yap · düşün — Zhu Xi'nin Xiaoxue'siyle her gün gelişim.
+  blurbs: 'Çevrimdışı Xiaoxue stüdyosu: modern Çince, notlar ve İngilizce açıklamalı 388 bölüm; ezber, Karakter Çalışması,
+    altı meditasyon ve düşünce günlüğü; Günün Çalışması, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 388 bölüm
+  - Meditasyon
+  - Karakter çalışması
+  - Günün Çalışması
+iThousand:
+  taglines: Dört başlangıç metni — bileşen çizgi kartları, el yazısı arama ve Başlangıç Salonu.
+  blurbs: 'Çevrimdışı başlangıç metinleri stüdyosu: Qianziwen, San Zi Jing, Baijiaxing ve Di Zi Gui''den 122 pasaj; bileşen
+    çizgi kartları, el yazısı arama, ezber ve Başlangıç Salonu; Günün Dizesi, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 122 pasaj
+  - El yazısı arama
+  - Bileşen kartları
+  - Başlangıç Salonu
+iBaiJia:
+  taglines: Yüz Aile Soyadı — 967 soyadı, el yazısı arama ve Çalışma Salonu.
+  blurbs: 'Çevrimdışı soyadı stüdyosu: köken ve İngilizce karşılıklarıyla 967 soyadı; sekiz gezinme ekseni, el yazısı arama,
+    ezber ve Çalışma Salonu; Günün Soyadı, çizgi izleme, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 967 soyadı
+  - El yazısı arama
+  - Çalışma Salonu
+  - Günün Soyadı
+iWuJing:
+  taglines: Tek masada Beş Klasik — iki dilli okuma, ezber ve çevrimdışı çalışma.
+  blurbs: 'Çevrimdışı Beş Klasik stüdyosu: Shijing, Shujing, Liji, Yijing ve Chunqiu''dan 819 pasaj; ezber, Klasik Çalışması,
+    sözcük açıklamaları ve metin varyantları; Günün Klasiği, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - Beş Klasik'ten 819 pasaj
+  - El yazısı arama
+  - Klasik çalışması
+  - Günün Klasiği
+iSiShu:
+  taglines: Dört Kitap — üç dilli çalışma, el yazısı arama ve 113 ünlü dize.
+  blurbs: 'Çevrimdışı Dört Kitap: Legge çevirisiyle uyumlu İngilizce karşılıklarıyla 1257 pasaj; el yazısı arama, ezber, odaklı
+    çalışma, 113 ünlü dize, Günün Sözü, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 1257 pasaj
+  - El yazısı arama
+  - 113 ünlü dize
+  - Günün Sözü
+iSage:
+  taglines: Bir söz, bir yaşam yolu — iki dilli okuma, yaşam sahneleri ve Bilge Akademisi.
+  blurbs: 'Çevrimdışı Zengguang Xianwen stüdyosu: klasik derleme ile Zhou Xitao''nun Yeni Genişletilmiş Bilgeliği''nden 1084
+    söz; modern Çince, İngilizce, bilge yorumları ve yaşam sahneleri; Günün Bilgeliği, ezber, Bilge Akademisi, widget''lar
+    ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 1084 söz
+  - Yaşam sahneleri
+  - Bilge Akademisi
+  - Günün Bilgeliği
+iPrecepts:
+  taglines: Bir öğüt, bir aile yolu — iki dilli okuma, paralel karşılaştırma ve çalışma.
+  blurbs: 'Çevrimdışı aile öğütleri stüdyosu: Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan ve diğerlerinden 118 eser; modern
+    Çince, İngilizce, paralel karşılaştırma; Günün Öğüdü, ezber, çalışma, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 118 aile öğüdü
+  - Paralel karşılaştırma
+  - Aile çalışması
+  - Günün Öğüdü
+iRhyme:
+  taglines: Her seferinde bir kafiye çifti — paralellik, aynı kafiye karşılaştırması ve çalışma.
+  blurbs: 'Çevrimdışı ses ve kafiye stüdyosu: Shenglü Qimeng, otuz kafiyeye yayılan Li Weng Dui Yun, Qian Jia Shi ve You Xue
+    Qiong Lin''den 312 pasaj; ezber, çalışma, Günün Kafiyesi, widget''lar ve Siri. Hesap ve reklam yok.'
+  highlights:
+  - 312 pasaj
+  - Paralellik görünümü
+  - Kafiye çalışması
+  - Günün Kafiyesi
+iXin:
+  taglines: Bilmek ve eylemek bir — iki dilli okuma, günlük ve Kalp Okulu.
+  blurbs: 'Çevrimdışı Wang Yangming atölyesi: Chuanxilu, Büyük Öğrenim Üzerine Sorular, Longchang öğütleri, şiirler ve yıllıklardan
+    102 pasaj. Güncel Çince ve İngilizce, Bilgi-Eylem günlüğü, Günün İlhamı, ezberleme, çalışma, widget''lar ve Siri — hesap
+    yok, reklam yok.'
+  highlights:
+  - 102 pasaj
+  - Bilgi-Eylem günlüğü
+  - Kalp Okulu
+  - Günün İlhamı
+iZhuangZi:
+  taglines: Zhuangzi'den bir pasaj — iki dilli okuma, meseller ve Dao çalışması.
+  blurbs: 'Çevrimdışı Zhuangzi atölyesi: İç, Dış ve Karma bölümlerin tamamı olan 33 bölüm, 701 paragraf; güncel Çince ve Legge''in
+    İngilizce çevirisiyle. Meseller, Zhuangzi''ye Sor, ezberleme, çalışma, Günün Zhuangzi''si, widget''lar ve Siri — hesap
+    yok, reklam yok.'
+  highlights:
+  - 33 Zhuangzi bölümü
+  - Günlük yenileme
+  - Zhuangzi'ye Sor
+  - Dao Çalışması
+iGuanZhi:
+  taglines: Guwen Guanzhi — fabl okuma rehberi, tür sözlüğü ve uzun kategori kılavuzları.
+  blurbs: 'Çevrimdışı Guwen Guanzhi yakın okuması: 222 deneme; anekdot okuma rehberi, tür sözlüğü ve uzun gezinti kılavuzlarıyla.
+    Ezberleme, Klasik Çalışması, Deneme Avı, Günün Denemesi, widget''lar ve Siri — tamamen çevrimdışı, hesap yok, reklam yok.'
+  highlights:
+  - 222 deneme
+  - Fabl okuma rehberi
+  - Tür sözlüğü
+  - Günün Denemesi
+iHanFei:
+  taglines: Han Feizi — fabllar için uygulama rehberi, Legalizm Çalışması ve günlük rastgele bölüm.
+  blurbs: 'Çevrimdışı Han Feizi: 55 bölüm, uygulamalı rehberli 85 fabl, 47 kavram. Daha akıllı yenilenen Günün Stratejisi,
+    rastgele bölüm, Legalizm Çalışması ve widget''lar — hesap yok, reklam yok.'
+  highlights:
+  - 55 bölüm
+  - Fabl rehberi
+  - Rastgele bölüm
+  - Günlük yenileme
+iLvShi:
+  taglines: Bir mevsim, bir pasaj — dört katmanlı okuma ve Almanak.
+  blurbs: 'Çevrimdışı Lüshi Chunqiu atölyesi: Gao You notları, güncel Çince ve İngilizce çevirisiyle 160 pasaj. Almanak widget''ı,
+    İlkbahar-Sonbahar Çalışması, Günün Pasajı, widget''lar ve Siri — hesap yok, reklam yok.'
+  highlights:
+  - 160 pasaj
+  - Gao You notları
+  - Almanak
+  - Günün Pasajı
+iMencius:
+  taglines: Mencius'tan bir söz — benzetmeler, diyaloglar ve Qi Beslemesi Çalışması.
+  blurbs: 'Çevrimdışı Mencius atölyesi: 690 bölüm, 3549 ayet, benzetme ve diyalog haritası. Ezberleme, Qi Beslemesi Çalışması,
+    Yi Avı, Günün Sözü, widget''lar ve Siri — hesap yok, reklam yok.'
+  highlights:
+  - 690 bölüm
+  - Benzetmeler
+  - Qi Beslemesi Çalışması
+  - Günün Sözü
+iMoZi:
+  taglines: Mozi — dört uzun rehber, güncel dil katmanı ve katlanabilir girişler.
+  blurbs: 'Çevrimdışı Mozi: On Tez haritası, dört uzun Mohist rehber, güncel dil katmanı ve katlanabilir giriş kartları. Ezberleme,
+    Mo Çalışması, Av, Günün Mozi''si, widget''lar ve Siri — hesap yok, reklam yok.'
+  highlights:
+  - Mozi kütüphanesi
+  - Dört uzun rehber
+  - Güncel dil katmanı
+  - Günün Mozi'si
+iXunZi:
+  taglines: Xunzi — kavram ve deyim sözlükleri, iki dilli okuma ve Çalışma.
+  blurbs: 'Çevrimdışı Xunzi atölyesi: kavram ve deyim sözlükleri, iki dilli okumanın yanında çalışmayı derinleştirir. Ezberleme,
+    Akademi Çalışması, Av, Günün Xunzi''si, widget''lar ve Siri — hesap yok, reklam yok.'
+  highlights:
+  - Xunzi kütüphanesi
+  - Kavram sözlüğü
+  - Deyim sözlüğü
+  - Günün Xunzi'si
+iBrowser:
+  taglines: Gerçek tam ekran tarayıcı — widget'lar, Kestirmeler, çocuk kilidi.
+  blurbs: 'iPhone ve iPad''de sürükleyici gezinme: yüzen top, Ana/Kilit ekranı widget''ları, Siri ve Kestirmeler, yer imleri
+    için isteğe bağlı iCloud — çocuk kilidi sayfayı sabit tutar. Reklam yok, açılır pencere yok.'
+  highlights:
+  - Widget'lar ve Kestirmeler
+  - Yüzen top
+  - Çocuk kilidi
+  - İsteğe bağlı iCloud
+iMusic:
+  taglines: Seçkin dinleme stüdyosu — Günün Eseri, sürükleyici oynatıcı ve şarkı tanıma.
+  blurbs: 'Çevrimdışı 5.300+ özgün dinleme notu: Günün Eseri, sürükleyici oynatıcı (cover flow ve arka plan stilleri) ve şarkı
+    tanıma; sanatçı sayfalarında Apple Music kataloğu; widget’lar ve Siri. Hesap yok, reklam yok.'
+  highlights:
+  - 5300+ rehber
+  - Cover flow oynatıcı
+  - Şarkı tanıma
+  - Günün Eseri
+iBianQue:
+  taglines: Nan Jing sorgulaması — dört muayene, atlas ve kültürel çalışma.
+  blurbs: 'Çevrimdışı Bian Que atölyesi: Shiji biyografisi, 81 Zorluk, dört muayene sahneleri ve 2D meridyen atlası. Günün
+    Sanatı, Que Çalışması, widget''lar ve Siri — kültürel çalışmadır, tıbbi tavsiye değildir.'
+  highlights:
+  - 81 Zorluk
+  - Dört muayene
+  - Meridyen atlası
+  - Günün Sanatı
+iGuige:
+  taglines: Guiguzi atölyesi — sanat kartları, vakalar ve Herkese Uygun Konuşma.
+  blurbs: 'Çevrimdışı Guiguzi atölyesi: kötüye kullanım uyarılı 40 sanat kartı, Savaşan Devletler dönemine ait 200 vaka ve
+    Herkese Uygun Konuşma. Günün Stratejisi, akademi, widget''lar ve Siri — çalışma içindir, satış masası değildir.'
+  highlights:
+  - 40 sanat kartı
+  - 200 vaka
+  - Herkese Uygun Konuşma
+  - Günün Stratejisi
+iLiezi:
+  taglines: 135 birimde Liezi — fabllar, boşluk–rüzgâr–kader ve Günün Liezi'si.
+  blurbs: 'Liezi''nin tamamı çevrimdışı: 135 hikâye birimi, Yugong, rüzgâra binmek, Qi''li adam ve boşluk–rüzgâr–kader grafiği.
+    Günün Liezi''si, Liezi Çalışması, widget''lar ve Siri — tek bir metin, söz duvarı değil.'
+  highlights:
+  - 135 hikâye birimi
+  - Fabl salonu
+  - Boşluk–rüzgâr–kader
+  - Günün Liezi'si
+iShangYang:
+  taglines: Tarih olarak Shangjunshu — dört katman, fermanlar ve kronik.
+  blurbs: 'Çevrimdışı Lord Shang Kitabı: dört katmanlı okuma, 60 reform fermanı ve MÖ 361–338 kroniği. Günün Reformu, Reform
+    Çalışması, widget''lar ve Siri — tarihsel çalışmadır, yönetim reçetesi değildir.'
+  highlights:
+  - Dört katmanlı okuma
+  - 60 ferman
+  - Reform kroniği
+  - Günün Reformu
+iZengZi:
+  taglines: Zengzi çizgisi — üç öz-sorgulama, sekiz adım ve kapalı bir set.
+  blurbs: 'Çevrimdışı kapalı bir Zengzi seti: Analekta alıntıları, Büyük Öğrenim, Xiaojing ve üç soruluk günlük. Günün Tefekkürü,
+    Yetiştirme Salonu, widget''lar ve Siri — Analekta''nın veya Mencius''un tamamı değildir.'
+  highlights:
+  - Kapalı Zengzi seti
+  - Üç soruluk günlük
+  - Sekiz adım
+  - Günün Tefekkürü
+iZiSi:
+  taglines: Zisi ve Orta Yol — beş adım, uyanıklık ve Guodian bambu şeritleri.
+  blurbs: 'Çevrimdışı Zisi atölyesi: Zhu Xi''nin 33 Zhongyong bölümü, Guodian''ın Beş Davranışı ve Uyanıklık atölyesi. Günün
+    Düşüncesi, Zisi Çalışması, widget''lar ve Siri — Dört Kitap paketi değildir.'
+  highlights:
+  - 33 Zhongyong bölümü
+  - Beş Davranış
+  - Uyanıklık
+  - Beş adım
+iWidget:
+  taglines: Widget tasarımcısı — 54 hazır set, duvar kâğıdı tonu, dokunma kalkanı, çevrimdışı takvim.
+  blurbs: 'Bloklardan Ana ekran, Kilit ekranı ve Denetim Merkezi panoları oluşturun: ay takvimi, hava durumu, geri sayımlar
+    ve cihaz bilgileri. Yuva başına duvar kâğıtları, şeffaf widget''lar, Siri ve `iwidget://` — iCloud isteğe bağlı, hesap
+    yok.'
+  highlights:
+  - 54 hazır set
+  - Blok düzenleyici
+  - Dokunma kalkanı
+  - Ana + Kilit widget'ları

@@ -1,0 +1,9 @@
+{%- comment -%}
+One external resource link per site language (label + URL from i18n footer).
+Usage: {% include locale-resource-link.html key="developer_home" %}
+{%- endcomment -%}
+{%- assign rkey = include.key -%}
+{%- for L in site.languages -%}
+{%- assign bundle = site.data.i18n[L.code] -%}
+<a href="{{ bundle.footer.resource_urls[rkey] }}" target="_blank" rel="noopener" lang="{{ L.code }}" class="inline">{{ bundle.footer.resources[rkey] }}</a>
+{%- endfor -%}

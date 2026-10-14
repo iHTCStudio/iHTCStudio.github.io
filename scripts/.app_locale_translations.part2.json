@@ -1,0 +1,1161 @@
+{
+  "iBible": {
+    "ja": {
+      "taglines": "神のみことばで毎日を照らす — 二言語の黙想、オフライン対応。",
+      "blurbs": "二言語対応の聖書デボーションスタジオ:聖書全巻を端末内に収録、今日の聖句、対訳リーディング、読書プラン、名句集。音声読み上げ、シェアカード、ウィジェット5種、Live Activity、Siri に対応 — 完全オフライン、アカウント不要、広告なし。",
+      "highlights": [
+        "聖書全巻オフライン",
+        "今日の聖句",
+        "二言語で読む",
+        "ウィジェットとLive Activity"
+      ]
+    },
+    "ko": {
+      "taglines": "하나님의 말씀으로 매일을 밝히세요 — 이중 언어 묵상, 오프라인 지원.",
+      "blurbs": "이중 언어 성경 묵상 스튜디오: 성경 전권을 기기에 수록하고 오늘의 말씀, 병행 읽기, 읽기 플랜, 명구를 제공합니다. TTS 낭독, 공유 카드, 위젯 5종, Live Activity, Siri 지원 — 완전 오프라인, 계정 불필요, 광고 없음.",
+      "highlights": [
+        "성경 전권 오프라인",
+        "오늘의 말씀",
+        "이중 언어 읽기",
+        "위젯 및 Live Activity"
+      ]
+    },
+    "ru": {
+      "taglines": "Пусть Слово Божье освещает каждый день — двуязычные размышления, офлайн.",
+      "blurbs": "Двуязычная студия библейских размышлений: полный текст Писания на устройстве, «Стих дня», параллельное чтение, планы и известные стихи; озвучивание, карточки для публикации, 5 виджетов, Live Activity и Siri — полностью офлайн, без аккаунта и рекламы.",
+      "highlights": [
+        "Вся Библия офлайн",
+        "Стих дня",
+        "Двуязычное чтение",
+        "Виджеты и Live Activity"
+      ]
+    },
+    "th": {
+      "taglines": "ให้พระวจนะของพระเจ้าส่องสว่างทุกวัน — อ่านสองภาษา ใช้งานออฟไลน์",
+      "blurbs": "สตูดิโอพระคัมภีร์สองภาษา: พระคัมภีร์ครบทุกเล่มในเครื่อง พระธรรมประจำวัน การอ่านคู่ขนาน แผนการอ่าน และข้อพระคัมภีร์ที่มีชื่อเสียง พร้อมเสียงอ่าน การ์ดแชร์ วิดเจ็ต 5 แบบ Live Activity และ Siri — ออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": [
+        "พระคัมภีร์ครบเล่มออฟไลน์",
+        "พระธรรมประจำวัน",
+        "อ่านสองภาษา",
+        "วิดเจ็ตและ Live Activity"
+      ]
+    },
+    "de": {
+      "taglines": "Gottes Wort erhellt jeden Tag — zweisprachige Andacht, offline.",
+      "blurbs": "Zweisprachiges Bibel-Andachtsstudio: die vollständige Schrift auf dem Gerät, Vers des Tages, Paralleltext, Pläne und bekannte Verse; Vorlesen, Teilen-Karten, 5 Widgets, Live Activity und Siri — komplett offline, ohne Account, ohne Werbung.",
+      "highlights": [
+        "Ganze Bibel offline",
+        "Vers des Tages",
+        "Zweisprachig lesen",
+        "Widgets & Live Activity"
+      ]
+    },
+    "fr": {
+      "taglines": "Que la Parole de Dieu éclaire chaque jour — méditation bilingue, hors ligne.",
+      "blurbs": "Studio de méditation biblique bilingue : Écriture complète sur l’appareil, verset du jour, lecture parallèle, plans et versets célèbres ; lecture vocale, cartes de partage, 5 widgets, Live Activity et Siri — entièrement hors ligne, sans compte ni publicité.",
+      "highlights": [
+        "Bible complète hors ligne",
+        "Verset du jour",
+        "Lecture bilingue",
+        "Widgets et Live Activity"
+      ]
+    },
+    "tr": {
+      "taglines": "Tanrı’nın Sözü her günü aydınlatsın — iki dilli ibadet, çevrimdışı.",
+      "blurbs": "İki dilli Kutsal Kitap ibadet stüdyosu: Kutsal Kitap’ın tamamı cihazda, Günün Ayeti, paralel okuma, planlar ve ünlü ayetler; sesli okuma, paylaşım kartları, 5 widget, Live Activity ve Siri — tamamen çevrimdışı, hesap yok, reklam yok.",
+      "highlights": [
+        "Tüm Kutsal Kitap çevrimdışı",
+        "Günün Ayeti",
+        "İki dilli okuma",
+        "Widget ve Live Activity"
+      ]
+    }
+  },
+  "iLinux": {
+    "ja": {
+      "taglines": "1650+コマンド · Linux / CMD / PowerShell · オフラインリファレンス。",
+      "blurbs": "iPhone・iPad・Mac 向けのオフラインシェルリファレンス:1650+のコマンド、クロスプラットフォームの対応表、iCloud 同期、毎日のクイズ、iOS ウィジェット — アカウント不要。",
+      "highlights": [
+        "1650+コマンド",
+        "iPhone iPad Mac",
+        "iCloud同期",
+        "プラットフォーム間の対応表"
+      ]
+    },
+    "ko": {
+      "taglines": "1650+ 명령어 · Linux / CMD / PowerShell · 오프라인 레퍼런스.",
+      "blurbs": "iPhone, iPad, Mac용 오프라인 셸 레퍼런스: 1650+ 명령어, 크로스 플랫폼 대응 명령, iCloud 동기화, 매일 퀴즈, iOS 위젯 — 계정 불필요.",
+      "highlights": [
+        "1650+ 명령어",
+        "iPhone iPad Mac",
+        "iCloud 동기화",
+        "크로스 플랫폼 대응"
+      ]
+    },
+    "ru": {
+      "taglines": "1650+ команд · Linux / CMD / PowerShell · офлайн-справочник.",
+      "blurbs": "Офлайн-справочник по командной оболочке для iPhone, iPad и Mac: 1650+ команд, аналоги для разных платформ, синхронизация через iCloud, ежедневная викторина и виджеты iOS — аккаунт не нужен.",
+      "highlights": [
+        "1650+ команд",
+        "iPhone iPad Mac",
+        "Синхронизация iCloud",
+        "Аналоги для разных платформ"
+      ]
+    },
+    "th": {
+      "taglines": "คำสั่ง 1650+ · Linux / CMD / PowerShell · คู่มืออ้างอิงออฟไลน์",
+      "blurbs": "คู่มืออ้างอิงเชลล์แบบออฟไลน์สำหรับ iPhone, iPad และ Mac: คำสั่ง 1650+ รายการ คำสั่งเทียบเท่าข้ามแพลตฟอร์ม ซิงก์ iCloud แบบทดสอบรายวัน และวิดเจ็ต iOS — ไม่ต้องมีบัญชี",
+      "highlights": [
+        "คำสั่ง 1650+",
+        "iPhone iPad Mac",
+        "ซิงก์ iCloud",
+        "คำสั่งเทียบเท่าข้ามแพลตฟอร์ม"
+      ]
+    },
+    "de": {
+      "taglines": "1650+ Befehle · Linux / CMD / PowerShell · Offline-Referenz.",
+      "blurbs": "Offline-Shell-Referenz für iPhone, iPad und Mac: 1650+ Befehle, plattformübergreifende Entsprechungen, iCloud-Sync, tägliches Quiz und iOS-Widgets — kein Account nötig.",
+      "highlights": [
+        "1650+ Befehle",
+        "iPhone iPad Mac",
+        "iCloud-Sync",
+        "Plattformübergreifende Entsprechungen"
+      ]
+    },
+    "fr": {
+      "taglines": "1650+ commandes · Linux / CMD / PowerShell · référence hors ligne.",
+      "blurbs": "Référence shell hors ligne pour iPhone, iPad et Mac : 1650+ commandes, équivalents multiplateformes, synchronisation iCloud, quiz quotidien et widgets iOS — aucun compte requis.",
+      "highlights": [
+        "1650+ commandes",
+        "iPhone iPad Mac",
+        "Synchro iCloud",
+        "Équivalents multiplateformes"
+      ]
+    },
+    "tr": {
+      "taglines": "1650+ komut · Linux / CMD / PowerShell · çevrimdışı başvuru.",
+      "blurbs": "iPhone, iPad ve Mac için çevrimdışı kabuk başvurusu: 1650+ komut, platformlar arası karşılıklar, iCloud senkronizasyonu, günlük sınav ve iOS widget’ları — hesap gerekmez.",
+      "highlights": [
+        "1650+ komut",
+        "iPhone iPad Mac",
+        "iCloud senkronizasyonu",
+        "Platformlar arası karşılıklar"
+      ]
+    }
+  },
+  "iLeetCoder": {
+    "ja": {
+      "taglines": "アルゴリズム問題999問、毎日のクイズ、ウィジェット — Apple プラットフォームにネイティブ対応。",
+      "blurbs": "LeetCode 形式のアルゴリズム学習:999問、毎日のクイズ、お気に入りと間違いノート、ホーム画面ウィジェット — iPhone・iPad・Mac にネイティブ対応、iCloud は任意、アカウント不要。",
+      "highlights": [
+        "999問",
+        "iCloud同期",
+        "学習記録",
+        "ウィジェット"
+      ]
+    },
+    "ko": {
+      "taglines": "알고리즘 문제 999개, 매일 퀴즈, 위젯 — Apple 플랫폼 네이티브.",
+      "blurbs": "LeetCode 스타일 알고리즘 학습: 999문제, 매일 퀴즈, 즐겨찾기와 오답 노트, 홈 화면 위젯 — iPhone, iPad, Mac 네이티브, iCloud 선택 사용, 계정 불필요.",
+      "highlights": [
+        "999문제",
+        "iCloud 동기화",
+        "학습 기록",
+        "위젯"
+      ]
+    },
+    "ru": {
+      "taglines": "999 алгоритмических задач, ежедневная викторина, виджеты — нативно на платформах Apple.",
+      "blurbs": "Изучение алгоритмов в стиле LeetCode: 999 задач, ежедневная викторина, избранное и книга ошибок, виджеты на экране «Домой» — нативно на iPhone, iPad и Mac, iCloud по желанию, без аккаунта.",
+      "highlights": [
+        "999 задач",
+        "Синхронизация iCloud",
+        "История обучения",
+        "Виджеты"
+      ]
+    },
+    "th": {
+      "taglines": "โจทย์อัลกอริทึม 999 ข้อ แบบทดสอบรายวัน วิดเจ็ต — เนทีฟบนแพลตฟอร์ม Apple",
+      "blurbs": "เรียนอัลกอริทึมสไตล์ LeetCode: โจทย์ 999 ข้อ แบบทดสอบรายวัน รายการโปรดและสมุดข้อที่ทำผิด วิดเจ็ตหน้าจอโฮม — เนทีฟบน iPhone, iPad และ Mac เลือกใช้ iCloud ได้ ไม่ต้องมีบัญชี",
+      "highlights": [
+        "โจทย์ 999 ข้อ",
+        "ซิงก์ iCloud",
+        "บันทึกการเรียนรู้",
+        "วิดเจ็ต"
+      ]
+    },
+    "de": {
+      "taglines": "999 Algorithmus-Aufgaben, tägliches Quiz, Widgets — nativ auf Apple-Plattformen.",
+      "blurbs": "Algorithmen lernen im LeetCode-Stil: 999 Aufgaben, tägliches Quiz, Favoriten und Fehlerbuch, Widgets für den Home-Bildschirm — nativ auf iPhone, iPad und Mac, iCloud optional, ohne Account.",
+      "highlights": [
+        "999 Aufgaben",
+        "iCloud-Sync",
+        "Lernverlauf",
+        "Widgets"
+      ]
+    },
+    "fr": {
+      "taglines": "999 problèmes d’algorithmes, quiz quotidien, widgets — natif sur les plateformes Apple.",
+      "blurbs": "Apprentissage des algorithmes façon LeetCode : 999 problèmes, quiz quotidien, favoris et carnet d’erreurs, widgets d’écran d’accueil — natif sur iPhone, iPad et Mac, iCloud en option, sans compte.",
+      "highlights": [
+        "999 problèmes",
+        "Synchro iCloud",
+        "Suivi d’apprentissage",
+        "Widgets"
+      ]
+    },
+    "tr": {
+      "taglines": "999 algoritma sorusu, günlük sınav, widget’lar — Apple platformlarında yerel.",
+      "blurbs": "LeetCode tarzı algoritma öğrenimi: 999 soru, günlük sınav, favoriler ve yanlışlar defteri, ana ekran widget’ları — iPhone, iPad ve Mac’te yerel, iCloud isteğe bağlı, hesap yok.",
+      "highlights": [
+        "999 soru",
+        "iCloud senkronizasyonu",
+        "Öğrenme kayıtları",
+        "Widget’lar"
+      ]
+    }
+  },
+  "iTer": {
+    "ja": {
+      "taglines": "IT面接問題10,000+問 — 毎日のクイズ、ウィジェット、SwiftUI ネイティブ。",
+      "blurbs": "オフラインの面接問題ライブラリ:17言語、12の職種トラック、16社の企業別問題集。毎日のクイズ、お気に入り、Markdown 形式の解答、ホーム/ロック画面ウィジェット、キーボードショートカット — SwiftUI ネイティブ、アカウント不要。",
+      "highlights": [
+        "10000+問",
+        "毎日のクイズ",
+        "ウィジェット",
+        "Markdown解答",
+        "iPad・Macのキーボード対応"
+      ]
+    },
+    "ko": {
+      "taglines": "IT 면접 질문 10,000+개 — 매일 퀴즈, 위젯, SwiftUI 네이티브.",
+      "blurbs": "오프라인 면접 라이브러리: 17개 언어, 12개 직무 트랙, 16개 기업별 문제 은행. 매일 퀴즈, 즐겨찾기, Markdown 답안, 홈·잠금 화면 위젯, 키보드 단축키 — SwiftUI 네이티브, 계정 불필요.",
+      "highlights": [
+        "10000+ 문제",
+        "매일 퀴즈",
+        "위젯",
+        "Markdown 답안",
+        "iPad·Mac 키보드"
+      ]
+    },
+    "ru": {
+      "taglines": "10 000+ вопросов для IT-собеседований — ежедневная викторина, виджеты, нативный SwiftUI.",
+      "blurbs": "Офлайн-библиотека вопросов для собеседований: 17 языков, 12 карьерных направлений, 16 банков вопросов компаний. Ежедневная викторина, избранное, ответы в Markdown, виджеты для экрана «Домой» и блокировки, горячие клавиши — нативный SwiftUI, без аккаунта.",
+      "highlights": [
+        "10000+ вопросов",
+        "Ежедневная викторина",
+        "Виджеты",
+        "Ответы в Markdown",
+        "Клавиатура на iPad и Mac"
+      ]
+    },
+    "th": {
+      "taglines": "คำถามสัมภาษณ์งานไอที 10,000+ ข้อ — แบบทดสอบรายวัน วิดเจ็ต เนทีฟ SwiftUI",
+      "blurbs": "คลังคำถามสัมภาษณ์แบบออฟไลน์: 17 ภาษา 12 สายอาชีพ คลังข้อสอบ 16 บริษัท แบบทดสอบรายวัน รายการโปรด เฉลยแบบ Markdown วิดเจ็ตหน้าจอโฮมและหน้าจอล็อก และคีย์ลัดบนคีย์บอร์ด — เนทีฟ SwiftUI ไม่ต้องมีบัญชี",
+      "highlights": [
+        "คำถาม 10000+ ข้อ",
+        "แบบทดสอบรายวัน",
+        "วิดเจ็ต",
+        "เฉลยแบบ Markdown",
+        "คีย์บอร์ด iPad และ Mac"
+      ]
+    },
+    "de": {
+      "taglines": "10.000+ IT-Interviewfragen — tägliches Quiz, Widgets, natives SwiftUI.",
+      "blurbs": "Offline-Interviewbibliothek: 17 Sprachen, 12 Karrierepfade, 16 Firmen-Fragensammlungen. Tägliches Quiz, Favoriten, Antworten in Markdown, Widgets für Home- und Sperrbildschirm sowie Tastaturkürzel — natives SwiftUI, ohne Account.",
+      "highlights": [
+        "10.000+ Fragen",
+        "Tägliches Quiz",
+        "Widgets",
+        "Markdown-Antworten",
+        "iPad- & Mac-Tastatur"
+      ]
+    },
+    "fr": {
+      "taglines": "10 000+ questions d’entretien IT — quiz quotidien, widgets, SwiftUI natif.",
+      "blurbs": "Bibliothèque d’entretiens hors ligne : 17 langages, 12 parcours métiers, 16 banques de questions d’entreprises. Quiz quotidien, favoris, réponses en Markdown, widgets d’accueil et d’écran verrouillé, raccourcis clavier — SwiftUI natif, sans compte.",
+      "highlights": [
+        "10 000+ questions",
+        "Quiz quotidien",
+        "Widgets",
+        "Réponses en Markdown",
+        "Clavier iPad et Mac"
+      ]
+    },
+    "tr": {
+      "taglines": "10.000+ BT mülakat sorusu — günlük sınav, widget’lar, yerel SwiftUI.",
+      "blurbs": "Çevrimdışı mülakat kütüphanesi: 17 dil, 12 kariyer yolu, 16 şirket soru bankası. Günlük sınav, favoriler, Markdown yanıtlar, ana ve kilit ekranı widget’ları ve klavye kısayolları — yerel SwiftUI, hesap yok.",
+      "highlights": [
+        "10000+ soru",
+        "Günlük sınav",
+        "Widget’lar",
+        "Markdown yanıtlar",
+        "iPad ve Mac klavyesi"
+      ]
+    }
+  },
+  "iExcel": {
+    "ja": {
+      "taglines": "Excel の数式・関数・コツを学ぶ — 完全オフライン対応。",
+      "blurbs": "iPhone・iPad・Mac 向けのオフライン Excel 学習:265の関数、コツ、レッスン、クイズ、数式プレイグラウンド。進捗、今日の関数、ウィジェット4種、Siri に対応 — iCloud は任意、アカウント不要。",
+      "highlights": [
+        "265関数",
+        "数式プレイグラウンド",
+        "進捗と連続記録",
+        "ウィジェットとSiri"
+      ]
+    },
+    "ko": {
+      "taglines": "Excel 수식·함수·팁을 배우세요 — 완전 오프라인.",
+      "blurbs": "iPhone, iPad, Mac용 오프라인 Excel 학습: 265개 함수, 팁, 레슨, 퀴즈, 수식 플레이그라운드. 진도, 오늘의 함수, 위젯 4종, Siri 지원 — iCloud 선택 사용, 계정 불필요.",
+      "highlights": [
+        "265개 함수",
+        "수식 플레이그라운드",
+        "진도와 연속 기록",
+        "위젯 및 Siri"
+      ]
+    },
+    "ru": {
+      "taglines": "Изучайте формулы, функции и приёмы Excel — полностью офлайн.",
+      "blurbs": "Офлайн-обучение Excel для iPhone, iPad и Mac: 265 функций, советы, уроки, тесты и площадка для формул. Прогресс, функция дня, 4 виджета и Siri — iCloud по желанию, без аккаунта.",
+      "highlights": [
+        "265 функций",
+        "Площадка для формул",
+        "Прогресс и серии",
+        "Виджеты и Siri"
+      ]
+    },
+    "th": {
+      "taglines": "เรียนสูตร ฟังก์ชัน และเคล็ดลับ Excel — ใช้งานออฟไลน์เต็มรูปแบบ",
+      "blurbs": "เรียน Excel แบบออฟไลน์บน iPhone, iPad และ Mac: ฟังก์ชัน 265 รายการ เคล็ดลับ บทเรียน แบบทดสอบ และสนามทดลองสูตร พร้อมความคืบหน้า ฟังก์ชันประจำวัน วิดเจ็ต 4 แบบ และ Siri — เลือกใช้ iCloud ได้ ไม่ต้องมีบัญชี",
+      "highlights": [
+        "ฟังก์ชัน 265 รายการ",
+        "สนามทดลองสูตร",
+        "ความคืบหน้าและสถิติต่อเนื่อง",
+        "วิดเจ็ตและ Siri"
+      ]
+    },
+    "de": {
+      "taglines": "Excel-Formeln, Funktionen und Tipps lernen — komplett offline.",
+      "blurbs": "Excel offline lernen auf iPhone, iPad und Mac: 265 Funktionen, Tipps, Lektionen, Quizze und ein Formel-Spielplatz. Fortschritt, Funktion des Tages, 4 Widgets und Siri — iCloud optional, ohne Account.",
+      "highlights": [
+        "265 Funktionen",
+        "Formel-Spielplatz",
+        "Fortschritt & Serien",
+        "Widgets & Siri"
+      ]
+    },
+    "fr": {
+      "taglines": "Apprenez les formules, fonctions et astuces Excel — entièrement hors ligne.",
+      "blurbs": "Apprentissage d’Excel hors ligne sur iPhone, iPad et Mac : 265 fonctions, astuces, leçons, quiz et terrain d’essai de formules. Progression, fonction du jour, 4 widgets et Siri — iCloud en option, sans compte.",
+      "highlights": [
+        "265 fonctions",
+        "Terrain d’essai de formules",
+        "Progression et séries",
+        "Widgets et Siri"
+      ]
+    },
+    "tr": {
+      "taglines": "Excel formüllerini, işlevlerini ve ipuçlarını öğrenin — tamamen çevrimdışı.",
+      "blurbs": "iPhone, iPad ve Mac için çevrimdışı Excel öğrenimi: 265 işlev, ipuçları, dersler, sınavlar ve formül deneme alanı. İlerleme, günün işlevi, 4 widget ve Siri — iCloud isteğe bağlı, hesap yok.",
+      "highlights": [
+        "265 işlev",
+        "Formül deneme alanı",
+        "İlerleme ve seriler",
+        "Widget ve Siri"
+      ]
+    }
+  },
+  "iNutrition": {
+    "ja": {
+      "taglines": "あなたの栄養エキスパート — カロリー計算ではなく、食の科学を学ぶ。",
+      "blurbs": "知識重視の栄養学習:オリジナル記事19本、2,160+の食品、27栄養素の事典、BMI/BMR/TDEE ツール、端末内 AI によるラベル読み取り。ウィジェットと HealthKit に対応 — コンテンツはオフライン、アカウント不要。",
+      "highlights": [
+        "2160+食品",
+        "端末内AI",
+        "HealthKit",
+        "オフラインコンテンツ"
+      ]
+    },
+    "ko": {
+      "taglines": "나만의 영양 전문가 — 칼로리 계산이 아닌 식품 과학을 배우세요.",
+      "blurbs": "지식 중심 영양 학습: 오리지널 아티클 19편, 2,160+ 식품, 27가지 영양소 백과, BMI/BMR/TDEE 도구, 온디바이스 AI 라벨 인식. 위젯과 HealthKit 지원 — 콘텐츠 오프라인, 계정 불필요.",
+      "highlights": [
+        "2160+ 식품",
+        "온디바이스 AI",
+        "HealthKit",
+        "오프라인 콘텐츠"
+      ]
+    },
+    "ru": {
+      "taglines": "Ваш эксперт по питанию — изучайте науку о еде, а не считайте калории.",
+      "blurbs": "Обучение питанию с упором на знания: 19 авторских статей, 2160+ продуктов, энциклопедия из 27 нутриентов, калькуляторы ИМТ/BMR/TDEE и распознавание этикеток ИИ на устройстве; виджеты и HealthKit — контент офлайн, без аккаунта.",
+      "highlights": [
+        "2160+ продуктов",
+        "ИИ на устройстве",
+        "HealthKit",
+        "Контент офлайн"
+      ]
+    },
+    "th": {
+      "taglines": "ผู้เชี่ยวชาญด้านโภชนาการของคุณ — เรียนรู้วิทยาศาสตร์อาหาร ไม่ใช่แค่นับแคลอรี",
+      "blurbs": "เรียนโภชนาการที่เน้นความรู้: บทความต้นฉบับ 19 บทความ อาหารกว่า 2,160 รายการ สารานุกรมสารอาหาร 27 ชนิด เครื่องมือ BMI/BMR/TDEE และ AI อ่านฉลากบนเครื่อง พร้อมวิดเจ็ตและ HealthKit — เนื้อหาออฟไลน์ ไม่ต้องมีบัญชี",
+      "highlights": [
+        "อาหาร 2160+ รายการ",
+        "AI บนเครื่อง",
+        "HealthKit",
+        "เนื้อหาออฟไลน์"
+      ]
+    },
+    "de": {
+      "taglines": "Ihr Ernährungsexperte — Lebensmittelwissenschaft lernen statt Kalorien zählen.",
+      "blurbs": "Wissensorientiertes Ernährungslernen: 19 Originalartikel, 2.160+ Lebensmittel, Enzyklopädie mit 27 Nährstoffen, BMI-/BMR-/TDEE-Rechner und KI-Etikettenerkennung auf dem Gerät; Widgets und HealthKit — Inhalte offline, ohne Account.",
+      "highlights": [
+        "2.160+ Lebensmittel",
+        "KI auf dem Gerät",
+        "HealthKit",
+        "Offline-Inhalte"
+      ]
+    },
+    "fr": {
+      "taglines": "Votre expert en nutrition — apprenez la science des aliments, sans compter les calories.",
+      "blurbs": "Apprentissage de la nutrition axé sur le savoir : 19 articles originaux, 2 160+ aliments, encyclopédie de 27 nutriments, outils IMC/BMR/TDEE et lecture d’étiquettes par IA sur l’appareil ; widgets et HealthKit — contenu hors ligne, sans compte.",
+      "highlights": [
+        "2 160+ aliments",
+        "IA sur l’appareil",
+        "HealthKit",
+        "Contenu hors ligne"
+      ]
+    },
+    "tr": {
+      "taglines": "Beslenme uzmanınız — kalori saymayı değil, gıda bilimini öğrenin.",
+      "blurbs": "Bilgi odaklı beslenme öğrenimi: 19 özgün makale, 2.160+ besin, 27 besin öğesi ansiklopedisi, BMI/BMR/TDEE araçları ve cihazda yapay zekâyla etiket okuma; widget’lar ve HealthKit — içerik çevrimdışı, hesap yok.",
+      "highlights": [
+        "2160+ besin",
+        "Cihazda yapay zekâ",
+        "HealthKit",
+        "Çevrimdışı içerik"
+      ]
+    }
+  },
+  "iWool": {
+    "ja": {
+      "taglines": "お得情報、リマインダー、収益を記録 — プライベートに、端末内で。",
+      "blurbs": "iPhone・iPad 向けのローカル型お得情報トラッカー:ディープリンク、Quick Countdown の Live Activity、有効日による一時停止/解約、アクティビティの共有エクスポート、ホームのサマリーカード7種、ウィジェット12種、シェアカード — 登録不要、端末内処理、プライバシー最優先。",
+      "highlights": [
+        "iwool:// ディープリンク",
+        "一時停止と共有エクスポート",
+        "ウィジェット12種",
+        "PNGシェアカード"
+      ]
+    },
+    "ko": {
+      "taglines": "혜택, 알림, 수익을 기록하세요 — 비공개로, 기기 안에서.",
+      "blurbs": "iPhone과 iPad용 로컬 혜택 트래커: 딥링크, Quick Countdown Live Activity, 적용일 기준 일시 중지/해지, 활동 공유 내보내기, 홈 요약 카드 7종, 위젯 12종, 공유 카드 — 가입 불필요, 온디바이스, 개인정보 보호 우선.",
+      "highlights": [
+        "iwool:// 딥링크",
+        "일시 중지와 공유 내보내기",
+        "위젯 12종",
+        "PNG 공유 카드"
+      ]
+    },
+    "ru": {
+      "taglines": "Отслеживайте акции, напоминания и доходы — приватно, на устройстве.",
+      "blurbs": "Локальный трекер акций для iPhone и iPad: глубокие ссылки, Live Activity «Быстрый отсчёт», приостановка/отмена с датой вступления в силу, экспорт активности для публикации, 7 сводных карточек на главном экране, 12 виджетов и карточки для публикации — без регистрации, на устройстве, приватность прежде всего.",
+      "highlights": [
+        "Глубокие ссылки iwool://",
+        "Пауза и экспорт для публикации",
+        "12 виджетов",
+        "Карточки PNG"
+      ]
+    },
+    "th": {
+      "taglines": "ติดตามดีลโปรโมชัน การแจ้งเตือน และรายได้ — เป็นส่วนตัว ทำงานบนเครื่อง",
+      "blurbs": "ตัวติดตามดีลแบบโลคัลบน iPhone และ iPad: ดีปลิงก์ Live Activity นับถอยหลังด่วน หยุดชั่วคราว/ยกเลิกตามวันที่มีผล ส่งออกกิจกรรมเพื่อแชร์ การ์ดสรุปหน้าโฮม 7 ใบ วิดเจ็ต 12 แบบ และการ์ดแชร์ — ไม่ต้องลงทะเบียน ประมวลผลบนเครื่อง ให้ความสำคัญกับความเป็นส่วนตัว",
+      "highlights": [
+        "ดีปลิงก์ iwool://",
+        "หยุดชั่วคราวและส่งออกเพื่อแชร์",
+        "วิดเจ็ต 12 แบบ",
+        "การ์ดแชร์ PNG"
+      ]
+    },
+    "de": {
+      "taglines": "Deals, Erinnerungen und Einnahmen verfolgen — privat, auf dem Gerät.",
+      "blurbs": "Lokaler Deal-Tracker für iPhone und iPad: Deep Links, Quick-Countdown-Live-Activity, Pausieren/Kündigen zum Stichtag, Export der Aktivität zum Teilen, 7 Übersichtskarten auf dem Home-Bildschirm, 12 Widgets und Teilen-Karten — ohne Registrierung, auf dem Gerät, Datenschutz zuerst.",
+      "highlights": [
+        "iwool://-Deep-Links",
+        "Pausieren & Export zum Teilen",
+        "12 Widgets",
+        "PNG-Teilen-Karten"
+      ]
+    },
+    "fr": {
+      "taglines": "Suivez bons plans, rappels et gains — en privé, sur l’appareil.",
+      "blurbs": "Suivi local de bons plans sur iPhone et iPad : liens profonds, Live Activity Quick Countdown, pause/résiliation à la date d’effet, export d’activité à partager, 7 cartes de synthèse d’accueil, 12 widgets et cartes de partage — sans inscription, sur l’appareil, confidentialité d’abord.",
+      "highlights": [
+        "Liens profonds iwool://",
+        "Pause et export à partager",
+        "12 widgets",
+        "Cartes PNG à partager"
+      ]
+    },
+    "tr": {
+      "taglines": "Fırsatları, hatırlatıcıları ve kazançları takip edin — özel olarak, cihazda.",
+      "blurbs": "iPhone ve iPad için yerel fırsat takipçisi: derin bağlantılar, Quick Countdown Live Activity, yürürlük tarihine göre duraklatma/iptal, etkinlik paylaşım dışa aktarımı, 7 ana ekran özet kartı, 12 widget ve paylaşım kartları — kayıt yok, cihazda çalışır, önce gizlilik.",
+      "highlights": [
+        "iwool:// derin bağlantılar",
+        "Duraklatma ve paylaşım dışa aktarımı",
+        "12 widget",
+        "PNG paylaşım kartları"
+      ]
+    }
+  },
+  "iPhoto": {
+    "ja": {
+      "taglines": "プライベートな写真スタジオ — ライブビューティー、3D LUT ルック、コラージュ、レシピ。",
+      "blurbs": "フルフレームのライブビューティーと長押し比較で撮影。自作の3D LUT 約55種、コラージュ2〜9枚、ルックレシピ、約800+のステッカー。共有前に EXIF を削除 — アカウント不要、広告なし。",
+      "highlights": [
+        "フルフレームビューティー",
+        "3D LUTルック",
+        "コラージュとレシピ",
+        "プライバシー書き出し"
+      ]
+    },
+    "ko": {
+      "taglines": "프라이빗 포토 스튜디오 — 라이브 뷰티, 3D LUT 룩, 콜라주, 레시피.",
+      "blurbs": "전체 화면 라이브 뷰티와 길게 눌러 비교로 촬영하세요. 자체 제작 3D LUT 약 55종, 콜라주 2~9장, 룩 레시피, 약 800+ 스티커. 공유 전 EXIF 제거 — 계정 불필요, 광고 없음.",
+      "highlights": [
+        "전체 화면 뷰티",
+        "3D LUT 룩",
+        "콜라주와 레시피",
+        "개인정보 보호 내보내기"
+      ]
+    },
+    "ru": {
+      "taglines": "Частная фотостудия — живая ретушь, 3D LUT, коллажи и рецепты.",
+      "blurbs": "Снимайте с живой ретушью на весь кадр и сравнением по долгому нажатию; около 55 авторских 3D LUT, коллажи из 2–9 фото, рецепты образов и ~800+ стикеров; удаление EXIF перед публикацией — без аккаунта и рекламы.",
+      "highlights": [
+        "Ретушь на весь кадр",
+        "Образы 3D LUT",
+        "Коллажи и рецепты",
+        "Приватный экспорт"
+      ]
+    },
+    "th": {
+      "taglines": "สตูดิโอภาพถ่ายส่วนตัว — เบลอผิวสด สไตล์ 3D LUT คอลลาจ และสูตรภาพ",
+      "blurbs": "ถ่ายภาพด้วยความงามสดเต็มเฟรมและกดค้างเพื่อเปรียบเทียบ มี 3D LUT ที่สร้างเองราว 55 แบบ คอลลาจ 2–9 ภาพ สูตรลุค และสติกเกอร์ 800+ แบบ ลบ EXIF ก่อนแชร์ — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": [
+        "ความงามเต็มเฟรม",
+        "ลุค 3D LUT",
+        "คอลลาจและสูตรภาพ",
+        "ส่งออกแบบเป็นส่วนตัว"
+      ]
+    },
+    "de": {
+      "taglines": "Privates Fotostudio — Live-Beauty, 3D-LUT-Looks, Collagen und Rezepte.",
+      "blurbs": "Fotografieren mit Vollbild-Live-Beauty und Gedrückthalten zum Vergleich; ca. 55 selbst erstellte 3D-LUTs, Collagen aus 2–9 Bildern, Look-Rezepte und ~800+ Sticker; EXIF vor dem Teilen entfernen — ohne Account, ohne Werbung.",
+      "highlights": [
+        "Vollbild-Beauty",
+        "3D-LUT-Looks",
+        "Collagen & Rezepte",
+        "Datenschutz-Export"
+      ]
+    },
+    "fr": {
+      "taglines": "Studio photo privé — beauté en direct, looks 3D LUT, collages et recettes.",
+      "blurbs": "Prenez vos photos avec la beauté en direct plein cadre et la comparaison par appui long ; environ 55 LUT 3D maison, collages de 2 à 9 photos, recettes de looks et ~800+ stickers ; suppression des EXIF avant partage — sans compte ni publicité.",
+      "highlights": [
+        "Beauté plein cadre",
+        "Looks 3D LUT",
+        "Collages et recettes",
+        "Export confidentiel"
+      ]
+    },
+    "tr": {
+      "taglines": "Özel fotoğraf stüdyosu — canlı güzellik, 3D LUT görünümleri, kolaj ve tarifler.",
+      "blurbs": "Tam kare canlı güzellik ve basılı tutarak karşılaştırma ile çekim yapın; kendi hazırladığımız yaklaşık 55 adet 3D LUT, 2–9 fotoğraflık kolajlar, görünüm tarifleri ve ~800+ çıkartma; paylaşmadan önce EXIF verisini kaldırın — hesap yok, reklam yok.",
+      "highlights": [
+        "Tam kare güzellik",
+        "3D LUT görünümleri",
+        "Kolaj ve tarifler",
+        "Gizlilik dostu dışa aktarım"
+      ]
+    }
+  },
+  "iMusic": {
+    "ja": {
+      "taglines": "厳選リスニングスタジオ — 今日の一曲、没入型プレーヤー、曲名判定。",
+      "blurbs": "5,300+のオリジナル鑑賞ガイドをオフラインで:今日の一曲、没入型プレーヤー(カバーフローと背景スタイル)、曲名判定。アーティストページに Apple Music カタログ、ウィジェットと Siri にも対応。アカウント不要、広告なし。",
+      "highlights": [
+        "5300+のガイド",
+        "カバーフロープレーヤー",
+        "曲名判定",
+        "今日の一曲"
+      ]
+    },
+    "ko": {
+      "taglines": "엄선된 감상 스튜디오 — 오늘의 한 곡, 몰입형 재생, 곡 인식.",
+      "blurbs": "5,300+개의 오리지널 감상 노트를 오프라인으로: 오늘의 한 곡, 몰입형 플레이어(커버 플로우 및 배경 스타일), 곡 인식. 아티스트 페이지에서 Apple Music 카탈로그, 위젯과 Siri 지원. 계정 불필요, 광고 없음.",
+      "highlights": [
+        "5300+ 가이드",
+        "커버 플로우 플레이어",
+        "곡 인식",
+        "오늘의 한 곡"
+      ]
+    },
+    "ru": {
+      "taglines": "Студия вдумчивого слушания — «Пьеса дня», иммерсивный плеер и распознавание песен.",
+      "blurbs": "Более 5300 авторских заметок для прослушивания офлайн: «Пьеса дня», иммерсивный плеер (Cover Flow и стили фона) и распознавание песен; каталог Apple Music на страницах исполнителей; виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": [
+        "5300+ путеводителей",
+        "Плеер Cover Flow",
+        "Распознавание песен",
+        "Пьеса дня"
+      ]
+    },
+    "th": {
+      "taglines": "สตูดิโอการฟังที่คัดสรร — บทเพลงประจำวัน เครื่องเล่นสมจริง และระบุชื่อเพลง",
+      "blurbs": "บันทึกแนะนำการฟังต้นฉบับกว่า 5,300 รายการแบบออฟไลน์: บทเพลงประจำวัน เครื่องเล่นแบบสมจริง (Cover Flow และสไตล์พื้นหลัง) และระบุชื่อเพลง แคตตาล็อก Apple Music บนหน้าศิลปิน วิดเจ็ตและ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": [
+        "คู่มือ 5300+ รายการ",
+        "เครื่องเล่น Cover Flow",
+        "ระบุชื่อเพลง",
+        "บทเพลงประจำวัน"
+      ]
+    },
+    "de": {
+      "taglines": "Kuratiertes Hörstudio — Stück des Tages, immersiver Player und Songerkennung.",
+      "blurbs": "5.300+ originale Hörnotizen offline: Stück des Tages, immersiver Player (Cover Flow und Hintergrundstile) und Songerkennung; Apple-Music-Katalog auf Künstlerseiten; Widgets und Siri. Ohne Account, ohne Werbung.",
+      "highlights": [
+        "5.300+ Hörführer",
+        "Cover-Flow-Player",
+        "Songerkennung",
+        "Stück des Tages"
+      ]
+    },
+    "fr": {
+      "taglines": "Studio d’écoute choisie — Pièce du jour, lecteur immersif et identification de titres.",
+      "blurbs": "5 300+ notes d’écoute originales hors ligne : Pièce du jour, lecteur immersif (Cover Flow et styles d’arrière-plan) et identification de titres ; catalogue Apple Music sur les pages d’artistes ; widgets et Siri. Sans compte ni publicité.",
+      "highlights": [
+        "5 300+ guides",
+        "Lecteur Cover Flow",
+        "Identification de titres",
+        "Pièce du jour"
+      ]
+    },
+    "tr": {
+      "taglines": "Seçkin dinleme stüdyosu — Günün Eseri, sürükleyici oynatıcı ve şarkı tanıma.",
+      "blurbs": "Çevrimdışı 5.300+ özgün dinleme notu: Günün Eseri, sürükleyici oynatıcı (cover flow ve arka plan stilleri) ve şarkı tanıma; sanatçı sayfalarında Apple Music kataloğu; widget’lar ve Siri. Hesap yok, reklam yok.",
+      "highlights": [
+        "5300+ rehber",
+        "Cover flow oynatıcı",
+        "Şarkı tanıma",
+        "Günün Eseri"
+      ]
+    }
+  },
+  "iVideo": {
+    "ja": {
+      "taglines": "プロ向け動画ツールボックス — 編集プロジェクト、ステッカー、31ツール、すべて端末内で。",
+      "blurbs": "ステッカーライブラリと画像読み込みを備えた「編集プロジェクト」タブ、マルチトラックのタイムライン、31のツール、端末内字幕、顔ぼかし、LUT。再生速度は0.05〜8倍 — 一括処理、Live Activity、Siri 対応、アップロードは一切なし。",
+      "highlights": [
+        "編集プロジェクトとステッカー",
+        "0.05〜8倍速",
+        "端末内字幕",
+        "顔ぼかしとLUT"
+      ]
+    },
+    "ko": {
+      "taglines": "프로 영상 툴박스 — 편집 프로젝트, 스티커, 31개 도구, 모두 기기 안에서.",
+      "blurbs": "스티커 라이브러리와 이미지 가져오기를 갖춘 편집 프로젝트 탭, 멀티 트랙 타임라인, 31개 도구, 온디바이스 자막, 얼굴 블러, LUT. 재생 속도 0.05~8배 — 일괄 처리, Live Activity, Siri 지원, 업로드는 전혀 없음.",
+      "highlights": [
+        "편집 프로젝트와 스티커",
+        "0.05~8배속",
+        "온디바이스 자막",
+        "얼굴 블러와 LUT"
+      ]
+    },
+    "ru": {
+      "taglines": "Профессиональный видеонабор — проекты монтажа, стикеры, 31 инструмент, всё на устройстве.",
+      "blurbs": "Вкладка проектов монтажа с библиотекой стикеров и импортом изображений, многодорожечные таймлайны, 31 инструмент, субтитры на устройстве, размытие лиц и LUT; воспроизведение 0,05–8× — пакетная обработка, Live Activity и Siri, без выгрузки в облако.",
+      "highlights": [
+        "Проекты монтажа и стикеры",
+        "Скорость 0,05–8×",
+        "Субтитры на устройстве",
+        "Размытие лиц и LUT"
+      ]
+    },
+    "th": {
+      "taglines": "ชุดเครื่องมือวิดีโอระดับโปร — โปรเจกต์ตัดต่อ สติกเกอร์ 31 เครื่องมือ ทำงานบนเครื่องทั้งหมด",
+      "blurbs": "แท็บโปรเจกต์ตัดต่อพร้อมคลังสติกเกอร์และนำเข้ารูปภาพ ไทม์ไลน์หลายแทร็ก 31 เครื่องมือ คำบรรยายบนเครื่อง เบลอใบหน้า และ LUT เล่นวิดีโอ 0.05–8 เท่า — ประมวลผลเป็นชุด Live Activity และ Siri ไม่อัปโหลดข้อมูลเลย",
+      "highlights": [
+        "โปรเจกต์ตัดต่อและสติกเกอร์",
+        "ความเร็ว 0.05–8 เท่า",
+        "คำบรรยายบนเครื่อง",
+        "เบลอใบหน้าและ LUT"
+      ]
+    },
+    "de": {
+      "taglines": "Profi-Video-Toolbox — Schnittprojekte, Sticker, 31 Werkzeuge, alles auf dem Gerät.",
+      "blurbs": "Tab „Schnittprojekte“ mit Sticker-Bibliothek und Bildimport, Mehrspur-Timelines, 31 Werkzeuge, Untertitel auf dem Gerät, Gesichtsunschärfe und LUTs; Wiedergabe 0,05–8× — Stapelverarbeitung, Live Activity und Siri, kein Upload.",
+      "highlights": [
+        "Schnittprojekte + Sticker",
+        "0,05–8× Tempo",
+        "Untertitel auf dem Gerät",
+        "Gesichtsunschärfe & LUTs"
+      ]
+    },
+    "fr": {
+      "taglines": "Boîte à outils vidéo pro — projets de montage, stickers, 31 outils, tout sur l’appareil.",
+      "blurbs": "Onglet Projets de montage avec bibliothèque de stickers et import d’images, timelines multipistes, 31 outils, sous-titres sur l’appareil, floutage de visages et LUT ; lecture de 0,05 à 8× — traitement par lot, Live Activity et Siri, aucun envoi de données.",
+      "highlights": [
+        "Projets de montage + stickers",
+        "Vitesse 0,05–8×",
+        "Sous-titres sur l’appareil",
+        "Floutage de visages et LUT"
+      ]
+    },
+    "tr": {
+      "taglines": "Profesyonel video araç seti — Düzenleme Projeleri, çıkartmalar, 31 araç, hepsi cihazda.",
+      "blurbs": "Çıkartma kütüphanesi ve görsel içe aktarma içeren Düzenleme Projeleri sekmesi, çok kanallı zaman çizelgeleri, 31 araç, cihazda altyazı, yüz bulanıklaştırma ve LUT’lar; 0,05–8× oynatma — toplu işlem, Live Activity ve Siri, sıfır yükleme.",
+      "highlights": [
+        "Düzenleme Projeleri + çıkartmalar",
+        "0,05–8× hız",
+        "Cihazda altyazı",
+        "Yüz bulanıklaştırma ve LUT’lar"
+      ]
+    }
+  },
+  "TwinPolarCam": {
+    "ja": {
+      "taglines": "PiP 対応のデュアルカメラ録画 — 現実の中断にも強い設計。",
+      "blurbs": "iPhone と対応 iPad でフロント/バックカメラを同時録画。端末内で PiP 合成、写真に保存。書き出しキュー、Live Activity、復帰可能な中断、緊急バックグラウンド保存、アプリ内ガイド、3言語 UI — プライバシー最優先、クラウドなし、アカウント不要。",
+      "highlights": [
+        "デュアルカメラ",
+        "書き出しキュー",
+        "Live Activity",
+        "アプリ内ガイド"
+      ]
+    },
+    "ko": {
+      "taglines": "PiP 듀얼 카메라 녹화 — 실생활의 중단 상황까지 고려한 설계.",
+      "blurbs": "iPhone과 호환 iPad에서 전면·후면 카메라를 동시에 녹화합니다. 온디바이스 PiP 합성, 사진 앱에 저장. 내보내기 대기열, Live Activity, 복구 가능한 중단, 긴급 백그라운드 저장, 앱 내 가이드, 3개 언어 UI — 개인정보 보호 우선, 클라우드 없음, 계정 불필요.",
+      "highlights": [
+        "듀얼 카메라",
+        "내보내기 대기열",
+        "Live Activity",
+        "앱 내 가이드"
+      ]
+    },
+    "ru": {
+      "taglines": "Запись двумя камерами с PiP — создано для реальных прерываний.",
+      "blurbs": "Запись на фронтальную и основную камеры iPhone и совместимых iPad; PiP на устройстве, сохранение в «Фото». Очередь экспорта, Live Activity, восстановление после прерываний, экстренное сохранение в фоне, встроенные руководства и интерфейс на трёх языках — приватность прежде всего, без облака и аккаунта.",
+      "highlights": [
+        "Две камеры",
+        "Очередь экспорта",
+        "Live Activity",
+        "Руководства в приложении"
+      ]
+    },
+    "th": {
+      "taglines": "บันทึกวิดีโอสองกล้องพร้อม PiP — ออกแบบมาเพื่อรับมือการหยุดชะงักในชีวิตจริง",
+      "blurbs": "บันทึกวิดีโอด้วยกล้องหน้าและกล้องหลังพร้อมกันบน iPhone และ iPad ที่รองรับ รวม PiP บนเครื่อง บันทึกลงรูปภาพ มีคิวส่งออก Live Activity กู้คืนได้เมื่อถูกขัดจังหวะ บันทึกฉุกเฉินเบื้องหลัง คู่มือในแอป และ UI สามภาษา — ให้ความสำคัญกับความเป็นส่วนตัว ไม่มีคลาวด์ ไม่ต้องมีบัญชี",
+      "highlights": [
+        "สองกล้อง",
+        "คิวส่งออก",
+        "Live Activity",
+        "คู่มือในแอป"
+      ]
+    },
+    "de": {
+      "taglines": "Dual-Kamera-Aufnahme mit PiP — gebaut für Unterbrechungen im Alltag.",
+      "blurbs": "Front- und Rückkamera gleichzeitig aufnehmen auf iPhone und kompatiblen iPads; PiP auf dem Gerät, Speichern in Fotos. Export-Warteschlange, Live Activity, wiederherstellbare Unterbrechungen, Notfall-Speichern im Hintergrund, Anleitungen in der App und dreisprachige Oberfläche — Datenschutz zuerst, keine Cloud, ohne Account.",
+      "highlights": [
+        "Dual-Kamera",
+        "Export-Warteschlange",
+        "Live Activity",
+        "Anleitungen in der App"
+      ]
+    },
+    "fr": {
+      "taglines": "Enregistrement double caméra avec PiP — pensé pour les interruptions du quotidien.",
+      "blurbs": "Filmez avec les caméras avant et arrière sur iPhone et iPad compatibles ; PiP sur l’appareil, enregistrement dans Photos. File d’export, Live Activity, interruptions récupérables, sauvegarde d’urgence en arrière-plan, guides intégrés et interface trilingue — confidentialité d’abord, sans cloud ni compte.",
+      "highlights": [
+        "Double caméra",
+        "File d’export",
+        "Live Activity",
+        "Guides intégrés"
+      ]
+    },
+    "tr": {
+      "taglines": "PiP ile çift kameralı kayıt — gerçek hayattaki kesintilere göre tasarlandı.",
+      "blurbs": "iPhone ve uyumlu iPad’lerde ön ve arka kamerayla kayıt yapın; cihazda PiP, Fotoğraflar’a kaydetme. Dışa aktarma kuyruğu, Live Activity, kurtarılabilir kesintiler, acil arka plan kaydı, uygulama içi rehberler ve üç dilli arayüz — önce gizlilik, bulut yok, hesap yok.",
+      "highlights": [
+        "Çift kamera",
+        "Dışa aktarma kuyruğu",
+        "Live Activity",
+        "Uygulama içi rehberler"
+      ]
+    }
+  },
+  "Weber": {
+    "ja": {
+      "taglines": "Safari 拡張機能:動画の再生速度コントロールと Markdown コピー。",
+      "blurbs": "macOS 専用の Safari 拡張機能 — ツールバーのポップアップから再生速度の調整と Markdown コピーができます。設定は本体アプリではなく Safari で行います。英語・簡体字中国語 UI、最小限の権限、ダークモード対応。",
+      "highlights": [
+        "Safariツールバーのポップアップ",
+        "Markdownコピー",
+        "macOS専用",
+        "MITライセンスのソース"
+      ]
+    },
+    "ko": {
+      "taglines": "Safari 확장 프로그램: 동영상 속도 조절과 Markdown 복사.",
+      "blurbs": "macOS 전용 Safari 확장 프로그램 — 도구 막대 팝업에서 속도 조절과 Markdown 복사를 지원합니다. 설정은 호스트 앱이 아닌 Safari에서 합니다. 영어·중국어 간체 UI, 최소한의 권한, 다크 모드 지원.",
+      "highlights": [
+        "Safari 도구 막대 팝업",
+        "Markdown 복사",
+        "macOS 전용",
+        "MIT 소스"
+      ]
+    },
+    "ru": {
+      "taglines": "Расширение Safari: управление скоростью видео и копирование в Markdown.",
+      "blurbs": "Расширение Safari только для macOS — управление скоростью и копирование в Markdown из всплывающего окна на панели инструментов. Настройка выполняется в Safari, а не в основном приложении. Интерфейс на английском и упрощённом китайском, минимум разрешений, поддержка тёмной темы.",
+      "highlights": [
+        "Всплывающее окно в панели Safari",
+        "Копирование в Markdown",
+        "Только macOS",
+        "Исходный код MIT"
+      ]
+    },
+    "th": {
+      "taglines": "ส่วนขยาย Safari: ควบคุมความเร็ววิดีโอและคัดลอกเป็น Markdown",
+      "blurbs": "ส่วนขยาย Safari สำหรับ macOS เท่านั้น — ควบคุมความเร็วและคัดลอกเป็น Markdown จากป๊อปอัปบนแถบเครื่องมือ ตั้งค่าใน Safari ไม่ใช่ในแอปหลัก รองรับ UI ภาษาอังกฤษและจีนตัวย่อ ใช้สิทธิ์น้อยที่สุด รองรับโหมดมืด",
+      "highlights": [
+        "ป๊อปอัปบนแถบเครื่องมือ Safari",
+        "คัดลอกเป็น Markdown",
+        "เฉพาะ macOS",
+        "ซอร์สโค้ด MIT"
+      ]
+    },
+    "de": {
+      "taglines": "Safari-Erweiterung: Videotempo steuern und als Markdown kopieren.",
+      "blurbs": "Safari-Erweiterung nur für macOS — Tempo steuern und als Markdown kopieren über das Popup in der Symbolleiste. Die Einstellungen erfolgen in Safari, nicht in der Host-App. Oberfläche auf Englisch und Vereinfachtem Chinesisch, minimale Berechtigungen, Dark-Mode-fähig.",
+      "highlights": [
+        "Popup in der Safari-Symbolleiste",
+        "Markdown kopieren",
+        "Nur macOS",
+        "MIT-Quellcode"
+      ]
+    },
+    "fr": {
+      "taglines": "Extension Safari : contrôle de la vitesse vidéo et copie en Markdown.",
+      "blurbs": "Extension Safari réservée à macOS — contrôle de la vitesse et copie en Markdown depuis la fenêtre de la barre d’outils. Réglages dans Safari, pas dans l’app hôte. Interface en anglais et chinois simplifié, permissions minimales, compatible mode sombre.",
+      "highlights": [
+        "Fenêtre de la barre d’outils Safari",
+        "Copie en Markdown",
+        "macOS uniquement",
+        "Source MIT"
+      ]
+    },
+    "tr": {
+      "taglines": "Safari uzantısı: video hızı kontrolü ve Markdown kopyalama.",
+      "blurbs": "Yalnızca macOS için Safari uzantısı — araç çubuğu açılır penceresinden hız kontrolü ve Markdown kopyalama. Ayarlar ana uygulamada değil Safari’de yapılır. İngilizce ve Basitleştirilmiş Çince arayüz, asgari izinler, Koyu Mod uyumlu.",
+      "highlights": [
+        "Safari araç çubuğu açılır penceresi",
+        "Markdown kopyalama",
+        "Yalnızca macOS",
+        "MIT kaynak kodu"
+      ]
+    }
+  },
+  "GLUT": {
+    "ja": {
+      "taglines": "GLUT のキャンパスニュース、学習情報、資料 — 10周年リニューアル。",
+      "blurbs": "GLUT のキャンパスニュース:お知らせ、学務情報、検索できる資料、お気に入りとロング画像シェア、キャンパス VR、ウィジェットと周年カウントダウン、13種のアイコン — iPhone・iPad・Mac 対応。アカウント不要、広告なし。",
+      "highlights": [
+        "キャンパスニュース",
+        "iOSウィジェット",
+        "キャンパスVR",
+        "13種のアイコン"
+      ]
+    },
+    "ko": {
+      "taglines": "GLUT 캠퍼스 뉴스, 학업 소식, 자료 — 10주년 리빌드.",
+      "blurbs": "GLUT 캠퍼스 뉴스: 공지, 학사 소식, 검색 가능한 자료, 즐겨찾기와 긴 이미지 공유, 캠퍼스 VR, 위젯 및 기념일 카운트다운, 13종 아이콘 — iPhone, iPad, Mac 지원. 계정 불필요, 광고 없음.",
+      "highlights": [
+        "캠퍼스 뉴스",
+        "iOS 위젯",
+        "캠퍼스 VR",
+        "13종 아이콘"
+      ]
+    },
+    "ru": {
+      "taglines": "Новости кампуса, учебные обновления и материалы GLUT — обновление к 10-летию.",
+      "blurbs": "Новости кампуса GLUT: объявления, учебные обновления, материалы с поиском, избранное и публикация длинным изображением, VR-прогулка по кампусу, виджеты и обратный отсчёт до юбилея, 13 значков — для iPhone, iPad и Mac. Без аккаунта и рекламы.",
+      "highlights": [
+        "Новости кампуса",
+        "Виджеты iOS",
+        "VR кампуса",
+        "13 значков"
+      ]
+    },
+    "th": {
+      "taglines": "ข่าวสารในมหาวิทยาลัย อัปเดตการเรียน และแหล่งข้อมูลของ GLUT — รีบิลด์ครบรอบ 10 ปี",
+      "blurbs": "ข่าวสารในมหาวิทยาลัยสำหรับ GLUT: ประกาศ ข่าวด้านการเรียน เอกสารที่ค้นหาได้ รายการโปรดและแชร์เป็นภาพยาว VR ในมหาวิทยาลัย วิดเจ็ตและนับถอยหลังวันครบรอบ ไอคอน 13 แบบ — รองรับ iPhone, iPad และ Mac ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": [
+        "ข่าวสารในมหาวิทยาลัย",
+        "วิดเจ็ต iOS",
+        "VR ในมหาวิทยาลัย",
+        "ไอคอน 13 แบบ"
+      ]
+    },
+    "de": {
+      "taglines": "Campus-News, Studieninfos und Materialien für GLUT — Neuaufbau zum 10. Jubiläum.",
+      "blurbs": "Campus-News für GLUT: Mitteilungen, akademische Neuigkeiten, durchsuchbare Materialien, Favoriten und Teilen als Langbild, Campus-VR, Widgets und Jubiläums-Countdown, 13 Icons — für iPhone, iPad und Mac. Ohne Account, ohne Werbung.",
+      "highlights": [
+        "Campus-News",
+        "iOS-Widgets",
+        "Campus-VR",
+        "13 Icons"
+      ]
+    },
+    "fr": {
+      "taglines": "Actualités du campus, infos d’études et ressources pour GLUT — refonte du 10e anniversaire.",
+      "blurbs": "L’actualité du campus de GLUT : avis, informations académiques, documents consultables, favoris et partage en image longue, VR du campus, widgets et compte à rebours anniversaire, 13 icônes — sur iPhone, iPad et Mac. Sans compte ni publicité.",
+      "highlights": [
+        "Actualités du campus",
+        "Widgets iOS",
+        "VR du campus",
+        "13 icônes"
+      ]
+    },
+    "tr": {
+      "taglines": "GLUT için kampüs haberleri, ders güncellemeleri ve kaynaklar — 10. yıl yenilemesi.",
+      "blurbs": "GLUT kampüs haberleri: duyurular, akademik güncellemeler, aranabilir materyaller, favoriler ve uzun görsel paylaşımı, kampüs VR, widget’lar ve yıldönümü geri sayımı, 13 simge — iPhone, iPad ve Mac’te. Hesap yok, reklam yok.",
+      "highlights": [
+        "Kampüs haberleri",
+        "iOS widget’ları",
+        "Kampüs VR",
+        "13 simge"
+      ]
+    }
+  },
+  "iAppManager": {
+    "ja": {
+      "taglines": "ASC ネイティブデスク — バージョン、素材、IAP、TestFlight、読みやすいレポート。",
+      "blurbs": "iPhone・iPad・Mac で API キーによりログイン:バージョン、素材の一括管理、IAP、TestFlight、軽量チャート付きの横長売上レポート — キーはキーチェーンに保存、通信は Apple のみ、トラッキングなし。",
+      "highlights": [
+        "APIキーでログイン",
+        "素材の一括管理",
+        "読みやすいレポート",
+        "TestFlightとIAP"
+      ]
+    },
+    "ko": {
+      "taglines": "ASC 네이티브 데스크 — 버전, 에셋, IAP, TestFlight, 읽기 쉬운 리포트.",
+      "blurbs": "iPhone, iPad, Mac에서 API 키로 로그인: 버전, 에셋 일괄 관리, IAP, TestFlight, 가벼운 차트가 있는 와이드 테이블 판매 리포트 — 키는 키체인에 저장, Apple 트래픽만 사용, 추적 없음.",
+      "highlights": [
+        "API 키 로그인",
+        "에셋 일괄 관리",
+        "읽기 쉬운 리포트",
+        "TestFlight 및 IAP"
+      ]
+    },
+    "ru": {
+      "taglines": "Нативный рабочий стол ASC — версии, ресурсы, IAP, TestFlight и читаемые отчёты.",
+      "blurbs": "Вход по API-ключу на iPhone, iPad и Mac: версии, пакетные ресурсы, IAP, TestFlight и широкие таблицы отчётов о продажах с лёгкими графиками — ключи в Связке ключей, трафик только к Apple, без отслеживания.",
+      "highlights": [
+        "Вход по API-ключу",
+        "Пакетные ресурсы",
+        "Читаемые отчёты",
+        "TestFlight и IAP"
+      ]
+    },
+    "th": {
+      "taglines": "เดสก์ ASC แบบเนทีฟ — เวอร์ชัน แอสเซ็ต IAP TestFlight และรายงานที่อ่านง่าย",
+      "blurbs": "ล็อกอินด้วย API Key บน iPhone, iPad และ Mac: จัดการเวอร์ชัน แอสเซ็ตเป็นชุด IAP TestFlight และรายงานยอดขายแบบตารางกว้างพร้อมกราฟน้ำหนักเบา — เก็บคีย์ไว้ใน Keychain ใช้เฉพาะทราฟฟิกของ Apple ไม่มีการติดตาม",
+      "highlights": [
+        "ล็อกอินด้วย API Key",
+        "แอสเซ็ตเป็นชุด",
+        "รายงานที่อ่านง่าย",
+        "TestFlight และ IAP"
+      ]
+    },
+    "de": {
+      "taglines": "Natives ASC-Pult — Versionen, Assets, IAP, TestFlight und lesbare Berichte.",
+      "blurbs": "Anmeldung per API-Schlüssel auf iPhone, iPad und Mac: Versionen, Assets im Stapel, IAP, TestFlight und breite Verkaufsberichte mit schlanken Diagrammen — Schlüssel im Schlüsselbund, nur Apple-Datenverkehr, kein Tracking.",
+      "highlights": [
+        "Anmeldung per API-Schlüssel",
+        "Assets im Stapel",
+        "Lesbare Berichte",
+        "TestFlight & IAP"
+      ]
+    },
+    "fr": {
+      "taglines": "Poste de travail ASC natif — versions, ressources, IAP, TestFlight et rapports lisibles.",
+      "blurbs": "Connexion par clé API sur iPhone, iPad et Mac : versions, ressources par lot, IAP, TestFlight et rapports de ventes en tableaux larges avec graphiques légers — clés dans le Trousseau, trafic Apple uniquement, aucun suivi.",
+      "highlights": [
+        "Connexion par clé API",
+        "Ressources par lot",
+        "Rapports lisibles",
+        "TestFlight et IAP"
+      ]
+    },
+    "tr": {
+      "taglines": "Yerel ASC masası — sürümler, varlıklar, IAP, TestFlight ve okunaklı raporlar.",
+      "blurbs": "iPhone, iPad ve Mac’te API Anahtarı ile giriş: sürümler, toplu varlıklar, IAP, TestFlight ve hafif grafikli geniş tablolu satış raporları — anahtarlar Anahtar Zinciri’nde, yalnızca Apple trafiği, takip yok.",
+      "highlights": [
+        "API Anahtarı ile giriş",
+        "Toplu varlıklar",
+        "Okunaklı raporlar",
+        "TestFlight ve IAP"
+      ]
+    }
+  },
+  "iLunYu": {
+    "ja": {
+      "taglines": "『論語』を再発見 — 二言語の読書、暗唱、学習、毎日の一句。",
+      "blurbs": "オフラインの論語スタジオ:512章を二言語+現代語訳で収録、カラオケ式の暗唱、学びの教室と探索。毎日の一句、162の名言、ウィジェット、Siri に対応 — アカウント不要、広告なし。",
+      "highlights": [
+        "論語512章",
+        "手書き検索",
+        "儀式的な学び",
+        "毎日の一句"
+      ]
+    },
+    "ko": {
+      "taglines": "『논어』를 다시 만나다 — 이중 언어 읽기, 암송, 학습, 오늘의 구절.",
+      "blurbs": "오프라인 논어 스튜디오: 512장을 이중 언어와 현대어 풀이로 수록, 노래방식 암송, 학습 교실과 탐색. 오늘의 구절, 162개 명구, 위젯, Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": [
+        "논어 512장",
+        "손글씨 검색",
+        "의례형 학습",
+        "오늘의 한마디"
+      ]
+    },
+    "ru": {
+      "taglines": "Заново откройте «Лунь юй» — двуязычное чтение, заучивание, изучение и изречение дня.",
+      "blurbs": "Офлайн-студия «Лунь юй»: 512 глав с двуязычным текстом и переводом на современный язык, заучивание в стиле караоке, учебный класс и поиск; «Изречение дня», 162 строки, виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": [
+        "512 глав «Лунь юй»",
+        "Поиск по рукописному вводу",
+        "Обрядовое обучение",
+        "Изречение дня"
+      ]
+    },
+    "th": {
+      "taglines": "ค้นพบ “คัมภีร์หลุนอวี่” อีกครั้ง — อ่านสองภาษา ท่องจำ เรียนรู้ และวาทะประจำวัน",
+      "blurbs": "สตูดิโอหลุนอวี่แบบออฟไลน์: 512 บทพร้อมสองภาษาและคำแปลภาษาปัจจุบัน ท่องจำแบบคาราโอเกะ ห้องเรียนและการสืบค้น วาทะประจำวัน 162 ประโยค วิดเจ็ต และ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": [
+        "หลุนอวี่ 512 บท",
+        "ค้นหาด้วยลายมือ",
+        "การเรียนแบบพิธีกรรม",
+        "วาทะประจำวัน"
+      ]
+    },
+    "de": {
+      "taglines": "Die Gespräche des Konfuzius neu entdecken — zweisprachig lesen, rezitieren, lernen und Spruch des Tages.",
+      "blurbs": "Offline-Studio für die Gespräche des Konfuzius: 512 Kapitel zweisprachig mit moderner Übertragung, Karaoke-Rezitation, Lernklasse und Suche; Spruch des Tages, 162 Zeilen, Widgets und Siri — ohne Account, ohne Werbung.",
+      "highlights": [
+        "512 Kapitel der Gespräche",
+        "Handschriftsuche",
+        "Rituelles Lernen",
+        "Spruch des Tages"
+      ]
+    },
+    "fr": {
+      "taglines": "Redécouvrez les Entretiens de Confucius — lecture bilingue, récitation, étude et maxime du jour.",
+      "blurbs": "Studio des Entretiens hors ligne : 512 chapitres bilingues avec traduction en langue moderne, récitation façon karaoké, classe d’étude et recherche ; maxime du jour, 162 phrases, widgets et Siri — sans compte ni publicité.",
+      "highlights": [
+        "512 chapitres des Entretiens",
+        "Recherche manuscrite",
+        "Étude rituelle",
+        "Maxime du jour"
+      ]
+    },
+    "tr": {
+      "taglines": "Konfüçyüs’ün Sohbetleri’ni yeniden keşfedin — iki dilli okuma, ezberleme, çalışma ve günün sözü.",
+      "blurbs": "Çevrimdışı Sohbetler stüdyosu: iki dilli ve günümüz Çincesi karşılıklı 512 bölüm, karaoke tarzı ezber, Çalışma sınıfı ve keşif; Günün Sözü, 162 cümle, widget’lar ve Siri — hesap yok, reklam yok.",
+      "highlights": [
+        "512 Sohbetler bölümü",
+        "El yazısıyla arama",
+        "Ritüel çalışma",
+        "Günün Sözü"
+      ]
+    }
+  },
+  "iArtOfWar": {
+    "ja": {
+      "taglines": "兵法の古典をオフラインで — 二言語の読書、暗唱、学習、毎日の計略。",
+      "blurbs": "古典174篇をオフラインで収録:孫子、孫臏、武経、三十六計。言語混在の暗唱、兵法の教室と探索。毎日の計略、120の名句、ウィジェット、Siri に対応 — アカウント不要、広告なし。",
+      "highlights": [
+        "174の計略",
+        "手書き検索",
+        "兵法の学び",
+        "毎日のヒント更新"
+      ]
+    },
+    "ko": {
+      "taglines": "병법 고전을 오프라인으로 — 이중 언어 읽기, 암송, 학습, 오늘의 계책.",
+      "blurbs": "고전 174편을 오프라인으로: 손자, 손빈, 무경, 36계. 혼합 언어 암송, 병법 교실과 탐색. 오늘의 계책, 120개 명구, 위젯, Siri 지원 — 계정 불필요, 광고 없음.",
+      "highlights": [
+        "174개 계책",
+        "손글씨 검색",
+        "병법 학습",
+        "오늘의 팁 갱신"
+      ]
+    },
+    "ru": {
+      "taglines": "Классика стратегии офлайн — двуязычное чтение, заучивание, изучение и хитрость дня.",
+      "blurbs": "174 классических текста офлайн: Сунь-цзы, Сунь Бинь, «У цзин» и «36 стратагем»; заучивание на смешанных языках, класс стратегии и поиск; «Хитрость дня», 120 строк, виджеты и Siri — без аккаунта и рекламы.",
+      "highlights": [
+        "174 стратагемы",
+        "Поиск по рукописному вводу",
+        "Изучение стратегии",
+        "Ежедневный совет дня"
+      ]
+    },
+    "th": {
+      "taglines": "ตำราพิชัยสงครามออฟไลน์ — อ่านสองภาษา ท่องจำ เรียนรู้ และกลยุทธ์ประจำวัน",
+      "blurbs": "ตำราคลาสสิก 174 บทแบบออฟไลน์: ซุนวู ซุนปิน อู่จิง และ 36 กลยุทธ์ ท่องจำแบบผสมภาษา ห้องเรียนกลยุทธ์และการสืบค้น กลยุทธ์ประจำวัน 120 ประโยค วิดเจ็ต และ Siri — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": [
+        "174 กลยุทธ์",
+        "ค้นหาด้วยลายมือ",
+        "เรียนกลยุทธ์",
+        "เคล็ดลับประจำวันอัปเดตใหม่"
+      ]
+    },
+    "de": {
+      "taglines": "Strategie-Klassiker offline — zweisprachig lesen, rezitieren, lernen und Kriegslist des Tages.",
+      "blurbs": "174 Klassiker offline: Sunzi, Sun Bin, Wujing und die 36 Strategeme; Rezitation in gemischten Sprachen, Strategie-Klasse und Suche; Kriegslist des Tages, 120 Zeilen, Widgets und Siri — ohne Account, ohne Werbung.",
+      "highlights": [
+        "174 Strategeme",
+        "Handschriftsuche",
+        "Strategie-Lernen",
+        "Täglich neuer Tipp"
+      ]
+    },
+    "fr": {
+      "taglines": "Classiques de stratégie hors ligne — lecture bilingue, récitation, étude et stratagème du jour.",
+      "blurbs": "174 classiques hors ligne : Sun Tzu, Sun Bin, Wujing et les 36 stratagèmes ; récitation en langues mixtes, classe de stratégie et recherche ; stratagème du jour, 120 phrases, widgets et Siri — sans compte ni publicité.",
+      "highlights": [
+        "174 stratagèmes",
+        "Recherche manuscrite",
+        "Étude de la stratégie",
+        "Astuce du jour renouvelée"
+      ]
+    },
+    "tr": {
+      "taglines": "Strateji klasikleri çevrimdışı — iki dilli okuma, ezberleme, çalışma ve günün stratejisi.",
+      "blurbs": "Çevrimdışı 174 klasik: Sun Tzu, Sun Bin, Wujing ve 36 Strateji; karma dilli ezber, Strateji sınıfı ve keşif; Günün Stratejisi, 120 cümle, widget’lar ve Siri — hesap yok, reklam yok.",
+      "highlights": [
+        "174 strateji",
+        "El yazısıyla arama",
+        "Strateji çalışması",
+        "Günlük ipucu yenileme"
+      ]
+    }
+  }
+}

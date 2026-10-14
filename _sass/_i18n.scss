@@ -1,0 +1,56 @@
+// ---------------------------------------------------------------------------
+// Multi-language content visibility.
+// Blocks use [lang="<code>"] from site.languages in _config.yml.
+// Only the block matching <html lang="..."> is shown (see main.js fallback).
+// ---------------------------------------------------------------------------
+
+$site-locale-codes: en, zh-CN, zh-TW, ja, ko, ru, th, de, fr, tr;
+
+html { display: block; }
+
+:not(html)[lang] { display: none; }
+
+@each $code in $site-locale-codes {
+  html[lang="#{$code}"] [lang="#{$code}"] { display: revert; }
+}
+
+html:not([lang]) [lang="en"] { display: revert; }
+
+:not(html)[lang].inline { display: none; }
+
+@each $code in $site-locale-codes {
+  html[lang="#{$code}"] [lang="#{$code}"].inline { display: inline; }
+}
+
+html:not([lang]) [lang="en"].inline { display: inline; }
+
+// Prose / doc fallback banner (when page has no section for active lang)
+.lang-fallback-banner {
+  display: none;
+  margin: 0 0 1.25rem;
+  padding: 10px 14px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  background: color-mix(in srgb, var(--accent) 6%, var(--color-bg-elevated));
+  color: var(--color-text-soft);
+  font-size: var(--fs-14);
+  line-height: var(--lh-normal);
+}
+
+html[data-content-fallback="en"] .lang-fallback-banner { display: block; }
+
+html[data-content-fallback="en"] .prose section[lang="en"] { display: revert; }
+html[data-content-fallback="en"] .prose :not(section)[lang="en"] { display: revert; }
+
+// Homepage cards: en / zh keep row rhythm; extended locales rely on line-clamp only.
+html[lang="ja"],
+html[lang="ko"],
+html[lang="ru"],
+html[lang="th"],
+html[lang="de"],
+html[lang="fr"],
+html[lang="tr"] {
+  .app-card__tagline {
+    min-height: calc(2 * var(--fs-15) * var(--lh-normal));
+  }
+}

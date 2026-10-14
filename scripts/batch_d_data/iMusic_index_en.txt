@@ -1,0 +1,125 @@
+<p class="editorial-kicker">From today’s piece, hear why a song stays.</p>
+
+**iMusic** (爱音乐 / 愛音樂) is a **curated listening studio** — not another streaming client. **5,300+ original listening notes** ship on your device: what to listen for, how the arrangement breathes, why the song is remembered. Playback goes through **Apple Music** (full track if you subscribe; otherwise a 30-second preview). **No account. No ads. No tracking.**
+
+**At a glance:** 5,300+ guides · 1,341+ artist notes · 44 categories · 58 collections · Daily Piece · immersive player · song ID · listen lists · 10 share-card styles · widgets · reading Live Activity · `imusic://` · EN / 简 / 繁.
+
+> iMusic is an independent app and is **not affiliated with Apple Inc.** It does not host songs. Playback uses Apple Music after you authorize MusicKit.
+
+<div class="editorial-pillars" markdown="0">
+  <div class="editorial-pillar">
+    <span class="editorial-pillar__name">Curated guides</span>
+    <span class="editorial-pillar__desc">About 500 original words per track, plus listen tips — offline, not lyrics.</span>
+  </div>
+  <div class="editorial-pillar">
+    <span class="editorial-pillar__name">Immersive play</span>
+    <span class="editorial-pillar__desc">Cover flow neighbors, backdrop styles, vinyl arm, lyrics / guide layers, queue, AirPlay and a sleep timer.</span>
+  </div>
+  <div class="editorial-pillar">
+    <span class="editorial-pillar__name">Song ID</span>
+    <span class="editorial-pillar__desc">Capture what’s playing around you. A catalog hit opens the guide.</span>
+  </div>
+  <div class="editorial-pillar">
+    <span class="editorial-pillar__name">Daily Piece</span>
+    <span class="editorial-pillar__desc">A magazine card from calendar, festivals and mood — plus widgets and Siri.</span>
+  </div>
+</div>
+
+## A sample guide
+
+Guides are written by iMusic. Lyrics and album art are not bundled. This is an excerpt from Beyond’s *Hai Kuo Tian Kong*:
+
+> The history of “Hai Kuo Tian Kong” is not in a wiki card — it is in the first thirty seconds after you press play. In 1993 they pushed Cantonese consonants through a wall of distortion; a public subject found a rock throat. Listen through the mid-song and the breaths. Do not keep only the chorus.
+
+Listen tip: ease the bass a little so the vocal and lead sit forward. Do not skip the instrumental — a second sentence often lives there.
+
+## Getting started
+
+### 1. First launch
+
+1. Install from the [App Store](https://apps.apple.com/app/id6810284659) and open **iMusic**.
+2. Walk through the **6-page guide** (brand → guide → play → song ID → Daily Piece → privacy).
+3. After the tour, an **Apple Music** explanation appears (vinyl needle). You may continue or choose **Later**. If you previously denied access, the button opens **Settings** — the system will not show the prompt again.
+4. Replay anytime: **Settings → Help → Feature Guide**.
+
+### 2. Today’s piece
+
+1. Open **Home**. The Daily Piece is a magazine card with cover art.
+2. Tap to read the guide; tap play to hear it.
+3. **Another one** redraws from today’s festival / season / mood pool — it is not a whole-library shuffle. Whole-library shuffle is **Roam**.
+4. Optional local reminder: **Settings → Daily Piece**.
+
+### 3. Hear a song (and the 30-second preview)
+
+1. Play from Home, Browse, Search, or a collection.
+2. **Subscribed to Apple Music:** the full catalog track plays after MusicKit matches it (ISRC first).
+3. **Not subscribed:** you hear a **30-second preview**. That is Apple’s catalog preview, not a broken file. Subscribe, return, play again — you do not need to re-authorize.
+4. The mini bar uses a light vinyl + progress ring; expand for the immersive player (play / lyrics / guide). Pull down to close on the play layer only.
+
+### 4. Guides, notes & share cards
+
+1. On a piece page, the title and artist sit centered; the guide is always left-aligned and split into sentences.
+2. Long-press a paragraph to copy, translate (system), or make a **music card**.
+3. Ten styles (vinyl, cassette, polaroid, letter…) and four canvases (card / 1:1 / 4:5 / 9:16). iOS saves with **add-only** Photos access.
+4. Notes appear at the bottom of the guide only after you write one.
+
+### 5. Song ID
+
+1. Open **Recognize** from Home or `imusic://recognize`.
+2. iOS asks for the **microphone** only then. Nothing is recorded for us.
+3. A hit in the curated library opens that guide.
+
+### 6. Widgets, Siri & privacy
+
+1. Add **Daily Piece** (small / medium glance, large excerpt) and **Mood Tap**.
+2. Reading a guide can show a **Live Activity** (lock screen / Dynamic Island) — tap it to return to the piece. **Playing music does not use a custom island**; the system Now Playing bar does.
+3. Optional **iCloud** mirrors favorites, listen lists, later, notes, history and streaks — your private KVS, not our servers.
+4. Spotlight stays **off** unless you turn it on.
+
+## Features
+
+### Library
+
+- **5,300+** guides, **1,341+** artist notes, **44** categories (mood / scene / era / genre / region), **58** collections
+- Artist desk with album-cover carousel and play-all / shuffle
+- Compare listening, ear school, era corridor, later / recent on Home
+- Search curated pieces, artists, and the Apple Music catalog
+
+### Playback
+
+- MusicKit matching; 30-second preview cached on device if you are not subscribed
+- Immersive layers, **cover flow** (center track with neighbor artwork), **backdrop styles** (glass / motion / poster / spotlight), artwork palette, sleep timer, AirPlay, lock-screen Now Playing
+- Vinyl arm in three stages: rest → cue → tracking
+- **Artist pages** — Browse more songs from the Apple Music catalog with play-all, shuffle, and queue actions when MusicKit matches the artist
+- Speak title / artist / guide (original, tip, or English) from the Speech settings page
+
+### Cards, widgets & system
+
+- 10 card styles · Home / Lock widgets · Control Center (iOS 18+)
+- Siri, Shortcuts and `imusic://` — see [Shortcut Links](url-scheme)
+- 11 app icons on iOS (polaroid default + 10 alternates)
+
+## Get the App
+
+| Channel | Link |
+|---------|------|
+| App Store | [Download on the App Store](https://apps.apple.com/app/id6810284659) |
+| Privacy Policy | [Privacy Policy](privacy) |
+
+## System Requirements
+
+| Platform | Minimum |
+|----------|---------|
+| iPhone / iPad | iOS 17.0+ |
+| Mac | macOS 14.0+ |
+| Search tab | iOS 18.0+ / macOS 15.0+ |
+| Song ID | Microphone + a real device (Simulator is limited) |
+| Full-length play | Apple Music subscription + MusicKit authorization |
+
+## Contact Us
+
+- **Email:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)
+
+We typically respond within 48 hours.
+
+[FAQ](faq) · [Shortcut Links](url-scheme) · [Privacy Policy](privacy)

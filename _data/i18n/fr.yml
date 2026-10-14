@@ -1,0 +1,162 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: Apps et outils pour les appareils Apple
+  site_description: Des apps soignées pour iPhone, iPad et Mac. Confidentialité d’abord, hors ligne et sans compte.
+nav:
+  apps: Apps
+  collections: Collections
+  app_store: App Store
+  home: Accueil
+  overview: Aperçu
+  faq: FAQ
+  privacy: Confidentialité
+  url_scheme: URL Scheme
+  contact: Contact
+  github: GitHub
+  open_menu: Ouvrir le menu
+  close_menu: Fermer le menu
+  switch_app: Changer d’app
+  other_apps: Autres apps
+  language: Langue
+  appearance: Apparence
+  theme_auto: Système
+  theme_light: Clair
+  theme_dark: Sombre
+collections_page:
+  eyebrow: Parcourir par thème
+  title: Collections
+  subtitle: Des apps regroupées par centre d’intérêt — caractères, poésie, premiers apprentissages, Quatre Livres, maîtres,
+    classiques, anglais, technique et plus encore. Une même app peut figurer dans plusieurs collections.
+  all: Tout
+  filter_label: Filtrer les collections
+  empty: Aucune app dans cette collection.
+hero:
+  eyebrow: iHTC Studio
+  title: Des apps soignées. Des logiciels sereins.
+  subtitle: iHTC Studio conçoit des apps respectueuses de la vie privée pour iPhone, iPad et Mac. Pas de compte, pas de suivi,
+    pas de cloud — juste des outils réfléchis qui respectent votre temps.
+  cta_explore: Découvrir les apps
+  cta_contact: Nous contacter
+  stat_apps: Apps
+  stat_offline: Hors ligne d’abord
+  stat_privacy: Aucun suivi
+  stat_hint: En savoir plus
+  stat_tablist: Points forts du studio
+  stat_apps_title_suffix: apps conçues avec soin
+  stat_apps_desc: Des minuteurs Pomodoro à la navigation sur l’App Store — chaque app est native en SwiftUI pour iPhone, iPad
+    et Mac, avec sa propre page d’assistance, sa FAQ et sa politique de confidentialité.
+  stat_apps_action: Parcourir toutes les apps ↓
+  stat_offline_title: Fonctions essentielles 100 % hors ligne
+  stat_offline_desc: Banques de questions, dictionnaires, minuteurs et calculatrices fonctionnent entièrement sur votre appareil.
+    Pas besoin de Wi‑Fi ni de réseau cellulaire au quotidien — vos outils vous suivent partout.
+  stat_privacy_title: Zéro suivi, zéro publicité
+  stat_privacy_desc: Aucun SDK d’analyse, aucun réseau publicitaire, aucun compte obligatoire. Nous ne collectons jamais vos
+    données d’utilisation. La synchronisation iCloud facultative n’utilise que l’infrastructure d’Apple.
+apps_section:
+  eyebrow: Nos apps
+  title: Conçues avec soin, peaufinées dans les détails
+  subtitle: Chaque app est pensée pour s’intégrer naturellement aux appareils Apple, fonctionner entièrement hors ligne et
+    respecter votre vie privée. Choisissez-en une pour en savoir plus.
+  learn_more: En savoir plus
+  coming_soon: Bientôt disponible
+  expand_hint: Affichage compact par défaut — ouvrez une carte pour voir les points forts, ou tout développer.
+  expand_all: Tout développer
+  collapse_all: Tout réduire
+  show_details: Afficher les détails
+  hide_details: Masquer les détails
+  list_density_aria: Densité de la liste d’apps
+values:
+  eyebrow: Ce en quoi nous croyons
+  title: Des apps discrètes qui méritent leur place
+  items:
+  - title: Confidentialité par défaut
+    desc: Pas de compte, pas d’analyse, pas de SDK tiers. Vos données restent sur votre appareil — toujours.
+  - title: Natif et rapide
+    desc: Conçu avec SwiftUI pour iOS, iPadOS et macOS. Optimisé pour un lancement instantané et une faible consommation de
+      batterie.
+  - title: Hors ligne d’abord
+    desc: Chaque fonction essentielle marche sans connexion Internet. Vos outils doivent fonctionner partout où vous allez.
+  - title: Pensé dans les moindres détails
+    desc: Typographie soignée, véritable retour haptique, animations fluides et mode sombre complet. Un travail d’orfèvre
+      sur chaque écran.
+  - title: Site multilingue
+    desc: Dix langues sur le site web — changez à tout moment. L’interface des apps suit la fiche App Store de chacune.
+  - title: Sans publicité, toujours
+    desc: Pas de fenêtres intrusives, pas de réseaux publicitaires, pas de dark patterns. Nous gagnons votre confiance, pas
+      des impressions.
+contact:
+  eyebrow: Nous contacter
+  title: Une question, un retour ou une idée ?
+  subtitle: Nous répondons généralement sous 48 heures. En cas de bug, indiquez le modèle de votre appareil et votre version
+    d’iOS.
+  email_label: E-mail
+  github_label: GitHub Issues
+footer:
+  rights: Tous droits réservés.
+  built_with: Conçu avec soin.
+  select_language: Langue
+  select_theme: Apparence
+  resources:
+    developer_home: Page d’accueil du développeur
+    apple_refund: Demande de remboursement Apple
+    apple_security: Mises à jour de sécurité Apple
+    apple_server_status: État des serveurs Apple
+    apple_dev_status: État des systèmes Apple Developer
+    apple_beta_releases: Dernières bêtas publiques d’Apple
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: Identifier les appareils Apple
+  resources_column: Ressources
+doc:
+  on_this_page: Sur cette page
+  last_updated: Dernière mise à jour
+  back_to: Retour à
+  related: Voir aussi
+toc:
+  title: Sommaire
+app_pages:
+  overview: Aperçu
+  faq: FAQ
+  privacy: Politique de confidentialité
+  url_scheme: URL Scheme
+  screenshots: Aperçus App Store
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: Touchez une capture pour l’afficher en grand · balayez pour parcourir
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: Retour à l’accueil
+  open_app_page: Ouvrir la page d’assistance
+  app_store: App Store
+  testflight: Bêta TestFlight
+badges:
+  testflight_beta: Bêta TestFlight
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: Rechercher une langue…
+  no_results: Aucune langue correspondante.
+notice:
+  language_set: Langue définie sur le français.
+  content_fallback_en: Cette page s’affiche en anglais pour la langue que vous avez choisie.
+  app_ui_language: Les langues de l’interface des apps suivent la fiche App Store de votre région.
+err:
+  not_found_title: Page introuvable
+  not_found_subtitle: La page que vous recherchez est introuvable.
+  go_home: Aller à l’accueil

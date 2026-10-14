@@ -1,0 +1,47 @@
+{
+  "- **Apple** — App Store distribution, optional StoreKit purchases, optional iCloud KVS, system TTS, Share Sheet destinations you pick, and OS-level notification / Live Activity / Siri / Shortcuts / Vision delivery.": {
+    "ja": "- **Apple** — App Store 配信、任意の StoreKit 購入、任意の iCloud KVS、システム TTS、お客様が選ぶ共有シートの送信先、OS レベルの通知／ライブアクティビティ／Siri／ショートカット／Vision の提供。",
+    "ko": "- **Apple** — App Store 배포, 선택적 StoreKit 구매, 선택적 iCloud KVS, 시스템 TTS, 사용자가 선택하는 공유 시트 대상, OS 수준 알림/Live Activities/Siri/Shortcuts/Vision 제공.",
+    "ru": "- **Apple** — распространение в App Store, необязательные покупки StoreKit, необязательный iCloud KVS, системный TTS, выбранные вами пункты «Поделиться», а также уведомления на уровне ОС / Live Activities / Siri / Shortcuts / Vision.",
+    "th": "- **Apple** — การจำหน่าย App Store, การซื้อ StoreKit แบบเลือกได้, iCloud KVS แบบเลือกได้, TTS ของระบบ, ปลายทาง Share Sheet ที่คุณเลือก และการส่งมอบการแจ้งเตือน/Live Activity/Siri/Shortcuts/Vision ระดับ OS",
+    "de": "- **Apple** — App Store-Vertrieb, optionale StoreKit-Käufe, optionales iCloud-KVS, System-TTS, von Ihnen gewählte Share-Sheet-Ziele sowie Benachrichtigungen/Live-Aktivitäten/Siri/Kurzbefehle/Vision auf OS-Ebene.",
+    "fr": "- **Apple** — Distribution App Store, achats StoreKit facultatifs, KVS iCloud facultatif, TTS système, destinations de partage que vous choisissez, et notifications/activités en direct/Siri/raccourcis/Vision au niveau du système.",
+    "tr": "- **Apple** — App Store dağıtımı, isteğe bağlı StoreKit satın alımları, isteğe bağlı iCloud KVS, sistem TTS, seçtiğiniz Paylaşım Sayfası hedefleri ve işletim sistemi düzeyinde bildirim/Canlı Etkinlik/Siri/Kestirmeler/Vision."
+  },
+  "We may update this page for legal, product, or App Store compliance reasons. The “Last updated” date will change. Continued use after an update means you accept the revised policy.": {
+    "ja": "法令、製品、または App Store コンプライアンスの理由で本ページを更新することがあります。上部の「最終更新日」が変更されます。更新後も利用を続ける場合、改訂版に同意したものとみなされます。",
+    "ko": "법적, 제품 또는 App Store 준수 사유로 본 페이지를 업데이트할 수 있습니다. 상단의 「최종 업데이트」 날짜가 변경됩니다. 업데이트 후 계속 사용하면 개정된 정책에 동의하는 것입니다.",
+    "ru": "Мы можем обновлять эту страницу по юридическим причинам, из‑за продукта или требований App Store. Дата «Последнего обновления» изменится. Продолжение использования после обновления означает принятие пересмотренной политики.",
+    "th": "เราอาจปรับปรุงหน้านี้ด้วยเหตุผลทางกฎหมาย ผลิตภัณฑ์ หรือการปฏิบัติตาม App Store วันที่ 「อัปเดตล่าสุด」 จะเปลี่ยน การใช้งานต่อหลังอัปเดตถือว่าคุณยอมรับนโยบายที่แก้ไข",
+    "de": "Wir können diese Seite aus rechtlichen Gründen, produktbedingt oder wegen App-Store-Compliance aktualisieren. Das Datum „Zuletzt aktualisiert“ ändert sich. Fortgesetzte Nutzung nach einer Aktualisierung gilt als Zustimmung zur überarbeiteten Richtlinie.",
+    "fr": "Nous pouvons mettre à jour cette page pour des raisons juridiques, produit ou conformité App Store. La date « Dernière mise à jour » changera. L’utilisation continue après une mise à jour vaut acceptation de la politique révisée.",
+    "tr": "Yasal, ürün veya App Store uyumluluğu nedenleriyle bu sayfayı güncelleyebiliriz. 「Son güncelleme」 tarihi değişir. Güncellemeden sonra kullanıma devam etmek, revize edilmiş politikayı kabul ettiğiniz anlamına gelir."
+  },
+  "iBaiJia is a cultural learning app for a general audience and is **not** in the Kids Category. We do not knowingly collect personal information from children. The app does not require an account. Families may use reading and study features offline on their own devices.": {
+    "ja": "iBaiJia は一般向けの文化学習アプリであり、**Kids Category には属しません**。当社は児童から故意に個人情報を収集しません。アカウントは不要です。家族は各自の端末で、オフラインの読書・学習機能をご利用いただけます。",
+    "ko": "iBaiJia는 일반 대중을 위한 문화 학습 앱이며 **Kids Category에 해당하지 않습니다**. 당사는 아동으로부터 고의로 개인정보를 수집하지 않습니다. 계정이 필요하지 않습니다. 가족은 각자의 기기에서 오프라인으로 읽기·학습 기능을 사용할 수 있습니다.",
+    "ru": "iBaiJia — приложение для изучения культуры для широкой аудитории и **не относится к Kids Category**. Мы сознательно не собираем персональные данные детей. Приложение не требует учётной записи. Семьи могут пользоваться чтением и обучением офлайн на своих устройствах.",
+    "th": "iBaiJia เป็นแอปเรียนรู้วัฒนธรรมสำหรับผู้ใช้ทั่วไป และ**ไม่ได้**อยู่ใน Kids Category เราไม่เก็บข้อมูลส่วนบุคคลจากเด็กโดยเจตนา แอปไม่ต้องมีบัญชี ครอบครัวสามารถใช้การอ่านและการเรียนแบบออฟไลน์บนอุปกรณ์ของตนเอง",
+    "de": "iBaiJia ist eine Kultur-Lern-App für ein allgemeines Publikum und **nicht** in der Kids Category. Wir erheben wissentlich keine personenbezogenen Daten von Kindern. Die App erfordert kein Konto. Familien können Lese- und Lernfunktionen offline auf eigenen Geräten nutzen.",
+    "fr": "iBaiJia est une application d’apprentissage culturel pour le grand public et **n’est pas** dans la Kids Category. Nous ne collectons pas sciemment d’informations personnelles auprès d’enfants. L’app ne nécessite pas de compte. Les familles peuvent utiliser lecture et étude hors ligne sur leurs propres appareils.",
+    "tr": "iBaiJia, genel kitleye yönelik bir kültür öğrenme uygulamasıdır ve **Kids Category**’de değildir. Çocuklardan bilerek kişisel bilgi toplamayız. Uygulama hesap gerektirmez. Aileler kendi cihazlarında okuma ve çalışma özelliklerini çevrimdışı kullanabilir."
+  },
+  "The only third-party services involved in normal use are **Apple** (App Store, iCloud, StoreKit, system TTS, notifications, Live Activities)": {
+    "ja": "通常利用で関与する第三者サービスは **Apple**（App Store、iCloud、StoreKit、システム TTS、通知、ライブアクティビティ）のみです。",
+    "ko": "일반 사용에 관여하는 유일한 제3자 서비스는 **Apple**(App Store, iCloud, StoreKit, 시스템 TTS, 알림, Live Activities)입니다.",
+    "ru": "Единственные сторонние сервисы при обычном использовании — **Apple** (App Store, iCloud, StoreKit, системный TTS, уведомления, Live Activities).",
+    "th": "บริการบุคคลที่สามที่เกี่ยวข้องในการใช้งานปกติมีเพียง **Apple** (App Store, iCloud, StoreKit, TTS ของระบบ, การแจ้งเตือน, Live Activities)",
+    "de": "Die einzigen Drittanbieterdienste bei normaler Nutzung sind **Apple** (App Store, iCloud, StoreKit, System-TTS, Benachrichtigungen, Live-Aktivitäten).",
+    "fr": "Les seuls services tiers impliqués dans une utilisation normale sont **Apple** (App Store, iCloud, StoreKit, TTS système, notifications, activités en direct).",
+    "tr": "Normal kullanımda yer alan tek üçüncü taraf hizmetler **Apple**’dır (App Store, iCloud, StoreKit, sistem TTS, bildirimler, Canlı Etkinlikler)."
+  },
+  "We do **not** request tracking, contacts, or location.": {
+    "ja": "当社は、トラッキング、連絡先、位置情報を**要求しません**。",
+    "ko": "당사는 추적, 연락처 또는 위치 정보를 **요청하지 않습니다**.",
+    "ru": "Мы **не** запрашиваем отслеживание, контакты или местоположение.",
+    "th": "เรา**ไม่**ขอการติดตาม รายชื่อผู้ติดต่อ หรือตำแหน่งที่ตั้ง",
+    "de": "Wir fordern **kein** Tracking, keine Kontakte oder keinen Standort an.",
+    "fr": "Nous ne demandons **pas** de suivi, de contacts ni de localisation.",
+    "tr": "İzleme, kişiler veya konum **talep etmeyiz**."
+  }
+}

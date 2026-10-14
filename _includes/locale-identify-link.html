@@ -1,0 +1,10 @@
+{%- comment -%}
+Apple identify link per language; falls back to en URL/label when missing.
+Usage: {% include locale-identify-link.html item=item %}
+{%- endcomment -%}
+{%- assign item = include.item -%}
+{%- for L in site.languages -%}
+{%- assign label = item.labels[L.code] | default: item.labels.en -%}
+{%- assign url = item.urls[L.code] | default: item.urls.en -%}
+<a href="{{ url }}" target="_blank" rel="noopener" lang="{{ L.code }}" class="inline">{{ label }}</a>
+{%- endfor -%}

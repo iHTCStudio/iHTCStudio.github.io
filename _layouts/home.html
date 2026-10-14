@@ -1,0 +1,219 @@
+---
+layout: default
+page_type: home
+---
+{%- assign sorted_apps = site.data.apps | sort: "order" -%}
+
+{%- comment -%}---------- Hero ----------{%- endcomment -%}
+<section class="section section--hero hero">
+  <div class="bg-aurora" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <div class="container hero__inner">
+    <div class="hero__brand eyebrow fade-up">
+      {% include brand-wordmark.html %}
+    </div>
+
+    <h1 class="hero__title gradient-text fade-up fade-up-1">
+      {% include i18n-spans.html section="hero" key="title" %}
+    </h1>
+
+    <p class="hero__subtitle fade-up fade-up-2">
+      {% include i18n-spans.html section="hero" key="subtitle" %}
+    </p>
+
+    <div class="hero__ctas fade-up fade-up-3">
+      <a href="#apps" class="btn btn--primary btn--lg">
+        {% include i18n-spans.html section="hero" key="cta_explore" %}
+      </a>
+      <a href="#contact" class="btn btn--outline btn--lg">
+        {% include i18n-spans.html section="hero" key="cta_contact" %}
+      </a>
+    </div>
+
+    <div class="hero__stats fade-up fade-up-4" data-reveal-stagger data-hero-stats>
+      <div class="hero__stats-row" role="group"
+        aria-label="{{ site.data.i18n['en'].hero.stat_tablist }}"
+        {% include locale-aria-data.html section="hero" key="stat_tablist" %}>
+        <button type="button" class="hero__stat" data-hero-stat="apps" aria-expanded="false" aria-controls="hero-stat-panel-apps">
+          <span class="hero__stat-icon" aria-hidden="true">ⓘ</span>
+          <span class="num">{{ sorted_apps | size }}</span>
+          <span class="lbl">
+            {% include i18n-spans.html section="hero" key="stat_apps" %}
+          </span>
+          <span class="hero__stat-hint">
+            {% include i18n-spans.html section="hero" key="stat_hint" %}
+          </span>
+        </button>
+        <button type="button" class="hero__stat" data-hero-stat="offline" aria-expanded="false" aria-controls="hero-stat-panel-offline">
+          <span class="hero__stat-icon" aria-hidden="true">ⓘ</span>
+          <span class="num">100%</span>
+          <span class="lbl">
+            {% include i18n-spans.html section="hero" key="stat_offline" %}
+          </span>
+          <span class="hero__stat-hint">
+            {% include i18n-spans.html section="hero" key="stat_hint" %}
+          </span>
+        </button>
+        <button type="button" class="hero__stat" data-hero-stat="privacy" aria-expanded="false" aria-controls="hero-stat-panel-privacy">
+          <span class="hero__stat-icon" aria-hidden="true">ⓘ</span>
+          <span class="num">0</span>
+          <span class="lbl">
+            {% include i18n-spans.html section="hero" key="stat_privacy" %}
+          </span>
+          <span class="hero__stat-hint">
+            {% include i18n-spans.html section="hero" key="stat_hint" %}
+          </span>
+        </button>
+      </div>
+
+      <div class="hero__stat-detail" data-hero-stat-detail aria-hidden="true">
+        <div class="hero__stat-panel" id="hero-stat-panel-apps" data-hero-panel="apps" hidden>
+          <p class="hero__stat-panel-title">
+            {%- for L in site.languages -%}
+            <span lang="{{ L.code }}">{{ sorted_apps | size }} {{ site.data.i18n[L.code].hero.stat_apps_title_suffix }}</span>
+            {%- endfor -%}
+          </p>
+          <p class="hero__stat-panel-desc">
+            {% include i18n-spans.html section="hero" key="stat_apps_desc" %}
+          </p>
+          <a href="#apps" class="hero__stat-panel-link" data-hero-stat-link>
+            {% include i18n-spans.html section="hero" key="stat_apps_action" %}
+          </a>
+        </div>
+        <div class="hero__stat-panel" id="hero-stat-panel-offline" data-hero-panel="offline" hidden>
+          <p class="hero__stat-panel-title">
+            {% include i18n-spans.html section="hero" key="stat_offline_title" %}
+          </p>
+          <p class="hero__stat-panel-desc">
+            {% include i18n-spans.html section="hero" key="stat_offline_desc" %}
+          </p>
+        </div>
+        <div class="hero__stat-panel" id="hero-stat-panel-privacy" data-hero-panel="privacy" hidden>
+          <p class="hero__stat-panel-title">
+            {% include i18n-spans.html section="hero" key="stat_privacy_title" %}
+          </p>
+          <p class="hero__stat-panel-desc">
+            {% include i18n-spans.html section="hero" key="stat_privacy_desc" %}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{%- comment -%}---------- Apps ----------{%- endcomment -%}
+<section class="section" id="apps">
+  <noscript>
+    <style>
+      #apps .app-card__details {
+        grid-template-rows: 1fr !important;
+        opacity: 1 !important;
+        margin-top: 14px !important;
+      }
+      #apps .app-card__toggle,
+      #apps .app-grid-toolbar { display: none !important; }
+      #apps .app-card__tagline {
+        -webkit-line-clamp: unset;
+        line-clamp: unset;
+        overflow: visible;
+        min-height: 0;
+      }
+    </style>
+  </noscript>
+  <div class="container container--wide">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        {% include i18n-spans.html section="apps_section" key="eyebrow" %}
+      </span>
+      <h2>
+        {% include i18n-spans.html section="apps_section" key="title" %}
+      </h2>
+      <p class="lead">
+        {% include i18n-spans.html section="apps_section" key="subtitle" %}
+      </p>
+    </div>
+
+    <div class="app-grid-toolbar" data-app-grid-toolbar data-reveal>
+      <p class="app-grid-toolbar__hint">
+        {% include i18n-spans.html section="apps_section" key="expand_hint" %}
+      </p>
+      <div class="app-grid-toolbar__actions" role="group"
+           {% include locale-aria-data.html section="apps_section" key="list_density_aria" %}>
+        <button type="button" class="app-grid-toolbar__btn" data-app-expand-all>
+          {% include i18n-spans.html section="apps_section" key="expand_all" %}
+        </button>
+        <button type="button" class="app-grid-toolbar__btn" data-app-collapse-all>
+          {% include i18n-spans.html section="apps_section" key="collapse_all" %}
+        </button>
+      </div>
+    </div>
+
+    <div class="app-grid" data-app-grid data-reveal-stagger>
+      {%- for app in sorted_apps -%}
+        {% include app-card.html app=app %}
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{%- comment -%}---------- Values ----------{%- endcomment -%}
+<section class="section section--tight">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        {% include i18n-spans.html section="values" key="eyebrow" %}
+      </span>
+      <h2>
+        {% include i18n-spans.html section="values" key="title" %}
+      </h2>
+    </div>
+
+    <div class="feature-grid" data-reveal-stagger data-feature-grid>
+      {%- assign value_themes = site.data.values -%}
+
+      {%- for item in value_themes -%}
+        {%- assign idx = forloop.index0 -%}
+      <article class="feature-card" tabindex="0" data-feature-card
+        style="--feat-accent: {{ item.accent }}; --feat-from: {{ item.gradient_from }}; --feat-to: {{ item.gradient_to }};">
+        <span class="feature-card__icon">{% include icons.html name=item.icon size="20" %}</span>
+        <h3 class="feature-card__title">
+          {%- for L in site.languages -%}
+          {%- assign vi = site.data.i18n[L.code].values.items[idx] -%}
+          <span lang="{{ L.code }}">{{ vi.title }}</span>
+          {%- endfor -%}
+        </h3>
+        <p class="feature-card__desc">
+          {%- for L in site.languages -%}
+          {%- assign vi = site.data.i18n[L.code].values.items[idx] -%}
+          <span lang="{{ L.code }}">{{ vi.desc }}</span>
+          {%- endfor -%}
+        </p>
+      </article>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{%- comment -%}---------- Contact ----------{%- endcomment -%}
+<section class="section section--tight" id="contact">
+  <div class="container container--narrow">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">
+        {% include i18n-spans.html section="contact" key="eyebrow" %}
+      </span>
+      <h2>
+        {% include i18n-spans.html section="contact" key="title" %}
+      </h2>
+      <p class="lead">
+        {% include i18n-spans.html section="contact" key="subtitle" %}
+      </p>
+    </div>
+
+    <div class="hero__ctas" style="justify-content:center;display:flex;flex-wrap:wrap;gap:12px;" data-reveal>
+      <a href="mailto:{{ site.author.email }}" class="btn btn--accent btn--lg">
+        {% include icons.html name="mail" size="16" %} {{ site.author.email }}
+      </a>
+    </div>
+  </div>
+</section>

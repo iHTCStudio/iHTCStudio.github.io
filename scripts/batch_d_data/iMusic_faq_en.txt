@@ -1,0 +1,51 @@
+### Why do I only hear 30 seconds?
+
+You are not subscribed to **Apple Music**, or the subscription status is still unknown. The 30 seconds are Apple’s **catalog preview**, not a corrupt file. Subscribe in Apple Music, return to iMusic, and play again — you do **not** need to re-authorize. A line on the mini bar can be hidden in Settings; hiding it does **not** change the preview length.
+
+### Is this another Apple Music skin?
+
+No. iMusic is a **listening studio**: original guides (offline), an immersive player, song ID, Daily Piece, cards and widgets. Audio is not hosted here. Full-length play uses MusicKit after you authorize it. The app is **not affiliated with Apple**.
+
+### Are the guides offline?
+
+Yes. **4,800+** guides, artist notes, categories and collections ship in the app. Reading, notes, lists, widgets and local notifications work without a network. Playback, artwork fetch, song ID and optional tipping need Apple services.
+
+### Do you include lyrics?
+
+No. Guides and listen tips are written by iMusic. We do not bundle licensed lyrics.
+
+### What is Daily Piece vs Roam vs “another one”?
+
+**Daily Piece** picks from calendar / festival / season / mood pools. **Another one** redraws from *today’s* pool (and updates the widget / pending notification). **Roam** is a whole-library shuffle.
+
+### Song ID asks for the microphone — do you keep audio?
+
+No. The microphone is requested only when you open Recognize. Recognition runs through **Apple ShazamKit**. We do not keep a recording. A hit in the curated library opens that guide.
+
+### Why is there a Live Activity when I read, but not when I play?
+
+**Reading** a guide can show Lock Screen / Dynamic Island (default on; Settings → Listening). Tap it to return to the piece. **Playing music** uses the system Now Playing bar only — no custom island.
+
+### What does iCloud Sync cover?
+
+Optional: favorites, listen lists, later, notes, history, recitation progress, streaks. Not the guide library, not artwork files, not preview audio.
+
+### Can I save music cards to Photos?
+
+Yes. Saving requests **Photo Library add-only**. Images are rendered on device.
+
+### Do you collect my data?
+
+**No.** See the [Privacy Policy](../privacy): Data Not Collected by iHTC Studio; no ads / analytics SDK; no account.
+
+### Where is the privacy policy URL for App Store Connect?
+
+Open this site’s [Privacy Policy](../privacy) page and copy the URL from the address bar.
+
+### System requirements?
+
+iPhone / iPad **iOS 17.0+**, Mac **macOS 14.0+**. Song ID needs a real device. Full-length play needs an Apple Music subscription.
+
+### How do I contact support?
+
+[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com) — typically within 48 hours.

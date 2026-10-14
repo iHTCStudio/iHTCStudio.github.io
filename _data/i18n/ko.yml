@@ -1,0 +1,152 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: Apple 기기용 앱과 도구
+  site_description: iPhone, iPad, Mac을 위해 정성껏 만든 앱. 프라이버시 우선, 오프라인, 계정 불필요.
+nav:
+  apps: 앱
+  collections: 컬렉션
+  app_store: App Store
+  home: 홈
+  overview: 개요
+  faq: FAQ
+  privacy: 개인정보
+  url_scheme: URL Scheme
+  contact: 문의
+  github: GitHub
+  open_menu: 메뉴 열기
+  close_menu: 메뉴 닫기
+  switch_app: 앱 전환
+  other_apps: 다른 앱
+  language: 언어
+  appearance: 모양
+  theme_auto: 시스템
+  theme_light: 라이트
+  theme_dark: 다크
+collections_page:
+  eyebrow: 주제별 탐색
+  title: 컬렉션
+  subtitle: 문자·시가·蒙學·四書·諸子·國學·영어·기술 등 관심사별로 앱을 모았습니다. 하나의 앱이 여러 컬렉션에 포함될 수 있습니다.
+  all: 전체
+  filter_label: 컬렉션 필터
+  empty: 이 컬렉션에 앱이 없습니다.
+hero:
+  eyebrow: iHTC Studio
+  title: 정성껏 만든 앱. 조용히 쓰는 소프트웨어.
+  subtitle: iHTC Studio는 iPhone, iPad, Mac용 프라이버시 우선 앱을 만듭니다. 계정 없음, 추적 없음, 클라우드 없음—시간을 존중하는 도구만 제공합니다.
+  cta_explore: 앱 둘러보기
+  cta_contact: 문의하기
+  stat_apps: 앱
+  stat_offline: 오프라인 우선
+  stat_privacy: 추적 없음
+  stat_hint: 자세히
+  stat_tablist: 스튜디오 하이라이트
+  stat_apps_title_suffix: 정성껏 만든 앱
+  stat_apps_desc: pomodoro부터 App Store 탐색까지—각 앱은 iPhone, iPad, Mac용 SwiftUI 네이티브이며, 지원 페이지·FAQ·개인정보 처리방침을 제공합니다.
+  stat_apps_action: 모든 앱 ↓
+  stat_offline_title: 핵심 기능 100% 오프라인
+  stat_offline_desc: 문제집, 사전, 타이머, 계산기 등은 기기에서만 동작합니다. 일상 사용에 Wi‑Fi나 셀룰러가 필요 없습니다.
+  stat_privacy_title: 추적 제로, 광고 제로
+  stat_privacy_desc: 분석 SDK 없음, 광고 네트워크 없음, 강제 계정 없음. 사용 데이터를 수집하지 않습니다. 선택적 iCloud 동기화는 Apple 인프라만 사용합니다.
+apps_section:
+  eyebrow: 우리의 앱
+  title: 세심하게, 디테일까지
+  subtitle: 모든 앱은 Apple 기기에서 네이티브하게 느껴지도록 설계되었으며, 완전 오프라인으로 동작하고 프라이버시를 존중합니다. 자세히 볼 앱을 선택하세요.
+  learn_more: 자세히 보기
+  coming_soon: 곧 출시
+  expand_hint: 기본은 간략 표시—카드를 열어 하이라이트를 보거나 모두 펼칠 수 있습니다.
+  expand_all: 모두 펼치기
+  collapse_all: 모두 접기
+  show_details: 상세 보기
+  hide_details: 상세 숨기기
+  list_density_aria: 앱 목록 표시 밀도
+values:
+  eyebrow: 우리가 믿는 것
+  title: 조용히, 그러나 확실히 자리 잡는 앱
+  items:
+  - title: 기본값은 프라이버시
+    desc: 계정 없음, 분석 없음, 제3자 SDK 없음. 데이터는 항상 기기에만 남습니다.
+  - title: 네이티브하고 빠름
+    desc: iOS, iPadOS, macOS용 SwiftUI. 즉시 실행과 배터리 친화적 성능.
+  - title: 오프라인 우선
+    desc: 핵심 기능은 인터넷 없이 동작합니다. 어디서든 도구가 따라와야 합니다.
+  - title: 디테일한 설계
+    desc: 세심한 타이포그래피, 햅틱, 유려한 모션, 완전한 다크 모드.
+  - title: 다국어 사이트
+    desc: 웹사이트 10개 언어—언제든 전환. 앱 UI는 각 App Store 페이지를 따릅니다.
+  - title: 항상 광고 없음
+    desc: 팝업 없음, 광고 네트워크 없음, 다크 패턴 없음.
+contact:
+  eyebrow: 문의
+  title: 질문, 피드백, 아이디어가 있으신가요?
+  subtitle: 보통 48시간 이내에 답변합니다. 버그는 기기 모델과 iOS 버전을 알려 주세요.
+  email_label: 이메일
+  github_label: GitHub Issues
+footer:
+  rights: All rights reserved.
+  built_with: 정성껏 만들었습니다.
+  select_language: 언어
+  select_theme: 모양
+  resources:
+    developer_home: 개발자 홈페이지
+    apple_refund: Apple 환불 요청
+    apple_security: Apple 보안 업데이트
+    apple_server_status: Apple 서버 상태
+    apple_dev_status: Apple Developer 시스템 상태
+    apple_beta_releases: Apple 최신 퍼블릭 베타
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: Apple 기기 식별
+  resources_column: 리소스
+doc:
+  on_this_page: 이 페이지 내용
+  last_updated: 최종 업데이트
+  back_to: 돌아가기
+  related: 관련 링크
+toc:
+  title: 목차
+app_pages:
+  overview: 개요
+  faq: FAQ
+  privacy: 개인정보 처리방침
+  url_scheme: URL Scheme
+  screenshots: App Store 미리보기
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: 탭하여 전체 화면 · 스와이프하여 탐색
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: 홈으로
+  open_app_page: 지원 페이지 열기
+  app_store: App Store
+  testflight: TestFlight 베타
+badges:
+  testflight_beta: TestFlight 베타
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: 언어 검색…
+  no_results: 일치하는 언어가 없습니다.
+notice:
+  language_set: 언어가 한국어로 설정되었습니다.
+  content_fallback_en: 선택한 언어 페이지가 없어 영어로 표시합니다.
+  app_ui_language: 앱 내 UI 언어는 해당 지역 App Store 제품 페이지를 따릅니다.
+err:
+  not_found_title: 페이지를 찾을 수 없음
+  not_found_subtitle: 요청하신 페이지를 찾을 수 없습니다.
+  go_home: 홈으로

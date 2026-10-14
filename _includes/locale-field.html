@@ -1,0 +1,15 @@
+{%- comment -%}
+Render a per-locale field from a hash (names, taglines, blurbs, …).
+
+Usage:
+  {% include locale-field.html object=app.taglines %}
+  {% include locale-field.html object=app.taglines tag="p" class="app-card__tagline" %}
+{%- endcomment -%}
+{%- assign obj = include.object -%}
+{%- assign tag = include.tag | default: "span" -%}
+{%- assign extra_class = include.class | default: "" -%}
+{%- if include.inline -%}{%- assign extra_class = extra_class | append: " inline" | strip -%}{%- endif -%}
+{%- for L in site.languages -%}
+{%- assign val = obj[L.code] | default: obj.en -%}
+<{{ tag }} lang="{{ L.code }}"{% if extra_class != "" %} class="{{ extra_class }}"{% endif %}>{{ val }}</{{ tag }}>
+{%- endfor -%}

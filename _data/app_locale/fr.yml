@@ -1,0 +1,606 @@
+iConnect:
+  taglines: Chat P2P local, PTT et transfert de fichiers pour iPhone, iPad et Mac.
+  blurbs: Chat, discussion de groupe, PTT, voix et fichiers via le Wi-Fi local entre appareils Apple. Réponse, rappel de message,
+    @mentions et recherche ; limites de taille de fichier configurables. Pas de cloud, pas de compte, aucune connexion internet
+    requise.
+  highlights:
+  - Chat et PTT
+  - Voix et fichiers
+  - Taille configurable
+  - 9 icônes d’app
+iConverter:
+  taglines: 101 calculatrices et convertisseurs — mode Confort, téléchargement de médias, Live Activity.
+  blurbs: 101 outils hors ligne avec 21 widgets interactifs ; mode Confort, aide intégrée, loupe, téléchargement de médias
+    et extension de partage ; historique QR et Live Activities sur iPhone — schéma d’URL, confidentialité d’abord.
+  highlights:
+  - 101 outils
+  - Mode Confort
+  - Téléchargement de médias
+  - Live Activity
+iLinux:
+  taglines: 1650+ commandes · Linux / CMD / PowerShell · référence hors ligne.
+  blurbs: 'Référence shell hors ligne pour iPhone, iPad et Mac : 1650+ commandes, équivalents multiplateformes, synchronisation
+    iCloud, quiz quotidien et widgets iOS — aucun compte requis.'
+  highlights:
+  - 1650+ commandes
+  - iPhone iPad Mac
+  - Synchro iCloud
+  - Équivalents multiplateformes
+iWool:
+  taglines: Suivez bons plans, rappels et gains — en privé, sur l’appareil.
+  blurbs: 'Suivi local de bons plans sur iPhone et iPad : liens profonds, Live Activity Quick Countdown, pause/résiliation
+    à la date d’effet, export d’activité à partager, 7 cartes de synthèse d’accueil, 12 widgets et cartes de partage — sans
+    inscription, sur l’appareil, confidentialité d’abord.'
+  highlights:
+  - Liens profonds iwool://
+  - Pause et export à partager
+  - 12 widgets
+  - Cartes PNG à partager
+iCalendar:
+  taglines: Calendrier lunaire — 25+9 widgets, styles transparents, barre d’onglets, hors ligne.
+  blurbs: Almanach 1891–2100, 黄历 enrichi, panneau de date sur l’écran d’accueil et widget « Almanach du jour » ; 25 widgets
+    d’accueil + 9 d’écran verrouillé, dont les styles transparents d’iOS 17 ; le compte à rebours suit le jour sélectionné
+    — hors ligne, sans compte.
+  highlights:
+  - 25+9 widgets
+  - Almanach du jour
+  - Widgets transparents
+  - 1891–2100
+iPomodoros:
+  taglines: Concentration. Suivi. Réussite. — Pomodoro, statistiques, widgets et Live Activity.
+  blurbs: 'Studio de concentration natif pour iPhone et iPad : cycles Pomodoro, minuteur libre, tâches avec compte à rebours
+    et statistiques (objectifs, cartes de chaleur, succès, cartes de partage). Cinq familles de widgets, double Live Activity
+    et Siri — iCloud facultatif, sans compte.'
+  highlights:
+  - Confidentialité d’abord
+  - 9 succès
+  - 5 familles de widgets
+  - Compatible Siri
+iEnglish:
+  taglines: 3000 mots essentiels + livres Senior/CET en option — quiz, playlists et widgets.
+  blurbs: 'Vocabulaire anglais pour débutants : 3000 mots essentiels de A à Z, plus des livres Senior / CET-4 / CET-6 en option
+    avec progression par livre ; quiz, playlists et widgets d’accueil — hors ligne sur iPhone, iPad et Mac, iCloud facultatif.'
+  highlights:
+  - 3000 mots essentiels + livres d’examen
+  - Progression par livre
+  - Quiz
+  - Widgets
+iLeetCoder:
+  taglines: 999 problèmes d’algorithmes, quiz quotidien, widgets — natif sur les plateformes Apple.
+  blurbs: 'Apprentissage des algorithmes façon LeetCode : 999 problèmes, quiz quotidien, favoris et carnet d’erreurs, widgets
+    d’écran d’accueil — natif sur iPhone, iPad et Mac, iCloud en option, sans compte.'
+  highlights:
+  - 999 problèmes
+  - Synchro iCloud
+  - Suivi d’apprentissage
+  - Widgets
+iTer:
+  taglines: 10 000+ questions d’entretien IT — quiz quotidien, widgets, SwiftUI natif.
+  blurbs: 'Bibliothèque d’entretiens hors ligne : 17 langages, 12 parcours métiers, 16 banques de questions d’entreprises.
+    Quiz quotidien, favoris, réponses en Markdown, widgets d’accueil et d’écran verrouillé, raccourcis clavier — SwiftUI natif,
+    sans compte.'
+  highlights:
+  - 10 000+ questions
+  - Quiz quotidien
+  - Widgets
+  - Réponses en Markdown
+  - Clavier iPad et Mac
+iWuBi:
+  taglines: Entraînement à la saisie Wubi — exercices, recherche manuscrite, Siri et Spotlight.
+  blurbs: 'Pratiquez le Wubi hors ligne : codes complets et exercices, nouvel essai des caractères erronés, OCR manuscrit
+    vers la recherche sur les pages de consultation et de jianma, Siri et Spotlight — confidentialité d’abord, sans compte,
+    sans publicité.'
+  highlights:
+  - Entraînement à la frappe
+  - OCR manuscrit
+  - Siri et Spotlight
+  - 8 widgets
+TwinPolarCam:
+  taglines: Enregistrement double caméra avec PiP — pensé pour les interruptions du quotidien.
+  blurbs: Filmez avec les caméras avant et arrière sur iPhone et iPad compatibles ; PiP sur l’appareil, enregistrement dans
+    Photos. File d’export, Live Activity, interruptions récupérables, sauvegarde d’urgence en arrière-plan, guides intégrés
+    et interface trilingue — confidentialité d’abord, sans cloud ni compte.
+  highlights:
+  - Double caméra
+  - File d’export
+  - Live Activity
+  - Guides intégrés
+iPhoto:
+  taglines: Studio photo privé — beauté en direct, looks 3D LUT, collages et recettes.
+  blurbs: Prenez vos photos avec la beauté en direct plein cadre et la comparaison par appui long ; environ 55 LUT 3D maison,
+    collages de 2 à 9 photos, recettes de looks et ~800+ stickers ; suppression des EXIF avant partage — sans compte ni publicité.
+  highlights:
+  - Beauté plein cadre
+  - Looks 3D LUT
+  - Collages et recettes
+  - Export confidentiel
+iCangJie:
+  taglines: Entraînement à la saisie Cangjie — exercices, recherche manuscrite et dictionnaire hors ligne.
+  blurbs: 'Pratiquez le Cangjie hors ligne : codes complets et exercices, nouvel essai des caractères erronés, OCR manuscrit
+    vers la recherche sur les pages de consultation et de jianma, icônes d’app alternatives et Raccourcis Siri — confidentialité
+    d’abord, sans compte, sans publicité.'
+  highlights:
+  - Plus de 27 000 caractères
+  - OCR manuscrit
+  - Nouvel essai de frappe
+  - Siri et widgets
+Weber:
+  taglines: 'Extension Safari : contrôle de la vitesse vidéo et copie en Markdown.'
+  blurbs: Extension Safari réservée à macOS — contrôle de la vitesse et copie en Markdown depuis la fenêtre de la barre d’outils.
+    Réglages dans Safari, pas dans l’app hôte. Interface en anglais et chinois simplifié, permissions minimales, compatible
+    mode sombre.
+  highlights:
+  - Fenêtre de la barre d’outils Safari
+  - Copie en Markdown
+  - macOS uniquement
+  - Source MIT
+iVideo:
+  taglines: Boîte à outils vidéo pro — projets de montage, stickers, 31 outils, tout sur l’appareil.
+  blurbs: Onglet Projets de montage avec bibliothèque de stickers et import d’images, timelines multipistes, 31 outils, sous-titres
+    sur l’appareil, floutage de visages et LUT ; lecture de 0,05 à 8× — traitement par lot, Live Activity et Siri, aucun envoi
+    de données.
+  highlights:
+  - Projets de montage + stickers
+  - Vitesse 0,05–8×
+  - Sous-titres sur l’appareil
+  - Floutage de visages et LUT
+iApp:
+  taglines: Navigateur App Store tiers — aperçus, historique des versions, réponses des développeurs et 18 langues.
+  blurbs: Parcourez 12 classements dans 175 pays ou régions, regardez les aperçus, comparez les stores, lisez les avis avec
+    réponses et l’historique des versions ; suivez les changements de fiche et de prix. Collez des liens de store, consultez
+    les classements de développeurs, favoris et widgets — sans connexion.
+  highlights:
+  - Réponses des développeurs
+  - Historique des versions
+  - Liens iapp:// étendus
+  - 18 langues
+iDictionary:
+  taglines: Plus de 20 000 hanzi hors ligne — écriture manuscrite, outils d’étude, cartes de partage et thèmes d’accent.
+  blurbs: 'Bureau de caractères hors ligne : plus de 20 000 hanzi, animations de tracé, écriture manuscrite et OCR ; outils
+    d’étude sur l’accueil, navigation par catégorie, traitement par lot des favoris, cartes de partage et thèmes d’accent
+    — sans compte, sans publicité, entièrement hors ligne.'
+  highlights:
+  - Animations de tracé
+  - Outils d’étude
+  - Cartes de partage
+  - Entièrement hors ligne
+iNutrition:
+  taglines: Votre expert en nutrition — apprenez la science des aliments, sans compter les calories.
+  blurbs: 'Apprentissage de la nutrition axé sur le savoir : 19 articles originaux, 2 160+ aliments, encyclopédie de 27 nutriments,
+    outils IMC/BMR/TDEE et lecture d’étiquettes par IA sur l’appareil ; widgets et HealthKit — contenu hors ligne, sans compte.'
+  highlights:
+  - 2 160+ aliments
+  - IA sur l’appareil
+  - HealthKit
+  - Contenu hors ligne
+iBible:
+  taglines: Que la Parole de Dieu éclaire chaque jour — méditation bilingue, hors ligne.
+  blurbs: 'Studio de méditation biblique bilingue : Écriture complète sur l’appareil, verset du jour, lecture parallèle, plans
+    et versets célèbres ; lecture vocale, cartes de partage, 5 widgets, Live Activity et Siri — entièrement hors ligne, sans
+    compte ni publicité.'
+  highlights:
+  - Bible complète hors ligne
+  - Verset du jour
+  - Lecture bilingue
+  - Widgets et Live Activity
+iTangPoems:
+  taglines: Poésie Tang immersive — lecture à voix haute, étude, récitation, poème du jour.
+  blurbs: 'Studio immersif de poésie Tang avec 368 poèmes (classiques + célèbres ajouts) : TTS façon karaoké, étude, Live
+    Activity de lecture ; cinq modes de navigation, poème du jour, 6 widgets et iCloud — entièrement hors ligne, sans compte,
+    sans publicité.'
+  highlights:
+  - 368 poèmes
+  - Recherche manuscrite
+  - Récitation karaoké
+  - 6 widgets
+iSongCi:
+  taglines: Un ci par jour — 21 592 poèmes Song hors ligne, lecture continue et widgets.
+  blurbs: 'Un studio du ci des Song avec les 21 592 poèmes : commentaires modernes, École du ci et « Fly Flower », ci du jour,
+    lecture continue et playlists ; caractères traditionnels, débit de lecture, audio en arrière-plan, choix de vers sur les
+    cartes et widgets — entièrement hors ligne, sans compte, sans publicité.'
+  highlights:
+  - 21 592 poèmes ci
+  - Recherche manuscrite
+  - École du ci
+  - Fly Flower
+iYuanQu:
+  taglines: Poésie Yuan immersive — qu du jour, notes choisies, lecture continue et widgets.
+  blurbs: 'Un studio de poésie Yuan avec 8 969 œuvres : notes et traductions sélectionnées, qu du jour, lecture continue ;
+    choix de vers sur les cartes, menu par appui long sur le titre, gongdiao/qupai, index et widgets — entièrement hors ligne,
+    sans compte, sans publicité.'
+  highlights:
+  - 8 969 œuvres qu
+  - Recherche manuscrite
+  - Lecture continue
+  - Gongdiao et qupai
+iStore:
+  taglines: Changez de région App Store en un geste — 175 régions, favoris, carte et widgets.
+  blurbs: Passez d’un storefront à l’autre dans 175 régions grâce aux liens officiels d’Apple. Parcourez par continent, ajoutez
+    des régions en favoris, vérifiez la disponibilité, choisissez sur une carte ; ouvrez depuis les widgets et Siri — iCloud
+    facultatif, sans compte.
+  highlights:
+  - 175 régions
+  - Disponibilité des apps
+  - Sélection sur carte
+  - Widgets et Siri
+iWord:
+  taglines: Explorez la langue et la culture chinoises — idiomes, dictons, jeux de mots, hors ligne.
+  blurbs: 'Bibliothèque de langue chinoise hors ligne : plus de 107 000 entrées — idiomes, xiehouyu, virelangues, proverbes,
+    couplets et devinettes. Recherche en texte intégral, révision SRS, quiz et jeux de mots, TTS et widgets — sans compte,
+    sans publicité.'
+  highlights:
+  - Plus de 107 000 entrées
+  - Révision SRS
+  - Jeux de mots
+  - Recherche FTS5
+iRootWord:
+  taglines: Racines et affixes de l’anglais — listes personnalisées, cartes de partage et annulation de révision.
+  blurbs: 'Bureau des racines hors ligne : parcourez les affixes, créez des listes de mots personnalisées distinctes des favoris,
+    cartes de partage, révision avec annulation sous environ 3 s, widgets et Siri — confidentialité d’abord, sans compte,
+    sans publicité.'
+  highlights:
+  - Plus de 240 affixes
+  - Décomposeur de mots
+  - SRS de Leitner
+  - Widgets et Siri
+iExcel:
+  taglines: Apprenez les formules, fonctions et astuces Excel — entièrement hors ligne.
+  blurbs: 'Apprentissage d’Excel hors ligne sur iPhone, iPad et Mac : 265 fonctions, astuces, leçons, quiz et terrain d’essai
+    de formules. Progression, fonction du jour, 4 widgets et Siri — iCloud en option, sans compte.'
+  highlights:
+  - 265 fonctions
+  - Terrain d’essai de formules
+  - Progression et séries
+  - Widgets et Siri
+GLUT:
+  taglines: Actualités du campus, infos d’études et ressources pour GLUT — refonte du 10e anniversaire.
+  blurbs: 'L’actualité du campus de GLUT : avis, informations académiques, documents consultables, favoris et partage en image
+    longue, VR du campus, widgets et compte à rebours anniversaire, 13 icônes — sur iPhone, iPad et Mac. Sans compte ni publicité.'
+  highlights:
+  - Actualités du campus
+  - Widgets iOS
+  - VR du campus
+  - 13 icônes
+iCouplet:
+  taglines: Couplets immersifs — récitation, lecture verticale, étude et couplet du jour.
+  blurbs: 'Un studio immersif de couplets avec 3369 œuvres : TTS façon karaoké, lecture verticale, étude et 对对子 ; couplet
+    du jour, cartes de partage, widgets et Live Activity — entièrement hors ligne, sans compte, sans publicité.'
+  highlights:
+  - 3369 couplets
+  - TTS karaoké
+  - Modes d’étude
+  - Widgets et Live Activity
+iAppManager:
+  taglines: Poste de travail ASC natif — versions, ressources, IAP, TestFlight et rapports lisibles.
+  blurbs: 'Connexion par clé API sur iPhone, iPad et Mac : versions, ressources par lot, IAP, TestFlight et rapports de ventes
+    en tableaux larges avec graphiques légers — clés dans le Trousseau, trafic Apple uniquement, aucun suivi.'
+  highlights:
+  - Connexion par clé API
+  - Ressources par lot
+  - Rapports lisibles
+  - TestFlight et IAP
+iLunYu:
+  taglines: Redécouvrez les Entretiens de Confucius — lecture bilingue, récitation, étude et maxime du jour.
+  blurbs: 'Studio des Entretiens hors ligne : 512 chapitres bilingues avec traduction en langue moderne, récitation façon
+    karaoké, classe d’étude et recherche ; maxime du jour, 162 phrases, widgets et Siri — sans compte ni publicité.'
+  highlights:
+  - 512 chapitres des Entretiens
+  - Recherche manuscrite
+  - Étude rituelle
+  - Maxime du jour
+iArtOfWar:
+  taglines: Classiques de stratégie hors ligne — lecture bilingue, récitation, étude et stratagème du jour.
+  blurbs: '174 classiques hors ligne : Sun Tzu, Sun Bin, Wujing et les 36 stratagèmes ; récitation en langues mixtes, classe
+    de stratégie et recherche ; stratagème du jour, 120 phrases, widgets et Siri — sans compte ni publicité.'
+  highlights:
+  - 174 stratagèmes
+  - Recherche manuscrite
+  - Étude de la stratégie
+  - Astuce du jour renouvelée
+iDeveloper:
+  taglines: Le studio de poche des développeurs — 176 outils, modèles d'appareils et références bilingues.
+  blurbs: 176 outils hors ligne, environ 255 modèles d'appareils et 14 références bilingues ; partage intelligent, widgets
+    de l'écran d'accueil et Live Activity pour la concentration. Vie privée avant tout, sans compte ni publicité.
+  highlights:
+  - 176 outils
+  - Modèles d'appareils
+  - Références bilingues
+  - Live Activity
+iVirtue:
+  taglines: Le Di Zi Gui en famille — lecture bilingue, récitation, étude des vertus et pratique quotidienne.
+  blurbs: 'Studio hors ligne du Di Zi Gui : 90 strophes avec chinois moderne et anglais, récitation façon karaoké, classe
+    des vertus et historique de pratique ; règle du jour, cartes à partager, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 90 sections rimées
+  - Recherche manuscrite
+  - Étude des vertus
+  - Widgets et Siri
+iThree:
+  taglines: Le San Zi Jing hors ligne — lecture bilingue, récitation, étude et un vers par jour.
+  blurbs: 'Studio hors ligne du San Zi Jing : 48 passages avec pinyin, chinois moderne et anglais ; récitation façon karaoké,
+    modes d''étude et chasse aux caractères ; vers du jour, histoires, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 48 sections du San Zi Jing
+  - Recherche manuscrite
+  - Chasse du primer
+  - Vers du jour
+iRootWise:
+  taglines: Mâcher la racine de la sagesse — Caigentan, méditation assise et pratique quotidienne.
+  blurbs: '697 passages Ming et Qing dédoublonnés, hors ligne : chinois moderne et anglais, Tan du jour, méditation, cinq
+    voies de cultivation ; widgets de citations célèbres et Siri. Sans compte ni publicité.'
+  highlights:
+  - 697 maximes
+  - Recherche manuscrite
+  - Assise silencieuse
+  - Cinq pratiques quotidiennes
+iDao:
+  taglines: Le Daodejing, un chapitre par jour — double commentaire, récitation et salle d'étude.
+  blurbs: 'Studio hors ligne du Daodejing : 81 chapitres avec pinyin, deux commentaires et deux traductions anglaises (textes
+    complémentaires inclus) ; récitation façon karaoké, salle d''étude et quête du Dao ; chapitre du jour, 74 phrases, widgets
+    et Siri. Sans compte ni publicité.'
+  highlights:
+  - 81 chapitres du Daodejing
+  - Recherche manuscrite
+  - Étude du Dao
+  - Chapitre du jour
+iYiJing:
+  taglines: Un hexagramme, un monde — étudier, tirer culturellement et apprendre.
+  blurbs: 'Studio hors ligne du Zhouyi : 64 hexagrammes avec chinois moderne, pinyin et anglais ; tirage culturel, salle d''étude
+    et recherche par mot-clé ; hexagramme du jour, Dix Ailes, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 64 hexagrammes
+  - Recherche manuscrite
+  - Étude du Yi
+  - Hexagramme du jour
+iZen:
+  taglines: Redémarrez votre esprit — respiration, paysage sonore et récupération en trois niveaux.
+  blurbs: 'Récupération hors ligne en trois niveaux : 47 pratiques, environ 500 citations, 17 synthèses scientifiques ; respiration
+    multimode, paysage sonore procédural, évaluation d''une minute et numéros d''aide en cas de crise ; Zen du jour, cartes
+    à partager, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - Récupération en 3 niveaux
+  - Respiration guidée à la voix
+  - Numéros d'aide en cas de crise
+  - Widgets et Siri
+iSutra:
+  taglines: Un téléphone, d'innombrables soutras — lire, réciter, psalmodier et copier.
+  blurbs: 'Studio de soutras hors ligne : bibliothèque de 144 entrées avec le Soutra du Diamant et les volumes de Dizang ;
+    lecture bilingue, récitation, psalmodie au poisson de bois, copie de soutras et suivi de pratique ; soutra du jour, widgets
+    et Siri. Sans compte ni publicité.'
+  highlights:
+  - 144 entrées d'index de soutras
+  - Recherche manuscrite
+  - Psalmodie et copie
+  - Soutra du jour
+iPrimer:
+  taglines: Étudier · méditer · réfléchir — le Xiaoxue de Zhu Xi pour grandir chaque jour.
+  blurbs: 'Studio hors ligne du Xiaoxue : 388 chapitres avec chinois moderne, notes et anglais ; récitation, étude du caractère,
+    six méditations et journal de réflexion ; étude du jour, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 388 chapitres
+  - Méditation
+  - Étude du caractère
+  - Étude du jour
+iThousand:
+  taglines: Quatre primers — cartes de traits par composant, recherche manuscrite et Salle des primers.
+  blurbs: 'Studio hors ligne de primers : 122 passages du Qianziwen, du San Zi Jing, du Baijiaxing et du Di Zi Gui ; cartes
+    de traits par composant, recherche manuscrite, récitation et Salle des primers ; vers du jour, widgets et Siri. Sans compte
+    ni publicité.'
+  highlights:
+  - 122 passages
+  - Recherche manuscrite
+  - Cartes de composants
+  - Salle des primers
+iBaiJia:
+  taglines: Les Cent Noms de famille — 967 noms, recherche manuscrite et salle d'étude.
+  blurbs: 'Studio hors ligne des noms de famille : 967 noms avec origine et version anglaise ; huit axes de navigation, recherche
+    manuscrite, récitation et salle d''étude ; nom du jour, tracé des traits, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 967 noms de famille
+  - Recherche manuscrite
+  - Salle d'étude
+  - Nom du jour
+iWuJing:
+  taglines: Les Cinq Classiques sur un seul bureau — lecture bilingue, récitation et étude hors ligne.
+  blurbs: 'Studio hors ligne des Cinq Classiques : 819 passages du Shijing, du Shujing, du Liji, du Yijing et du Chunqiu ;
+    récitation, étude des Classiques, gloses et variantes ; classique du jour, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 819 passages des Cinq Classiques
+  - Recherche manuscrite
+  - Étude des Classiques
+  - Classique du jour
+iSiShu:
+  taglines: Les Quatre Livres — étude trilingue, recherche manuscrite et 113 citations célèbres.
+  blurbs: 'Les Quatre Livres hors ligne : 1257 passages avec anglais aligné sur Legge ; recherche manuscrite, récitation,
+    étude ciblée, 113 citations célèbres, maxime du jour, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 1257 passages
+  - Recherche manuscrite
+  - 113 citations célèbres
+  - Maxime du jour
+iSage:
+  taglines: Une maxime, une façon de vivre — lecture bilingue, scènes de vie et Académie des sages.
+  blurbs: 'Studio hors ligne du Zengguang Xianwen : 1084 maximes de la recension classique et du Nouveau Zengguang de Zhou
+    Xitao ; chinois moderne, anglais, lectures des sages et scènes de vie ; sagesse du jour, récitation, Académie des sages,
+    widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 1084 maximes
+  - Scènes de vie
+  - Académie des sages
+  - Sagesse du jour
+iPrecepts:
+  taglines: Un précepte, une voie familiale — lecture bilingue, comparaison parallèle et étude.
+  blurbs: 'Studio hors ligne des préceptes familiaux : 118 œuvres de Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan et d''autres
+    ; chinois moderne, anglais, comparaison parallèle ; précepte du jour, récitation, étude, widgets et Siri. Sans compte
+    ni publicité.'
+  highlights:
+  - 118 préceptes
+  - Comparaison parallèle
+  - Étude en famille
+  - Précepte du jour
+iRhyme:
+  taglines: Un couplet rimé à la fois — parallélisme, comparaison de rimes identiques et étude.
+  blurbs: 'Studio hors ligne de prosodie et de rimes : 312 passages du Shenglü Qimeng, du Li Weng Dui Yun sur trente rimes,
+    du Qian Jia Shi et du You Xue Qiong Lin ; récitation, étude, rime du jour, widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 312 passages
+  - Vue du parallélisme
+  - Étude des rimes
+  - Rime du jour
+iXin:
+  taglines: Savoir et agir ne font qu'un — lecture bilingue, journal et École du cœur.
+  blurbs: 'Atelier Wang Yangming hors ligne : 102 passages du Chuanxilu, des Questions sur la Grande Étude, des enseignements
+    de Longchang, poèmes et annales. Version chinoise moderne et anglaise, journal Savoir-Agir, Éclairage du jour, récitation,
+    étude, widgets et Siri — sans compte, sans publicité.'
+  highlights:
+  - 102 passages
+  - Journal Savoir-Agir
+  - École du cœur
+  - Éclairage du jour
+iZhuangZi:
+  taglines: Un passage de Zhuangzi — lecture bilingue, paraboles et étude du Dao.
+  blurbs: 'Atelier Zhuangzi hors ligne : les 33 chapitres (intérieurs, extérieurs, divers), 701 paragraphes avec version chinoise
+    moderne et traduction anglaise de Legge. Paraboles, Interroger Zhuangzi, récitation, étude, Zhuangzi du jour, widgets
+    et Siri — sans compte, sans publicité.'
+  highlights:
+  - 33 chapitres de Zhuangzi
+  - Renouvelé chaque jour
+  - Interroger Zhuangzi
+  - Étude du Dao
+iGuanZhi:
+  taglines: Guwen Guanzhi — lire les fables, lexique des genres et longs guides par catégorie.
+  blurbs: 'Lecture attentive du Guwen Guanzhi hors ligne : 222 essais avec méthode pour les anecdotes, lexique des genres
+    et longs guides de navigation. Récitation, étude des classiques, chasse aux essais, Essai du jour, widgets et Siri — entièrement
+    hors ligne, sans compte, sans publicité.'
+  highlights:
+  - 222 essais
+  - Lire les fables
+  - Lexique des genres
+  - Essai du jour
+iHanFei:
+  taglines: Han Feizi — fables mode d'emploi, étude du légisme et chapitre aléatoire du jour.
+  blurbs: 'Han Feizi hors ligne : 55 chapitres, 85 fables avec conseils pratiques, 47 concepts. Stratagème du jour à actualisation
+    plus intelligente, chapitre aléatoire, étude du légisme et widgets — sans compte, sans publicité.'
+  highlights:
+  - 55 chapitres
+  - Fables mode d'emploi
+  - Chapitre aléatoire
+  - Renouvelé chaque jour
+iLvShi:
+  taglines: Une saison, un passage — lecture à quatre niveaux et almanach.
+  blurbs: 'Atelier Lüshi Chunqiu hors ligne : 160 passages avec notes de Gao You, version chinoise moderne et anglaise. Widget
+    almanach, étude Printemps-Automne, Passage du jour, widgets et Siri — sans compte, sans publicité.'
+  highlights:
+  - 160 passages
+  - Notes de Gao You
+  - Almanach
+  - Passage du jour
+iMencius:
+  taglines: Une parole de Mencius — analogies, dialogues et étude de la culture du qi.
+  blurbs: 'Atelier Mencius hors ligne : 690 chapitres, 3549 versets, carte des analogies et des dialogues. Récitation, étude
+    de la culture du qi, chasse au yi, Parole du jour, widgets et Siri — sans compte, sans publicité.'
+  highlights:
+  - 690 chapitres
+  - Analogies
+  - Étude de la culture du qi
+  - Parole du jour
+iMoZi:
+  taglines: Mozi — quatre longs guides, couche en chinois moderne et introductions repliables.
+  blurbs: 'Mozi hors ligne : carte des Dix Thèses, quatre longs guides mohistes, couche en chinois moderne et cartes d''introduction
+    repliables. Récitation, étude de Mozi, chasse, Mozi du jour, widgets et Siri — sans compte, sans publicité.'
+  highlights:
+  - Bibliothèque Mozi
+  - Quatre longs guides
+  - Couche en chinois moderne
+  - Mozi du jour
+iXunZi:
+  taglines: Xunzi — lexiques de concepts et d'expressions, lecture bilingue et étude.
+  blurbs: 'Atelier Xunzi hors ligne : les lexiques de concepts et d''expressions approfondissent l''étude à côté de la lecture
+    bilingue. Récitation, étude à l''Académie, chasse, Xunzi du jour, widgets et Siri — sans compte, sans publicité.'
+  highlights:
+  - Bibliothèque Xunzi
+  - Lexique de concepts
+  - Lexique d'expressions
+  - Xunzi du jour
+iBrowser:
+  taglines: Vrai navigateur plein écran — widgets, Raccourcis, verrou enfant.
+  blurbs: 'Navigation immersive sur iPhone et iPad : bulle flottante, widgets écran d''accueil/verrouillé, Siri et Raccourcis,
+    iCloud optionnel pour les favoris — le verrou enfant fixe la page. Sans publicité, sans pop-up.'
+  highlights:
+  - Widgets et Raccourcis
+  - Bulle flottante
+  - Verrou enfant
+  - iCloud optionnel
+iMusic:
+  taglines: Studio d’écoute choisie — Pièce du jour, lecteur immersif et identification de titres.
+  blurbs: '5 300+ notes d’écoute originales hors ligne : Pièce du jour, lecteur immersif (Cover Flow et styles d’arrière-plan)
+    et identification de titres ; catalogue Apple Music sur les pages d’artistes ; widgets et Siri. Sans compte ni publicité.'
+  highlights:
+  - 5 300+ guides
+  - Lecteur Cover Flow
+  - Identification de titres
+  - Pièce du jour
+iBianQue:
+  taglines: Interrogatoire du Nan Jing — quatre examens, atlas et étude culturelle.
+  blurbs: 'Atelier Bian Que hors ligne : biographie du Shiji, 81 Difficultés, scènes des quatre examens et atlas 2D des méridiens.
+    Art du jour, étude de Que, widgets et Siri — étude culturelle, pas un avis médical.'
+  highlights:
+  - 81 Difficultés
+  - Quatre examens
+  - Atlas des méridiens
+  - Art du jour
+iGuige:
+  taglines: Atelier Guiguzi — cartes d'art, cas et Parler à chacun selon sa nature.
+  blurbs: 'Atelier Guiguzi hors ligne : 40 cartes d''art avec mises en garde contre les abus, 200 cas des Royaumes combattants
+    et Parler à chacun selon sa nature. Stratégie du jour, académie, widgets et Siri — pour étudier, pas un bureau de vente.'
+  highlights:
+  - 40 cartes d'art
+  - 200 cas
+  - Parler à chacun
+  - Stratégie du jour
+iLiezi:
+  taglines: Liezi en 135 unités — fables, vide–vent–destin et Liezi du jour.
+  blurbs: 'Le Liezi complet hors ligne : 135 unités narratives, Yugong, chevaucher le vent, l''homme de Qi et le graphe vide–vent–destin.
+    Liezi du jour, étude de Liezi, widgets et Siri — un seul texte, pas un mur de citations.'
+  highlights:
+  - 135 unités narratives
+  - Salle des fables
+  - Vide–vent–destin
+  - Liezi du jour
+iShangYang:
+  taglines: Le Shangjunshu comme histoire — quatre niveaux, édits et chronique.
+  blurbs: 'Le Livre du seigneur Shang hors ligne : lecture à quatre niveaux, 60 édits de réforme et chronique de 361–338 av.
+    J.-C. Réforme du jour, étude de la réforme, widgets et Siri — étude historique, pas une prescription de gouvernement.'
+  highlights:
+  - Lecture à quatre niveaux
+  - 60 édits
+  - Chronique des réformes
+  - Réforme du jour
+iZengZi:
+  taglines: La lignée de Zengzi — trois examens de soi, huit étapes et un corpus fermé.
+  blurbs: 'Un corpus Zengzi fermé hors ligne : extraits des Entretiens, Grande Étude, Xiaojing et journal en trois questions.
+    Réflexion du jour, Salle de cultivation, widgets et Siri — pas l''intégrale des Entretiens ni de Mencius.'
+  highlights:
+  - Corpus Zengzi fermé
+  - Journal en trois questions
+  - Huit étapes
+  - Réflexion du jour
+iZiSi:
+  taglines: Zisi et le Juste Milieu — cinq étapes, vigilance et lamelles de Guodian.
+  blurbs: 'Atelier Zisi hors ligne : les 33 chapitres du Zhongyong selon Zhu Xi, les Cinq Conduites de Guodian et un studio
+    de la vigilance. Pensée du jour, étude de Zisi, widgets et Siri — pas le lot des Quatre Livres.'
+  highlights:
+  - 33 chapitres du Zhongyong
+  - Cinq Conduites
+  - Vigilance
+  - Cinq étapes
+iWidget:
+  taglines: Concepteur de widgets — 54 préréglages, teinte du fond d'écran, bouclier anti-tap, calendrier hors ligne.
+  blurbs: 'Créez des tableaux pour l''écran d''accueil, l''écran verrouillé et le Centre de contrôle à partir de blocs : calendrier
+    lunaire, météo, comptes à rebours et infos de l''appareil. Fonds d''écran par emplacement, widgets transparents, Siri
+    et `iwidget://` — iCloud optionnel, sans compte.'
+  highlights:
+  - 54 jeux prédéfinis
+  - Éditeur de blocs
+  - Bouclier anti-tap
+  - Widgets accueil + verrouillage

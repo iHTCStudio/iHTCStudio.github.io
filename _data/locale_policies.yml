@@ -1,0 +1,8 @@
+# Long-form page sections (index / faq / privacy / url-scheme) per app.
+# brand_fixed: only en + zh-CN + zh-TW in markdown; other site langs fall back to English body + UI notice.
+brand_fixed_content:
+  - Weber
+  - GLUT
+
+# App Store UI may differ from site language — show on support pages when true (default for all unless listed).
+app_ui_notice_default: true

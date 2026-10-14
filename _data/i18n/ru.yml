@@ -1,0 +1,160 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: Приложения и инструменты для устройств Apple
+  site_description: Тщательно разработанные приложения для iPhone, iPad и Mac. Конфиденциальность прежде всего, работа офлайн,
+    без аккаунта.
+nav:
+  apps: Приложения
+  collections: Подборки
+  app_store: App Store
+  home: Главная
+  overview: Обзор
+  faq: FAQ
+  privacy: Конфиденциальность
+  url_scheme: URL Scheme
+  contact: Контакты
+  github: GitHub
+  open_menu: Открыть меню
+  close_menu: Закрыть меню
+  switch_app: Сменить приложение
+  other_apps: Другие приложения
+  language: Язык
+  appearance: Оформление
+  theme_auto: Системная
+  theme_light: Светлая
+  theme_dark: Тёмная
+collections_page:
+  eyebrow: Обзор по темам
+  title: Подборки
+  subtitle: Приложения, сгруппированные по интересам — иероглифы, поэзия, азбуки, «Четверокнижие», мудрецы, классика, английский,
+    технологии и не только. Одно приложение может входить в несколько подборок.
+  all: Все
+  filter_label: Фильтр подборок
+  empty: В этой подборке нет приложений.
+hero:
+  eyebrow: iHTC Studio
+  title: Продуманные приложения. Спокойный софт.
+  subtitle: iHTC Studio создаёт приложения для iPhone, iPad и Mac, в которых конфиденциальность — на первом месте. Без аккаунтов,
+    без слежки, без облака — только продуманные инструменты, которые ценят ваше время.
+  cta_explore: Смотреть приложения
+  cta_contact: Связаться с нами
+  stat_apps: Приложения
+  stat_offline: Офлайн в приоритете
+  stat_privacy: Без слежки
+  stat_hint: Подробнее
+  stat_tablist: Главное о студии
+  stat_apps_title_suffix: тщательно разработанных приложений
+  stat_apps_desc: От таймеров Pomodoro до просмотра App Store — каждое приложение нативное, на SwiftUI, для iPhone, iPad и
+    Mac, со своей страницей поддержки, FAQ и политикой конфиденциальности.
+  stat_apps_action: Все приложения ↓
+  stat_offline_title: Основные функции на 100 % офлайн
+  stat_offline_desc: Банки задач, словари, таймеры и калькуляторы работают полностью на вашем устройстве. Для повседневного
+    использования не нужны ни Wi‑Fi, ни мобильная сеть — ваши инструменты всегда с вами.
+  stat_privacy_title: Ни слежки, ни рекламы
+  stat_privacy_desc: Никаких аналитических SDK, рекламных сетей и обязательных аккаунтов. Мы никогда не собираем данные об
+    использовании. Необязательная синхронизация через iCloud использует только инфраструктуру Apple.
+apps_section:
+  eyebrow: Наши приложения
+  title: Сделано с заботой, отточено до мелочей
+  subtitle: Каждое приложение создано так, чтобы выглядеть нативно на устройствах Apple, полностью работать офлайн и уважать
+    вашу конфиденциальность. Выберите приложение, чтобы узнать больше.
+  learn_more: Подробнее
+  coming_soon: Скоро
+  expand_hint: По умолчанию в компактном виде — откройте карточку, чтобы увидеть главное, или разверните все.
+  expand_all: Развернуть все
+  collapse_all: Свернуть все
+  show_details: Показать подробности
+  hide_details: Скрыть подробности
+  list_density_aria: Плотность списка приложений
+values:
+  eyebrow: Во что мы верим
+  title: Тихие приложения, которые заслуживают своё место
+  items:
+  - title: Конфиденциальность по умолчанию
+    desc: Без аккаунтов, без аналитики, без сторонних SDK. Ваши данные остаются на вашем устройстве — всегда.
+  - title: Нативность и скорость
+    desc: Создано на SwiftUI для iOS, iPadOS и macOS. Мгновенный запуск и бережное отношение к батарее.
+  - title: Офлайн в приоритете
+    desc: Все основные функции работают без подключения к интернету. Ваши инструменты должны работать везде, где вы находитесь.
+  - title: Продумано до деталей
+    desc: Выверенная типографика, настоящий тактильный отклик, плавная анимация и полноценный тёмный режим. Мастерство в каждом
+      пикселе.
+  - title: Многоязычный сайт
+    desc: Десять языков на сайте — переключайтесь в любой момент. Интерфейс приложений соответствует странице в App Store.
+  - title: Всегда без рекламы
+    desc: Никаких всплывающих окон, рекламных сетей и тёмных паттернов. Мы зарабатываем доверие, а не показы.
+contact:
+  eyebrow: Связаться с нами
+  title: Вопросы, отзывы или идеи?
+  subtitle: Обычно мы отвечаем в течение 48 часов. Сообщая об ошибке, укажите модель устройства и версию iOS.
+  email_label: Эл. почта
+  github_label: GitHub Issues
+footer:
+  rights: Все права защищены.
+  built_with: Сделано с заботой.
+  select_language: Язык
+  select_theme: Оформление
+  resources:
+    developer_home: Страница разработчика
+    apple_refund: Запрос на возврат средств Apple
+    apple_security: Обновления безопасности Apple
+    apple_server_status: Состояние серверов Apple
+    apple_dev_status: Состояние систем Apple Developer
+    apple_beta_releases: Последние публичные бета-версии Apple
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: Определение устройств Apple
+  resources_column: Ресурсы
+doc:
+  on_this_page: На этой странице
+  last_updated: Последнее обновление
+  back_to: Назад к
+  related: Похожие материалы
+toc:
+  title: Содержание
+app_pages:
+  overview: Обзор
+  faq: FAQ
+  privacy: Политика конфиденциальности
+  url_scheme: URL Scheme
+  screenshots: Превью в App Store
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: Нажмите на скриншот, чтобы открыть его в полном размере · листайте для просмотра
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: На главную
+  open_app_page: Открыть страницу поддержки
+  app_store: App Store
+  testflight: Бета в TestFlight
+badges:
+  testflight_beta: Бета в TestFlight
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: Поиск языка…
+  no_results: Подходящий язык не найден.
+notice:
+  language_set: Язык изменён на русский.
+  content_fallback_en: Эта страница показана на английском для выбранного вами языка.
+  app_ui_language: Языки интерфейса в приложениях соответствуют странице продукта в App Store вашего региона.
+err:
+  not_found_title: Страница не найдена
+  not_found_subtitle: Не удаётся найти запрашиваемую страницу.
+  go_home: На главную

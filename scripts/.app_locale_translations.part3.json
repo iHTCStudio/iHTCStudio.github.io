@@ -1,0 +1,594 @@
+{
+  "iDeveloper": {
+    "ja": {
+      "taglines": "開発者のポケットスタジオ — 176ツール、デバイスモデル、バイリンガル資料。",
+      "blurbs": "オフラインで使える176ツールに加え、約255件のデバイスモデルと14のバイリンガルリファレンスを収録。スマート共有、ホーム画面ウィジェット、集中モードのライブアクティビティに対応。プライバシー重視、アカウント不要、広告なし。",
+      "highlights": ["176ツール", "デバイスモデル", "バイリンガル資料", "ライブアクティビティ"]
+    },
+    "ko": {
+      "taglines": "개발자의 포켓 스튜디오 — 도구 176개, 기기 모델, 이중 언어 레퍼런스.",
+      "blurbs": "오프라인 도구 176개와 기기 모델 약 255개, 이중 언어 레퍼런스 14종을 담았습니다. 스마트 공유, 홈 화면 위젯, 집중 모드 실시간 현황을 지원하며 개인정보 보호를 우선합니다. 계정·광고 없음.",
+      "highlights": ["도구 176개", "기기 모델", "이중 언어 자료", "실시간 현황"]
+    },
+    "ru": {
+      "taglines": "Карманная студия разработчика — 176 инструментов, модели устройств и двуязычные справочники.",
+      "blurbs": "176 офлайн-инструментов, около 255 моделей устройств и 14 двуязычных справочников; умная функция «Поделиться», виджеты экрана «Домой» и Live Activity для режима фокусировки. Приватность прежде всего, без аккаунта и рекламы.",
+      "highlights": ["176 инструментов", "Модели устройств", "Двуязычные справочники", "Live Activity"]
+    },
+    "th": {
+      "taglines": "สตูดิโอพกพาของนักพัฒนา — 176 เครื่องมือ รุ่นอุปกรณ์ และข้อมูลอ้างอิงสองภาษา",
+      "blurbs": "เครื่องมือออฟไลน์ 176 รายการ พร้อมรุ่นอุปกรณ์ราว 255 รายการและเอกสารอ้างอิงสองภาษา 14 ชุด รองรับการแชร์อัจฉริยะ วิดเจ็ตหน้าจอโฮม และ Live Activity สำหรับโหมดโฟกัส เน้นความเป็นส่วนตัว ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["176 เครื่องมือ", "รุ่นอุปกรณ์", "ข้อมูลอ้างอิงสองภาษา", "Live Activity"]
+    },
+    "de": {
+      "taglines": "Das Entwickler-Studio für die Hosentasche – 176 Tools, Gerätemodelle und zweisprachige Referenzen.",
+      "blurbs": "176 Offline-Tools, rund 255 Gerätemodelle und 14 zweisprachige Referenzen; intelligentes Teilen, Home-Widgets und Live Activity für den Fokus. Datenschutz zuerst, ohne Konto, ohne Werbung.",
+      "highlights": ["176 Tools", "Gerätemodelle", "Zweisprachige Referenzen", "Live Activity"]
+    },
+    "fr": {
+      "taglines": "Le studio de poche des développeurs — 176 outils, modèles d'appareils et références bilingues.",
+      "blurbs": "176 outils hors ligne, environ 255 modèles d'appareils et 14 références bilingues ; partage intelligent, widgets de l'écran d'accueil et Live Activity pour la concentration. Vie privée avant tout, sans compte ni publicité.",
+      "highlights": ["176 outils", "Modèles d'appareils", "Références bilingues", "Live Activity"]
+    },
+    "tr": {
+      "taglines": "Geliştiricinin cep stüdyosu — 176 araç, cihaz modelleri ve iki dilli referanslar.",
+      "blurbs": "176 çevrimdışı araç, yaklaşık 255 cihaz modeli ve 14 iki dilli referans; akıllı paylaşım, Ana Ekran widget'ları ve odak modu için Live Activity. Önce gizlilik; hesap ve reklam yok.",
+      "highlights": ["176 araç", "Cihaz modelleri", "İki dilli referanslar", "Live Activity"]
+    }
+  },
+  "iVirtue": {
+    "ja": {
+      "taglines": "家族で学ぶ『弟子規』— 対訳読書、朗読、徳の学びと日々の実践。",
+      "blurbs": "オフラインの『弟子規』スタジオ。全90段に現代語訳と英訳を付け、カラオケ式朗読、徳の教室、実践履歴を搭載。今日の規範、シェアカード、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["全90段", "手書き検索", "徳の学び", "ウィジェットとSiri"]
+    },
+    "ko": {
+      "taglines": "온 가족을 위한 『제자규』 — 이중 언어 읽기, 낭송, 덕목 공부와 매일 실천.",
+      "blurbs": "오프라인 『제자규』 스튜디오. 90개 구절에 현대 중국어 풀이와 영어 번역을 더하고, 노래방식 낭송, 덕목 교실, 실천 기록을 담았습니다. 오늘의 규범, 공유 카드, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["90개 운문 단락", "필기 검색", "덕목 공부", "위젯·Siri"]
+    },
+    "ru": {
+      "taglines": "«Ди цзы гуй» для всей семьи — двуязычное чтение, заучивание, изучение добродетелей и ежедневная практика.",
+      "blurbs": "Офлайн-студия «Ди цзы гуй»: 90 строф с переводом на современный китайский и английский, караоке-декламация, «Класс добродетели» и история практики; «Правило дня», открытки, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["90 рифмованных разделов", "Поиск по рукописному вводу", "Изучение добродетелей", "Виджеты и Siri"]
+    },
+    "th": {
+      "taglines": "ตี้จื่อกุยสำหรับทั้งครอบครัว — อ่านสองภาษา ท่องจำ เรียนรู้คุณธรรม และฝึกปฏิบัติทุกวัน",
+      "blurbs": "สตูดิโอ《ตี้จื่อกุย》ออฟไลน์ 90 ท่อนพร้อมคำแปลภาษาจีนปัจจุบันและภาษาอังกฤษ ท่องตามแบบคาราโอเกะ ห้องเรียนคุณธรรม และประวัติการฝึก พร้อมกฎประจำวัน การ์ดแชร์ วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["90 ท่อนสัมผัส", "ค้นหาด้วยลายมือ", "เรียนรู้คุณธรรม", "วิดเจ็ตและ Siri"]
+    },
+    "de": {
+      "taglines": "Di Zi Gui für die ganze Familie – zweisprachig lesen, rezitieren, Tugenden lernen und täglich üben.",
+      "blurbs": "Offline-Studio für das Di Zi Gui: 90 Strophen mit modernem Chinesisch und Englisch, Karaoke-Rezitation, Tugendklasse und Übungsverlauf; Tagesregel, Teilen-Karten, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["90 Reimabschnitte", "Handschriftsuche", "Tugendstudium", "Widgets und Siri"]
+    },
+    "fr": {
+      "taglines": "Le Di Zi Gui en famille — lecture bilingue, récitation, étude des vertus et pratique quotidienne.",
+      "blurbs": "Studio hors ligne du Di Zi Gui : 90 strophes avec chinois moderne et anglais, récitation façon karaoké, classe des vertus et historique de pratique ; règle du jour, cartes à partager, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["90 sections rimées", "Recherche manuscrite", "Étude des vertus", "Widgets et Siri"]
+    },
+    "tr": {
+      "taglines": "Aileler için Di Zi Gui — iki dilli okuma, ezber, erdem çalışması ve günlük pratik.",
+      "blurbs": "Çevrimdışı Di Zi Gui stüdyosu: modern Çince ve İngilizce açıklamalı 90 bölüm, karaoke tarzı ezber, Erdem Dersliği ve pratik geçmişi; Günün Kuralı, paylaşım kartları, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["90 kafiyeli bölüm", "El yazısı arama", "Erdem çalışması", "Widget'lar ve Siri"]
+    }
+  },
+  "iThree": {
+    "ja": {
+      "taglines": "オフラインの『三字経』— 対訳読書、朗読、学習と今日の一句。",
+      "blurbs": "オフラインの『三字経』スタジオ。全48段にピンイン、現代語訳、英訳を付け、カラオケ式朗読、学習モード、ハントを搭載。今日の一句、物語、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["『三字経』全48段", "手書き検索", "蒙学ハント", "今日の一句"]
+    },
+    "ko": {
+      "taglines": "오프라인 『삼자경』 — 이중 언어 읽기, 낭송, 공부와 오늘의 한 구절.",
+      "blurbs": "오프라인 『삼자경』 스튜디오. 48개 단락에 병음, 현대 중국어 풀이, 영어 번역을 더하고 노래방식 낭송, 학습 모드, 헌트를 담았습니다. 오늘의 한 구절, 이야기, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["『삼자경』 48개 단락", "필기 검색", "몽학 헌트", "오늘의 한 구절"]
+    },
+    "ru": {
+      "taglines": "«Сань цзы цзин» офлайн — двуязычное чтение, заучивание, изучение и строка дня.",
+      "blurbs": "Офлайн-студия «Сань цзы цзин»: 48 фрагментов с пиньинем, переводом на современный китайский и английский; караоке-декламация, режимы изучения и «Охота»; «Строка дня», истории, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["48 разделов «Сань цзы цзин»", "Поиск по рукописному вводу", "Охота по букварю", "Строка дня"]
+    },
+    "th": {
+      "taglines": "ซานจื่อจิงแบบออฟไลน์ — อ่านสองภาษา ท่องจำ เรียนรู้ และประโยคประจำวัน",
+      "blurbs": "สตูดิโอ《ซานจื่อจิง》ออฟไลน์ 48 ตอนพร้อมพินอิน คำแปลภาษาจีนปัจจุบันและภาษาอังกฤษ ท่องตามแบบคาราโอเกะ โหมดเรียนรู้ และเกมล่าคำ พร้อมประโยคประจำวัน เรื่องเล่า วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ซานจื่อจิง 48 ตอน", "ค้นหาด้วยลายมือ", "ล่าคำจากตำราเด็ก", "ประโยคประจำวัน"]
+    },
+    "de": {
+      "taglines": "Das San Zi Jing offline – zweisprachig lesen, rezitieren, lernen und eine Zeile pro Tag.",
+      "blurbs": "Offline-Studio für das San Zi Jing: 48 Abschnitte mit Pinyin, modernem Chinesisch und Englisch; Karaoke-Rezitation, Lernmodi und Fibel-Jagd; Zeile des Tages, Geschichten, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["48 Abschnitte des San Zi Jing", "Handschriftsuche", "Fibel-Jagd", "Zeile des Tages"]
+    },
+    "fr": {
+      "taglines": "Le San Zi Jing hors ligne — lecture bilingue, récitation, étude et un vers par jour.",
+      "blurbs": "Studio hors ligne du San Zi Jing : 48 passages avec pinyin, chinois moderne et anglais ; récitation façon karaoké, modes d'étude et chasse aux caractères ; vers du jour, histoires, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["48 sections du San Zi Jing", "Recherche manuscrite", "Chasse du primer", "Vers du jour"]
+    },
+    "tr": {
+      "taglines": "Çevrimdışı San Zi Jing — iki dilli okuma, ezber, çalışma ve günün dizesi.",
+      "blurbs": "Çevrimdışı San Zi Jing stüdyosu: pinyin, modern Çince ve İngilizce açıklamalı 48 bölüm; karaoke tarzı ezber, çalışma modları ve Av; Günün Dizesi, hikâyeler, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["San Zi Jing'den 48 bölüm", "El yazısı arama", "Alfabe Avı", "Günün Dizesi"]
+    }
+  },
+  "iRootWise": {
+    "ja": {
+      "taglines": "知恵の根を噛みしめる — 『菜根譚』、坐、日々の修養。",
+      "blurbs": "重複を整理した明・清代の697章をオフラインで収録。現代語訳と英訳、今日の一章、瞑想、五つの修養の道、名句ウィジェットと Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["697の格言", "手書き検索", "静坐", "五つの日課"]
+    },
+    "ko": {
+      "taglines": "지혜의 뿌리를 씹다 — 『채근담』, 좌선, 매일 수행.",
+      "blurbs": "중복을 정리한 명·청 시대 구절 697편을 오프라인으로 담았습니다. 현대 중국어 풀이와 영어 번역, 오늘의 한 편, 명상, 다섯 가지 수양의 길, 명구 위젯과 Siri를 지원합니다. 계정·광고 없음.",
+      "highlights": ["격언 697편", "필기 검색", "고요히 앉기", "다섯 가지 일일 수행"]
+    },
+    "ru": {
+      "taglines": "Вкусить корень мудрости — «Цай гэнь тань», медитация и ежедневная практика.",
+      "blurbs": "697 фрагментов эпох Мин и Цин без повторов, офлайн: перевод на современный китайский и английский, «Тань дня», медитация, пять путей самосовершенствования; виджеты с известными изречениями и Siri. Без аккаунта и рекламы.",
+      "highlights": ["697 изречений", "Поиск по рукописному вводу", "Тихое сидение", "Пять ежедневных практик"]
+    },
+    "th": {
+      "taglines": "เคี้ยวรากแห่งปัญญา — ไช่เกินถาน การนั่งสงบ และการฝึกประจำวัน",
+      "blurbs": "ข้อความสมัยหมิงและชิง 697 ตอนที่คัดซ้ำออกแล้ว ใช้ออฟไลน์ได้ พร้อมคำแปลภาษาจีนปัจจุบันและภาษาอังกฤษ ถานประจำวัน การทำสมาธิ แนวทางบ่มเพาะตนห้าสาย วิดเจ็ตประโยคเด็ดและ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["พุทธิภาษิต 697 ข้อ", "ค้นหาด้วยลายมือ", "นั่งสงบ", "ฝึกประจำวันห้าแบบ"]
+    },
+    "de": {
+      "taglines": "An der Wurzel der Weisheit kauen – Caigentan, stilles Sitzen, tägliche Praxis.",
+      "blurbs": "697 bereinigte Passagen aus der Ming- und Qing-Zeit offline: modernes Chinesisch und Englisch, Tan des Tages, Meditation, fünf Wege der Selbstkultivierung; Widgets mit berühmten Zeilen und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["697 Sinnsprüche", "Handschriftsuche", "Stilles Sitzen", "Fünf tägliche Übungen"]
+    },
+    "fr": {
+      "taglines": "Mâcher la racine de la sagesse — Caigentan, méditation assise et pratique quotidienne.",
+      "blurbs": "697 passages Ming et Qing dédoublonnés, hors ligne : chinois moderne et anglais, Tan du jour, méditation, cinq voies de cultivation ; widgets de citations célèbres et Siri. Sans compte ni publicité.",
+      "highlights": ["697 maximes", "Recherche manuscrite", "Assise silencieuse", "Cinq pratiques quotidiennes"]
+    },
+    "tr": {
+      "taglines": "Bilgeliğin kökünü çiğne — Caigentan, sessiz oturuş ve günlük pratik.",
+      "blurbs": "Tekrarlardan arındırılmış 697 Ming/Qing pasajı çevrimdışı: modern Çince ve İngilizce, Günün Tan'ı, meditasyon, beş arınma yolu; ünlü söz widget'ları ve Siri. Hesap ve reklam yok.",
+      "highlights": ["697 özdeyiş", "El yazısı arama", "Sessiz oturuş", "Beş günlük pratik"]
+    }
+  },
+  "iDao": {
+    "ja": {
+      "taglines": "一日一章の『道徳経』— 二つの注釈、朗読、学びの間。",
+      "blurbs": "オフラインの『道徳経』スタジオ。全81章にピンイン、二種の注釈、二種の英訳(補遺テキスト含む)を収録。カラオケ式朗読、学びの間、道を探す機能に加え、今日の一章、74の名句、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["『道徳経』全81章", "手書き検索", "道の学び", "今日の一章"]
+    },
+    "ko": {
+      "taglines": "하루 한 장 『도덕경』 — 두 가지 주석, 낭송, 학습관.",
+      "blurbs": "오프라인 『도덕경』 스튜디오. 81장 전체에 병음, 두 가지 주석, 두 가지 영어 번역(보충 텍스트 포함)을 담았습니다. 노래방식 낭송, 학습관, 도(道) 찾기에 더해 오늘의 장, 명구 74선, 위젯, Siri를 지원합니다. 계정·광고 없음.",
+      "highlights": ["『도덕경』 81장", "필기 검색", "도 공부", "오늘의 장"]
+    },
+    "ru": {
+      "taglines": "«Дао дэ цзин» по главе в день — две версии комментариев, заучивание и Учебный зал.",
+      "blurbs": "Офлайн-студия «Дао дэ цзин»: 81 глава с пиньинем, двумя комментариями и двумя английскими переводами (включая дополнительные тексты); караоке-декламация, Учебный зал и «Поиск Дао»; «Глава дня», 74 изречения, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["81 глава «Дао дэ цзин»", "Поиск по рукописному вводу", "Изучение Дао", "Глава дня"]
+    },
+    "th": {
+      "taglines": "เต๋าเต๋อจิงวันละบท — คำอรรถาธิบายคู่ ท่องจำ และห้องศึกษา",
+      "blurbs": "สตูดิโอ《เต๋าเต๋อจิง》ออฟไลน์ 81 บท พร้อมพินอิน คำอรรถาธิบายสองชุด และคำแปลอังกฤษสองชุด (รวมข้อความเสริม) ท่องตามแบบคาราโอเกะ ห้องศึกษา และค้นหาเต๋า พร้อมบทประจำวัน 74 ประโยคเด่น วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["เต๋าเต๋อจิง 81 บท", "ค้นหาด้วยลายมือ", "ศึกษาเต๋า", "บทประจำวัน"]
+    },
+    "de": {
+      "taglines": "Das Daodejing, ein Kapitel pro Tag – doppelte Kommentare, Rezitation und Lernsaal.",
+      "blurbs": "Offline-Studio für das Daodejing: 81 Kapitel mit Pinyin, zwei Kommentaren und zwei englischen Fassungen (inklusive Zusatztexte); Karaoke-Rezitation, Lernsaal und Suche nach dem Dao; Kapitel des Tages, 74 Zeilen, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["81 Kapitel des Daodejing", "Handschriftsuche", "Dao-Studium", "Kapitel des Tages"]
+    },
+    "fr": {
+      "taglines": "Le Daodejing, un chapitre par jour — double commentaire, récitation et salle d'étude.",
+      "blurbs": "Studio hors ligne du Daodejing : 81 chapitres avec pinyin, deux commentaires et deux traductions anglaises (textes complémentaires inclus) ; récitation façon karaoké, salle d'étude et quête du Dao ; chapitre du jour, 74 phrases, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["81 chapitres du Daodejing", "Recherche manuscrite", "Étude du Dao", "Chapitre du jour"]
+    },
+    "tr": {
+      "taglines": "Günde bir bölüm Dao — çifte şerh, ezber ve Çalışma Salonu.",
+      "blurbs": "Çevrimdışı Dao De Jing stüdyosu: pinyin, iki şerh ve iki İngilizce çeviriyle (ek metinler dahil) 81 bölüm; karaoke tarzı ezber, Çalışma Salonu ve Dao Arayışı; Günün Bölümü, 74 dize, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["Dao De Jing'in 81 bölümü", "El yazısı arama", "Dao çalışması", "Günün Bölümü"]
+    }
+  },
+  "iYiJing": {
+    "ja": {
+      "taglines": "一卦に宇宙あり — 学び、文化的に占い、理解する『周易』。",
+      "blurbs": "オフラインの『周易』スタジオ。64卦に現代語訳、ピンイン、英訳を付け、文化的な卦の立て方、学びの間、キーワード探索を搭載。今日の一卦、十翼、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["64卦", "手書き検索", "易の学び", "今日の一卦"]
+    },
+    "ko": {
+      "taglines": "한 괘에 담긴 세상 — 『주역』을 공부하고, 문화적으로 점치고, 배웁니다.",
+      "blurbs": "오프라인 『주역』 스튜디오. 64괘에 현대 중국어 풀이, 병음, 영어 번역을 더하고 문화적 점괘 뽑기, 학습관, 키워드 탐색을 담았습니다. 오늘의 괘, 십익, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["64괘", "필기 검색", "역 공부", "오늘의 괘"]
+    },
+    "ru": {
+      "taglines": "Одна гексаграмма — целый мир: изучение «Чжоу и», гадание как часть культуры и обучение.",
+      "blurbs": "Офлайн-студия «Чжоу и»: 64 гексаграммы с переводом на современный китайский, пиньинем и английским; культурологическое гадание, Учебный зал и поиск по ключевым словам; «Гексаграмма дня», «Десять крыльев», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["64 гексаграммы", "Поиск по рукописному вводу", "Изучение «И цзина»", "Гексаграмма дня"]
+    },
+    "th": {
+      "taglines": "หนึ่งเฮ็กซะแกรม หนึ่งโลก — ศึกษา ทำนายเชิงวัฒนธรรม และเรียนรู้",
+      "blurbs": "สตูดิโอ《โจวอี้》ออฟไลน์ 64 เฮ็กซะแกรมพร้อมคำแปลภาษาจีนปัจจุบัน พินอิน และภาษาอังกฤษ ทำนายเชิงวัฒนธรรม ห้องศึกษา และล่าคำสำคัญ พร้อมเฮ็กซะแกรมประจำวัน สิบปีก วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["64 เฮ็กซะแกรม", "ค้นหาด้วยลายมือ", "ศึกษาอี้จิง", "เฮ็กซะแกรมประจำวัน"]
+    },
+    "de": {
+      "taglines": "Ein Hexagramm, eine Welt – studieren, kulturell werfen und lernen.",
+      "blurbs": "Offline-Studio für das Zhouyi: 64 Hexagramme mit modernem Chinesisch, Pinyin und Englisch; kulturelles Werfen, Lernsaal und Stichwortsuche; Hexagramm des Tages, Zehn Flügel, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["64 Hexagramme", "Handschriftsuche", "Yijing-Studium", "Hexagramm des Tages"]
+    },
+    "fr": {
+      "taglines": "Un hexagramme, un monde — étudier, tirer culturellement et apprendre.",
+      "blurbs": "Studio hors ligne du Zhouyi : 64 hexagrammes avec chinois moderne, pinyin et anglais ; tirage culturel, salle d'étude et recherche par mot-clé ; hexagramme du jour, Dix Ailes, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["64 hexagrammes", "Recherche manuscrite", "Étude du Yi", "Hexagramme du jour"]
+    },
+    "tr": {
+      "taglines": "Bir heksagram, bir dünya — çalış, kültürel olarak at ve öğren.",
+      "blurbs": "Çevrimdışı Zhouyi stüdyosu: modern Çince, pinyin ve İngilizce açıklamalı 64 heksagram; kültürel atış, Çalışma Salonu ve anahtar kelime avı; Günün Heksagramı, On Kanat, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["64 heksagram", "El yazısı arama", "Yi çalışması", "Günün Heksagramı"]
+    }
+  },
+  "iZen": {
+    "ja": {
+      "taglines": "心を再起動 — 呼吸、サウンドスケープ、三層の回復。",
+      "blurbs": "オフラインで使える三層の回復プログラム。47の実践、約500の名言、17の科学ブリーフを収録。多彩な呼吸モード、手続き生成のサウンドスケープ、1分間アセスメント、危機時の相談窓口を搭載。今日の禅、シェアカード、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["三層の回復", "音声ガイド付き呼吸", "危機相談窓口", "ウィジェットとSiri"]
+    },
+    "ko": {
+      "taglines": "마음을 재시작하세요 — 호흡, 사운드스케이프, 3단계 회복.",
+      "blurbs": "오프라인 3단계 회복 프로그램. 실천법 47가지, 명언 약 500개, 과학 요약 17편을 담았습니다. 다양한 호흡 모드, 절차적 사운드스케이프, 1분 자가 점검, 위기 상담 전화를 지원합니다. 오늘의 선, 공유 카드, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["3단계 회복", "음성 안내 호흡", "위기 상담 전화", "위젯·Siri"]
+    },
+    "ru": {
+      "taglines": "Перезагрузка разума — дыхание, звуковые ландшафты и трёхуровневое восстановление.",
+      "blurbs": "Офлайн-программа трёхуровневого восстановления: 47 практик, около 500 цитат, 17 научных справок; дыхание в разных режимах, процедурные звуковые ландшафты, минутная самооценка и телефоны экстренной помощи; «Дзен дня», открытки, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["Три уровня восстановления", "Дыхание с голосовым ведением", "Телефоны экстренной помощи", "Виджеты и Siri"]
+    },
+    "th": {
+      "taglines": "รีบูตจิตใจ — ลมหายใจ เสียงแวดล้อม และการฟื้นฟูสามชั้น",
+      "blurbs": "โปรแกรมฟื้นฟูสามชั้นแบบออฟไลน์ มีแบบฝึก 47 รายการ คำคมราว 500 ข้อ และบทสรุปทางวิทยาศาสตร์ 17 เรื่อง การหายใจหลายโหมด เสียงแวดล้อมที่สร้างแบบเรียลไทม์ แบบประเมิน 1 นาที และสายด่วนช่วยเหลือภาวะวิกฤต พร้อมเซนประจำวัน การ์ดแชร์ วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ฟื้นฟูสามชั้น", "หายใจพร้อมเสียงนำ", "สายด่วนภาวะวิกฤต", "วิดเจ็ตและ Siri"]
+    },
+    "de": {
+      "taglines": "Den Geist neu starten – Atmen, Klanglandschaft und dreistufige Erholung.",
+      "blurbs": "Dreistufige Erholung offline: 47 Übungen, rund 500 Zitate, 17 Wissenschaftskurzberichte; Atmen in mehreren Modi, prozedurale Klanglandschaft, 1-Minuten-Check und Krisenhotlines; Zen des Tages, Teilen-Karten, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["Dreistufige Erholung", "Atmen mit Sprachführung", "Krisenhotlines", "Widgets und Siri"]
+    },
+    "fr": {
+      "taglines": "Redémarrez votre esprit — respiration, paysage sonore et récupération en trois niveaux.",
+      "blurbs": "Récupération hors ligne en trois niveaux : 47 pratiques, environ 500 citations, 17 synthèses scientifiques ; respiration multimode, paysage sonore procédural, évaluation d'une minute et numéros d'aide en cas de crise ; Zen du jour, cartes à partager, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["Récupération en 3 niveaux", "Respiration guidée à la voix", "Numéros d'aide en cas de crise", "Widgets et Siri"]
+    },
+    "tr": {
+      "taglines": "Zihnini yeniden başlat — nefes, ses manzarası ve üç katmanlı toparlanma.",
+      "blurbs": "Çevrimdışı üç katmanlı toparlanma: 47 pratik, yaklaşık 500 söz, 17 bilim özeti; çok modlu nefes, prosedürel ses manzarası, 1 dakikalık değerlendirme ve kriz yardım hatları; Günün Zen'i, paylaşım kartları, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["3 katmanlı toparlanma", "Sesli rehberli nefes", "Kriz yardım hatları", "Widget'lar ve Siri"]
+    }
+  },
+  "iSutra": {
+    "ja": {
+      "taglines": "一台の iPhone に数多の経典 — 読む、唱える、木魚、写経。",
+      "blurbs": "オフラインの経典スタジオ。144項目の索引に『金剛経』と『地蔵経』の巻を収録。バイリンガル読書、朗誦、木魚に合わせた読経、写経、実践記録を搭載。今日の経、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["経典索引144項目", "手書き検索", "読経と写経", "今日の経"]
+    },
+    "ko": {
+      "taglines": "한 대의 폰에 담은 수많은 경전 — 읽고, 낭송하고, 염송하고, 사경합니다.",
+      "blurbs": "오프라인 경전 스튜디오. 144개 색인 서재에 『금강경』과 『지장경』 권을 수록했습니다. 이중 언어 읽기, 낭송, 목탁 염송, 사경, 수행 기록을 지원하며 오늘의 경전, 위젯, Siri도 제공합니다. 계정·광고 없음.",
+      "highlights": ["경전 색인 144항목", "필기 검색", "염송과 사경", "오늘의 경전"]
+    },
+    "ru": {
+      "taglines": "Один телефон — множество сутр: чтение, заучивание, пение под «деревянную рыбу» и переписывание.",
+      "blurbs": "Офлайн-студия сутр: библиотека из 144 записей, включая «Алмазную сутру» и тома сутры о бодхисаттве Дицзане; двуязычное чтение, декламация, пение под «деревянную рыбу», переписывание сутр и дневник практики; «Сутра дня», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["144 записи в указателе сутр", "Поиск по рукописному вводу", "Пение и переписывание", "Сутра дня"]
+    },
+    "th": {
+      "taglines": "โทรศัพท์เครื่องเดียว พระสูตรมากมาย — อ่าน ท่อง สวด และคัดลอก",
+      "blurbs": "สตูดิโอพระสูตรออฟไลน์ ห้องสมุดดัชนี 144 รายการ รวมคัมภีร์วัชรเฉทิกะและพระสูตรตี้จั้ง อ่านสองภาษา ท่องจำ สวดพร้อมเสียงปลาไม้ คัดลอกพระสูตร และบันทึกการปฏิบัติ พร้อมพระสูตรประจำวัน วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ดัชนีพระสูตร 144 รายการ", "ค้นหาด้วยลายมือ", "สวดและคัดลอก", "พระสูตรประจำวัน"]
+    },
+    "de": {
+      "taglines": "Ein Handy, unzählige Sutras – lesen, rezitieren, intonieren und abschreiben.",
+      "blurbs": "Offline-Sutra-Studio: Bibliothek mit 144 Indexeinträgen samt Diamant-Sutra und Dizang-Bänden; zweisprachiges Lesen, Rezitieren, Gesang zum Holzfisch, Sutra-Abschrift und Übungsverlauf; Sutra des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["144 Sutra-Indexeinträge", "Handschriftsuche", "Intonieren und Abschreiben", "Sutra des Tages"]
+    },
+    "fr": {
+      "taglines": "Un téléphone, d'innombrables soutras — lire, réciter, psalmodier et copier.",
+      "blurbs": "Studio de soutras hors ligne : bibliothèque de 144 entrées avec le Soutra du Diamant et les volumes de Dizang ; lecture bilingue, récitation, psalmodie au poisson de bois, copie de soutras et suivi de pratique ; soutra du jour, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["144 entrées d'index de soutras", "Recherche manuscrite", "Psalmodie et copie", "Soutra du jour"]
+    },
+    "tr": {
+      "taglines": "Tek telefon, sayısız sutra — oku, ezberle, ilahi söyle ve kopyala.",
+      "blurbs": "Çevrimdışı sutra stüdyosu: Elmas ve Dizang ciltlerini içeren 144 girişlik kitaplık; iki dilli okuma, ezber, tahta balık eşliğinde ilahi, sutra kopyalama ve pratik geçmişi; Günün Sutrası, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["144 sutra dizin girişi", "El yazısı arama", "İlahi ve kopyalama", "Günün Sutrası"]
+    }
+  },
+  "iPrimer": {
+    "ja": {
+      "taglines": "学び・黙想・省察 — 朱熹『小学』で日々成長。",
+      "blurbs": "オフラインの『小学』スタジオ。全388章に現代語訳、注釈、英訳を付け、朗読、品性の学び、六つの黙想、省察ジャーナルを搭載。今日の学び、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["全388章", "黙想", "品性の学び", "今日の学び"]
+    },
+    "ko": {
+      "taglines": "배우고 · 명상하고 · 성찰하다 — 주희의 『소학』으로 매일 성장.",
+      "blurbs": "오프라인 『소학』 스튜디오. 388개 장에 현대 중국어 풀이, 주석, 영어 번역을 더하고 낭송, 인성 공부, 여섯 가지 명상, 성찰 일지를 담았습니다. 오늘의 공부, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["388개 장", "명상", "인성 공부", "오늘의 공부"]
+    },
+    "ru": {
+      "taglines": "Учиться, медитировать, размышлять — «Сяо сюэ» Чжу Си для ежедневного роста.",
+      "blurbs": "Офлайн-студия «Сяо сюэ»: 388 глав с переводом на современный китайский, примечаниями и английским; заучивание, «Изучение характера», шесть медитаций и дневник размышлений; «Урок дня», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["388 глав", "Медитация", "Изучение характера", "Урок дня"]
+    },
+    "th": {
+      "taglines": "เรียนรู้ · ภาวนา · ไตร่ตรอง — 《เสี่ยวเสวีย》ของจูซีเพื่อการเติบโตทุกวัน",
+      "blurbs": "สตูดิโอ《เสี่ยวเสวีย》ออฟไลน์ 388 บท พร้อมคำแปลภาษาจีนปัจจุบัน คำอธิบาย และภาษาอังกฤษ ท่องจำ เรียนรู้อุปนิสัย สมาธิหกแบบ และสมุดบันทึกไตร่ตรอง พร้อมบทเรียนประจำวัน วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["388 บท", "ภาวนา", "เรียนรู้อุปนิสัย", "บทเรียนประจำวัน"]
+    },
+    "de": {
+      "taglines": "Lernen · meditieren · reflektieren – Zhu Xis Xiaoxue für tägliches Wachstum.",
+      "blurbs": "Offline-Studio für das Xiaoxue: 388 Kapitel mit modernem Chinesisch, Anmerkungen und Englisch; Rezitation, Charakterstudium, sechs Meditationen und Reflexionstagebuch; Studium des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["388 Kapitel", "Meditation", "Charakterstudium", "Studium des Tages"]
+    },
+    "fr": {
+      "taglines": "Étudier · méditer · réfléchir — le Xiaoxue de Zhu Xi pour grandir chaque jour.",
+      "blurbs": "Studio hors ligne du Xiaoxue : 388 chapitres avec chinois moderne, notes et anglais ; récitation, étude du caractère, six méditations et journal de réflexion ; étude du jour, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["388 chapitres", "Méditation", "Étude du caractère", "Étude du jour"]
+    },
+    "tr": {
+      "taglines": "Çalış · meditasyon yap · düşün — Zhu Xi'nin Xiaoxue'siyle her gün gelişim.",
+      "blurbs": "Çevrimdışı Xiaoxue stüdyosu: modern Çince, notlar ve İngilizce açıklamalı 388 bölüm; ezber, Karakter Çalışması, altı meditasyon ve düşünce günlüğü; Günün Çalışması, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["388 bölüm", "Meditasyon", "Karakter çalışması", "Günün Çalışması"]
+    }
+  },
+  "iThousand": {
+    "ja": {
+      "taglines": "四つの蒙学書 — 部品別ストロークカード、手書き検索、蒙学の間。",
+      "blurbs": "オフラインの蒙学スタジオ。『千字文』『三字経』『百家姓』『弟子規』の122段を収録。構成要素別ストロークカード、手書き検索、朗読、蒙学の間を搭載。今日の一句、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["122段", "手書き検索", "部品カード", "蒙学の間"]
+    },
+    "ko": {
+      "taglines": "네 가지 몽학 교재 — 구성 요소별 획순 카드, 필기 검색, 몽학관.",
+      "blurbs": "오프라인 몽학 스튜디오. 『천자문』 『삼자경』 『백가성』 『제자규』 122개 단락을 담았습니다. 구성 요소별 획순 카드, 필기 검색, 낭송, 몽학관을 지원하며 오늘의 한 구절, 위젯, Siri도 제공합니다. 계정·광고 없음.",
+      "highlights": ["122개 단락", "필기 검색", "구성 요소 카드", "몽학관"]
+    },
+    "ru": {
+      "taglines": "Четыре букваря — карточки черт по компонентам, поиск по рукописному вводу и Зал начального обучения.",
+      "blurbs": "Офлайн-студия китайских букварей: 122 фрагмента «Цянь цзы вэнь», «Сань цзы цзин», «Бай цзя син» и «Ди цзы гуй»; карточки черт по компонентам, поиск по рукописному вводу, заучивание и Зал начального обучения; «Строка дня», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["122 фрагмента", "Поиск по рукописному вводу", "Карточки компонентов", "Зал начального обучения"]
+    },
+    "th": {
+      "taglines": "สี่ตำราเด็ก — การ์ดลำดับขีดตามส่วนประกอบ ค้นหาด้วยลายมือ และหอตำราเด็ก",
+      "blurbs": "สตูดิโอตำราเด็กออฟไลน์ รวม 122 ตอนจาก《เชียนจื่อเหวิน》《ซานจื่อจิง》《ไป่เจียซิ่ง》และ《ตี้จื่อกุย》 การ์ดลำดับขีดตามส่วนประกอบ ค้นหาด้วยลายมือ ท่องจำ และหอตำราเด็ก พร้อมประโยคประจำวัน วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["122 ตอน", "ค้นหาด้วยลายมือ", "การ์ดส่วนประกอบ", "หอตำราเด็ก"]
+    },
+    "de": {
+      "taglines": "Vier Fibeln – Strichkarten nach Komponenten, Handschriftsuche und Fibelhalle.",
+      "blurbs": "Offline-Fibelstudio: 122 Abschnitte aus Qianziwen, San Zi Jing, Baijiaxing und Di Zi Gui; Strichkarten nach Komponenten, Handschriftsuche, Rezitation und Fibelhalle; Zeile des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["122 Abschnitte", "Handschriftsuche", "Komponentenkarten", "Fibelhalle"]
+    },
+    "fr": {
+      "taglines": "Quatre primers — cartes de traits par composant, recherche manuscrite et Salle des primers.",
+      "blurbs": "Studio hors ligne de primers : 122 passages du Qianziwen, du San Zi Jing, du Baijiaxing et du Di Zi Gui ; cartes de traits par composant, recherche manuscrite, récitation et Salle des primers ; vers du jour, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["122 passages", "Recherche manuscrite", "Cartes de composants", "Salle des primers"]
+    },
+    "tr": {
+      "taglines": "Dört başlangıç metni — bileşen çizgi kartları, el yazısı arama ve Başlangıç Salonu.",
+      "blurbs": "Çevrimdışı başlangıç metinleri stüdyosu: Qianziwen, San Zi Jing, Baijiaxing ve Di Zi Gui'den 122 pasaj; bileşen çizgi kartları, el yazısı arama, ezber ve Başlangıç Salonu; Günün Dizesi, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["122 pasaj", "El yazısı arama", "Bileşen kartları", "Başlangıç Salonu"]
+    }
+  },
+  "iBaiJia": {
+    "ja": {
+      "taglines": "『百家姓』— 967の姓、手書き検索、学びの間。",
+      "blurbs": "オフラインの姓氏スタジオ。967の姓に由来と英語表記を付け、八つの閲覧軸、手書き検索、朗読、学びの間を搭載。今日の姓、筆順なぞり、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["967の姓", "手書き検索", "学びの間", "今日の姓"]
+    },
+    "ko": {
+      "taglines": "『백가성』 — 성씨 967개, 필기 검색, 학습관.",
+      "blurbs": "오프라인 성씨 스튜디오. 성씨 967개에 유래와 영어 표기를 더하고 여덟 가지 탐색 기준, 필기 검색, 낭송, 학습관을 담았습니다. 오늘의 성씨, 획순 따라 쓰기, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["성씨 967개", "필기 검색", "학습관", "오늘의 성씨"]
+    },
+    "ru": {
+      "taglines": "«Бай цзя син» — 967 фамилий, поиск по рукописному вводу и Учебный зал.",
+      "blurbs": "Офлайн-студия фамилий: 967 фамилий с происхождением и английской транскрипцией; восемь осей просмотра, поиск по рукописному вводу, заучивание и Учебный зал; «Фамилия дня», прописывание черт, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["967 фамилий", "Поиск по рукописному вводу", "Учебный зал", "Фамилия дня"]
+    },
+    "th": {
+      "taglines": "ไป่เจียซิ่ง — 967 นามสกุล ค้นหาด้วยลายมือ และห้องศึกษา",
+      "blurbs": "สตูดิโอนามสกุลจีนออฟไลน์ 967 นามสกุลพร้อมที่มาและการเขียนเป็นภาษาอังกฤษ เรียกดูได้แปดแกน ค้นหาด้วยลายมือ ท่องจำ และห้องศึกษา พร้อมนามสกุลประจำวัน การเขียนตามลำดับขีด วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["967 นามสกุล", "ค้นหาด้วยลายมือ", "ห้องศึกษา", "นามสกุลประจำวัน"]
+    },
+    "de": {
+      "taglines": "Hundert Familiennamen – 967 Nachnamen, Handschriftsuche und Lernsaal.",
+      "blurbs": "Offline-Studio für Familiennamen: 967 Nachnamen mit Herkunft und englischer Umschrift; acht Browse-Achsen, Handschriftsuche, Rezitation und Lernsaal; Name des Tages, Strichnachzeichnen, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["967 Nachnamen", "Handschriftsuche", "Lernsaal", "Name des Tages"]
+    },
+    "fr": {
+      "taglines": "Les Cent Noms de famille — 967 noms, recherche manuscrite et salle d'étude.",
+      "blurbs": "Studio hors ligne des noms de famille : 967 noms avec origine et version anglaise ; huit axes de navigation, recherche manuscrite, récitation et salle d'étude ; nom du jour, tracé des traits, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["967 noms de famille", "Recherche manuscrite", "Salle d'étude", "Nom du jour"]
+    },
+    "tr": {
+      "taglines": "Yüz Aile Soyadı — 967 soyadı, el yazısı arama ve Çalışma Salonu.",
+      "blurbs": "Çevrimdışı soyadı stüdyosu: köken ve İngilizce karşılıklarıyla 967 soyadı; sekiz gezinme ekseni, el yazısı arama, ezber ve Çalışma Salonu; Günün Soyadı, çizgi izleme, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["967 soyadı", "El yazısı arama", "Çalışma Salonu", "Günün Soyadı"]
+    }
+  },
+  "iWuJing": {
+    "ja": {
+      "taglines": "一つの机に五経 — バイリンガル読書、朗読、オフライン学習。",
+      "blurbs": "オフラインの五経スタジオ。『詩経』『書経』『礼記』『易経』『春秋』から819段を収録。朗読、五経の学び、語釈と異文を搭載し、今日の経書、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["五経819段", "手書き検索", "五経の学び", "今日の経書"]
+    },
+    "ko": {
+      "taglines": "한 책상 위의 오경 — 이중 언어 읽기, 낭송, 오프라인 공부.",
+      "blurbs": "오프라인 오경 스튜디오. 『시경』 『서경』 『예기』 『역경』 『춘추』에서 819개 단락을 담았습니다. 낭송, 오경 공부, 자구 풀이와 이문(異文)을 지원하며 오늘의 경전, 위젯, Siri도 제공합니다. 계정·광고 없음.",
+      "highlights": ["오경 819개 단락", "필기 검색", "오경 공부", "오늘의 경전"]
+    },
+    "ru": {
+      "taglines": "Пятикнижие на одном столе — двуязычное чтение, заучивание и изучение офлайн.",
+      "blurbs": "Офлайн-студия «Пяти канонов»: 819 фрагментов из «Ши цзин», «Шу цзин», «Ли цзи», «И цзин» и «Чунь цю»; заучивание, изучение канонов, глоссы и разночтения; «Канон дня», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["819 фрагментов Пяти канонов", "Поиск по рукописному вводу", "Изучение канонов", "Канон дня"]
+    },
+    "th": {
+      "taglines": "ห้าคัมภีร์บนโต๊ะเดียว — อ่านสองภาษา ท่องจำ และเรียนรู้แบบออฟไลน์",
+      "blurbs": "สตูดิโอห้าคัมภีร์ออฟไลน์ 819 ตอนจาก《ซือจิง》《ซูจิง》《หลี่จี้》《อี้จิง》และ《ชุนชิว》 ท่องจำ ศึกษาคัมภีร์ อรรถาธิบายคำและฉบับต่างกัน พร้อมคัมภีร์ประจำวัน วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ห้าคัมภีร์ 819 ตอน", "ค้นหาด้วยลายมือ", "ศึกษาคัมภีร์", "คัมภีร์ประจำวัน"]
+    },
+    "de": {
+      "taglines": "Die Fünf Klassiker an einem Schreibtisch – zweisprachig lesen, rezitieren und offline lernen.",
+      "blurbs": "Offline-Studio für die Fünf Klassiker: 819 Passagen aus Shijing, Shujing, Liji, Yijing und Chunqiu; Rezitation, Klassikerstudium, Worterklärungen und Textvarianten; Klassiker des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["819 Passagen der Fünf Klassiker", "Handschriftsuche", "Klassikerstudium", "Klassiker des Tages"]
+    },
+    "fr": {
+      "taglines": "Les Cinq Classiques sur un seul bureau — lecture bilingue, récitation et étude hors ligne.",
+      "blurbs": "Studio hors ligne des Cinq Classiques : 819 passages du Shijing, du Shujing, du Liji, du Yijing et du Chunqiu ; récitation, étude des Classiques, gloses et variantes ; classique du jour, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["819 passages des Cinq Classiques", "Recherche manuscrite", "Étude des Classiques", "Classique du jour"]
+    },
+    "tr": {
+      "taglines": "Tek masada Beş Klasik — iki dilli okuma, ezber ve çevrimdışı çalışma.",
+      "blurbs": "Çevrimdışı Beş Klasik stüdyosu: Shijing, Shujing, Liji, Yijing ve Chunqiu'dan 819 pasaj; ezber, Klasik Çalışması, sözcük açıklamaları ve metin varyantları; Günün Klasiği, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["Beş Klasik'ten 819 pasaj", "El yazısı arama", "Klasik çalışması", "Günün Klasiği"]
+    }
+  },
+  "iSiShu": {
+    "ja": {
+      "taglines": "『四書』— 三言語の学び、手書き検索、名句113選。",
+      "blurbs": "オフラインの『四書』。1257段に、レッグ訳準拠の英訳を付けて収録。手書き検索、朗読、集中学習、名句113選、今日の一言、ウィジェット、Siri に対応。アカウント不要、広告なし。",
+      "highlights": ["1257段", "手書き検索", "名句113選", "今日の一言"]
+    },
+    "ko": {
+      "taglines": "『사서』 — 3개 언어 공부, 필기 검색, 명구 113선.",
+      "blurbs": "오프라인 『사서』. 1257개 단락에 레게(Legge) 번역을 기준으로 한 영어 번역을 더했습니다. 필기 검색, 낭송, 집중 공부, 명구 113선, 오늘의 한마디, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["1257개 단락", "필기 검색", "명구 113선", "오늘의 한마디"]
+    },
+    "ru": {
+      "taglines": "«Четверокнижие» — изучение на трёх языках, поиск по рукописному вводу и 113 известных изречений.",
+      "blurbs": "Офлайн-«Сы шу»: 1257 фрагментов с английским переводом по Леггу; поиск по рукописному вводу, заучивание, сосредоточенное изучение, 113 известных изречений, «Изречение дня», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["1257 фрагментов", "Поиск по рукописному вводу", "113 известных изречений", "Изречение дня"]
+    },
+    "th": {
+      "taglines": "สี่คัมภีร์ — เรียนรู้สามภาษา ค้นหาด้วยลายมือ และประโยคเด่น 113 ข้อ",
+      "blurbs": "《สี่คัมภีร์》ออฟไลน์ 1257 ตอน พร้อมคำแปลอังกฤษตามแนวของเลกก์ ค้นหาด้วยลายมือ ท่องจำ ศึกษาแบบเจาะลึก ประโยคเด่น 113 ข้อ คำคมประจำวัน วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["1257 ตอน", "ค้นหาด้วยลายมือ", "ประโยคเด่น 113 ข้อ", "คำคมประจำวัน"]
+    },
+    "de": {
+      "taglines": "Die Vier Bücher – dreisprachiges Studium, Handschriftsuche und 113 berühmte Zeilen.",
+      "blurbs": "Die Vier Bücher offline: 1257 Passagen mit englischer Fassung nach Legge; Handschriftsuche, Rezitation, konzentriertes Studium, 113 berühmte Zeilen, Spruch des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["1257 Passagen", "Handschriftsuche", "113 berühmte Zeilen", "Spruch des Tages"]
+    },
+    "fr": {
+      "taglines": "Les Quatre Livres — étude trilingue, recherche manuscrite et 113 citations célèbres.",
+      "blurbs": "Les Quatre Livres hors ligne : 1257 passages avec anglais aligné sur Legge ; recherche manuscrite, récitation, étude ciblée, 113 citations célèbres, maxime du jour, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["1257 passages", "Recherche manuscrite", "113 citations célèbres", "Maxime du jour"]
+    },
+    "tr": {
+      "taglines": "Dört Kitap — üç dilli çalışma, el yazısı arama ve 113 ünlü dize.",
+      "blurbs": "Çevrimdışı Dört Kitap: Legge çevirisiyle uyumlu İngilizce karşılıklarıyla 1257 pasaj; el yazısı arama, ezber, odaklı çalışma, 113 ünlü dize, Günün Sözü, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["1257 pasaj", "El yazısı arama", "113 ünlü dize", "Günün Sözü"]
+    }
+  },
+  "iSage": {
+    "ja": {
+      "taglines": "一言が生き方になる — バイリンガル読書、場面別、聖賢学院。",
+      "blurbs": "オフラインの『増広賢文』スタジオ。古典の通行本と周希陶『重訂増広』を合わせた1084句を収録。現代語訳、英訳、聖賢の読み解き、暮らしの場面別ガイドに加え、今日の知恵、朗読、聖賢学院、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["1084句", "暮らしの場面", "聖賢学院", "今日の知恵"]
+    },
+    "ko": {
+      "taglines": "한마디가 삶의 길이 되다 — 이중 언어 읽기, 생활 장면, 성현 학원.",
+      "blurbs": "오프라인 『증광현문』 스튜디오. 고전 통행본과 저우시타오의 『중정증광』을 아우르는 1084구를 담았습니다. 현대 중국어 풀이, 영어 번역, 성현의 해설, 생활 장면별 안내와 함께 오늘의 지혜, 낭송, 성현 학원, 위젯, Siri를 지원합니다. 계정·광고 없음.",
+      "highlights": ["1084구", "생활 장면", "성현 학원", "오늘의 지혜"]
+    },
+    "ru": {
+      "taglines": "Одно изречение — путь жизни: двуязычное чтение, жизненные сцены и Академия мудрецов.",
+      "blurbs": "Офлайн-студия «Цзэн гуан сянь вэнь»: 1084 изречения из классической редакции и «Нового расширенного свода мудрости» Чжоу Сытао; перевод на современный китайский и английский, толкования мудрецов и жизненные ситуации; «Мудрость дня», заучивание, Академия мудрецов, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["1084 изречения", "Жизненные сцены", "Академия мудрецов", "Мудрость дня"]
+    },
+    "th": {
+      "taglines": "หนึ่งคำคม หนึ่งวิถีชีวิต — อ่านสองภาษา สถานการณ์ชีวิต และสำนักปราชญ์",
+      "blurbs": "สตูดิโอ《เจิงกว่างเสียนเหวิน》ออฟไลน์ 1084 คำคม ทั้งฉบับคลาสสิกและฉบับเพิ่มเติมใหม่ของโจวซีเถา พร้อมคำแปลภาษาจีนปัจจุบัน คำแปลอังกฤษ บทตีความของปราชญ์ และสถานการณ์ในชีวิตจริง พร้อมปัญญาประจำวัน ท่องจำ สำนักปราชญ์ วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["1084 คำคม", "สถานการณ์ในชีวิต", "สำนักปราชญ์", "ปัญญาประจำวัน"]
+    },
+    "de": {
+      "taglines": "Ein Spruch, ein Lebensweg – zweisprachig lesen, Lebensszenen und Weisen-Akademie.",
+      "blurbs": "Offline-Studio für das Zengguang Xianwen: 1084 Sprüche aus der klassischen Fassung und Zhou Xitaos Neuer erweiterter Weisheit; modernes Chinesisch, Englisch, Deutungen der Weisen und Lebensszenen; Weisheit des Tages, Rezitation, Weisen-Akademie, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["1084 Sprüche", "Lebensszenen", "Weisen-Akademie", "Weisheit des Tages"]
+    },
+    "fr": {
+      "taglines": "Une maxime, une façon de vivre — lecture bilingue, scènes de vie et Académie des sages.",
+      "blurbs": "Studio hors ligne du Zengguang Xianwen : 1084 maximes de la recension classique et du Nouveau Zengguang de Zhou Xitao ; chinois moderne, anglais, lectures des sages et scènes de vie ; sagesse du jour, récitation, Académie des sages, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["1084 maximes", "Scènes de vie", "Académie des sages", "Sagesse du jour"]
+    },
+    "tr": {
+      "taglines": "Bir söz, bir yaşam yolu — iki dilli okuma, yaşam sahneleri ve Bilge Akademisi.",
+      "blurbs": "Çevrimdışı Zengguang Xianwen stüdyosu: klasik derleme ile Zhou Xitao'nun Yeni Genişletilmiş Bilgeliği'nden 1084 söz; modern Çince, İngilizce, bilge yorumları ve yaşam sahneleri; Günün Bilgeliği, ezber, Bilge Akademisi, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["1084 söz", "Yaşam sahneleri", "Bilge Akademisi", "Günün Bilgeliği"]
+    }
+  },
+  "iPrecepts": {
+    "ja": {
+      "taglines": "一つの家訓が家の道になる — バイリンガル読書、並列比較、学び。",
+      "blurbs": "オフラインの家訓スタジオ。朱熹、朱柏廬、顔之推、曾国藩らの118編を収録。現代語訳、英訳、並列比較に加え、今日の家訓、朗読、学習、ウィジェット、Siri にも対応。アカウント不要、広告なし。",
+      "highlights": ["家訓118編", "並列比較", "家族の学び", "今日の家訓"]
+    },
+    "ko": {
+      "taglines": "한 편의 가훈이 집안의 길이 되다 — 이중 언어 읽기, 병렬 비교, 공부.",
+      "blurbs": "오프라인 가훈 스튜디오. 주희, 주백려, 안지추, 증국번 등의 작품 118편을 담았습니다. 현대 중국어 풀이, 영어 번역, 병렬 비교와 함께 오늘의 가훈, 낭송, 공부, 위젯, Siri를 지원합니다. 계정·광고 없음.",
+      "highlights": ["가훈 118편", "병렬 비교", "가족 공부", "오늘의 가훈"]
+    },
+    "ru": {
+      "taglines": "Один наказ — путь семьи: двуязычное чтение, параллельное сравнение и изучение.",
+      "blurbs": "Офлайн-студия семейных наставлений: 118 сочинений Чжу Си, Чжу Байлу, Янь Чжитуя, Цзэн Гофаня и других; перевод на современный китайский и английский, параллельное сравнение; «Наказ дня», заучивание, изучение, виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["118 наставлений", "Параллельное сравнение", "Семейное изучение", "Наказ дня"]
+    },
+    "th": {
+      "taglines": "หนึ่งคำสอน หนึ่งวิถีครอบครัว — อ่านสองภาษา เทียบคู่ขนาน และเรียนรู้",
+      "blurbs": "สตูดิโอคำสอนตระกูลออฟไลน์ 118 บทประพันธ์ของจูซี จูป๋ายลู่ เหยียนจือทุย เจิงกั๋วฝาน และอื่น ๆ พร้อมคำแปลภาษาจีนปัจจุบัน คำแปลอังกฤษ และการเทียบคู่ขนาน พร้อมคำสอนประจำวัน ท่องจำ ศึกษา วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["คำสอนตระกูล 118 บท", "เทียบคู่ขนาน", "เรียนรู้ร่วมกันในครอบครัว", "คำสอนประจำวัน"]
+    },
+    "de": {
+      "taglines": "Eine Lehre, ein Familienweg – zweisprachig lesen, Parallelvergleich und Studium.",
+      "blurbs": "Offline-Studio für Familienlehren: 118 Werke von Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan und anderen; modernes Chinesisch, Englisch, Parallelvergleich; Familienlehre des Tages, Rezitation, Studium, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["118 Familienlehren", "Parallelvergleich", "Familienstudium", "Lehre des Tages"]
+    },
+    "fr": {
+      "taglines": "Un précepte, une voie familiale — lecture bilingue, comparaison parallèle et étude.",
+      "blurbs": "Studio hors ligne des préceptes familiaux : 118 œuvres de Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan et d'autres ; chinois moderne, anglais, comparaison parallèle ; précepte du jour, récitation, étude, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["118 préceptes", "Comparaison parallèle", "Étude en famille", "Précepte du jour"]
+    },
+    "tr": {
+      "taglines": "Bir öğüt, bir aile yolu — iki dilli okuma, paralel karşılaştırma ve çalışma.",
+      "blurbs": "Çevrimdışı aile öğütleri stüdyosu: Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan ve diğerlerinden 118 eser; modern Çince, İngilizce, paralel karşılaştırma; Günün Öğüdü, ezber, çalışma, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["118 aile öğüdü", "Paralel karşılaştırma", "Aile çalışması", "Günün Öğüdü"]
+    }
+  },
+  "iRhyme": {
+    "ja": {
+      "taglines": "一対ずつ韻を学ぶ — 対句、同韻比較、学習。",
+      "blurbs": "オフラインの声律スタジオ。『声律啓蒙』、三十韻にわたる『笠翁対韻』、『千家詩』、『幼学瓊林』から312段を収録。朗読、学習、今日の韻、ウィジェット、Siri に対応。アカウント不要、広告なし。",
+      "highlights": ["312段", "対句ビュー", "韻の学び", "今日の韻"]
+    },
+    "ko": {
+      "taglines": "한 쌍씩 익히는 운율 — 대구, 같은 운 비교, 공부.",
+      "blurbs": "오프라인 성률 스튜디오. 『성률계몽』, 서른 운으로 이루어진 『입옹대운』, 『천가시』, 『유학경림』에서 312개 단락을 담았습니다. 낭송, 공부, 오늘의 운, 위젯, Siri 지원. 계정·광고 없음.",
+      "highlights": ["312개 단락", "대구 보기", "운율 공부", "오늘의 운"]
+    },
+    "ru": {
+      "taglines": "Шаг за шагом, пара за парой — параллелизм, сравнение одной рифмы и изучение.",
+      "blurbs": "Офлайн-студия звуковой гармонии: 312 фрагментов «Шэн люй ци мэн», «Ли вэн дуй юнь» по тридцати рифмам, «Цянь цзя ши» и «Ю сюэ цюн линь»; заучивание, изучение, «Рифма дня», виджеты и Siri. Без аккаунта и рекламы.",
+      "highlights": ["312 фрагментов", "Просмотр параллелизма", "Изучение рифм", "Рифма дня"]
+    },
+    "th": {
+      "taglines": "ทีละคู่สัมผัส — คำคู่ขนาน เทียบสัมผัสเดียวกัน และเรียนรู้",
+      "blurbs": "สตูดิโอเสียงและสัมผัสออฟไลน์ 312 ตอนจาก《เซิงหลวี่ฉี่เหมิง》《หลี่เวิงตุ้ยยวิ่น》สามสิบหมวดสัมผัส《เชียนเจียซือ》และ《โย่วเสวียฉงหลิน》 ท่องจำ ศึกษา พร้อมสัมผัสประจำวัน วิดเจ็ต และ Siri ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["312 ตอน", "มุมมองคำคู่ขนาน", "ศึกษาสัมผัส", "สัมผัสประจำวัน"]
+    },
+    "de": {
+      "taglines": "Ein Reimpaar nach dem anderen – Parallelismus, Gleichreim-Vergleich und Studium.",
+      "blurbs": "Offline-Studio für Klang und Reim: 312 Passagen aus Shenglü Qimeng, Li Weng Dui Yun über dreißig Reime, Qian Jia Shi und You Xue Qiong Lin; Rezitation, Studium, Reim des Tages, Widgets und Siri. Ohne Konto, ohne Werbung.",
+      "highlights": ["312 Passagen", "Parallelismus-Ansicht", "Reimstudium", "Reim des Tages"]
+    },
+    "fr": {
+      "taglines": "Un couplet rimé à la fois — parallélisme, comparaison de rimes identiques et étude.",
+      "blurbs": "Studio hors ligne de prosodie et de rimes : 312 passages du Shenglü Qimeng, du Li Weng Dui Yun sur trente rimes, du Qian Jia Shi et du You Xue Qiong Lin ; récitation, étude, rime du jour, widgets et Siri. Sans compte ni publicité.",
+      "highlights": ["312 passages", "Vue du parallélisme", "Étude des rimes", "Rime du jour"]
+    },
+    "tr": {
+      "taglines": "Her seferinde bir kafiye çifti — paralellik, aynı kafiye karşılaştırması ve çalışma.",
+      "blurbs": "Çevrimdışı ses ve kafiye stüdyosu: Shenglü Qimeng, otuz kafiyeye yayılan Li Weng Dui Yun, Qian Jia Shi ve You Xue Qiong Lin'den 312 pasaj; ezber, çalışma, Günün Kafiyesi, widget'lar ve Siri. Hesap ve reklam yok.",
+      "highlights": ["312 pasaj", "Paralellik görünümü", "Kafiye çalışması", "Günün Kafiyesi"]
+    }
+  }
+}

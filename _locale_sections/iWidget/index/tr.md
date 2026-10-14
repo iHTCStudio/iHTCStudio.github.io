@@ -1,0 +1,11 @@
+**Duvar kağıdınıza uyum. Gerçekten istediğiniz widget.** **iWidget**, iPhone, iPad ve Mac için **widget tasarım stüdyosu** — 54 preset seti, blok düzenleyici, slot başına duvar kağıdı kırpma, şeffaf widget'lar, tap shield.
+
+## Démarrage / Начало / เริ่มต้น / Başlangıç
+Guide premier lancement, **Mes widgets**, onglet **Aujourd'hui**, **Bibliothèque**, éditeur blocs, ajout écran d'accueil (+ → iWidget).
+
+## Fonctions
+Calendrier grégorien & lunaire, météo WeatherKit, comptes à rebours, almanach 黄历, notifications locales (48 max), iCloud optionnel (CloudKit), Siri & `iwidget://` — [URL Scheme](url-scheme).
+
+[Privacy Policy](privacy) · iOS 17.0+ · macOS 14.0+ · `com.iHTCboy.iWidget` · [App Store](https://apps.apple.com/app/id6817595772)
+
+[FAQ](faq) · [URL Scheme](url-scheme) · [Privacy Policy](privacy)

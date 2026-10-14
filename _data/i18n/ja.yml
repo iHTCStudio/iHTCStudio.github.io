@@ -1,0 +1,152 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: Apple デバイス向けアプリとツール
+  site_description: iPhone、iPad、Mac 向けに丁寧に作られたアプリ。プライバシー優先、オフライン対応、アカウント不要。
+nav:
+  apps: アプリ
+  collections: コレクション
+  app_store: App Store
+  home: ホーム
+  overview: 概要
+  faq: よくある質問
+  privacy: プライバシー
+  url_scheme: URL Scheme
+  contact: お問い合わせ
+  github: GitHub
+  open_menu: メニューを開く
+  close_menu: メニューを閉じる
+  switch_app: アプリを切り替え
+  other_apps: その他のアプリ
+  language: 言語
+  appearance: 表示
+  theme_auto: システム
+  theme_light: ライト
+  theme_dark: ダーク
+collections_page:
+  eyebrow: テーマから探す
+  title: コレクション
+  subtitle: 文字・詩歌・蒙学・四書・諸子・国学・英語・技術など、興味別にアプリをまとめています。1つのアプリが複数のコレクションに属することがあります。
+  all: すべて
+  filter_label: コレクションを絞り込む
+  empty: このコレクションにはアプリがありません。
+hero:
+  eyebrow: iHTC Studio
+  title: 丁寧に作られたアプリ。静かに使えるソフト。
+  subtitle: iHTC Studio は iPhone、iPad、Mac 向けにプライバシー優先のアプリを設計しています。アカウント不要、追跡なし、クラウド不要——時間を尊重するツールだけを届けます。
+  cta_explore: アプリを見る
+  cta_contact: お問い合わせ
+  stat_apps: アプリ
+  stat_offline: オフライン優先
+  stat_privacy: 追跡なし
+  stat_hint: 詳しく見る
+  stat_tablist: スタジオの特徴
+  stat_apps_title_suffix: 丁寧に作られたアプリ
+  stat_apps_desc: ポモドーロから App Store ブラウジングまで——各アプリは iPhone、iPad、Mac 向け SwiftUI ネイティブで、独自のサポートページ、FAQ、プライバシーポリシー付きです。
+  stat_apps_action: すべてのアプリ ↓
+  stat_offline_title: コア機能は 100% オフライン
+  stat_offline_desc: 問題集、辞書、タイマー、計算機などは端末内だけで動作。日常使いに Wi‑Fi や cellular は不要——ツールはあなたと一緒に移動します。
+  stat_privacy_title: 追跡ゼロ、広告ゼロ
+  stat_privacy_desc: 分析 SDK なし、広告ネットワークなし、強制アカウントなし。利用データは収集しません。任意の iCloud 同期は Apple の基盤のみを使用します。
+apps_section:
+  eyebrow: 私たちのアプリ
+  title: 細部まで磨き込んだ設計
+  subtitle: すべてのアプリは Apple デバイス上でネイティブに感じられるよう設計され、完全オフラインで動作し、プライバシーを尊重します。詳しく知りたいアプリを選んでください。
+  learn_more: 詳しく見る
+  coming_soon: 近日公開
+  expand_hint: 初期表示はコンパクト——カードでハイライトを開くか、すべて展開できます。
+  expand_all: すべて展開
+  collapse_all: すべて折りたたむ
+  show_details: 詳細を表示
+  hide_details: 詳細を隠す
+  list_density_aria: アプリ一覧の表示密度
+values:
+  eyebrow: 大切にしていること
+  title: 静かに、しかし確かに寄り添うアプリ
+  items:
+  - title: デフォルトでプライバシー
+    desc: アカウント不要、分析なし、第三者 SDK なし。データは常にあなたのデバイスに留まります。
+  - title: ネイティブで高速
+    desc: iOS、iPadOS、macOS 向け SwiftUI。即時起動と省電力を意識した調整。
+  - title: オフライン優先
+    desc: コア機能はインターネットなしで動作。どこへ行ってもツールが使えるべきです。
+  - title: 細部まで設計
+    desc: 配慮されたタイポグラフィ、触覚、滑らかなモーション、完全なダークモード。画面ごとに丁寧に仕上げています。
+  - title: 多言語サイト
+    desc: サイトは 10 言語対応——いつでも切り替え可能。アプリ内 UI は各 App Store 掲載情報に従います。
+  - title: ずっと広告なし
+    desc: ポップアップなし、広告ネットワークなし、ダークパターンなし。インプレッションではなく信頼を大切にします。
+contact:
+  eyebrow: お問い合わせ
+  title: ご質問、フィードバック、アイデアはありますか？
+  subtitle: 通常 48 時間以内に返信します。不具合の場合は機種と iOS バージョンをお知らせください。
+  email_label: メール
+  github_label: GitHub Issues
+footer:
+  rights: All rights reserved.
+  built_with: 丁寧に作られています。
+  select_language: 言語
+  select_theme: 表示
+  resources:
+    developer_home: 開発者ホームページ
+    apple_refund: Apple 返金リクエスト
+    apple_security: Apple セキュリティアップデート
+    apple_server_status: Apple サーバー稼働状況
+    apple_dev_status: Apple Developer システムステータス
+    apple_beta_releases: Apple 最新パブリックベータ
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: Apple デバイスの識別
+  resources_column: リソース
+doc:
+  on_this_page: このページの内容
+  last_updated: 最終更新
+  back_to: 戻る
+  related: 関連リンク
+toc:
+  title: 目次
+app_pages:
+  overview: 概要
+  faq: よくある質問
+  privacy: プライバシーポリシー
+  url_scheme: URL Scheme
+  screenshots: App Store プレビュー
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: タップで全画面表示 · スワイプで閲覧
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: ホームに戻る
+  open_app_page: サポートページを開く
+  app_store: App Store
+  testflight: TestFlight ベータ
+badges:
+  testflight_beta: TestFlight ベータ
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: 言語を検索…
+  no_results: 一致する言語がありません。
+notice:
+  language_set: 言語を日本語に設定しました。
+  content_fallback_en: 選択した言語のページがないため、英語で表示しています。
+  app_ui_language: アプリ内の表示言語は、お住まいの地域の App Store 商品ページに従います。
+err:
+  not_found_title: ページが見つかりません
+  not_found_subtitle: お探しのページは見つかりませんでした。
+  go_home: ホームへ

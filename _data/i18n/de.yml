@@ -1,0 +1,158 @@
+brand:
+  name: iHTC Studio
+meta:
+  site_tagline: Apps & Tools für Apple-Geräte
+  site_description: Sorgfältig entwickelte Apps für iPhone, iPad und Mac. Datenschutz zuerst, offline, ohne Konto.
+nav:
+  apps: Apps
+  collections: Sammlungen
+  app_store: App Store
+  home: Start
+  overview: Übersicht
+  faq: FAQ
+  privacy: Datenschutz
+  url_scheme: URL Scheme
+  contact: Kontakt
+  github: GitHub
+  open_menu: Menü öffnen
+  close_menu: Menü schließen
+  switch_app: App wechseln
+  other_apps: Weitere Apps
+  language: Sprache
+  appearance: Erscheinungsbild
+  theme_auto: System
+  theme_light: Hell
+  theme_dark: Dunkel
+collections_page:
+  eyebrow: Nach Thema stöbern
+  title: Sammlungen
+  subtitle: Apps nach Interesse — Schrift, Poesie, Primers, Vier Bücher, Meister, Klassiker, Englisch, Technik und mehr. Eine
+    App kann in mehreren Sammlungen erscheinen.
+  all: Alle
+  filter_label: Sammlungen filtern
+  empty: Keine Apps in dieser Sammlung.
+hero:
+  eyebrow: iHTC Studio
+  title: Sorgfältig gemacht. Ruhige Software.
+  subtitle: iHTC Studio entwickelt datenschutzfreundliche Apps für iPhone, iPad und Mac. Keine Konten, kein Tracking, keine
+    Cloud — nur durchdachte Tools, die Ihre Zeit respektieren.
+  cta_explore: Apps entdecken
+  cta_contact: Kontakt
+  stat_apps: Apps
+  stat_offline: Offline zuerst
+  stat_privacy: Kein Tracking
+  stat_hint: Mehr erfahren
+  stat_tablist: Studio-Highlights
+  stat_apps_title_suffix: sorgfältig entwickelte Apps
+  stat_apps_desc: Von Pomodoro bis App Store — jede App ist natives SwiftUI für iPhone, iPad und Mac, mit Support-Seite, FAQ
+    und Datenschutzerklärung.
+  stat_apps_action: Alle Apps ↓
+  stat_offline_title: 100 % offline-fähige Kernfunktionen
+  stat_offline_desc: Aufgaben, Wörterbücher, Timer und Rechner laufen vollständig auf dem Gerät. Für den Alltag brauchen Sie
+    kein WLAN oder Mobilfunk.
+  stat_privacy_title: Null Tracking, null Werbung
+  stat_privacy_desc: Keine Analytics-SDKs, keine Werbenetze, keine Pflichtkonten. Wir erfassen keine Nutzungsdaten. Optionale
+    iCloud-Sync nutzt nur Apples Infrastruktur.
+apps_section:
+  eyebrow: Unsere Apps
+  title: Mit Sorgfalt gebaut, im Detail poliert
+  subtitle: Jede App wirkt nativ auf Apple-Geräten, funktioniert vollständig offline und respektiert Ihre Privatsphäre. Wählen
+    Sie eine App für Details.
+  learn_more: Mehr erfahren
+  coming_soon: Demnächst
+  expand_hint: Standardmäßig kompakt — Karte öffnen für Highlights oder alle erweitern.
+  expand_all: Alle erweitern
+  collapse_all: Alle einklappen
+  show_details: Details anzeigen
+  hide_details: Details ausblenden
+  list_density_aria: Anzeigedichte der App-Liste
+values:
+  eyebrow: Was uns wichtig ist
+  title: Leise Apps, die ihren Platz verdienen
+  items:
+  - title: Datenschutz standardmäßig
+    desc: Keine Konten, keine Analysen, keine Drittanbieter-SDKs. Ihre Daten bleiben immer auf dem Gerät.
+  - title: Nativ und schnell
+    desc: Mit SwiftUI für iOS, iPadOS und macOS. Schneller Start und sparsam mit der Batterie.
+  - title: Offline zuerst
+    desc: Alle Kernfunktionen ohne Internet. Ihre Tools sollten überall funktionieren.
+  - title: Liebe zum Detail
+    desc: Typografie, Haptik, flüssige Animationen, vollständiger Dark Mode.
+  - title: Mehrsprachige Website
+    desc: Zehn Sprachen auf der Website — jederzeit wechseln. App-UI folgt der jeweiligen App-Store-Seite.
+  - title: Immer werbefrei
+    desc: Keine Pop-ups, keine Werbenetze, keine Dark Patterns.
+contact:
+  eyebrow: Kontakt
+  title: Fragen, Feedback oder Ideen?
+  subtitle: Wir antworten in der Regel innerhalb von 48 Stunden. Bei Bugs bitte Gerätemodell und iOS-Version angeben.
+  email_label: E-Mail
+  github_label: GitHub Issues
+footer:
+  rights: All rights reserved.
+  built_with: Mit Sorgfalt gebaut.
+  select_language: Sprache
+  select_theme: Erscheinungsbild
+  resources:
+    developer_home: Entwicklerseite
+    apple_refund: Apple-Rückerstattung
+    apple_security: Apple-Sicherheitsupdates
+    apple_server_status: Apple-Serverstatus
+    apple_dev_status: Apple Developer Systemstatus
+    apple_beta_releases: Apple Public Betas
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/en-us/118223
+    apple_security: https://support.apple.com/en-us/HT201222
+    apple_server_status: https://www.apple.com/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: Apple-Geräte erkennen
+  resources_column: Ressourcen
+doc:
+  on_this_page: Auf dieser Seite
+  last_updated: Zuletzt aktualisiert
+  back_to: Zurück zu
+  related: Verwandte Links
+toc:
+  title: Inhalt
+app_pages:
+  overview: Übersicht
+  faq: FAQ
+  privacy: Datenschutzerklärung
+  url_scheme: URL Scheme
+  screenshots: App Store-Vorschau
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: Tippen für Vollbild · Wischen zum Blättern
+  screenshot_counter: '%current% / %total%'
+buttons:
+  back_home: Zur Startseite
+  open_app_page: Support-Seite öffnen
+  app_store: App Store
+  testflight: TestFlight Beta
+badges:
+  testflight_beta: TestFlight Beta
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: Sprachen suchen…
+  no_results: Keine passende Sprache.
+notice:
+  language_set: Sprache auf Deutsch gestellt.
+  content_fallback_en: Diese Seite wird für Ihre Sprache auf Englisch angezeigt.
+  app_ui_language: App-Oberflächensprachen folgen der App-Store-Produktseite Ihrer Region.
+err:
+  not_found_title: Seite nicht gefunden
+  not_found_subtitle: Die gesuchte Seite existiert nicht.
+  go_home: Zur Startseite

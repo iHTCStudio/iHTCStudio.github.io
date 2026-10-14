@@ -1,0 +1,55 @@
+tools:
+  en: Tools
+  zh-CN: 工具
+  zh-TW: 工具
+  ja: ツール
+  ko: 도구
+  ru: Инструменты
+  th: เครื่องมือ
+  de: Tools
+  fr: Outils
+  tr: Araçlar
+language:
+  en: Language
+  zh-CN: 语言
+  zh-TW: 語言
+  ja: 言語
+  ko: 언어
+  ru: Язык
+  th: ภาษา
+  de: Sprache
+  fr: Langue
+  tr: Dil
+dev:
+  en: Dev
+  zh-CN: 开发
+  zh-TW: 開發
+  ja: 開発
+  ko: 개발
+  ru: Разработка
+  th: พัฒนา
+  de: Entwicklung
+  fr: Dev
+  tr: Geliştirme
+media:
+  en: Media
+  zh-CN: 媒体
+  zh-TW: 媒體
+  ja: メディア
+  ko: 미디어
+  ru: Медиа
+  th: สื่อ
+  de: Medien
+  fr: Médias
+  tr: Medya
+life:
+  en: Life
+  zh-CN: 生活
+  zh-TW: 生活
+  ja: 生活
+  ko: 생활
+  ru: Жизнь
+  th: ชีวิต
+  de: Leben
+  fr: Vie
+  tr: Yaşam

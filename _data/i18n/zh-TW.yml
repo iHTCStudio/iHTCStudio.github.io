@@ -1,0 +1,152 @@
+brand:
+  name: 愛火腿腸工作室（iHTC Studio）
+meta:
+  site_tagline: Apple 裝置上的精品應用
+  site_description: 為 iPhone、iPad 和 Mac 精心打造的應用程式。隱私優先、離線可用,無需帳號。
+nav:
+  apps: 應用
+  collections: 合集
+  app_store: App Store
+  home: 首頁
+  overview: 概覽
+  faq: 常見問題
+  privacy: 隱私政策
+  url_scheme: URL Scheme
+  contact: 聯絡我們
+  github: GitHub
+  open_menu: 打開選單
+  close_menu: 關閉選單
+  switch_app: 切換應用
+  other_apps: 其他應用
+  language: 語言
+  appearance: 外觀
+  theme_auto: 跟隨系統
+  theme_light: 淺色
+  theme_dark: 深色
+collections_page:
+  eyebrow: 按興趣瀏覽
+  title: 合集
+  subtitle: 按中文字詞、詩詞、蒙學、四書五經、諸子、國學、英語、技術等主題歸類；同一應用可出現在多個合集中。
+  all: 全部
+  filter_label: 篩選合集
+  empty: 該合集暫無應用。
+hero:
+  eyebrow: 愛火腿腸工作室（iHTC Studio）
+  title: 用心打磨。安靜好用。
+  subtitle: 愛火腿腸工作室（iHTC Studio）為 iPhone、iPad 和 Mac 設計隱私優先的精緻工具。無帳號、不追蹤、不上傳——只是尊重你時間的好軟體。
+  cta_explore: 瀏覽全部應用
+  cta_contact: 聯絡我們
+  stat_apps: 款應用
+  stat_offline: 離線優先
+  stat_privacy: 不追蹤
+  stat_hint: 了解更多
+  stat_tablist: 工作室亮點
+  stat_apps_title_suffix: 款精心打磨的應用
+  stat_apps_desc: 從番茄鐘到 App Store 瀏覽——每款應用均為 iPhone、iPad、Mac 原生 SwiftUI，配有獨立支援頁、FAQ 與隱私政策。
+  stat_apps_action: 瀏覽全部應用 ↓
+  stat_offline_title: 100% 離線優先的核心體驗
+  stat_offline_desc: 題庫、詞典、計時器與計算器等核心功能完全在裝置本機運行，日常使用無需 Wi-Fi 或行動網路，工具隨你所至。
+  stat_privacy_title: 零追蹤、零廣告
+  stat_privacy_desc: 無分析 SDK、無廣告網路、無強制帳號。我們不收集你的使用資料；可選 iCloud 同步僅透過 Apple 基礎設施完成。
+apps_section:
+  eyebrow: 我們的應用
+  title: 每個細節都用心打磨
+  subtitle: 每款應用都為 Apple 平台原生而生,完全離線可用,並尊重你的隱私。點擊下方任一應用查看詳情。
+  learn_more: 查看詳情
+  coming_soon: 即將推出
+  expand_hint: 預設精簡顯示——點卡片右上角展開亮點，或一鍵全部展開。
+  expand_all: 全部展開
+  collapse_all: 全部收起
+  show_details: 展開簡介
+  hide_details: 收起簡介
+  list_density_aria: 應用列表顯示密度
+values:
+  eyebrow: 我們的理念
+  title: 安靜地把每件小事做對
+  items:
+  - title: 預設隱私
+    desc: 不要帳號、不收集資料、不接入任何第三方 SDK。所有內容都只留在你的裝置上。
+  - title: 原生快速
+    desc: 基於 SwiftUI 為 iOS、iPadOS 和 macOS 構建,啟動迅捷、節能省電。
+  - title: 離線優先
+    desc: 所有核心功能均可在無網路環境下使用,讓你的工具陪你去任何地方。
+  - title: 細節為王
+    desc: 考究的排版、真實的觸感、流暢的動效、完整的深色模式。每個像素都精心雕琢。
+  - title: 多語言網站
+    desc: 官網支援十種語言，隨時切換；App 內介面以 App Store 產品頁說明為準。
+  - title: 永久無廣告
+    desc: 無彈窗、無廣告聯盟、無套路設計。我們贏得信任，而非曝光量。
+contact:
+  eyebrow: 聯絡我們
+  title: 有任何問題、建議或想法嗎?
+  subtitle: 我們通常會在 48 小時內回覆。如果是 Bug,煩請附上裝置型號與 iOS 版本。
+  email_label: 電子郵件
+  github_label: GitHub Issues
+footer:
+  rights: 保留所有權利。
+  built_with: 用心打造。
+  select_language: 語言
+  select_theme: 外觀
+  resources:
+    developer_home: 開發者主頁
+    apple_refund: Apple 退款申請
+    apple_security: Apple 安全性更新
+    apple_server_status: Apple 伺服器狀態
+    apple_dev_status: Apple 開發者系統狀態
+    apple_beta_releases: Apple 最新公測版本系統
+  resource_urls:
+    developer_home: https://apps.apple.com/cn/developer/iHTCStudio/id914453386
+    apple_refund: https://support.apple.com/zh-hk/118223
+    apple_security: https://support.apple.com/zh-hk/HT201222
+    apple_server_status: https://www.apple.com/hk/support/systemstatus/
+    apple_dev_status: https://developer.apple.com/system-status/
+    apple_beta_releases: https://developer.apple.com/news/releases/
+  identify_column: 辨識 Apple 裝置
+  resources_column: 資源
+doc:
+  on_this_page: 本頁內容
+  last_updated: 最後更新
+  back_to: 返回
+  related: 相關連結
+toc:
+  title: 目錄
+app_pages:
+  overview: 應用概覽
+  faq: 常見問題
+  privacy: 隱私政策
+  screenshots: App Store 預覽
+  screenshot_iphone: iPhone
+  screenshot_ipad: iPad
+  screenshot_mac: Mac
+  screenshot_hint: 點擊截圖全螢幕瀏覽 · 可左右滑動切換
+  screenshot_counter: '%current% / %total%'
+  url_scheme: URL Scheme
+buttons:
+  back_home: 返回首頁
+  open_app_page: 打開支援頁
+  app_store: App Store
+  testflight: TestFlight 測試版
+badges:
+  testflight_beta: TestFlight 測試
+language_names:
+  en: English
+  zh-CN: 简体中文
+  zh-TW: 繁體中文
+  ja: 日本語
+  ko: 한국어
+  ru: Русский
+  th: ไทย
+  de: Deutsch
+  fr: Français
+  tr: Türkçe
+language_menu:
+  search_placeholder: 搜尋語言…
+  no_results: 沒有符合的語言。
+notice:
+  language_set: 語言已切換為繁體中文。
+  content_fallback_en: 目前所選語言尚無對應正文，以下為英文版本。
+  app_ui_language: App 內介面語言以您所在地區的 App Store 產品頁為準。
+err:
+  not_found_title: 頁面未找到
+  not_found_subtitle: 找不到你要造訪的頁面。
+  go_home: 回到首頁

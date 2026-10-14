@@ -1,0 +1,310 @@
+iVideo (爱视频) is a **privacy-first professional video toolbox** for iPhone, iPad and Mac — screen recorder, frame-accurate player, **31 editing tools**, and a **multi-track edit-project editor**, all processed **100% on-device**. **No cloud, no account, no upload, no ads, no tracking.** This page is a **complete step-by-step guide**.
+
+**At a glance:** Library + **Edit Projects** (always on, with sticker library & image track) · optional Record (off by default) & Live Photo (on by default) · 31 tools in 7 categories · multi-track timelines · playback **0.05–8×** · on-device subtitles (60+ languages) · face blur · color grading + LUTs · batch processing · 6 quality tiers + 4 named export presets · JKL pro playback · alternate icons · Siri · optional iCloud sync.
+
+---
+
+## Part 1 — First Launch & Interface
+
+### Onboarding & sample video
+
+On first launch a short **guided onboarding** highlights the pillars: professional workspace, frame-level precision, color creation, privacy-first, on-device subtitles. A **sample video is auto-added** so your library isn't empty — open it and try any tool immediately. Replay the tour anytime in **Settings → Help**.
+
+### The main tabs
+
+| Tab | What it does |
+|-----|----------------|
+| **Library** | All your videos — search, filter, sort, batch-edit |
+| **Edit Projects** | Always-on project library — create, rename, duplicate, open multi-track timelines; **sticker library** & **image import** overlays |
+| **Record** *(optional, off by default)* | Screen recording; tab badge shows live elapsed time. Enable in Settings → Show in Tab Bar. |
+| **Live Photo** *(optional, on by default)* | Convert to/from Live Photos; hide in Settings if unused |
+| **Settings** | Theme, language, app icon, export, recording, storage, help, tab visibility |
+
+When Record or Live Photo is hidden from the tab bar, you can still open them from Settings, Siri / Shortcuts, or an empty-library CTA (sheet).
+
+---
+
+## Part 2 — Getting Videos In
+
+### Screen recording
+
+**iOS:** Open the **Record** tab → tap the record button → the system **Broadcast Picker** appears → choose **iVideo** → **Start Broadcast**. A live duration badge shows on the Record tab. Auto-snapshots can be captured at an interval you set in Settings.
+
+> iOS screen recording requires a **real device** — the Simulator can't broadcast.
+
+**macOS:** Uses **ScreenCaptureKit** with multi-display and optional system audio. The first time, grant permission in **System Settings → Privacy & Security → Screen Recording**.
+
+### Import
+
+- **From Photos** — zero transcoding, with live progress
+- **From Files** — multi-select import (iOS)
+- **Remote URL** — direct-link download (hidden by default; enable in Settings → Advanced if shown)
+
+---
+
+## Part 3 — The Video Library
+
+### Search, filter & sort
+
+- **Search** by filename, custom name, or tag
+- **Filter**: All / Favorites / Recorded / Imported / Exported / Has Notes
+- **Sort** (Files-app style): by **date / name / size / kind / favorite**, each with **ascending / descending** — tap the same field again to flip direction
+
+### Layout
+
+Use the **View** menu: **Grid** or **List**, with adjustable columns (iPhone 1–4, iPad & Mac 2–6). List rows show thumbnail, title, source, size, favorite, notes and tags. Cards/rows also show the creation date.
+
+### Batch operations
+
+Multi-select, then: **Share**, **Save to Photos**, **Favorite**, **Merge**, **Collage**, **Batch Process**, or **Delete** (shows total storage freed).
+
+### Custom cover
+
+In the workspace menu, choose **Set current frame as cover** — the library shows it automatically.
+
+---
+
+## Part 4 — The Workspace & Playback
+
+Open any video (iOS full-screen, macOS sheet) to enter the **Workspace**: dark preview, compact playback bar, tool categories, and the tool grid.
+
+### Playback controls
+
+- **Play/Pause**, frame step, ⏪10s / ⏩10s skip
+- **Scrubber** with floating **thumbnail preview** and time bubble
+- **Speed capsule** — shows real-time speed; **long-press** (0.5s) opens the custom-speed sheet
+- **Horizontal swipe** on the preview to seek
+- **Double-tap** to enter immersive full-screen; **pinch** to zoom the preview (1×–12×)
+- **AirPlay & PiP** from the ⋯ menu (iOS)
+
+### Variable speed
+
+- **8 presets** (0.05× … 8×) + **custom slider** (0.05×–8×) + **2 recent** chips
+- **Pinch to adjust** speed on iPhone
+- Speed & mute **persist across sessions** and sync via iCloud
+
+### JKL professional shuttle (great with a keyboard)
+
+| Key | Action |
+|-----|--------|
+| **L** | Play forward; press again 2× → 4× → 8× |
+| **J** | Reverse; press again to speed up reverse |
+| **K** | Pause & reset |
+| **K + J/L** | Hold K for 0.5× slow motion |
+| **Space** | Play/pause |
+| **← →** | Step 1 frame · **Shift+← →** skip 10s · **, .** step |
+
+A **JKL HUD** shows current speed; optional **Live Activity** mirrors it on Lock Screen / Dynamic Island (iOS 16.1+). The scrubber turns **red** during reverse.
+
+### Favorite tools bar
+
+**Long-press** any tool → **Add to favorites** to pin it to a quick-access bar at the top (up to 5, synced via iCloud).
+
+---
+
+## Part 5 — The 31 Tools (7 Categories)
+
+Open a video, pick a category, tap a tool, adjust parameters, then run. Export goes to the global queue.
+
+| Category | Tools |
+|----------|-------|
+| **Basic** | Screenshot · Frame Extraction · Video Info · Scene Chapters · Text Recognition · Scopes · Annotation |
+| **Clip** | Duration Trim · Aspect Crop · Rotate · Text Edit · Beat Montage · Jump Cut |
+| **Speed** | Variable Speed (0.05–8×) · Reverse · Speed Ramp |
+| **Audio** | Mute · Audio Extraction (M4A/WAV/CAF) · On-Device Subtitles · Denoise & Enhance |
+| **Visual** | Watermark · Metadata Strip · Compression · Face Blur · Color Grading |
+| **Convert** | Live Photo · GIF · Social Format · Before/After Compare |
+| **Notes** | Video Notes · Frame Compare |
+
+**Screenshot / Frame extraction:** adjustable **JPEG quality** slider (100% = "Original"); can save to Photos or the **Files** app.
+**Video Info:** codec, resolution, fps, bitrate, duration, size.
+**OCR:** recognizes text on the current frame; result is **editable**; copy or share. Results are cached across sheets.
+**Waveform Scope:** RGB histogram + luma waveform for the current frame.
+**Annotation:** draw arrows/circles/rectangles/freehand/text → export full-resolution PNG.
+
+---
+
+## Part 6 — On-Device Subtitles (Flagship)
+
+1. Open a video → **Audio → Subtitles**
+2. Choose a **source mode**: **Speech**, **Sound events** (music/applause/laughter → `[tags]`), or **Speech + Sound**
+3. Pick the **recognition language** (searchable list, 60+ languages; an orange "Download" badge means you need the offline pack in system settings)
+4. Tap generate — everything runs **on-device** (`requiresOnDeviceRecognition`); nothing is uploaded
+5. **Edit** any line, delete, or tap a line to seek
+6. Open **Style** for weight, shadow, box/outline opacity, alignment, vertical layout, and custom primary/secondary colors — save as a **named preset**
+7. Optional **bilingual translation** (Apple Translation, on-device) adds a secondary line
+8. **Export SRT / ASS**, or **burn-in** to the video (cancellable)
+
+> On iOS 26 / macOS 26 the modern `SpeechAnalyzer` path gives stable long-audio recognition with word-level timing.
+
+---
+
+## Part 7 — Face Blur (Flagship)
+
+1. Open a video → **Visual → Face Blur**
+2. Faces are **auto-detected** every frame (Vision)
+3. Choose **Gaussian blur** or **Mosaic**, adjust **intensity**
+4. For plates, signs, or logos detection can't catch, **draw a manual rectangle** — it applies to the whole clip
+5. Export — soft-edge masks and the original audio are preserved; the frames never leave your device
+
+---
+
+## Part 8 — Color Grading, LUTs & Filters
+
+- **7-parameter grading** — exposure, brightness, contrast, saturation, vibrance, white balance, tint; real-time preview with **hold-to-compare**
+- **Built-in LUT pack** — 6 styles (Teal & Orange, Bleach Bypass, Vintage, Cool Shadow, Warm Shadow, High-Contrast B&W), zero resource files
+- **Filter presets** — 11 built-in; **import `.cube` 3D LUTs** from Adobe/Resolve
+
+---
+
+## Part 9 — Speed Ramp, Silence Removal & Beat Sync
+
+- **Speed Ramp** — split the timeline into segments and assign a speed per segment with a color-band editor
+- **Silence Removal** — auto jump-cut silent parts (RMS + adaptive threshold), with a canvas preview of kept/removed ranges
+- **Beat Sync** — detects beats/BPM and cuts on every beat with continuous audio; stack transitions (zoom, slide, flash, black)
+
+---
+
+## Part 10 — Social Format, Compare, Merge & Collage
+
+- **Social Format** — 9:16 / 1:1 / 4:5 / 16:9 with blur background, solid color, or crop-to-fill; safe-area guides; optional top/bottom caption bar
+- **Before/After** — side-by-side or top/bottom split with divider and labels
+- **Merge** — concatenate clips with optional crossfade
+- **Collage** — 2–4 videos side-by-side, top-bottom, or 4-grid at 1920×1080
+
+---
+
+## Part 11 — Live Photo Studio
+
+- **Video → Live Photo** — pick a key frame and duration to make a Live wallpaper
+- **Live Photo → Video / GIF / Still** — original encoding preserved; exports use a protected copy so your Photos Live pair is not broken
+- **Batch mode** — multi-select Live Photos for bulk conversion
+
+---
+
+## Part 12 — Batch Processing (Recipes)
+
+1. In the Library, **multi-select** videos → **Batch Process**
+2. Build a **recipe** — a fixed chain: rotate → speed → mute → watermark → metadata strip → compress
+3. Run — videos process serially; a single failure won't stop the batch; completed items are added to the library incrementally
+4. Your last recipe is remembered for next time
+
+---
+
+## Part 13 — Edit Projects (Multi-Track Editor)
+
+For real timeline editing, open the **Edit Projects** tab. This is a savable, composable, publishable non-linear editor — with a full **sticker library**, **image import** onto the timeline, and multi-track overlays.
+
+### Create & arrange
+
+1. **New project** → **Add clips** from your library
+2. **Multi-track timeline** — split, delete, drag to reorder, crossfade between clips
+3. **Timeline controls** — ruler with drag-to-seek, **pinch to zoom** (remembered), double-tap to reset, multi-frame thumbnails on long clips, active clip highlighted
+
+### Overlays & audio
+
+- **Overlays** — timed **text**, **stickers**, or **picture-in-picture video**
+- **PiP free placement** — drag the PiP center freely, or snap to corners; scale roughly 0.15–0.7
+- **Dual audio** — **BGM + narration** with loop-fill and **automatic ducking** under speech
+- **Preview volume** updates instantly while dragging (no full preview rebuild)
+- **Close confirmation** — Keep / Discard / Keep editing when leaving with unsaved changes
+- **Scrub release** resumes playback (including JKL direction/speed) when you were playing before scrubbing
+
+### Per-clip reprocessing (baked, reversible)
+
+- **Stabilize** (Vision frame alignment)
+- **Smart Reframe** (face-follow landscape → portrait)
+- **Smooth Slow-Mo** (frame blending)
+- **Multicam** (A/B offset align + switch / PiP)
+
+### Canvas & publish
+
+1. Pick a **canvas ratio** (Original / 9:16 / 1:1 / 4:5 / 16:9)
+2. Use **Undo/Redo**; the project **auto-saves** (debounced)
+3. Open the **Publish Wizard** — choose platform aspect, cover frame, and subtitle burn-in (SRT/ASS) → saved to your Library
+
+> Projects are **self-contained** (media is copied in), so deleting originals won't break a project. Preview and export share the same composition — what you see is what you get.
+
+---
+
+## Part 14 — Export
+
+| Preset | Resolution |
+|--------|-----------|
+| Original | Source |
+| Ultra HD | 4K |
+| Super HD | 2K |
+| HD | 1080p |
+| Standard | 720p |
+| Compact | 540p |
+
+- Format **MP4** or **MOV**
+- **Export presets** — 4 built-in + custom (quality + container); switch globally from the workspace ⋯ menu or Settings
+- **Global export queue** — background serial processing with progress; view pending / running / completed / failed; iOS keeps exports alive in the background
+- **Completion notification** — optional local notification (toggle in Settings → Export)
+- **Quick share** — the export toast has an inline Share button; session history lets you re-share
+
+---
+
+## Part 15 — Siri & Shortcuts
+
+Built-in **App Shortcuts** (Siri & the Shortcuts app):
+
+- **Start recording**
+- **Open video library**
+- **Open Live Photo tool**
+
+Add them to Siri or build automations in the Shortcuts app.
+
+---
+
+## Part 16 — Settings Walkthrough
+
+- **Appearance** — theme (light/dark/system), language (EN / 简中 / 繁中, instant switch), **Live Activity** toggle (JKL, off by default), **alternate app icons** on iOS (default + 8 styles)
+- **Export** — default preset, export presets manager (4 built-in named presets + custom), completion notification toggle
+- **Recording** — auto-snapshot interval, macOS audio options; Record / Live Photo **Show in Tab Bar**
+- **Watermark** — default watermark settings
+- **Storage** — thumbnail cache summary and clear
+- **Help** — usage guide, all-tools reference, permissions, FAQ, replay onboarding
+- **About** — app stats, highlights, rate, share, feedback (email auto-attaches device info)
+- Top of Settings has a **search** field
+
+---
+
+## Part 17 — iCloud Sync
+
+Lightweight preference sync via `NSUbiquitousKeyValueStore`:
+
+| Synced | Not synced |
+|--------|------------|
+| Theme, language | Video files themselves |
+| Playback speed, mute | Library sort/filter |
+| Custom speed history | Remote-download toggle |
+| Favorite tools bar | — |
+
+Works only when signed into iCloud; otherwise everything still works locally.
+
+---
+
+## Part 18 — Privacy
+
+- **All processing on-device** — recording, editing, speech, face detection, OCR, translation, color
+- **No cloud, no account, no analytics SDK, no tracking**
+- Optional iCloud syncs only lightweight preferences
+
+Details: [Privacy Policy](privacy)
+
+---
+
+## System Requirements
+
+| Platform | Minimum |
+|----------|---------|
+| iPhone / iPad | iOS 17.0+ |
+| Mac | macOS 14.0+ |
+
+## Contact Us
+
+- **Email:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com) — we typically reply within 48 hours.
+
+[FAQ](faq) · [Privacy Policy](privacy)

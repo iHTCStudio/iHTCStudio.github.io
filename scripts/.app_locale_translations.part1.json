@@ -1,0 +1,594 @@
+{
+  "iCalendar": {
+    "ja": {
+      "taglines": "旧暦カレンダー — ウィジェット25+9種、透明スタイル、タブバー、オフライン対応。",
+      "blurbs": "1891〜2100年の暦、より充実した黄历、ホームの日付パネルと「今日の暦」ウィジェット。ホーム用25種+ロック画面用9種のウィジェット(iOS 17の透明スタイル対応)。カウントダウンは選択した日に連動 — オフライン対応、アカウント不要。",
+      "highlights": ["ウィジェット25+9種", "今日の暦", "透明ウィジェット", "1891〜2100年"]
+    },
+    "ko": {
+      "taglines": "음력 달력 — 위젯 25+9종, 투명 스타일, 탭 바, 오프라인 지원.",
+      "blurbs": "1891~2100년 만세력, 더 풍부해진 황력(黄历), 홈 날짜 패널과 ‘오늘의 만세력’ 위젯. 홈 화면 위젯 25종 + 잠금 화면 위젯 9종(iOS 17 투명 스타일 포함). 카운트다운은 선택한 날짜를 따라갑니다 — 오프라인 사용, 계정 불필요.",
+      "highlights": ["위젯 25+9종", "오늘의 만세력", "투명 위젯", "1891~2100년"]
+    },
+    "ru": {
+      "taglines": "Лунный календарь — 25+9 виджетов, прозрачные стили, панель вкладок, работает офлайн.",
+      "blurbs": "Альманах 1891–2100, расширенный 黄历, панель даты на главном экране и виджет «Альманах на сегодня»; 25 виджетов для экрана «Домой» и 9 для экрана блокировки, включая прозрачные стили iOS 17; обратный отсчёт следует за выбранным днём — офлайн, без аккаунта.",
+      "highlights": ["25+9 виджетов", "Альманах на сегодня", "Прозрачные виджеты", "1891–2100"]
+    },
+    "th": {
+      "taglines": "ปฏิทินจันทรคติ — วิดเจ็ต 25+9 แบบ สไตล์โปร่งใส แท็บบาร์ ใช้งานออฟไลน์",
+      "blurbs": "ปฏิทินปี 1891–2100 พร้อม 黄历 ที่สมบูรณ์ยิ่งขึ้น แผงวันที่บนหน้าจอโฮมและวิดเจ็ตปฏิทินประจำวัน วิดเจ็ตหน้าจอโฮม 25 แบบ + หน้าจอล็อก 9 แบบ รวมสไตล์โปร่งใสของ iOS 17 การนับถอยหลังจะเปลี่ยนตามวันที่เลือก — ใช้งานออฟไลน์ ไม่ต้องมีบัญชี",
+      "highlights": ["วิดเจ็ต 25+9 แบบ", "ปฏิทินประจำวัน", "วิดเจ็ตโปร่งใส", "1891–2100"]
+    },
+    "de": {
+      "taglines": "Mondkalender — 25+9 Widgets, transparente Stile, Tab-Leiste, offline.",
+      "blurbs": "Almanach 1891–2100, umfangreicherer 黄历, Datumsleiste auf dem Home-Bildschirm und Widget „Almanach heute“; 25 Home- und 9 Sperrbildschirm-Widgets inkl. transparenter iOS-17-Stile; Countdown folgt dem gewählten Tag — offline, ohne Account.",
+      "highlights": ["25+9 Widgets", "Almanach heute", "Transparente Widgets", "1891–2100"]
+    },
+    "fr": {
+      "taglines": "Calendrier lunaire — 25+9 widgets, styles transparents, barre d’onglets, hors ligne.",
+      "blurbs": "Almanach 1891–2100, 黄历 enrichi, panneau de date sur l’écran d’accueil et widget « Almanach du jour » ; 25 widgets d’accueil + 9 d’écran verrouillé, dont les styles transparents d’iOS 17 ; le compte à rebours suit le jour sélectionné — hors ligne, sans compte.",
+      "highlights": ["25+9 widgets", "Almanach du jour", "Widgets transparents", "1891–2100"]
+    },
+    "tr": {
+      "taglines": "Ay takvimi — 25+9 widget, şeffaf stiller, sekme çubuğu, çevrimdışı.",
+      "blurbs": "1891–2100 almanak, daha zengin 黄历, ana ekran tarih paneli ve “Bugünün Almanağı” widget’ı; iOS 17 şeffaf stilleri dahil 25 ana ekran + 9 kilit ekranı widget’ı; geri sayım seçilen güne göre ilerler — çevrimdışı, hesap gerekmez.",
+      "highlights": ["25+9 widget", "Bugünün Almanağı", "Şeffaf widget’lar", "1891–2100"]
+    }
+  },
+  "iApp": {
+    "ja": {
+      "taglines": "サードパーティ製App Storeブラウザ — プレビュー、バージョン履歴、開発者の返信、18言語対応。",
+      "blurbs": "175の地域にわたる12種のチャートを閲覧し、プレビューを視聴、ストアを比較、返信付きレビューやバージョン履歴を確認。掲載情報や価格の変更も追跡できます。ストアリンクの貼り付け、デベロッパ別チャート、お気に入り、ウィジェットに対応 — サインイン不要。",
+      "highlights": ["開発者の返信", "バージョン履歴", "拡張iapp://リンク", "18言語"]
+    },
+    "ko": {
+      "taglines": "서드파티 App Store 브라우저 — 미리보기, 버전 기록, 개발자 답글, 18개 언어 지원.",
+      "blurbs": "175개 지역의 차트 12종을 둘러보고, 미리보기를 시청하고, 스토어를 비교하고, 답글이 달린 리뷰와 버전 기록을 확인하세요. 등록 정보와 가격 변경도 추적합니다. 스토어 링크 붙여넣기, 개발자 차트, 즐겨찾기, 위젯 지원 — 로그인 불필요.",
+      "highlights": ["개발자 답글", "버전 기록", "확장 iapp:// 링크", "18개 언어"]
+    },
+    "ru": {
+      "taglines": "Сторонний браузер App Store — превью, история версий, ответы разработчиков и 18 языков.",
+      "blurbs": "Просматривайте 12 чартов в 175 регионах, смотрите превью, сравнивайте магазины, читайте отзывы с ответами и историю версий; отслеживайте изменения страницы приложения и цен. Вставка ссылок на магазин, чарты разработчиков, избранное и виджеты — без входа в аккаунт.",
+      "highlights": ["Ответы разработчиков", "История версий", "Расширенные ссылки iapp://", "18 языков"]
+    },
+    "th": {
+      "taglines": "เบราว์เซอร์ App Store จากบุคคลที่สาม — พรีวิว ประวัติเวอร์ชัน คำตอบจากนักพัฒนา และ 18 ภาษา",
+      "blurbs": "เรียกดูชาร์ต 12 แบบใน 175 ภูมิภาค ดูพรีวิว เปรียบเทียบสโตร์ อ่านรีวิวพร้อมคำตอบและประวัติเวอร์ชัน ติดตามการเปลี่ยนแปลงของหน้ารายการแอปและราคา วางลิงก์สโตร์ ชาร์ตของนักพัฒนา รายการโปรด และวิดเจ็ต — ไม่ต้องลงชื่อเข้าใช้",
+      "highlights": ["คำตอบจากนักพัฒนา", "ประวัติเวอร์ชัน", "ลิงก์ iapp:// แบบขยาย", "18 ภาษา"]
+    },
+    "de": {
+      "taglines": "App-Store-Browser von Drittanbietern — Vorschauen, Versionsverlauf, Entwicklerantworten & 18 Sprachen.",
+      "blurbs": "Stöbere in 12 Charts aus 175 Regionen, sieh dir Vorschauen an, vergleiche Stores, lies Bewertungen mit Antworten und den Versionsverlauf; verfolge Änderungen an Eintrag und Preis. Store-Links einfügen, Entwickler-Charts, Favoriten & Widgets — ohne Anmeldung.",
+      "highlights": ["Entwicklerantworten", "Versionsverlauf", "Erweiterte iapp://-Links", "18 Sprachen"]
+    },
+    "fr": {
+      "taglines": "Navigateur App Store tiers — aperçus, historique des versions, réponses des développeurs et 18 langues.",
+      "blurbs": "Parcourez 12 classements dans 175 pays ou régions, regardez les aperçus, comparez les stores, lisez les avis avec réponses et l’historique des versions ; suivez les changements de fiche et de prix. Collez des liens de store, consultez les classements de développeurs, favoris et widgets — sans connexion.",
+      "highlights": ["Réponses des développeurs", "Historique des versions", "Liens iapp:// étendus", "18 langues"]
+    },
+    "tr": {
+      "taglines": "Üçüncü taraf App Store tarayıcısı — önizlemeler, sürüm geçmişi, geliştirici yanıtları ve 18 dil.",
+      "blurbs": "175 bölgede 12 listeye göz atın, önizlemeleri izleyin, mağazaları karşılaştırın, yanıtlı yorumları ve sürüm geçmişini okuyun; liste ve fiyat değişikliklerini takip edin. Mağaza bağlantısı yapıştırma, geliştirici listeleri, favoriler ve widget’lar — oturum açmadan.",
+      "highlights": ["Geliştirici yanıtları", "Sürüm geçmişi", "Genişletilmiş iapp:// bağlantıları", "18 dil"]
+    }
+  },
+  "iPomodoros": {
+    "ja": {
+      "taglines": "集中、記録、達成。 — ポモドーロ、統計、ウィジェット、Live Activity。",
+      "blurbs": "iPhoneとiPad向けのネイティブな集中スタジオ。ポモドーロサイクル、フリータイマー、カウントダウンタスク、統計(目標、ヒートマップ、実績、シェアカード)を搭載。5種類のウィジェット、2つのLive Activity、Siriに対応 — iCloudは任意、アカウント不要。",
+      "highlights": ["プライバシー最優先", "9つの実績", "5種類のウィジェット", "Siri対応"]
+    },
+    "ko": {
+      "taglines": "집중하고, 기록하고, 달성하세요. — 포모도로, 통계, 위젯, Live Activity.",
+      "blurbs": "iPhone과 iPad를 위한 네이티브 집중 스튜디오: 포모도로 사이클, 자유 타이머, 카운트다운 작업, 통계(목표, 히트맵, 업적, 공유 카드). 위젯 5종, 이중 Live Activity, Siri 지원 — iCloud는 선택 사항, 계정 불필요.",
+      "highlights": ["개인정보 우선", "업적 9개", "위젯 5종", "Siri 지원"]
+    },
+    "ru": {
+      "taglines": "Фокус. Учёт. Результат. — Помодоро, статистика, виджеты и Live Activity.",
+      "blurbs": "Нативная студия концентрации для iPhone и iPad: циклы Помодоро, свободный таймер, задачи с обратным отсчётом и статистика (цели, тепловые карты, достижения, карточки для публикации). Пять семейств виджетов, двойная Live Activity и Siri — iCloud по желанию, без аккаунта.",
+      "highlights": ["Приватность прежде всего", "9 достижений", "5 семейств виджетов", "Поддержка Siri"]
+    },
+    "th": {
+      "taglines": "โฟกัส บันทึก สำเร็จ — โพโมโดโร สถิติ วิดเจ็ต และ Live Activity",
+      "blurbs": "สตูดิโอสมาธิแบบเนทีฟสำหรับ iPhone และ iPad: รอบโพโมโดโร ตัวจับเวลาอิสระ งานนับถอยหลัง และสถิติ (เป้าหมาย ฮีตแมป ความสำเร็จ การ์ดแชร์) วิดเจ็ต 5 กลุ่ม Live Activity คู่ และ Siri — iCloud เป็นตัวเลือก ไม่ต้องมีบัญชี",
+      "highlights": ["ความเป็นส่วนตัวมาก่อน", "ความสำเร็จ 9 รายการ", "วิดเจ็ต 5 กลุ่ม", "รองรับ Siri"]
+    },
+    "de": {
+      "taglines": "Fokussieren. Erfassen. Erreichen. — Pomodoro, Statistiken, Widgets & Live-Aktivität.",
+      "blurbs": "Native Fokus-App für iPhone und iPad: Pomodoro-Zyklen, freier Timer, Countdown-Aufgaben und Statistiken (Ziele, Heatmaps, Erfolge, Teilen-Karten). Fünf Widget-Familien, doppelte Live-Aktivität & Siri — optionales iCloud, ohne Account.",
+      "highlights": ["Datenschutz zuerst", "9 Erfolge", "5 Widget-Familien", "Siri-fähig"]
+    },
+    "fr": {
+      "taglines": "Concentration. Suivi. Réussite. — Pomodoro, statistiques, widgets et Live Activity.",
+      "blurbs": "Studio de concentration natif pour iPhone et iPad : cycles Pomodoro, minuteur libre, tâches avec compte à rebours et statistiques (objectifs, cartes de chaleur, succès, cartes de partage). Cinq familles de widgets, double Live Activity et Siri — iCloud facultatif, sans compte.",
+      "highlights": ["Confidentialité d’abord", "9 succès", "5 familles de widgets", "Compatible Siri"]
+    },
+    "tr": {
+      "taglines": "Odaklan. Takip et. Başar. — Pomodoro, istatistikler, widget’lar ve Canlı Etkinlik.",
+      "blurbs": "iPhone ve iPad için yerel odak stüdyosu: Pomodoro döngüleri, serbest zamanlayıcı, geri sayım görevleri ve istatistikler (hedefler, ısı haritaları, başarımlar, paylaşım kartları). Beş widget ailesi, çift Canlı Etkinlik ve Siri — isteğe bağlı iCloud, hesap gerekmez.",
+      "highlights": ["Önce gizlilik", "9 başarım", "5 widget ailesi", "Siri uyumlu"]
+    }
+  },
+  "iTangPoems": {
+    "ja": {
+      "taglines": "没入型の唐詩アプリ — 朗読、学習、暗唱、今日の一首。",
+      "blurbs": "名作と有名な追加作品を含む368首を収めた没入型の唐詩スタジオ。カラオケ式TTS、学習、朗読のLive Activity、5通りの閲覧、今日の一首、6種のウィジェット、iCloudに対応 — 完全オフライン、アカウント不要、広告なし。",
+      "highlights": ["368首", "手書き検索", "カラオケ暗唱", "6種のウィジェット"]
+    },
+    "ko": {
+      "taglines": "몰입형 당시 감상 — 낭독, 학습, 암송, 오늘의 시.",
+      "blurbs": "명작과 유명 작품을 더한 368수를 담은 몰입형 당시 스튜디오: 노래방 방식 TTS, 학습, 낭독 Live Activity, 5가지 탐색 방식, 오늘의 시, 위젯 6종, iCloud 지원 — 완전 오프라인, 계정 불필요, 광고 없음.",
+      "highlights": ["368수", "필기 검색", "노래방식 암송", "위젯 6종"]
+    },
+    "ru": {
+      "taglines": "Поэзия Тан с полным погружением — чтение вслух, изучение, заучивание, стихотворение дня.",
+      "blurbs": "Студия поэзии эпохи Тан с 368 стихотворениями (классика и известные дополнения): TTS в формате караоке, изучение, Live Activity для чтения, пять способов просмотра, стихотворение дня, 6 виджетов и iCloud — полностью офлайн, без аккаунта и рекламы.",
+      "highlights": ["368 стихотворений", "Поиск по рукописному вводу", "Заучивание в стиле караоке", "6 виджетов"]
+    },
+    "th": {
+      "taglines": "กวีนิพนธ์ราชวงศ์ถังแบบดื่มด่ำ — อ่านออกเสียง ศึกษา ท่องจำ และบทกวีประจำวัน",
+      "blurbs": "สตูดิโอกวีนิพนธ์ถังพร้อมบทกวี 368 บท (ผลงานคลาสสิกและบทเด่นเพิ่มเติม): TTS แบบคาราโอเกะ โหมดศึกษา Live Activity สำหรับการอ่าน เรียกดู 5 รูปแบบ บทกวีประจำวัน วิดเจ็ต 6 แบบ และ iCloud — ใช้งานออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["368 บท", "ค้นหาด้วยลายมือ", "ท่องจำแบบคาราโอเกะ", "วิดเจ็ต 6 แบบ"]
+    },
+    "de": {
+      "taglines": "Tang-Dichtung zum Eintauchen — vorlesen, lernen, rezitieren, Gedicht des Tages.",
+      "blurbs": "Immersives Tang-Poesie-Studio mit 368 Gedichten (Klassiker + bekannte Ergänzungen): Karaoke-TTS, Lernmodus, Live-Aktivität beim Lesen; fünf Wege zum Stöbern, Gedicht des Tages, 6 Widgets & iCloud — komplett offline, ohne Account, ohne Werbung.",
+      "highlights": ["368 Gedichte", "Handschriftsuche", "Karaoke-Rezitation", "6 Widgets"]
+    },
+    "fr": {
+      "taglines": "Poésie Tang immersive — lecture à voix haute, étude, récitation, poème du jour.",
+      "blurbs": "Studio immersif de poésie Tang avec 368 poèmes (classiques + célèbres ajouts) : TTS façon karaoké, étude, Live Activity de lecture ; cinq modes de navigation, poème du jour, 6 widgets et iCloud — entièrement hors ligne, sans compte, sans publicité.",
+      "highlights": ["368 poèmes", "Recherche manuscrite", "Récitation karaoké", "6 widgets"]
+    },
+    "tr": {
+      "taglines": "Sürükleyici Tang şiiri — sesli okuma, çalışma, ezberleme, günün şiiri.",
+      "blurbs": "368 şiirlik (klasikler + ünlü ek eserler) sürükleyici Tang şiiri stüdyosu: karaoke tarzı TTS, çalışma, okuma Canlı Etkinliği; beş farklı gezinme yolu, günün şiiri, 6 widget ve iCloud — tamamen çevrimdışı, hesap yok, reklam yok.",
+      "highlights": ["368 şiir", "El yazısıyla arama", "Karaoke tarzı ezber", "6 widget"]
+    }
+  },
+  "iSongCi": {
+    "ja": {
+      "taglines": "一日一詞 — 宋詞21,592首をオフラインで。連続読みとウィジェット対応。",
+      "blurbs": "宋詞21,592首をすべて収録した宋詞スタジオ。現代語の解説、詞学院と飛花令、今日の詞、連続読み、プレイリスト、繁体字、読み上げ速度、バックグラウンド再生、カードやウィジェットでの一句選択に対応 — 完全オフライン、アカウント不要、広告なし。",
+      "highlights": ["宋詞21,592首", "手書き検索", "詞学院", "飛花令"]
+    },
+    "ko": {
+      "taglines": "하루 한 수의 사(詞) — 송사 21,592수를 오프라인으로, 연속 읽기와 위젯까지.",
+      "blurbs": "송사 21,592수를 모두 수록한 송사 스튜디오: 현대어 해설, 사 학원(詞學院)과 비화령(飛花令), 오늘의 사, 연속 읽기, 플레이리스트, 번체자, 낭독 속도, 백그라운드 오디오, 카드와 위젯에서 구절 선택 — 완전 오프라인, 계정 불필요, 광고 없음.",
+      "highlights": ["송사 21,592수", "필기 검색", "사 학원", "비화령"]
+    },
+    "ru": {
+      "taglines": "Одна ци в день — 21 592 песенных текста эпохи Сун офлайн, непрерывное чтение и виджеты.",
+      "blurbs": "Студия жанра сунских ци со всеми 21 592 текстами: современные комментарии, «Школа ци» и «Полёт цветов», ци дня, непрерывное чтение и плейлисты; традиционные иероглифы, скорость речи, фоновое аудио, выбор строки на карточках и в виджетах — полностью офлайн, без аккаунта и рекламы.",
+      "highlights": ["21 592 произведения ци", "Поиск по рукописному вводу", "Школа ци", "Полёт цветов"]
+    },
+    "th": {
+      "taglines": "ฉือหนึ่งบทต่อวัน — ฉือสมัยซ่ง 21,592 บทแบบออฟไลน์ อ่านต่อเนื่องและมีวิดเจ็ต",
+      "blurbs": "สตูดิโอฉือสมัยซ่งพร้อมบทประพันธ์ครบทั้ง 21,592 บท: คำอธิบายภาษาสมัยใหม่ โรงเรียนฉือและเกมฟ่ยฮัว ฉือประจำวัน อ่านต่อเนื่องและเพลย์ลิสต์ อักษรจีนตัวเต็ม ความเร็วการอ่าน เสียงพื้นหลัง เลือกบรรทัดบนการ์ดและวิดเจ็ต — ออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ฉือ 21,592 บท", "ค้นหาด้วยลายมือ", "โรงเรียนฉือ", "เกมฟ่ยฮัว"]
+    },
+    "de": {
+      "taglines": "Ein Ci pro Tag — 21.592 Song-Lyrics offline mit Dauerlesen & Widgets.",
+      "blurbs": "Ein Song-Ci-Studio mit allen 21.592 Dichtungen: moderne Kommentare, Ci-Schule & Blumenflug-Spiel, Ci des Tages, Dauerlesen & Playlists; traditionelle Schriftzeichen, Sprechtempo, Hintergrundaudio, Zeilenauswahl auf Karten & Widgets — komplett offline, ohne Account, ohne Werbung.",
+      "highlights": ["21.592 Ci-Werke", "Handschriftsuche", "Ci-Schule", "Blumenflug"]
+    },
+    "fr": {
+      "taglines": "Un ci par jour — 21 592 poèmes Song hors ligne, lecture continue et widgets.",
+      "blurbs": "Un studio du ci des Song avec les 21 592 poèmes : commentaires modernes, École du ci et « Fly Flower », ci du jour, lecture continue et playlists ; caractères traditionnels, débit de lecture, audio en arrière-plan, choix de vers sur les cartes et widgets — entièrement hors ligne, sans compte, sans publicité.",
+      "highlights": ["21 592 poèmes ci", "Recherche manuscrite", "École du ci", "Fly Flower"]
+    },
+    "tr": {
+      "taglines": "Günde bir ci — 21.592 Song sözü çevrimdışı, kesintisiz okuma ve widget’larla.",
+      "blurbs": "Tüm 21.592 eseri içeren bir Song Ci stüdyosu: modern yorumlar, Ci Okulu ve Uçan Çiçek, günün ci’si, kesintisiz okuma ve çalma listeleri; geleneksel yazı, konuşma hızı, arka planda ses, kartlarda ve widget’larda dize seçimi — tamamen çevrimdışı, hesap yok, reklam yok.",
+      "highlights": ["21.592 ci eseri", "El yazısıyla arama", "Ci Okulu", "Uçan Çiçek"]
+    }
+  },
+  "iYuanQu": {
+    "ja": {
+      "taglines": "没入型の元曲アプリ — 今日の曲、厳選注釈、連続読み、ウィジェット。",
+      "blurbs": "8,969作品を収めた元曲スタジオ。厳選した注釈と現代語訳、今日の曲、連続読みに対応。カードでの一句選択、タイトル長押しメニュー、宮調・曲牌、索引、ウィジェットも搭載 — 完全オフライン、アカウント不要、広告なし。",
+      "highlights": ["元曲8,969作品", "手書き検索", "連続読み", "宮調と曲牌"]
+    },
+    "ko": {
+      "taglines": "몰입형 원곡 감상 — 오늘의 곡, 엄선한 주석, 연속 읽기, 위젯.",
+      "blurbs": "8,969편을 수록한 원곡 스튜디오: 엄선한 주석과 번역, 오늘의 곡, 연속 읽기. 카드에서 구절 선택, 제목 길게 누르기 메뉴, 궁조·곡패, 색인, 위젯 지원 — 완전 오프라인, 계정 불필요, 광고 없음.",
+      "highlights": ["원곡 8,969편", "필기 검색", "연속 읽기", "궁조와 곡패"]
+    },
+    "ru": {
+      "taglines": "Поэзия эпохи Юань с погружением — ку дня, отобранные комментарии, непрерывное чтение и виджеты.",
+      "blurbs": "Студия юаньской поэзии с 8 969 произведениями: отобранные комментарии и переводы, ку дня, непрерывное чтение; выбор строки на карточках, меню по долгому нажатию на название, гундяо и цюйпай, указатели и виджеты — полностью офлайн, без аккаунта и рекламы.",
+      "highlights": ["8 969 произведений ку", "Поиск по рукописному вводу", "Непрерывное чтение", "Гундяо и цюйпай"]
+    },
+    "th": {
+      "taglines": "กวีนิพนธ์ราชวงศ์หยวนแบบดื่มด่ำ — ชวีประจำวัน คำอธิบายคัดสรร อ่านต่อเนื่อง และวิดเจ็ต",
+      "blurbs": "สตูดิโอกวีนิพนธ์หยวนพร้อมผลงาน 8,969 บท: คำอธิบายและคำแปลที่คัดสรร ชวีประจำวัน อ่านต่อเนื่อง เลือกบรรทัดบนการ์ด เมนูกดค้างที่ชื่อเรื่อง กงเตี้ยว/ชวีไผ่ ดัชนี และวิดเจ็ต — ออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ชวี 8,969 บท", "ค้นหาด้วยลายมือ", "อ่านต่อเนื่อง", "กงเตี้ยวและชวีไผ่"]
+    },
+    "de": {
+      "taglines": "Yuan-Dichtung zum Eintauchen — Qu des Tages, kuratierte Anmerkungen, Dauerlesen & Widgets.",
+      "blurbs": "Ein Yuan-Verse-Studio mit 8.969 Werken: kuratierte Anmerkungen & Übersetzungen, Qu des Tages, Dauerlesen; Zeilenauswahl auf Karten, Titel-Long-Press-Menü, Gongdiao/Qupai, Register & Widgets — komplett offline, ohne Account, ohne Werbung.",
+      "highlights": ["8.969 Qu-Werke", "Handschriftsuche", "Dauerlesen", "Gongdiao & Qupai"]
+    },
+    "fr": {
+      "taglines": "Poésie Yuan immersive — qu du jour, notes choisies, lecture continue et widgets.",
+      "blurbs": "Un studio de poésie Yuan avec 8 969 œuvres : notes et traductions sélectionnées, qu du jour, lecture continue ; choix de vers sur les cartes, menu par appui long sur le titre, gongdiao/qupai, index et widgets — entièrement hors ligne, sans compte, sans publicité.",
+      "highlights": ["8 969 œuvres qu", "Recherche manuscrite", "Lecture continue", "Gongdiao et qupai"]
+    },
+    "tr": {
+      "taglines": "Sürükleyici Yuan şiiri — günün qu’su, seçilmiş notlar, kesintisiz okuma ve widget’lar.",
+      "blurbs": "8.969 eserlik bir Yuan şiiri stüdyosu: seçilmiş notlar ve çeviriler, günün qu’su, kesintisiz okuma; kartlarda dize seçimi, başlığa uzun basma menüsü, gongdiao/qupai, dizinler ve widget’lar — tamamen çevrimdışı, hesap yok, reklam yok.",
+      "highlights": ["8.969 qu eseri", "El yazısıyla arama", "Kesintisiz okuma", "Gongdiao ve qupai"]
+    }
+  },
+  "iConverter": {
+    "ja": {
+      "taglines": "101種の計算機&単位変換 — やさしいモード、メディアダウンロード、Live Activity。",
+      "blurbs": "101のオフラインツールと21種のインタラクティブウィジェット。やさしいモード、アプリ内ヘルプ、拡大鏡、メディアダウンロード、共有エクステンションに対応。iPhoneではQR履歴とLive Activityも利用可能 — URLスキーム対応、プライバシー最優先。",
+      "highlights": ["101種のツール", "やさしいモード", "メディアダウンロード", "Live Activity"]
+    },
+    "ko": {
+      "taglines": "계산기·변환기 101종 — 케어 모드, 미디어 다운로드, Live Activity.",
+      "blurbs": "오프라인 도구 101종과 인터랙티브 위젯 21종. 케어 모드, 앱 내 도움말, 돋보기, 미디어 다운로드, 공유 확장 기능 지원. iPhone에서는 QR 기록과 Live Activity도 사용 가능 — URL 스킴 지원, 개인정보 우선.",
+      "highlights": ["도구 101종", "케어 모드", "미디어 다운로드", "Live Activity"]
+    },
+    "ru": {
+      "taglines": "101 калькулятор и конвертер — режим заботы, загрузка медиа, Live Activity.",
+      "blurbs": "101 офлайн-инструмент и 21 интерактивный виджет; режим «Забота», справка в приложении, лупа, загрузка медиа и расширение «Поделиться»; история QR-кодов и Live Activity на iPhone — схема URL, приоритет приватности.",
+      "highlights": ["101 инструмент", "Режим заботы", "Загрузка медиа", "Live Activity"]
+    },
+    "th": {
+      "taglines": "เครื่องคิดเลขและตัวแปลงหน่วย 101 รายการ — โหมดดูแล ดาวน์โหลดสื่อ และ Live Activity",
+      "blurbs": "เครื่องมือออฟไลน์ 101 รายการพร้อมวิดเจ็ตแบบโต้ตอบ 21 แบบ โหมดดูแล วิธีใช้ในแอป แว่นขยาย ดาวน์โหลดสื่อ และส่วนขยายแชร์ ประวัติ QR และ Live Activity บน iPhone — รองรับ URL scheme ให้ความสำคัญกับความเป็นส่วนตัว",
+      "highlights": ["เครื่องมือ 101 รายการ", "โหมดดูแล", "ดาวน์โหลดสื่อ", "Live Activity"]
+    },
+    "de": {
+      "taglines": "101 Rechner & Umrechner — Fürsorgemodus, Mediendownload, Live-Aktivität.",
+      "blurbs": "101 Offline-Werkzeuge mit 21 interaktiven Widgets; Fürsorgemodus, In-App-Hilfe, Lupe, Mediendownload & Teilen-Erweiterung; QR-Verlauf & Live-Aktivitäten auf dem iPhone — URL-Scheme, Datenschutz zuerst.",
+      "highlights": ["101 Werkzeuge", "Fürsorgemodus", "Mediendownload", "Live-Aktivität"]
+    },
+    "fr": {
+      "taglines": "101 calculatrices et convertisseurs — mode Confort, téléchargement de médias, Live Activity.",
+      "blurbs": "101 outils hors ligne avec 21 widgets interactifs ; mode Confort, aide intégrée, loupe, téléchargement de médias et extension de partage ; historique QR et Live Activities sur iPhone — schéma d’URL, confidentialité d’abord.",
+      "highlights": ["101 outils", "Mode Confort", "Téléchargement de médias", "Live Activity"]
+    },
+    "tr": {
+      "taglines": "101 hesap makinesi ve dönüştürücü — bakım modu, medya indirme, Canlı Etkinlik.",
+      "blurbs": "21 etkileşimli widget ile 101 çevrimdışı araç; Bakım Modu, uygulama içi Yardım, büyüteç, medya indirme ve Paylaş uzantısı; iPhone’da QR geçmişi ve Canlı Etkinlikler — URL şeması, önce gizlilik.",
+      "highlights": ["101 araç", "Bakım Modu", "Medya indirme", "Canlı Etkinlik"]
+    }
+  },
+  "iConnect": {
+    "ja": {
+      "taglines": "iPhone・iPad・Mac向けのローカルP2Pチャット、PTT、ファイル転送。",
+      "blurbs": "ローカルWi-Fi経由で、Apple製デバイス間のチャット、グループチャット、PTT、音声、ファイル送信ができます。返信、取り消し、@メンション、検索に対応し、ファイルサイズの上限も設定可能。クラウド不要、アカウント不要、インターネット接続も不要。",
+      "highlights": ["チャットとPTT", "音声とファイル", "サイズ上限を設定可能", "9種のアプリアイコン"]
+    },
+    "ko": {
+      "taglines": "iPhone, iPad, Mac을 위한 로컬 P2P 채팅, PTT, 파일 전송.",
+      "blurbs": "로컬 Wi-Fi로 Apple 기기 간 채팅, 그룹 채팅, PTT, 음성, 파일을 주고받으세요. 답장, 회수, @멘션, 검색을 지원하며 파일 크기 제한도 설정할 수 있습니다. 클라우드 없음, 계정 불필요, 인터넷 연결도 필요 없음.",
+      "highlights": ["채팅 및 PTT", "음성 및 파일", "크기 제한 설정", "앱 아이콘 9종"]
+    },
+    "ru": {
+      "taglines": "Локальный P2P-чат, PTT и передача файлов для iPhone, iPad и Mac.",
+      "blurbs": "Чат, групповой чат, PTT, голосовые сообщения и файлы по локальной сети Wi-Fi между устройствами Apple. Ответы, отзыв сообщений, @упоминания и поиск; настраиваемые ограничения размера файлов. Без облака, без аккаунта, подключение к интернету не требуется.",
+      "highlights": ["Чат и PTT", "Голос и файлы", "Настраиваемый размер", "9 значков приложения"]
+    },
+    "th": {
+      "taglines": "แชต P2P ในเครือข่ายท้องถิ่น PTT และการส่งไฟล์สำหรับ iPhone, iPad และ Mac",
+      "blurbs": "แชต แชตกลุ่ม PTT ข้อความเสียง และไฟล์ผ่าน Wi-Fi ภายในเครือข่ายระหว่างอุปกรณ์ Apple ตอบกลับ ยกเลิกข้อความ @กล่าวถึง และค้นหา กำหนดขนาดไฟล์สูงสุดได้ ไม่ใช้คลาวด์ ไม่ต้องมีบัญชี ไม่ต้องเชื่อมต่ออินเทอร์เน็ต",
+      "highlights": ["แชตและ PTT", "เสียงและไฟล์", "กำหนดขนาดได้", "ไอคอนแอป 9 แบบ"]
+    },
+    "de": {
+      "taglines": "Lokaler P2P-Chat, PTT und Dateiübertragung für iPhone, iPad und Mac.",
+      "blurbs": "Chat, Gruppenchat, PTT, Sprachnachrichten und Dateien über lokales WLAN zwischen Apple-Geräten. Antworten, Zurückrufen, @Erwähnungen und Suche; konfigurierbare Dateigrößenlimits. Keine Cloud, kein Account, keine Internetverbindung nötig.",
+      "highlights": ["Chat & PTT", "Sprache & Dateien", "Konfigurierbare Größe", "9 App-Symbole"]
+    },
+    "fr": {
+      "taglines": "Chat P2P local, PTT et transfert de fichiers pour iPhone, iPad et Mac.",
+      "blurbs": "Chat, discussion de groupe, PTT, voix et fichiers via le Wi-Fi local entre appareils Apple. Réponse, rappel de message, @mentions et recherche ; limites de taille de fichier configurables. Pas de cloud, pas de compte, aucune connexion internet requise.",
+      "highlights": ["Chat et PTT", "Voix et fichiers", "Taille configurable", "9 icônes d’app"]
+    },
+    "tr": {
+      "taglines": "iPhone, iPad ve Mac için yerel P2P sohbet, PTT ve dosya aktarımı.",
+      "blurbs": "Apple aygıtları arasında yerel Wi-Fi üzerinden sohbet, grup sohbeti, PTT, ses ve dosya aktarımı. Yanıtlama, geri çağırma, @bahsetmeler ve arama; yapılandırılabilir dosya boyutu sınırları. Bulut yok, hesap yok, internet gerekmez.",
+      "highlights": ["Sohbet ve PTT", "Ses ve dosyalar", "Yapılandırılabilir boyut", "9 uygulama simgesi"]
+    }
+  },
+  "iStore": {
+    "ja": {
+      "taglines": "ワンタップでApp Storeの地域を切り替え — 175地域、お気に入り、地図、ウィジェット。",
+      "blurbs": "Apple公式リンクを使って、175の地域のストアをすばやく切り替え。大陸別の閲覧、地域のお気に入り登録、提供状況の確認、地図からの選択に対応。ウィジェットやSiriからも開けます — iCloudは任意、アカウント不要。",
+      "highlights": ["175の地域", "アプリの提供状況", "地図から選択", "ウィジェットとSiri"]
+    },
+    "ko": {
+      "taglines": "원탭으로 App Store 지역 전환 — 175개 지역, 즐겨찾기, 지도, 위젯.",
+      "blurbs": "Apple 공식 링크로 175개 지역의 스토어를 전환하세요. 대륙별 탐색, 지역 즐겨찾기, 제공 여부 확인, 지도에서 선택 기능을 지원하며 위젯과 Siri에서도 열 수 있습니다 — iCloud는 선택 사항, 계정 불필요.",
+      "highlights": ["175개 지역", "앱 제공 여부", "지도에서 선택", "위젯 및 Siri"]
+    },
+    "ru": {
+      "taglines": "Смена региона App Store в одно касание — 175 регионов, избранное, карта и виджеты.",
+      "blurbs": "Переключайте магазины в 175 регионах по официальным ссылкам Apple. Просмотр по континентам, избранные регионы, проверка доступности, выбор на карте; открытие из виджетов и через Siri — iCloud по желанию, без аккаунта.",
+      "highlights": ["175 регионов", "Доступность приложений", "Выбор на карте", "Виджеты и Siri"]
+    },
+    "th": {
+      "taglines": "สลับภูมิภาค App Store ด้วยการแตะครั้งเดียว — 175 ภูมิภาค รายการโปรด แผนที่ และวิดเจ็ต",
+      "blurbs": "สลับสโตร์ใน 175 ภูมิภาคผ่านลิงก์อย่างเป็นทางการของ Apple เรียกดูตามทวีป บันทึกภูมิภาคโปรด ตรวจสอบความพร้อมให้บริการ เลือกจากแผนที่ และเปิดจากวิดเจ็ตและ Siri — iCloud เป็นตัวเลือก ไม่ต้องมีบัญชี",
+      "highlights": ["175 ภูมิภาค", "ความพร้อมให้บริการของแอป", "เลือกจากแผนที่", "วิดเจ็ตและ Siri"]
+    },
+    "de": {
+      "taglines": "App-Store-Region per Fingertipp wechseln — 175 Regionen, Favoriten, Karte & Widgets.",
+      "blurbs": "Wechsle über Apples offizielle Links zwischen Storefronts in 175 Regionen. Nach Kontinent stöbern, Regionen favorisieren, Verfügbarkeit prüfen, auf einer Karte auswählen; Start über Widgets & Siri — optionales iCloud, ohne Account.",
+      "highlights": ["175 Regionen", "App-Verfügbarkeit", "Kartenauswahl", "Widgets & Siri"]
+    },
+    "fr": {
+      "taglines": "Changez de région App Store en un geste — 175 régions, favoris, carte et widgets.",
+      "blurbs": "Passez d’un storefront à l’autre dans 175 régions grâce aux liens officiels d’Apple. Parcourez par continent, ajoutez des régions en favoris, vérifiez la disponibilité, choisissez sur une carte ; ouvrez depuis les widgets et Siri — iCloud facultatif, sans compte.",
+      "highlights": ["175 régions", "Disponibilité des apps", "Sélection sur carte", "Widgets et Siri"]
+    },
+    "tr": {
+      "taglines": "Tek dokunuşla App Store bölgesi değiştirme — 175 bölge, favoriler, harita ve widget’lar.",
+      "blurbs": "Apple’ın resmî bağlantılarıyla 175 bölgedeki mağazalar arasında geçiş yapın. Kıtaya göre gezinin, bölgeleri favorilere ekleyin, uygunluğu kontrol edin, haritadan seçin; widget’lardan ve Siri’den açın — isteğe bağlı iCloud, hesap gerekmez.",
+      "highlights": ["175 bölge", "Uygulama uygunluğu", "Harita seçici", "Widget’lar ve Siri"]
+    }
+  },
+  "iEnglish": {
+    "ja": {
+      "taglines": "基本3000語+選べる高校/CET教材 — クイズ、プレイリスト、ウィジェット。",
+      "blurbs": "初心者向けの英単語アプリ。A〜Zの基本3000語に加え、高校/CET-4/CET-6の教材も選べて、教材ごとに進捗を管理。クイズ、プレイリスト、ホームのウィジェットに対応 — iPhone・iPad・Macでオフライン利用可能、iCloudは任意。",
+      "highlights": ["基本3000語+試験対策教材", "教材ごとの進捗", "クイズ", "ウィジェット"]
+    },
+    "ko": {
+      "taglines": "핵심 단어 3000개 + 선택형 고교/CET 단어장 — 퀴즈, 플레이리스트, 위젯.",
+      "blurbs": "초보자를 위한 영어 어휘 앱: A–Z 핵심 단어 3000개와 선택형 고교/CET-4/CET-6 단어장, 단어장별 학습 진도 제공. 퀴즈, 플레이리스트, 홈 위젯 지원 — iPhone, iPad, Mac에서 오프라인 사용, iCloud는 선택 사항.",
+      "highlights": ["핵심 3000개 + 시험 단어장", "단어장별 진도", "퀴즈", "위젯"]
+    },
+    "ru": {
+      "taglines": "3000 базовых слов и дополнительные словари Senior/CET — тесты, плейлисты и виджеты.",
+      "blurbs": "Английская лексика для начинающих: 3000 базовых слов от A до Z и дополнительные словари Senior / CET-4 / CET-6 с отдельным прогрессом по каждому; тесты, плейлисты и виджеты на главном экране — офлайн на iPhone, iPad и Mac, iCloud по желанию.",
+      "highlights": ["3000 базовых слов + экзаменационные словари", "Прогресс по каждому словарю", "Тесты", "Виджеты"]
+    },
+    "th": {
+      "taglines": "คำศัพท์หลัก 3000 คำ + ชุดคำศัพท์ Senior/CET เสริม — แบบทดสอบ เพลย์ลิสต์ และวิดเจ็ต",
+      "blurbs": "แอปคำศัพท์ภาษาอังกฤษสำหรับผู้เริ่มต้น: คำศัพท์หลัก 3000 คำเรียงตาม A–Z พร้อมชุดคำศัพท์ Senior / CET-4 / CET-6 เสริมที่ติดตามความคืบหน้าแยกตามชุด แบบทดสอบ เพลย์ลิสต์ และวิดเจ็ตหน้าจอโฮม — ใช้ออฟไลน์บน iPhone, iPad และ Mac ได้ iCloud เป็นตัวเลือก",
+      "highlights": ["คำศัพท์หลัก 3000 คำ + ชุดเตรียมสอบ", "ความคืบหน้าแยกตามชุด", "แบบทดสอบ", "วิดเจ็ต"]
+    },
+    "de": {
+      "taglines": "3000 Kernwörter + optionale Senior-/CET-Bücher — Quiz, Playlists & Widgets.",
+      "blurbs": "Englisch-Vokabeln für Einsteiger: 3000 Kernwörter von A–Z, dazu optionale Senior-/CET-4-/CET-6-Bücher mit Fortschritt pro Buch; Quiz, Playlists und Home-Widgets — offline auf iPhone, iPad und Mac, optionales iCloud.",
+      "highlights": ["3000 Kernwörter + Prüfungsbücher", "Fortschritt pro Buch", "Quiz", "Widgets"]
+    },
+    "fr": {
+      "taglines": "3000 mots essentiels + livres Senior/CET en option — quiz, playlists et widgets.",
+      "blurbs": "Vocabulaire anglais pour débutants : 3000 mots essentiels de A à Z, plus des livres Senior / CET-4 / CET-6 en option avec progression par livre ; quiz, playlists et widgets d’accueil — hors ligne sur iPhone, iPad et Mac, iCloud facultatif.",
+      "highlights": ["3000 mots essentiels + livres d’examen", "Progression par livre", "Quiz", "Widgets"]
+    },
+    "tr": {
+      "taglines": "3000 temel kelime + isteğe bağlı Senior/CET kitapları — testler, çalma listeleri ve widget’lar.",
+      "blurbs": "Yeni başlayanlar için İngilizce kelime uygulaması: A–Z 3000 temel kelime, ayrıca kitap bazında ilerleme takibi sunan isteğe bağlı Senior / CET-4 / CET-6 kitapları; testler, çalma listeleri ve ana ekran widget’ları — iPhone, iPad ve Mac’te çevrimdışı, isteğe bağlı iCloud.",
+      "highlights": ["3000 temel kelime + sınav kitapları", "Kitap bazında ilerleme", "Testler", "Widget’lar"]
+    }
+  },
+  "iRootWord": {
+    "ja": {
+      "taglines": "英語の語根と接辞 — カスタムリスト、シェアカード、復習の取り消し。",
+      "blurbs": "オフラインで使える語根の学習机。接辞を閲覧し、お気に入りとは別にカスタム単語リストを作成、シェアカード、約3秒の取り消し付き復習、ウィジェットとSiriに対応 — プライバシー最優先、アカウント不要、広告なし。",
+      "highlights": ["240以上の接辞", "単語分解ツール", "ライトナー式SRS", "ウィジェットとSiri"]
+    },
+    "ko": {
+      "taglines": "영어 어근과 접사 — 사용자 지정 목록, 공유 카드, 복습 실행 취소.",
+      "blurbs": "오프라인 어근 학습 데스크: 접사 탐색, 즐겨찾기와 별도의 사용자 지정 단어 목록 만들기, 공유 카드, 약 3초 실행 취소가 가능한 복습, 위젯 및 Siri 지원 — 개인정보 우선, 계정 불필요, 광고 없음.",
+      "highlights": ["접사 240개 이상", "단어 분해기", "라이트너 SRS", "위젯 및 Siri"]
+    },
+    "ru": {
+      "taglines": "Английские корни и аффиксы — собственные списки, карточки для публикации и отмена повторения.",
+      "blurbs": "Офлайн-пособие по корням: просматривайте аффиксы, создавайте собственные списки слов отдельно от избранного, делитесь карточками, повторяйте с отменой действия в течение примерно 3 с, виджеты и Siri — приоритет приватности, без аккаунта и рекламы.",
+      "highlights": ["Более 240 аффиксов", "Разбор слов по составу", "SRS по системе Лейтнера", "Виджеты и Siri"]
+    },
+    "th": {
+      "taglines": "รากศัพท์และ affix ภาษาอังกฤษ — รายการคำศัพท์กำหนดเอง การ์ดแชร์ และยกเลิกการทบทวน",
+      "blurbs": "โต๊ะเรียนรากศัพท์แบบออฟไลน์: เรียกดู affix สร้างรายการคำศัพท์ของคุณแยกจากรายการโปรด การ์ดแชร์ ทบทวนพร้อมเลิกทำได้ภายในประมาณ 3 วินาที วิดเจ็ต และ Siri — ให้ความสำคัญกับความเป็นส่วนตัว ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["affix กว่า 240 รายการ", "ตัวแยกส่วนประกอบคำ", "SRS แบบ Leitner", "วิดเจ็ตและ Siri"]
+    },
+    "de": {
+      "taglines": "Englische Wortwurzeln & Affixe — eigene Listen, Teilen-Karten und Rückgängig bei der Wiederholung.",
+      "blurbs": "Offline-Wurzelwerkstatt: Affixe durchstöbern, eigene Wortlisten getrennt von Favoriten anlegen, Teilen-Karten, Wiederholung mit ca. 3 s Rückgängig, Widgets & Siri — Datenschutz zuerst, ohne Account, ohne Werbung.",
+      "highlights": ["Über 240 Affixe", "Wortzerleger", "Leitner-SRS", "Widgets & Siri"]
+    },
+    "fr": {
+      "taglines": "Racines et affixes de l’anglais — listes personnalisées, cartes de partage et annulation de révision.",
+      "blurbs": "Bureau des racines hors ligne : parcourez les affixes, créez des listes de mots personnalisées distinctes des favoris, cartes de partage, révision avec annulation sous environ 3 s, widgets et Siri — confidentialité d’abord, sans compte, sans publicité.",
+      "highlights": ["Plus de 240 affixes", "Décomposeur de mots", "SRS de Leitner", "Widgets et Siri"]
+    },
+    "tr": {
+      "taglines": "İngilizce kökler ve ekler — özel listeler, paylaşım kartları ve tekrarı geri alma.",
+      "blurbs": "Çevrimdışı kök masası: ekleri keşfedin, favorilerden ayrı özel kelime listeleri oluşturun, paylaşım kartları, yaklaşık 3 sn geri alma ile tekrar, widget’lar ve Siri — önce gizlilik, hesap yok, reklam yok.",
+      "highlights": ["240+ ek", "Kelime ayrıştırıcı", "Leitner SRS", "Widget’lar ve Siri"]
+    }
+  },
+  "iDictionary": {
+    "ja": {
+      "taglines": "2万字以上の漢字をオフラインで — 手書き、学習ツール、シェアカード、アクセントテーマ。",
+      "blurbs": "オフラインの漢字デスク。2万字以上の漢字、筆順アニメーション、手書き入力とOCR。ホームの学習ツール、カテゴリ別閲覧、お気に入りの一括操作、シェアカード、アクセントテーマに対応 — アカウント不要、広告なし、完全オフライン。",
+      "highlights": ["筆順アニメーション", "学習ツール", "シェアカード", "完全オフライン"]
+    },
+    "ko": {
+      "taglines": "한자 2만 자 이상 오프라인 — 필기, 학습 도구, 공유 카드, 강조 색상 테마.",
+      "blurbs": "오프라인 한자 데스크: 한자 2만 자 이상, 획순 애니메이션, 필기 및 OCR. 홈 학습 도구, 카테고리별 탐색, 즐겨찾기 일괄 관리, 공유 카드, 강조 색상 테마 지원 — 계정 불필요, 광고 없음, 완전 오프라인.",
+      "highlights": ["획순 애니메이션", "학습 도구", "공유 카드", "완전 오프라인"]
+    },
+    "ru": {
+      "taglines": "Более 20 000 иероглифов офлайн — рукописный ввод, учебные инструменты, карточки и цветовые темы.",
+      "blurbs": "Офлайн-справочник иероглифов: более 20 тыс. ханьцзы, анимация порядка черт, рукописный ввод и OCR; учебные инструменты на главном экране, просмотр по категориям, пакетная работа с избранным, карточки для публикации и акцентные темы — без аккаунта и рекламы, полностью офлайн.",
+      "highlights": ["Анимация порядка черт", "Учебные инструменты", "Карточки для публикации", "Полностью офлайн"]
+    },
+    "th": {
+      "taglines": "อักษรจีนกว่า 20,000 ตัวแบบออฟไลน์ — ลายมือ เครื่องมือเรียนรู้ การ์ดแชร์ และธีมสีเน้น",
+      "blurbs": "โต๊ะอักษรจีนแบบออฟไลน์: อักษรฮั่นจื้อกว่า 2 หมื่นตัว แอนิเมชันลำดับขีด การเขียนด้วยลายมือและ OCR เครื่องมือเรียนรู้บนหน้าโฮม เรียกดูตามหมวด จัดการรายการโปรดเป็นชุด การ์ดแชร์ และธีมสีเน้น — ไม่ต้องมีบัญชี ไม่มีโฆษณา ออฟไลน์เต็มรูปแบบ",
+      "highlights": ["แอนิเมชันลำดับขีด", "เครื่องมือเรียนรู้", "การ์ดแชร์", "ออฟไลน์เต็มรูปแบบ"]
+    },
+    "de": {
+      "taglines": "Über 20.000 Hanzi offline — Handschrift, Lernwerkzeuge, Teilen-Karten & Akzentfarben.",
+      "blurbs": "Offline-Zeichenpult: 20.000+ Hanzi, Strichanimationen, Handschrift & OCR; Lernwerkzeuge auf dem Home-Bildschirm, Kategorien-Browser, Favoriten-Stapelverarbeitung, Teilen-Karten und Akzentthemen — ohne Account, ohne Werbung, komplett offline.",
+      "highlights": ["Strichanimationen", "Lernwerkzeuge", "Teilen-Karten", "Komplett offline"]
+    },
+    "fr": {
+      "taglines": "Plus de 20 000 hanzi hors ligne — écriture manuscrite, outils d’étude, cartes de partage et thèmes d’accent.",
+      "blurbs": "Bureau de caractères hors ligne : plus de 20 000 hanzi, animations de tracé, écriture manuscrite et OCR ; outils d’étude sur l’accueil, navigation par catégorie, traitement par lot des favoris, cartes de partage et thèmes d’accent — sans compte, sans publicité, entièrement hors ligne.",
+      "highlights": ["Animations de tracé", "Outils d’étude", "Cartes de partage", "Entièrement hors ligne"]
+    },
+    "tr": {
+      "taglines": "20.000+ hanzi çevrimdışı — el yazısı, çalışma araçları, paylaşım kartları ve vurgu temaları.",
+      "blurbs": "Çevrimdışı karakter masası: 20 binden fazla hanzi, çizgi sırası animasyonları, el yazısı ve OCR; ana ekran çalışma araçları, kategoriye göre gezinme, favorilerde toplu işlem, paylaşım kartları ve vurgu temaları — hesap yok, reklam yok, tamamen çevrimdışı.",
+      "highlights": ["Çizgi sırası animasyonları", "Çalışma araçları", "Paylaşım kartları", "Tamamen çevrimdışı"]
+    }
+  },
+  "iWuBi": {
+    "ja": {
+      "taglines": "五筆入力トレーニング — ドリル、手書き検索、SiriとSpotlight対応。",
+      "blurbs": "五筆をオフラインで練習。フルコードとドリル、誤字のやり直し、検索/簡碼ページで手書きOCRから検索、SiriとSpotlightに対応 — プライバシー最優先、アカウント不要、広告なし。",
+      "highlights": ["タイピング練習", "手書きOCR", "SiriとSpotlight", "8種のウィジェット"]
+    },
+    "ko": {
+      "taglines": "오필(五笔) 입력 훈련 — 드릴, 필기 조회, Siri 및 Spotlight.",
+      "blurbs": "오프라인으로 오필을 연습하세요: 전체 코드와 드릴, 틀린 글자 재시도, 조회/간마(简码) 페이지에서 필기 OCR로 검색, Siri 및 Spotlight 지원 — 개인정보 우선, 계정 불필요, 광고 없음.",
+      "highlights": ["타자 연습", "필기 OCR", "Siri 및 Spotlight", "위젯 8종"]
+    },
+    "ru": {
+      "taglines": "Тренировка ввода по системе Уби — упражнения, поиск по рукописному вводу, Siri и Spotlight.",
+      "blurbs": "Практикуйте Уби офлайн: полные коды и упражнения, повтор ошибочных иероглифов, рукописный OCR для поиска на страницах справки и сокращённых кодов, Siri и Spotlight — приоритет приватности, без аккаунта и рекламы.",
+      "highlights": ["Тренировка набора", "Рукописный OCR", "Siri и Spotlight", "8 виджетов"]
+    },
+    "th": {
+      "taglines": "ฝึกการพิมพ์อู่ปี่ — แบบฝึกหัด ค้นหาด้วยลายมือ Siri และ Spotlight",
+      "blurbs": "ฝึกอู่ปี่แบบออฟไลน์: รหัสเต็มและแบบฝึกหัด ลองใหม่เมื่อพิมพ์ผิด OCR ลายมือเพื่อค้นหาในหน้าค้นรหัส/เจี่ยนหม่า รองรับ Siri และ Spotlight — ให้ความสำคัญกับความเป็นส่วนตัว ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["ฝึกพิมพ์", "OCR ลายมือ", "Siri และ Spotlight", "วิดเจ็ต 8 แบบ"]
+    },
+    "de": {
+      "taglines": "Wubi-Eingabetraining — Übungen, Handschriftsuche, Siri & Spotlight.",
+      "blurbs": "Wubi offline üben: vollständige Codes und Übungen, Wiederholung falscher Zeichen, Handschrift-OCR für die Suche auf den Nachschlage-/Jianma-Seiten, Siri und Spotlight — Datenschutz zuerst, ohne Account, ohne Werbung.",
+      "highlights": ["Tipptraining", "Handschrift-OCR", "Siri & Spotlight", "8 Widgets"]
+    },
+    "fr": {
+      "taglines": "Entraînement à la saisie Wubi — exercices, recherche manuscrite, Siri et Spotlight.",
+      "blurbs": "Pratiquez le Wubi hors ligne : codes complets et exercices, nouvel essai des caractères erronés, OCR manuscrit vers la recherche sur les pages de consultation et de jianma, Siri et Spotlight — confidentialité d’abord, sans compte, sans publicité.",
+      "highlights": ["Entraînement à la frappe", "OCR manuscrit", "Siri et Spotlight", "8 widgets"]
+    },
+    "tr": {
+      "taglines": "Wubi giriş eğitimi — alıştırmalar, el yazısıyla arama, Siri ve Spotlight.",
+      "blurbs": "Wubi’yi çevrimdışı çalışın: tam kodlar ve alıştırmalar, yanlış karakteri yeniden deneme, arama/jianma sayfalarında aramaya aktarılan el yazısı OCR, Siri ve Spotlight — önce gizlilik, hesap yok, reklam yok.",
+      "highlights": ["Yazma alıştırması", "El yazısı OCR", "Siri ve Spotlight", "8 widget"]
+    }
+  },
+  "iCangJie": {
+    "ja": {
+      "taglines": "倉頡入力トレーニング — ドリル、手書き検索、オフライン辞書。",
+      "blurbs": "倉頡をオフラインで練習。フルコードとドリル、誤字のやり直し、検索/簡碼ページで手書きOCRから検索、別のアプリアイコン、Siriショートカットに対応 — プライバシー最優先、アカウント不要、広告なし。",
+      "highlights": ["2.7万字以上", "手書きOCR", "タイピングのやり直し", "Siriとウィジェット"]
+    },
+    "ko": {
+      "taglines": "창힐(倉頡) 입력 훈련 — 드릴, 필기 조회, 오프라인 사전.",
+      "blurbs": "오프라인으로 창힐을 연습하세요: 전체 코드와 드릴, 틀린 글자 재시도, 조회 및 간마(簡碼) 페이지에서 필기 OCR로 검색, 대체 앱 아이콘, Siri 단축어 지원 — 개인정보 우선, 계정 불필요, 광고 없음.",
+      "highlights": ["2.7만 자 이상", "필기 OCR", "타자 재시도", "Siri 및 위젯"]
+    },
+    "ru": {
+      "taglines": "Тренировка ввода Цанцзе — упражнения, поиск по рукописному вводу и офлайн-словарь.",
+      "blurbs": "Практикуйте Цанцзе офлайн: полные коды и упражнения, повтор ошибочных иероглифов, рукописный OCR для поиска на страницах справки и сокращённых кодов, альтернативные значки и быстрые команды Siri — приоритет приватности, без аккаунта и рекламы.",
+      "highlights": ["Более 27 тыс. иероглифов", "Рукописный OCR", "Повтор набора", "Siri и виджеты"]
+    },
+    "th": {
+      "taglines": "ฝึกการพิมพ์ชางเจี๋ย — แบบฝึกหัด ค้นหาด้วยลายมือ และพจนานุกรมออฟไลน์",
+      "blurbs": "ฝึกชางเจี๋ยแบบออฟไลน์: รหัสเต็มและแบบฝึกหัด ลองใหม่เมื่อพิมพ์ผิด OCR ลายมือเพื่อค้นหาในหน้าค้นรหัสและเจี่ยนหม่า ไอคอนแอปทางเลือก และคำสั่งลัด Siri — ให้ความสำคัญกับความเป็นส่วนตัว ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["อักษรกว่า 27,000 ตัว", "OCR ลายมือ", "ลองพิมพ์ใหม่", "Siri และวิดเจ็ต"]
+    },
+    "de": {
+      "taglines": "Cangjie-Eingabetraining — Übungen, Handschriftsuche & Offline-Wörterbuch.",
+      "blurbs": "Cangjie offline üben: vollständige Codes und Übungen, Wiederholung falscher Zeichen, Handschrift-OCR für die Suche auf den Nachschlage- und Jianma-Seiten, alternative App-Symbole und Siri-Kurzbefehle — Datenschutz zuerst, ohne Account, ohne Werbung.",
+      "highlights": ["27.000+ Zeichen", "Handschrift-OCR", "Tipp-Wiederholung", "Siri & Widgets"]
+    },
+    "fr": {
+      "taglines": "Entraînement à la saisie Cangjie — exercices, recherche manuscrite et dictionnaire hors ligne.",
+      "blurbs": "Pratiquez le Cangjie hors ligne : codes complets et exercices, nouvel essai des caractères erronés, OCR manuscrit vers la recherche sur les pages de consultation et de jianma, icônes d’app alternatives et Raccourcis Siri — confidentialité d’abord, sans compte, sans publicité.",
+      "highlights": ["Plus de 27 000 caractères", "OCR manuscrit", "Nouvel essai de frappe", "Siri et widgets"]
+    },
+    "tr": {
+      "taglines": "Cangjie giriş eğitimi — alıştırmalar, el yazısıyla arama ve çevrimdışı sözlük.",
+      "blurbs": "Cangjie’yi çevrimdışı çalışın: tam kodlar ve alıştırmalar, yanlış karakteri yeniden deneme, arama ve jianma sayfalarında aramaya aktarılan el yazısı OCR, alternatif simgeler ve Siri Kısayolları — önce gizlilik, hesap yok, reklam yok.",
+      "highlights": ["27 bin+ karakter", "El yazısı OCR", "Yazmayı yeniden deneme", "Siri ve widget’lar"]
+    }
+  },
+  "iWord": {
+    "ja": {
+      "taglines": "中国語と文化を探求 — 成語、ことわざ、言葉遊び、オフライン対応。",
+      "blurbs": "オフラインの中国語ライブラリ。成語、歇後語、早口言葉、ことわざ、対聯、なぞなぞなど10.7万以上の項目を収録。全文検索、SRS復習、クイズと言葉遊び、TTS、ウィジェットに対応 — アカウント不要、広告なし。",
+      "highlights": ["10.7万以上の項目", "SRS復習", "言葉遊び", "FTS5検索"]
+    },
+    "ko": {
+      "taglines": "중국어와 문화 탐구 — 성어, 속담, 말놀이, 오프라인 지원.",
+      "blurbs": "오프라인 중국어 라이브러리: 성어, 헐후어, 잰말놀이, 속담, 대련, 수수께끼 등 10만 7천 개 이상의 항목. 전문 검색, SRS 복습, 퀴즈와 단어 게임, TTS, 위젯 지원 — 계정 불필요, 광고 없음.",
+      "highlights": ["10.7만 개 이상 항목", "SRS 복습", "단어 게임", "FTS5 검색"]
+    },
+    "ru": {
+      "taglines": "Китайский язык и культура — чэнъюй, народные выражения, игры слов, офлайн.",
+      "blurbs": "Офлайн-библиотека китайского языка: более 107 000 статей — чэнъюй, сехоуюй, скороговорки, пословицы, парные надписи и загадки. Полнотекстовый поиск, повторение по SRS, тесты и словесные игры, TTS и виджеты — без аккаунта и рекламы.",
+      "highlights": ["Более 107 тыс. статей", "Повторение по SRS", "Словесные игры", "Поиск FTS5"]
+    },
+    "th": {
+      "taglines": "สำรวจภาษาและวัฒนธรรมจีน — สำนวน คำพังเพย เกมคำ ใช้งานออฟไลน์",
+      "blurbs": "คลังภาษาจีนแบบออฟไลน์: รายการกว่า 107,000 รายการ ทั้งสำนวนสี่ตัวอักษร เซี่ยโฮ่วอวี่ ประโยคพูดลิ้นพันกัน สุภาษิต คำคู่ และปริศนาคำทาย ค้นหาข้อความเต็มรูปแบบ ทบทวนแบบ SRS แบบทดสอบและเกมคำ TTS และวิดเจ็ต — ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["กว่า 107,000 รายการ", "ทบทวนแบบ SRS", "เกมคำ", "ค้นหา FTS5"]
+    },
+    "de": {
+      "taglines": "Chinesische Sprache & Kultur entdecken — Idiome, Sprichwörter, Wortspiele, offline.",
+      "blurbs": "Offline-Bibliothek zur chinesischen Sprache: 107.000+ Einträge zu Idiomen, Xiehouyu, Zungenbrechern, Sprichwörtern, Couplets & Rätseln. Volltextsuche, SRS-Wiederholung, Quiz & Wortspiele, TTS & Widgets — ohne Account, ohne Werbung.",
+      "highlights": ["107.000+ Einträge", "SRS-Wiederholung", "Wortspiele", "FTS5-Suche"]
+    },
+    "fr": {
+      "taglines": "Explorez la langue et la culture chinoises — idiomes, dictons, jeux de mots, hors ligne.",
+      "blurbs": "Bibliothèque de langue chinoise hors ligne : plus de 107 000 entrées — idiomes, xiehouyu, virelangues, proverbes, couplets et devinettes. Recherche en texte intégral, révision SRS, quiz et jeux de mots, TTS et widgets — sans compte, sans publicité.",
+      "highlights": ["Plus de 107 000 entrées", "Révision SRS", "Jeux de mots", "Recherche FTS5"]
+    },
+    "tr": {
+      "taglines": "Çin dilini ve kültürünü keşfedin — deyimler, halk sözleri, kelime oyunları, çevrimdışı.",
+      "blurbs": "Çevrimdışı Çince dil kütüphanesi: deyimler, xiehouyu, tekerlemeler, atasözleri, beyitler ve bilmeceler dahil 107.000’den fazla madde. Tam metin arama, SRS tekrarı, testler ve kelime oyunları, TTS ve widget’lar — hesap yok, reklam yok.",
+      "highlights": ["107 bin+ madde", "SRS tekrarı", "Kelime oyunları", "FTS5 arama"]
+    }
+  },
+  "iCouplet": {
+    "ja": {
+      "taglines": "没入型の対聯アプリ — 暗唱、縦書き、学習、今日の対聯。",
+      "blurbs": "3369作品を収めた没入型の対聯スタジオ。カラオケ式TTS、縦書き表示、学習と対对子(対句づくり)、今日の対聯、シェアカード、ウィジェット、Live Activityに対応 — 完全オフライン、アカウント不要、広告なし。",
+      "highlights": ["対聯3369作品", "カラオケ式TTS", "学習モード", "ウィジェットとLive Activity"]
+    },
+    "ko": {
+      "taglines": "몰입형 대련(對聯) 감상 — 암송, 세로 읽기, 학습, 오늘의 대련.",
+      "blurbs": "3369편을 수록한 몰입형 대련 스튜디오: 노래방 방식 TTS, 세로 읽기, 학습 및 대대자(对对子), 오늘의 대련, 공유 카드, 위젯, Live Activity 지원 — 완전 오프라인, 계정 불필요, 광고 없음.",
+      "highlights": ["대련 3369편", "노래방식 TTS", "학습 모드", "위젯 및 Live Activity"]
+    },
+    "ru": {
+      "taglines": "Парные надписи с погружением — заучивание, вертикальное чтение, изучение и надпись дня.",
+      "blurbs": "Студия парных надписей (дуйлянь) с 3369 произведениями: TTS в формате караоке, вертикальное чтение, изучение и 对对子; надпись дня, карточки для публикации, виджеты и Live Activity — полностью офлайн, без аккаунта и рекламы.",
+      "highlights": ["3369 парных надписей", "TTS в стиле караоке", "Режимы изучения", "Виджеты и Live Activity"]
+    },
+    "th": {
+      "taglines": "คำคู่แบบดื่มด่ำ — ท่องจำ อ่านแนวตั้ง ศึกษา และคำคู่ประจำวัน",
+      "blurbs": "สตูดิโอคำคู่จีนพร้อมผลงาน 3369 ชิ้น: TTS แบบคาราโอเกะ อ่านแนวตั้ง โหมดศึกษาและ 对对子 คำคู่ประจำวัน การ์ดแชร์ วิดเจ็ต และ Live Activity — ออฟไลน์เต็มรูปแบบ ไม่ต้องมีบัญชี ไม่มีโฆษณา",
+      "highlights": ["คำคู่ 3369 ชิ้น", "TTS แบบคาราโอเกะ", "โหมดศึกษา", "วิดเจ็ตและ Live Activity"]
+    },
+    "de": {
+      "taglines": "Couplets zum Eintauchen — rezitieren, vertikal lesen, lernen & Couplet des Tages.",
+      "blurbs": "Ein immersives Couplet-Studio mit 3369 Werken: Karaoke-TTS, vertikales Lesen, Lernen & 对对子; Couplet des Tages, Teilen-Karten, Widgets & Live-Aktivität — komplett offline, ohne Account, ohne Werbung.",
+      "highlights": ["3369 Couplets", "Karaoke-TTS", "Lernmodi", "Widgets & Live-Aktivität"]
+    },
+    "fr": {
+      "taglines": "Couplets immersifs — récitation, lecture verticale, étude et couplet du jour.",
+      "blurbs": "Un studio immersif de couplets avec 3369 œuvres : TTS façon karaoké, lecture verticale, étude et 对对子 ; couplet du jour, cartes de partage, widgets et Live Activity — entièrement hors ligne, sans compte, sans publicité.",
+      "highlights": ["3369 couplets", "TTS karaoké", "Modes d’étude", "Widgets et Live Activity"]
+    },
+    "tr": {
+      "taglines": "Sürükleyici beyitler — ezberleme, dikey okuma, çalışma ve günün beyti.",
+      "blurbs": "3369 eserlik sürükleyici bir beyit stüdyosu: karaoke tarzı TTS, dikey okuma, çalışma ve 对对子; günün beyti, paylaşım kartları, widget’lar ve Canlı Etkinlik — tamamen çevrimdışı, hesap yok, reklam yok.",
+      "highlights": ["3369 beyit", "Karaoke tarzı TTS", "Çalışma modları", "Widget’lar ve Canlı Etkinlik"]
+    }
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "iConnect": {
+    "en": {
+      "taglines": "Local P2P chat, PTT and file transfer for iPhone, iPad and Mac.",
+      "blurbs": "Chat, group chat, PTT, voice and files over local Wi-Fi between Apple devices. Reply, recall, @mentions and search; configurable file size limits. No cloud, no account, no internet required.",
+      "highlights": [
+        "Chat & PTT",
+        "Voice & files",
+        "Configurable size",
+        "9 app icons"
+      ],
+      "names_zh": "爱联"
+    }
+  },
+  "iConverter": {
+    "en": {
+      "taglines": "101 calculators & converters — care mode, media download, Live Activity.",
+      "blurbs": "101 offline tools with 21 interactive widgets; Care Mode, in-app Help, magnifier, media download & Share extension; QR history & Live Activities on iPhone — URL scheme, privacy-first.",
+      "highlights": [
+        "101 tools",
+        "Care Mode",
+        "Media download",
+        "Live Activity"
+      ],
+      "names_zh": "爱计算"
+    }
+  },
+  "iLinux": {
+    "en": {
+      "taglines": "1650+ commands · Linux / CMD / PowerShell · offline reference.",
+      "blurbs": "Offline shell reference for iPhone, iPad and Mac: 1650+ commands, cross-platform equivalents, iCloud sync, daily quiz and iOS widgets — no account required.",
+      "highlights": [
+        "1650+ commands",
+        "iPhone iPad Mac",
+        "iCloud sync",
+        "Cross-platform equivalents"
+      ],
+      "names_zh": "爱 Linux"
+    }
+  },
+  "iWool": {
+    "en": {
+      "taglines": "Track deals, reminders and earnings — privately, on-device.",
+      "blurbs": "Local deal tracker on iPhone and iPad: deep links, Quick Countdown Live Activity, pause/cancel by effective date, activity share export, 7 home summary cards, 12 widgets and share cards — no sign-up, on-device, privacy-first.",
+      "highlights": [
+        "iwool:// deep links",
+        "Pause & share export",
+        "12 widgets",
+        "Share PNG cards"
+      ],
+      "names_zh": "爱羊毛"
+    }
+  },
+  "iCalendar": {
+    "en": {
+      "taglines": "Lunar calendar — 25+9 widgets, transparent styles, tab bar, offline.",
+      "blurbs": "1891–2100 almanac, richer 黄历, home date panel & Today Almanac widget; 25 home + 9 lock widgets incl. iOS 17 transparent styles; countdown follows selected day — offline, no account.",
+      "highlights": [
+        "25+9 widgets",
+        "Today Almanac",
+        "Transparent widgets",
+        "1891–2100"
+      ],
+      "names_zh": "爱日历"
+    }
+  },
+  "iPomodoros": {
+    "en": {
+      "taglines": "Focus. Track. Achieve. — Pomodoro, stats, widgets & Live Activity.",
+      "blurbs": "Native focus studio for iPhone & iPad: Pomodoro cycles, free-form timer, countdown tasks and stats (goals, heatmaps, achievements, share cards). Five widget families, dual Live Activity & Siri — optional iCloud, no account.",
+      "highlights": [
+        "Privacy-first",
+        "9 achievements",
+        "5 widget families",
+        "Siri ready"
+      ],
+      "names_zh": "爱番茄"
+    }
+  },
+  "iEnglish": {
+    "en": {
+      "taglines": "3000 core words + optional Senior/CET books — quizzes, playlists & widgets.",
+      "blurbs": "Beginner English vocab: 3000 core words A–Z, plus optional Senior / CET-4 / CET-6 books with per-book progress; quizzes, playlists and home widgets — offline on iPhone, iPad and Mac, optional iCloud.",
+      "highlights": [
+        "3000 core + exam books",
+        "Per-book progress",
+        "Quizzes",
+        "Widgets"
+      ],
+      "names_zh": "爱英语"
+    }
+  },
+  "iLeetCoder": {
+    "en": {
+      "taglines": "999 algorithm problems, daily quiz, widgets — native on Apple platforms.",
+      "blurbs": "LeetCode-style algorithm learning: 999 problems, daily quiz, favorites & wrong book, home-screen widgets — native on iPhone, iPad and Mac, optional iCloud, no account.",
+      "highlights": [
+        "999 problems",
+        "iCloud sync",
+        "Learning records",
+        "Widgets"
+      ],
+      "names_zh": "爱算法"
+    }
+  },
+  "iTer": {
+    "en": {
+      "taglines": "10,000+ IT interview questions — daily quiz, widgets, SwiftUI native.",
+      "blurbs": "Offline interview library: 17 languages, 12 career tracks, 16 company banks. Daily quiz, favorites, Markdown answers, home & lock widgets and keyboard shortcuts — SwiftUI native, no account.",
+      "highlights": [
+        "10000+ questions",
+        "Daily quiz",
+        "Widgets",
+        "Markdown answers",
+        "iPad & Mac keyboard"
+      ],
+      "names_zh": "爱技术"
+    }
+  },
+  "iWuBi": {
+    "en": {
+      "taglines": "Wubi input training — drills, handwriting lookup, Siri & Spotlight.",
+      "blurbs": "Practice Wubi offline: full codes and drills, wrong-char retry, handwriting OCR into search on lookup/jianma, Siri and Spotlight — privacy-first, no account, no ads.",
+      "highlights": [
+        "Typing practice",
+        "Handwriting OCR",
+        "Siri & Spotlight",
+        "8 widgets"
+      ],
+      "names_zh": "爱五笔"
+    }
+  },
+  "TwinPolarCam": {
+    "en": {
+      "taglines": "Dual-camera recording with PiP — built for real-world interruptions.",
+      "blurbs": "Record front & back cameras on iPhone and compatible iPads; on-device PiP, save to Photos. Export queue, Live Activity, recoverable interruptions, emergency background save, in-app guides & trilingual UI — privacy-first, no cloud, no account.",
+      "highlights": [
+        "Dual camera",
+        "Export queue",
+        "Live Activity",
+        "In-app guides"
+      ],
+      "names_zh": "太极双摄"
+    }
+  },
+  "iPhoto": {
+    "en": {
+      "taglines": "Private photo studio — live beauty, 3D LUT looks, collage & recipes.",
+      "blurbs": "Shoot with full-frame live beauty and hold-to-compare; ~55 self-authored 3D LUTs, collage 2–9, Look recipes & ~800+ stickers; strip EXIF before share — no account, no ads.",
+      "highlights": [
+        "Full-frame beauty",
+        "3D LUT looks",
+        "Collage & recipes",
+        "Privacy export"
+      ],
+      "names_zh": "爱修图"
+    }
+  },
+  "iCangJie": {
+    "en": {
+      "taglines": "Cangjie input training — drills, handwriting lookup & offline dictionary.",
+      "blurbs": "Practice Cangjie offline: full codes and drills, wrong-char retry, handwriting OCR into search on lookup and jianma pages, alternate icons and Siri Shortcuts — privacy-first, no account, no ads.",
+      "highlights": [
+        "27K+ chars",
+        "Handwriting OCR",
+        "Typing retry",
+        "Siri & widgets"
+      ],
+      "names_zh": "爱仓颉"
+    }
+  },
+  "Weber": {
+    "en": {
+      "taglines": "Safari extension: video speed control & Markdown copy.",
+      "blurbs": "macOS-only Safari extension — speed control and Markdown copy from the toolbar popup. Configure in Safari, not the host app. English & Simplified Chinese UI, minimal permissions, Dark Mode ready.",
+      "highlights": [
+        "Safari toolbar popup",
+        "Markdown copy",
+        "macOS only",
+        "MIT source"
+      ],
+      "names_zh": "Weber"
+    }
+  },
+  "iVideo": {
+    "en": {
+      "taglines": "Pro video toolbox — Edit Projects, stickers, 31 tools, all on-device.",
+      "blurbs": "Edit Projects tab with sticker library & image import, multi-track timelines, 31 tools, on-device subtitles, face blur & LUTs; playback 0.05–8× — batch, Live Activity & Siri, zero upload.",
+      "highlights": [
+        "Edit Projects + stickers",
+        "0.05–8× speed",
+        "On-device subtitles",
+        "Face blur & LUTs"
+      ],
+      "names_zh": "爱视频"
+    }
+  },
+  "iApp": {
+    "en": {
+      "taglines": "Third-party App Store browser — previews, version history, developer replies & 18 languages.",
+      "blurbs": "Browse 12 charts across 175 regions, watch previews, compare stores, read reviews with replies and version history; track listing and price changes. Paste store links, developer charts, favorites & widgets — no sign-in.",
+      "highlights": [
+        "Developer replies",
+        "Version history",
+        "Expanded iapp:// links",
+        "18 languages"
+      ],
+      "names_zh": "爱应用"
+    }
+  },
+  "iDictionary": {
+    "en": {
+      "taglines": "20,000+ hanzi offline — handwriting, study tools, share cards & accents.",
+      "blurbs": "Offline character desk: 20k+ hanzi, stroke animations, handwriting & OCR; home study tools, category browse, favorites batching, share cards and accent themes — no account, no ads, fully offline.",
+      "highlights": [
+        "Stroke animations",
+        "Study tools",
+        "Share cards",
+        "Fully offline"
+      ],
+      "names_zh": "爱字词典"
+    }
+  },
+  "iNutrition": {
+    "en": {
+      "taglines": "Your nutrition expert — learn food science, not calorie counting.",
+      "blurbs": "Knowledge-first nutrition learning: 19 original articles, 2,160+ foods, 27-nutrient encyclopedia, BMI/BMR/TDEE tools and on-device AI label reading; widgets & HealthKit — offline content, no account.",
+      "highlights": [
+        "2160+ foods",
+        "On-device AI",
+        "HealthKit",
+        "Offline content"
+      ],
+      "names_zh": "爱营养"
+    }
+  },
+  "iBible": {
+    "en": {
+      "taglines": "Let God’s Word light every day — bilingual devotion, offline.",
+      "blurbs": "A bilingual Bible devotion studio: full Scripture on device, Today’s Verse, parallel reading, plans & famous verses; TTS, share cards, 5 widgets, Live Activity & Siri — fully offline, no account, no ads.",
+      "highlights": [
+        "Full Bible offline",
+        "Today’s Verse",
+        "Bilingual read",
+        "Widgets & Live Activity"
+      ],
+      "names_zh": "爱圣经"
+    }
+  },
+  "iTangPoems": {
+    "en": {
+      "taglines": "Immersive Tang poetry — read aloud, study, recite, daily poem.",
+      "blurbs": "Immersive Tang poetry studio with 368 poems (classics + famous extras): karaoke TTS, study, reading Live Activity; five-way browse, daily poem, 6 widgets & iCloud — fully offline, no account, no ads.",
+      "highlights": [
+        "368 poems",
+        "Handwriting search",
+        "Karaoke recite",
+        "6 widgets"
+      ],
+      "names_zh": "爱唐诗"
+    }
+  },
+  "iSongCi": {
+    "en": {
+      "taglines": "One ci a day — 21,592 Song lyrics offline with continuous reading & widgets.",
+      "blurbs": "A Song Ci studio with all 21,592 lyrics: modern commentary, Ci School & Fly Flower, daily ci, continuous reading & playlists; traditional glyphs, speech rate, background audio, line pick on cards & widgets — fully offline, no account, no ads.",
+      "highlights": [
+        "21592 ci works",
+        "Handwriting search",
+        "Ci School",
+        "Fly Flower"
+      ],
+      "names_zh": "爱宋词"
+    }
+  },
+  "iYuanQu": {
+    "en": {
+      "taglines": "Immersive Yuan verse — daily qu, curated notes, continuous reading & widgets.",
+      "blurbs": "A Yuan-verse studio with 8,969 works: curated notes & translations, daily qu, continuous reading; line pick on cards, title long-press menu, gongdiao/qupai, indexes & widgets — fully offline, no account, no ads.",
+      "highlights": [
+        "8969 qu works",
+        "Handwriting search",
+        "Continuous read",
+        "Gongdiao & qupai"
+      ],
+      "names_zh": "爱元曲"
+    }
+  },
+  "iStore": {
+    "en": {
+      "taglines": "One-tap App Store region switching — 175 regions, favorites, map & widgets.",
+      "blurbs": "Switch storefronts across 175 regions via Apple’s official links. Browse by continent, favorite regions, check availability, pick on a map; open from widgets & Siri — optional iCloud, no account.",
+      "highlights": [
+        "175 regions",
+        "App availability",
+        "Map picker",
+        "Widgets & Siri"
+      ],
+      "names_zh": "爱商店"
+    }
+  },
+  "iWord": {
+    "en": {
+      "taglines": "Explore Chinese language & culture — idioms, folk sayings, wordplay, offline.",
+      "blurbs": "Offline Chinese language library: 107,000+ entries across idioms, xiehouyu, tongue twisters, proverbs, couplets & riddles. Full-text search, SRS review, quizzes & word games, TTS & widgets — no account, no ads.",
+      "highlights": [
+        "107K+ entries",
+        "SRS review",
+        "Word games",
+        "FTS5 search"
+      ],
+      "names_zh": "爱词语"
+    }
+  },
+  "iRootWord": {
+    "en": {
+      "taglines": "English roots & affixes — custom lists, share cards and review undo.",
+      "blurbs": "Offline roots desk: browse affixes, build custom word lists apart from favorites, share cards, review with about 3s undo, widgets & Siri — privacy-first, no account, no ads.",
+      "highlights": [
+        "240+ affixes",
+        "Word decomposer",
+        "Leitner SRS",
+        "Widgets & Siri"
+      ],
+      "names_zh": "爱词根"
+    }
+  },
+  "iExcel": {
+    "en": {
+      "taglines": "Learn Excel formulas, functions & tips — fully offline.",
+      "blurbs": "Offline Excel learning for iPhone, iPad and Mac: 265 functions, tips, lessons, quizzes and a formula playground. Progress, daily function, 4 widgets & Siri — optional iCloud, no account.",
+      "highlights": [
+        "265 functions",
+        "Formula playground",
+        "Progress & streaks",
+        "Widgets & Siri"
+      ],
+      "names_zh": "爱表格"
+    }
+  },
+  "GLUT": {
+    "en": {
+      "taglines": "Campus news, study updates & resources for GLUT — 10th anniversary rebuild.",
+      "blurbs": "Campus news for GLUT: notices, academic updates, searchable materials, favorites & long-image share, campus VR, widgets & anniversary countdown, 13 icons — iPhone, iPad & Mac. No account, no ads.",
+      "highlights": [
+        "Campus news",
+        "iOS widgets",
+        "Campus VR",
+        "13 icons"
+      ],
+      "names_zh": "桂林理工大学校园通"
+    }
+  },
+  "iCouplet": {
+    "en": {
+      "taglines": "Immersive couplets — recite, vertical reading, study & daily couplet.",
+      "blurbs": "An immersive couplet studio with 3369 works: karaoke TTS, vertical reading, study & 对对子; daily couplet, share cards, widgets & Live Activity — fully offline, no account, no ads.",
+      "highlights": [
+        "3369 couplets",
+        "Karaoke TTS",
+        "Study modes",
+        "Widgets & Live Activity"
+      ],
+      "names_zh": "爱对联"
+    }
+  },
+  "iAppManager": {
+    "en": {
+      "taglines": "ASC native desk — versions, assets, IAP, TestFlight & readable reports.",
+      "blurbs": "API Key login on iPhone, iPad and Mac: versions, batch assets, IAP, TestFlight, and wide-table sales reports with lightweight charts — keys in Keychain, Apple traffic only, no tracking.",
+      "highlights": [
+        "API Key login",
+        "Batch assets",
+        "Readable reports",
+        "TestFlight & IAP"
+      ],
+      "names_zh": "爱应用者"
+    }
+  },
+  "iLunYu": {
+    "en": {
+      "taglines": "Rediscover the Analects — bilingual reading, recite, study & daily verse.",
+      "blurbs": "Offline Analects studio: 512 chapters with bilingual + vernacular, karaoke recite, Study classroom & hunt; Daily Verse, 162 lines, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "512 Analects chapters",
+        "Handwriting search",
+        "Ritual Study",
+        "Daily Saying"
+      ],
+      "names_zh": "爱论语"
+    }
+  },
+  "iArtOfWar": {
+    "en": {
+      "taglines": "Strategy classics, offline — bilingual reading, recite, study & daily stratagem.",
+      "blurbs": "174 classics offline: Sun Tzu, Sun Bin, Wujing & 36 Stratagems; mixed-language recite, Strategy classroom & hunt; Daily Stratagem, 120 lines, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "174 stratagems",
+        "Handwriting search",
+        "Strategy Study",
+        "Daily tip refresh"
+      ],
+      "names_zh": "爱兵法"
+    }
+  },
+  "iDeveloper": {
+    "en": {
+      "taglines": "Developer pocket studio — 176 tools, device models & bilingual refs.",
+      "blurbs": "176 offline tools plus ~255 device-model entries and 14 bilingual references; smart Share, Home widgets & Focus Live Activity — privacy-first, no account, no ads.",
+      "highlights": [
+        "176 tools",
+        "Device models",
+        "Bilingual refs",
+        "Live Activity"
+      ],
+      "names_zh": "爱开发者"
+    }
+  },
+  "iVirtue": {
+    "en": {
+      "taglines": "Di Zi Gui for families — bilingual reading, recite, virtue study & daily practice.",
+      "blurbs": "Offline Di Zi Gui studio: 90 stanzas with vernacular & English, karaoke recite, Virtue classroom & practice history; Daily Rule, share cards, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "90 rhyme sections",
+        "Handwriting search",
+        "Virtue Study",
+        "Widgets & Siri"
+      ],
+      "names_zh": "爱弟子规"
+    }
+  },
+  "iThree": {
+    "en": {
+      "taglines": "San Zi Jing, offline — bilingual reading, recite, study & a daily line.",
+      "blurbs": "Offline San Zi Jing studio: 48 passages with pinyin, vernacular & English; karaoke recite, study modes & Hunt; Daily Line, stories, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "48 San Zi Jing sections",
+        "Handwriting search",
+        "Primer Hunt",
+        "Daily Line"
+      ],
+      "names_zh": "爱三字经"
+    }
+  },
+  "iRootWise": {
+    "en": {
+      "taglines": "Chew the root of wisdom — Caigentan, sit, daily practice.",
+      "blurbs": "697 deduped Ming/Qing passages offline: vernacular & English, Daily Tan, meditation, five cultivation paths; famous-line widgets & Siri — no account, no ads.",
+      "highlights": [
+        "697 sayings",
+        "Handwriting search",
+        "Quiet sit",
+        "Five daily practices"
+      ],
+      "names_zh": "爱菜根谭"
+    }
+  },
+  "iDao": {
+    "en": {
+      "taglines": "The Tao, one chapter a day — dual notes, recite & Study Hall.",
+      "blurbs": "Offline Tao Te Ching studio: 81 chapters with pinyin, dual commentaries & dual English (including extra texts); karaoke recite, Study Hall & Seek the Tao; Daily Chapter, 74 lines, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "81 Dao De Jing chapters",
+        "Handwriting search",
+        "Dao Study",
+        "Daily Chapter"
+      ],
+      "names_zh": "爱道德经"
+    }
+  },
+  "iYiJing": {
+    "en": {
+      "taglines": "One hexagram, a world — study, cast culturally & learn.",
+      "blurbs": "Offline Zhouyi studio: 64 hexagrams with vernacular, pinyin & English; cultural casting, Study Hall & keyword hunt; Daily Hexagram, Ten Wings, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "64 hexagrams",
+        "Handwriting search",
+        "Yi Study",
+        "Daily Hexagram"
+      ],
+      "names_zh": "爱周易"
+    }
+  },
+  "iZen": {
+    "en": {
+      "taglines": "Reboot your mind — breathe, soundscape & three-layer recovery.",
+      "blurbs": "Offline three-layer recovery: 47 practices, ~500 quotes, 17 science briefs; multi-mode breathing, procedural soundscape, 1-min assessment & crisis helplines; Daily Zen, share cards, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "3-layer recovery",
+        "Voice-guided breath",
+        "Crisis helplines",
+        "Widgets & Siri"
+      ],
+      "names_zh": "爱禅"
+    }
+  },
+  "iSutra": {
+    "en": {
+      "taglines": "One phone, countless sutras — read, recite, chant & copy.",
+      "blurbs": "Offline sutra studio: 144-index library with Diamond & Dizang volumes; bilingual read, recite, wooden-fish chant, copy-sutra & practice; Daily Sutra, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "144 sutra index entries",
+        "Handwriting search",
+        "Chant & copy",
+        "Daily Sutra"
+      ],
+      "names_zh": "爱佛经"
+    }
+  },
+  "iPrimer": {
+    "en": {
+      "taglines": "Study · meditate · reflect — Zhu Xi's Xiaoxue for daily growth.",
+      "blurbs": "Offline Xiaoxue studio: 388 chapters with vernacular, notes & English; recite, Character Study, six meditations & reflection journal; Daily Study, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "388 chapters",
+        "Meditation",
+        "Character Study",
+        "Daily Study"
+      ],
+      "names_zh": "爱小学"
+    }
+  },
+  "iThousand": {
+    "en": {
+      "taglines": "Four primers — stroke cards, handwriting lookup & Primer Hall.",
+      "blurbs": "Offline primer studio: 122 passages of Qianziwen, San Zi Jing, Baijiaxing & Di Zi Gui; component stroke cards, handwriting lookup, recite & Primer Hall; Daily Line, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "122 passages",
+        "Handwriting lookup",
+        "Component cards",
+        "Primer Hall"
+      ],
+      "names_zh": "爱千字文"
+    }
+  },
+  "iBaiJia": {
+    "en": {
+      "taglines": "Hundred Family Surnames — 967 surnames, handwriting lookup & Study Hall.",
+      "blurbs": "Offline surname studio: 967 surnames with origin & English; eight browse axes, handwriting lookup, recitation & Study Hall; Daily Surname, stroke tracing, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "967 surnames",
+        "Handwriting lookup",
+        "Study Hall",
+        "Daily Surname"
+      ],
+      "names_zh": "爱百家姓"
+    }
+  },
+  "iWuJing": {
+    "en": {
+      "taglines": "Five Classics, one desk — bilingual reading, recite & study offline.",
+      "blurbs": "Offline Five Classics studio: 819 passages across Shijing, Shujing, Liji, Yijing and Chunqiu; recite, Classics Study, gloss & variants, Daily Classic, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "819 Five Classics passages",
+        "Handwriting search",
+        "Classics Study",
+        "Daily Classic"
+      ],
+      "names_zh": "爱五经"
+    }
+  },
+  "iSiShu": {
+    "en": {
+      "taglines": "Four Books — trilingual study, handwriting search & 113 famous lines.",
+      "blurbs": "Offline Four Books: 1257 passages with Legge-aligned English; handwriting search, recite, focused study, 113 famous lines, Daily Saying, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "1257 passages",
+        "Handwriting search",
+        "113 famous lines",
+        "Daily Saying"
+      ],
+      "names_zh": "爱四书"
+    }
+  },
+  "iSage": {
+    "en": {
+      "taglines": "One saying, a way to live — bilingual reading, scenes & Sage Academy.",
+      "blurbs": "Offline Zengguang Xianwen studio: 1084 sayings across the classic recension and Zhou Xitao’s New Augmented Wisdom; vernacular, English, sage readings & life scenes; Today’s Wisdom, recite, Sage Academy, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "1084 sayings",
+        "Life scenes",
+        "Sage Academy",
+        "Today's Wisdom"
+      ],
+      "names_zh": "爱增广贤文"
+    }
+  },
+  "iPrecepts": {
+    "en": {
+      "taglines": "One precept, a family way — bilingual reading, parallel compare & study.",
+      "blurbs": "Offline family-precept studio: 118 works from Zhu Xi, Zhu Bailu, Yan Zhitui, Zeng Guofan and more; vernacular, English, parallel compare; Daily Precept, recite, study, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "118 precepts",
+        "Parallel compare",
+        "Family study",
+        "Daily Precept"
+      ],
+      "names_zh": "爱家训"
+    }
+  },
+  "iRhyme": {
+    "en": {
+      "taglines": "One rhyme pair at a time — parallelism, same-rhyme compare & study.",
+      "blurbs": "Offline sound-rhyme studio: 312 passages of Shenglü Qimeng, Li Weng Dui Yun across thirty rhymes, Qian Jia Shi and You Xue Qiong Lin; recite, study, Today’s Rhyme, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "312 passages",
+        "Parallelism view",
+        "Rhyme study",
+        "Today's Rhyme"
+      ],
+      "names_zh": "爱声律启蒙"
+    }
+  },
+  "iXin": {
+    "en": {
+      "taglines": "Knowing and acting as one — bilingual reading, journal & Heart School.",
+      "blurbs": "Offline Yangming studio: 102 passages from Chuanxilu, Inquiry on the Great Learning, Longchang instructions, poems and annals; vernacular, English, Knowing-Acting journal; Daily Insight, recite, study, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "102 passages",
+        "Knowing-Acting journal",
+        "Heart School",
+        "Daily Insight"
+      ],
+      "names_zh": "爱王阳明"
+    }
+  },
+  "iZhuangZi": {
+    "en": {
+      "taglines": "One passage of Zhuangzi — bilingual reading, parables & Dao study.",
+      "blurbs": "Offline Zhuangzi studio: all 33 chapters, Inner / Outer / Miscellaneous, 701 paragraphs with vernacular and Legge English; parables, Ask Zhuangzi, recite, study, Daily Zhuangzi, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "33 Zhuangzi chapters",
+        "Daily refresh",
+        "Ask Zhuangzi",
+        "Dao Study"
+      ],
+      "names_zh": "爱庄子"
+    }
+  },
+  "iGuanZhi": {
+    "en": {
+      "taglines": "Guwen Guanzhi — fable how-to, genre lexicon & long category guides.",
+      "blurbs": "Offline Guwen Guanzhi close reading: 222 essays with how-to on anecdotes, genre lexicon & long browse guides; recite, Classics Study, Essay Hunt; Daily Essay, widgets & Siri — fully offline, no account, no ads.",
+      "highlights": [
+        "222 essays",
+        "Fable how-to",
+        "Genre lexicon",
+        "Daily Essay"
+      ],
+      "names_zh": "爱古文观止"
+    }
+  },
+  "iHanFei": {
+    "en": {
+      "taglines": "Han Feizi — fables how-to, Legalism Study & random daily chapter.",
+      "blurbs": "Offline Han Feizi: 55 chapters, 85 fables with practical how-to, 47 concepts; Daily Stratagem with smarter refresh, random chapter, Legalism Study & widgets — no account, no ads.",
+      "highlights": [
+        "55 chapters",
+        "Fable how-to",
+        "Random chapter",
+        "Daily refresh"
+      ],
+      "names_zh": "爱韩非子"
+    }
+  },
+  "iLvShi": {
+    "en": {
+      "taglines": "One season, one passage — four-layer reading & Almanac.",
+      "blurbs": "Offline Lüshi Chunqiu studio: 160 passages with Gao You notes, vernacular & English; Almanac widget, Spring–Autumn Study, Daily Passage, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "160 passages",
+        "Gao You notes",
+        "Almanac",
+        "Daily Passage"
+      ],
+      "names_zh": "爱吕氏春秋"
+    }
+  },
+  "iMencius": {
+    "en": {
+      "taglines": "One Mencius saying — analogies, dialogue & Nurturing Qi Study.",
+      "blurbs": "Offline Mencius studio: 690 chapters, 3549 verses, analogies & dialogue map; recite, Nurturing Qi Study, Yi Hunt; Daily Saying, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "690 chapters",
+        "Analogies",
+        "Nurturing Qi Study",
+        "Daily Saying"
+      ],
+      "names_zh": "爱孟子"
+    }
+  },
+  "iMoZi": {
+    "en": {
+      "taglines": "Mozi — four long guides, vernacular layer & foldable intros.",
+      "blurbs": "Offline Mozi: Ten Theses map, four long Mohist guides, vernacular layer and foldable intro cards; recite, Mo Study, Hunt; Daily Mo, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "Mozi library",
+        "Four long guides",
+        "Vernacular layer",
+        "Daily Mo"
+      ],
+      "names_zh": "爱墨子"
+    }
+  },
+  "iXunZi": {
+    "en": {
+      "taglines": "Xunzi — concept & idiom lexicons, bilingual reading & Study.",
+      "blurbs": "Offline Xunzi studio: concept & idiom lexicons deepen study beside bilingual reading; recite, Academy Study, Hunt; Daily Xun, widgets & Siri — no account, no ads.",
+      "highlights": [
+        "Xunzi library",
+        "Concept lexicon",
+        "Idiom lexicon",
+        "Daily Xun"
+      ],
+      "names_zh": "爱荀子"
+    }
+  },
+  "iBrowser": {
+    "en": {
+      "taglines": "True full-screen browser — widgets, Shortcuts, child lock.",
+      "blurbs": "Immersive browsing on iPhone & iPad: float ball, Home/Lock widgets, Siri & Shortcuts, optional iCloud for bookmarks — child lock keeps the page fixed; no ads, no pop-ups.",
+      "highlights": [
+        "Widgets & Shortcuts",
+        "Float ball",
+        "Child lock",
+        "Optional iCloud"
+      ],
+      "names_zh": "全屏浏览器"
+    }
+  },
+  "iMusic": {
+    "en": {
+      "taglines": "Curated listening studio — Daily Piece, immersive play & song ID.",
+      "blurbs": "5,300+ original listening notes offline: Daily Piece, immersive player (cover flow & backdrop styles) and song ID; Apple Music catalog on artist pages; widgets & Siri. No account, no ads.",
+      "highlights": [
+        "5300+ guides",
+        "Cover flow player",
+        "Song ID",
+        "Daily Piece"
+      ],
+      "names_zh": "爱音乐"
+    }
+  },
+  "iBianQue": {
+    "en": {
+      "taglines": "Nan Jing inquiry — four examinations, atlas & cultural study.",
+      "blurbs": "Offline Bian Que workshop: Shiji memoir, 81 Difficulties, four-exam scenes & a 2D meridian atlas; Daily Art, Que Study, widgets & Siri — cultural study, not medical advice.",
+      "highlights": [
+        "81 Difficulties",
+        "Four examinations",
+        "Meridian atlas",
+        "Daily Art"
+      ],
+      "names_zh": "爱扁鹊"
+    }
+  },
+  "iGuige": {
+    "en": {
+      "taglines": "Guiguzi workshop — art cards, cases & Speak to Each Kind.",
+      "blurbs": "Offline Guiguzi workshop: 40 art cards with misuse warnings, 200 Warring States cases & Speak to Each Kind; Daily Strategy, academy, widgets & Siri — study, not a sales desk.",
+      "highlights": [
+        "40 art cards",
+        "200 cases",
+        "Speak to Each Kind",
+        "Daily Strategy"
+      ],
+      "names_zh": "爱鬼谷子"
+    }
+  },
+  "iLiezi": {
+    "en": {
+      "taglines": "Liezi in 135 units — fables, xu–wind–ming & Daily Liezi.",
+      "blurbs": "The complete Liezi offline: 135 story-units, Yugong / riding the wind / man of Qi, and the xu–wind–ming graph; Daily Liezi, Liezi Study, widgets & Siri — one text, not a quote wall.",
+      "highlights": [
+        "135 story-units",
+        "Fable hall",
+        "xu–wind–ming",
+        "Daily Liezi"
+      ],
+      "names_zh": "爱列子"
+    }
+  },
+  "iShangYang": {
+    "en": {
+      "taglines": "Shangjunshu as history — four layers, edicts & chronicle.",
+      "blurbs": "Offline Book of Lord Shang: four-layer reading, 60 reform edicts and a 361–338 BCE chronicle; Daily Reform, Reform Study, widgets & Siri — historical study, not a ruling prescription.",
+      "highlights": [
+        "Four-layer reading",
+        "60 edicts",
+        "Reform chronicle",
+        "Daily Reform"
+      ],
+      "names_zh": "爱商鞅"
+    }
+  },
+  "iZengZi": {
+    "en": {
+      "taglines": "Zengzi line — three reflections, eight steps & a closed set.",
+      "blurbs": "A closed Zengzi set offline: Analects excerpts, Great Learning, Xiaojing and a three-question journal; Daily Reflection, Cultivation Hall, widgets & Siri — not the full Analects or Mencius.",
+      "highlights": [
+        "Closed Zengzi set",
+        "Three-question journal",
+        "Eight steps",
+        "Daily Reflection"
+      ],
+      "names_zh": "爱曾子"
+    }
+  },
+  "iZiSi": {
+    "en": {
+      "taglines": "Zisi & the Mean — five steps, watchfulness & Guodian slips.",
+      "blurbs": "Offline Zisi workshop: Zhu Xi’s 33 Zhongyong chapters, Guodian Five Conducts and Watchfulness studio; Today’s Thought, Zisi Study, widgets & Siri — not the Four Books bundle.",
+      "highlights": [
+        "33 Zhongyong chapters",
+        "Five Conducts",
+        "Watchfulness",
+        "Five steps"
+      ],
+      "names_zh": "爱子思"
+    }
+  },
+  "iWidget": {
+    "en": {
+      "taglines": "Widget designer — 54 presets, wallpaper tint, tap shield, offline calendar.",
+      "blurbs": "Build home, Lock Screen & Control Center boards from blocks — lunar, weather, countdowns & device stats; per-slot wallpapers, transparent widgets, Siri & `iwidget://` — optional iCloud, no account.",
+      "highlights": [
+        "54 preset sets",
+        "Block editor",
+        "Tap shield",
+        "Home + Lock widgets"
+      ],
+      "names_zh": "爱组件"
+    }
+  }
+}

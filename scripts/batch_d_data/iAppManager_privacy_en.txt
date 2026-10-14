@@ -1,0 +1,50 @@
+iHTC Studio built iAppManager (爱应用者 / 愛應用者).
+
+## Summary
+
+**iHTC Studio does not operate a backend for your App Store Connect data.** You sign in with an **API Key** stored in **device Keychain**. Business requests go **directly to Apple** (`api.appstoreconnect.apple.com`). **No iHTC Studio account. No ads. No analytics / crash SDK.** Optional StoreKit tip purchases are processed by **Apple**.
+
+## Data Stored on Your Device
+
+| Data | Purpose |
+|------|---------|
+| API Key accounts (Issuer ID, Key ID, `.p8` PEM) | Authenticate to App Store Connect API — Keychain |
+| Account index / current account / preferences | Multi-account switch, appearance, language, accent |
+| Remote image cache | App icons & media thumbnails (clearable in Settings) |
+| Review reply templates, report presets / stars | Local productivity helpers per account |
+| App Group widget snapshot | Pipeline counts, theme/language for widgets — **on device only** |
+
+## Network
+
+| Destination | Why |
+|-------------|-----|
+| `api.appstoreconnect.apple.com` | All ASC management (JWT signed on device) |
+| Apple iTunes Lookup (multi-region) | Optional App icon enrichment |
+| Apple CDN / pre-signed upload URLs | Screenshots, previews, IPA/PKG chunk uploads (no Bearer on PUT) |
+| `apps.apple.com` / App Store | Open product pages (system / external) |
+| Mail client | Feedback you choose to send |
+
+iHTC Studio does **not** receive your API private key, app metadata, IPA contents, sales reports or customer reviews.
+
+## Permissions & platform notes
+
+| Capability | When | Why |
+|------------|------|-----|
+| Outgoing network | Always while using ASC features | Talk to Apple APIs |
+| User-selected files | Upload IPA/screenshots, export reports | You pick the files |
+| Keychain | Save / remove API keys | Secure local storage |
+| App Group | Widgets | Share local summaries only |
+| Photos / share sheet (as offered by OS) | Export / save when you act | User-initiated |
+
+Certificate **install into system Keychain** is intended for **macOS**. iOS focuses on list / download / share.
+
+## What we do not do
+
+- No iHTC Studio cloud account for ASC data
+- No advertising or third-party trackers
+- No sale of personal data
+- Widgets never call ASC by themselves
+
+## Contact
+
+[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)

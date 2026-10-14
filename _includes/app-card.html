@@ -1,0 +1,73 @@
+{%- comment -%}
+Reusable homepage-style app card.
+
+Usage:
+  {% include app-card.html app=app %}
+  {% include app-card.html app=app details_suffix=collection.id %}
+{%- endcomment -%}
+{%- assign app = include.app -%}
+{%- assign app_title = app.display_name | default: app.id -%}
+{%- if include.details_suffix -%}
+  {%- assign details_id = "app-card-details-" | append: include.details_suffix | append: "-" | append: app.id -%}
+{%- else -%}
+  {%- assign details_id = "app-card-details-" | append: app.id -%}
+{%- endif -%}
+<article class="app-card"
+   data-app-card
+   style="--card-from: {{ app.accent.gradient_from }}; --card-to: {{ app.accent.gradient_to }}; --card-accent: {{ app.accent.light }};">
+  <div class="app-card__shell">
+    <button type="button"
+            class="app-card__toggle"
+            data-app-card-toggle
+            aria-expanded="false"
+            aria-controls="{{ details_id }}"
+            {%- for L in site.languages -%}
+            data-label-expand-{{ L.code }}="{{ site.data.i18n[L.code].apps_section.show_details }} — {{ app_title }}"
+            data-label-collapse-{{ L.code }}="{{ site.data.i18n[L.code].apps_section.hide_details }} — {{ app_title }}"
+            {%- endfor -%}>
+      {% include icons.html name="chevron-down" size="18" %}
+    </button>
+
+    <a href="{{ app.url | relative_url }}" class="app-card__hit">
+      <div class="app-card__top">
+        <div class="app-card__icon">
+          {% include app-icon.html app=app size="28" %}
+        </div>
+        <div class="app-card__heading">
+          <h3 class="app-card__title">{{ app_title }}</h3>
+          <span class="app-card__name-zh">
+            {% include locale-field.html object=app.names inline=true %}
+          </span>
+        </div>
+      </div>
+      {% include locale-field.html object=app.taglines tag="p" class="app-card__tagline" %}
+    </a>
+
+    <div class="app-card__details" id="{{ details_id }}" data-app-card-details aria-hidden="true">
+      <div class="app-card__details-inner">
+        {% include locale-field.html object=app.blurbs tag="p" class="app-card__blurb" %}
+        <div class="app-card__chips">
+          {%- for L in site.languages -%}
+          <span lang="{{ L.code }}">
+            {%- assign hl = app.highlights[L.code] | default: app.highlights.en -%}
+            {%- for h in hl -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+          </span>
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+
+    <div class="app-card__footer">
+      <span class="app-card__meta">
+        {% include app-distribution.html app=app variant="chip" %}
+        <span class="app-card__platforms">
+          {%- for p in app.platforms -%}{{ p }}{% unless forloop.last %} · {% endunless %}{%- endfor -%}
+        </span>
+      </span>
+      <a href="{{ app.url | relative_url }}" class="app-card__cta">
+        {% include i18n-key.html section="apps_section" key="learn_more" inline=true %}
+      </a>
+    </div>
+  </div>
+  {% include app-distribution.html app=app variant="card" %}
+</article>
