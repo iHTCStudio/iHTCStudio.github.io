@@ -1,0 +1,54 @@
+### What is iAppManager?
+
+A **native App Store Connect workstation** for iPhone, iPad and Mac. Sign in with an **API Key**, manage versions, screenshots, IAP, TestFlight, certificates, reports and reviews — traffic goes **straight to Apple**. No iHTC Studio account.
+
+### How do I get an API Key?
+
+1. Open [App Store Connect](https://appstoreconnect.apple.com) → **Users and Access** → **Integrations** → **App Store Connect API**
+2. Create a key (Admin or App Manager recommended)
+3. Download the `.p8` **once**, note **Issuer ID** and **Key ID**
+4. Paste them in iAppManager (or pick the file). The in-app guide walks you through screenshots.
+
+### Is my `.p8` uploaded to iHTC Studio?
+
+**No.** The private key stays in **device Keychain**. Requests are signed locally and sent to `api.appstoreconnect.apple.com`. Removing an account deletes the local key.
+
+### Do I need an Apple ID password inside the app?
+
+**No.** Authentication is **API Key only** (Issuer ID + Key ID + `.p8`). You still use your Apple ID in Safari/ASC when a feature has no public API (e.g. privacy nutrition labels, free-app promo codes) — the app opens Apple’s site for those cases.
+
+### Can I upload IPA / PKG without Transporter?
+
+**Yes.** iAppManager uses Apple’s **Build Upload REST** (WWDC25). Prefer **Mac** for large files; iOS supports the same API but is less comfortable for big uploads.
+
+### What does “on sale” mean in filters / widgets?
+
+**Available in at least one App Store territory.** Pipeline buckets (waiting / in review / rejected / pending developer release) are tracked separately. Widget **Needs attention** = waiting + in review + rejected + pending release (local sum, not an ASC field).
+
+### Hard vs soft checks before submit?
+
+**Hard blockers** stop submit (e.g. build not ready, demo account required but missing). **Soft checks** warn (primary screenshot size, copyright, age rating, etc.) and you can confirm to continue. See Overview / Versions / Submissions `?` or `iappmanager://release-guide`.
+
+### Which languages are supported?
+
+**English · 简体中文 · 繁體中文**, follow system or force in Settings. Language hot-swap refreshes copy **without** remounting the root (navigation and drafts stay).
+
+### Widgets don’t show live ASC numbers?
+
+Widgets **do not call ASC**. The main app scans and writes a snapshot (~10‑minute TTL, same buckets as My Apps). Open the app and refresh the list (or force status refresh) to update.
+
+### macOS vs iOS differences?
+
+Both cover store, monetization, TestFlight, Game Center, users, reports, reviews and Webhooks. **Prefer Mac** for large IPA uploads and installing certificates into the system Keychain. Alternate app icons are **iOS only**.
+
+### Where is the privacy policy URL for App Store Connect?
+
+Open this site’s [Privacy Policy](../privacy) page and copy the URL from your browser’s address bar.
+
+### System requirements?
+
+iPhone / iPad **iOS 17.0+**, Mac **macOS 14.0+**.
+
+### How do I contact support?
+
+[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com) — typically within 48 hours.

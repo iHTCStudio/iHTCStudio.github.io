@@ -1,0 +1,40 @@
+{%- comment -%}
+App icon: App Store artwork when available, SVG fallback on load failure.
+
+Usage:
+  {% include app-icon.html app=app size="44" %}
+{%- endcomment -%}
+{%- assign size = include.size | default: "28" -%}
+{%- assign size_num = size | plus: 0 -%}
+{%- assign icon = include.app.icon | default: "spark" -%}
+{%- assign icon_meta = site.data.app_icons[include.app.id] -%}
+{%- assign store_icon = nil -%}
+{%- if icon_meta -%}
+  {%- if size_num < 36 and icon_meta.icon_url_sm -%}
+    {%- assign store_icon = icon_meta.icon_url_sm -%}
+  {%- elsif icon_meta.icon_url -%}
+    {%- assign store_icon = icon_meta.icon_url -%}
+  {%- endif -%}
+{%- endif -%}
+{%- comment -%}Fallback to per-app manual icons in apps.yml (pre-App-Store / local assets).{%- endcomment -%}
+{%- if store_icon == nil -%}
+  {%- if size_num < 36 and include.app.icon_url_sm -%}
+    {%- assign store_icon = include.app.icon_url_sm -%}
+  {%- elsif include.app.icon_url -%}
+    {%- assign store_icon = include.app.icon_url -%}
+  {%- endif -%}
+{%- endif -%}
+<span class="app-icon{% unless store_icon %} is-fallback{% endunless %}" data-app-icon style="--app-icon-size: {{ size }}px"{% if include.app.apple_id %} data-apple-id="{{ include.app.apple_id }}"{% endif %}>
+  {%- if store_icon -%}
+  <img class="app-icon__img"
+       src="{{ store_icon }}"
+       width="{{ size }}"
+       height="{{ size }}"
+       alt=""
+       loading="lazy"
+       decoding="async" />
+  {%- endif -%}
+  <span class="app-icon__fallback" aria-hidden="true">
+    {% include app-icon-svg.html icon=icon size=size %}
+  </span>
+</span>

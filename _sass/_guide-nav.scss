@@ -1,0 +1,37 @@
+// In-page guide navigation table (TwinPolarCam user guide "On this page")
+.prose {
+  h2.guide-nav-heading {
+    font-size: var(--fs-17);
+    font-weight: 600;
+    border-top: 0;
+    padding-top: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.6em;
+    color: var(--color-text-soft);
+    letter-spacing: 0.02em;
+  }
+
+  table.guide-nav-table {
+    font-size: var(--fs-15);
+    background: var(--color-bg-muted);
+    border-color: color-mix(in srgb, var(--accent) 18%, var(--color-border));
+
+    th {
+      background: color-mix(in srgb, var(--accent) 8%, var(--color-bg-muted));
+      color: var(--color-text);
+      font-size: var(--fs-13);
+      width: 28%;
+      white-space: nowrap;
+    }
+
+    td a {
+      text-decoration: none;
+      font-weight: 500;
+      &:hover { text-decoration: underline; }
+    }
+
+    tbody tr:hover {
+      background: color-mix(in srgb, var(--accent) 6%, var(--color-bg-muted));
+    }
+  }
+}

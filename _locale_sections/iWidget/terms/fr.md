@@ -1,0 +1,19 @@
+## Adhésion et renouvellements
+
+2026-10-31
+
+Le téléchargement est gratuit. Tous les outils d’édition sont disponibles pendant 168 heures consécutives à partir de la première utilisation sur cet appareil, sans abonnement. L’essai gratuit ne se transforme jamais automatiquement en abonnement payant. Pour les utilisateurs existants, l’essai commence à la première ouverture de la version avec adhésion. Le début est conservé autant que possible dans le stockage local sécurisé ; une réinitialisation ou un changement d’appareil peut relancer l’essai.
+
+Les adhésions mensuelle et annuelle se renouvellent automatiquement via Apple. L’adhésion à vie est un achat unique non consommable, sans renouvellement. Les trois formules donnent les mêmes droits d’édition complets. Les prix, la devise, la période de facturation et la confirmation de paiement sont fournis par Apple. Un achat pendant l’essai est facturé immédiatement ; le temps d’essai restant n’est pas déduit.
+
+Sans adhésion, vous pouvez parcourir, ajouter, importer, exporter et utiliser les modèles et designs enregistrés. Pendant l’essai et une adhésion valide, les widgets de l’écran d’accueil, de l’écran de verrouillage et ceux lancés par raccourci restent disponibles. Lorsque cet accès se termine, ils se mettent en pause ; un appui ouvre la page d’adhésion, et ils reprennent après l’achat. L’éditeur exige une adhésion valide ou l’essai gratuit. Une session d’édition en cours peut être enregistrée lorsque l’essai expire naturellement.
+
+Gérez ou annulez le renouvellement dans les réglages d’abonnement Apple avant la prochaine échéance. Apple peut facturer dans les 24 heures précédant le renouvellement. Désinstaller l’app n’annule pas un abonnement. Acheter l’offre à vie n’annule pas un abonnement existant : désactivez son renouvellement séparément pour éviter d’autres prélèvements. Après annulation du renouvellement, l’accès reste jusqu’à la fin de la période déjà payée. Les remboursements sont traités par Apple ; un remboursement accepté ou un achat révoqué peut retirer l’accès à l’édition.
+
+Restaurez les achats dans Réglages ou sur la page d’adhésion avec le compte Apple utilisé pour l’achat. L’accès acheté est distinct de la sync iCloud facultative des designs. Le Partage familial n’est pas proposé. Une connexion peut être nécessaire pour confirmer un renouvellement, un remboursement ou une restauration. Les services tiers et fonctions système restent soumis à leurs fournisseurs et à leur disponibilité.
+
+Vos designs restent les vôtres. Vous êtes responsable des droits sur les contenus importés. N’utilisez pas l’app de façon illicite. Sauvegardez les designs importants. Aucun compte développeur n’est requis. La licence logicielle est régie par le CLUF standard d’Apple ; ces conditions décrivent nos services et ne limitent pas les droits impératifs des consommateurs. Les fonctions et ces conditions peuvent être mises à jour, avec notification lorsque la loi l’exige. Elles ne garantissent pas un service tiers ininterrompu.
+
+[Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) · [Privacy](../privacy/) · [Membership](../membership/)
+
+iHTC Studio · AppleOSer@gmail.com

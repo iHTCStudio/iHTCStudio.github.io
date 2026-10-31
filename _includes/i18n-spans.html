@@ -1,0 +1,8 @@
+{%- assign sec = include.section -%}
+{%- assign key = include.key -%}
+{%- assign inline_class = include.inline | default: true -%}
+{%- for L in site.languages -%}
+{%- assign bundle = site.data.i18n[L.code] -%}
+{%- assign val = bundle[sec][key] -%}
+<span lang="{{ L.code }}"{% if inline_class %} class="inline"{% endif %}>{{ val }}</span>
+{%- endfor -%}

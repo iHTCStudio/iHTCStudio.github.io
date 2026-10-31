@@ -1,0 +1,1676 @@
+{
+  "**Last updated:** August 18, 2026": {
+    "ja": "**最終更新日:** 2026年8月18日",
+    "ko": "**마지막 업데이트:** 2026년 8월 18일",
+    "ru": "**Последнее обновление:** 18 августа 2026 г.",
+    "th": "**อัปเดตล่าสุด:** 18 สิงหาคม 2026",
+    "de": "**Zuletzt aktualisiert:** 18. August 2026",
+    "fr": "**Dernière mise à jour :** 18 août 2026",
+    "tr": "**Son güncelleme:** 18 Ağustos 2026"
+  },
+  "**Last updated:** August 19, 2026": {
+    "ja": "**最終更新日:** 2026年8月19日",
+    "ko": "**마지막 업데이트:** 2026년 8월 19일",
+    "ru": "**Последнее обновление:** 19 августа 2026 г.",
+    "th": "**อัปเดตล่าสุด:** 19 สิงหาคม 2026",
+    "de": "**Zuletzt aktualisiert:** 19. August 2026",
+    "fr": "**Dernière mise à jour :** 19 août 2026",
+    "tr": "**Son güncelleme:** 19 Ağustos 2026"
+  },
+  "**Last updated:** September 2, 2026": {
+    "ja": "**最終更新日:** 2026年9月2日",
+    "ko": "**마지막 업데이트:** 2026년 9월 2일",
+    "ru": "**Последнее обновление:** 2 сентября 2026 г.",
+    "th": "**อัปเดตล่าสุด:** 2 กันยายน 2026",
+    "de": "**Zuletzt aktualisiert:** 2. September 2026",
+    "fr": "**Dernière mise à jour :** 2 septembre 2026",
+    "tr": "**Son güncelleme:** 2 Eylül 2026"
+  },
+  "**Last updated:** September 3, 2026": {
+    "ja": "**最終更新日:** 2026年9月3日",
+    "ko": "**마지막 업데이트:** 2026년 9월 3일",
+    "ru": "**Последнее обновление:** 3 сентября 2026 г.",
+    "th": "**อัปเดตล่าสุด:** 3 กันยายน 2026",
+    "de": "**Zuletzt aktualisiert:** 3. September 2026",
+    "fr": "**Dernière mise à jour :** 3 septembre 2026",
+    "tr": "**Son güncelleme:** 3 Eylül 2026"
+  },
+  "- **Account:** not required": {
+    "ja": "- **アカウント:** 不要",
+    "ko": "- **계정:** 필요 없음",
+    "ru": "- **Учётная запись:** не требуется",
+    "th": "- **บัญชี:** ไม่จำเป็น",
+    "de": "- **Konto:** nicht erforderlich",
+    "fr": "- **Compte :** non requis",
+    "tr": "- **Hesap:** gerekli değil"
+  },
+  "- **Ads / analytics / tracking:** none": {
+    "ja": "- **広告 / 分析 / トラッキング:** なし",
+    "ko": "- **광고 / 분석 / 추적:** 없음",
+    "ru": "- **Реклама / аналитика / отслеживание:** нет",
+    "th": "- **โฆษณา / การวิเคราะห์ / การติดตาม:** ไม่มี",
+    "de": "- **Werbung / Analysen / Tracking:** keine",
+    "fr": "- **Publicités / analyses / suivi :** aucun",
+    "tr": "- **Reklam / analitik / izleme:** yok"
+  },
+  "- **Core use:** offline after install": {
+    "ja": "- **主な利用:** インストール後はオフライン",
+    "ko": "- **핵심 사용:** 설치 후 오프라인",
+    "ru": "- **Основное использование:** офлайн после установки",
+    "th": "- **การใช้งานหลัก:** ออฟไลน์หลังติดตั้ง",
+    "de": "- **Kernnutzung:** offline nach Installation",
+    "fr": "- **Usage principal :** hors ligne après installation",
+    "tr": "- **Temel kullanım:** kurulumdan sonra çevrimdışı"
+  },
+  "- **Data collection by us:** **Data Not Collected**": {
+    "ja": "- **当社によるデータ収集:** **データは収集しません**",
+    "ko": "- **당사의 데이터 수집:** **데이터 수집 없음**",
+    "ru": "- **Сбор данных нами:** **данные не собираются**",
+    "th": "- **การเก็บข้อมูลโดยเรา:** **ไม่เก็บข้อมูล**",
+    "de": "- **Datenerhebung durch uns:** **Keine Datenerhebung**",
+    "fr": "- **Collecte de données par nous :** **données non collectées**",
+    "tr": "- **Bizim veri toplamamız:** **Veri toplanmaz**"
+  },
+  "- **Optional Apple services:** iCloud KVS, Photo Library add-only, StoreKit tipping, local notifications, Spotlight, Live Activity": {
+    "ja": "- **任意の Apple サービス:** iCloud KVS、写真ライブラリ（追加のみ）、StoreKit チップ、ローカル通知、Spotlight、Live Activity",
+    "ko": "- **선택 Apple 서비스:** iCloud KVS, 사진 보관함(추가 전용), StoreKit 팁, 로컬 알림, Spotlight, Live Activity",
+    "ru": "- **Необязательные сервисы Apple:** iCloud KVS, Фототека (только добавление), чаевые StoreKit, локальные уведомления, Spotlight, Live Activity",
+    "th": "- **บริการ Apple เสริม:** iCloud KVS, คลังรูปภาพ (เพิ่มอย่างเดียว), StoreKit ทิป, การแจ้งเตือนในเครื่อง, Spotlight, Live Activity",
+    "de": "- **Optionale Apple-Dienste:** iCloud KVS, Fotomediathek (nur Hinzufügen), StoreKit-Trinkgeld, lokale Benachrichtigungen, Spotlight, Live Activity",
+    "fr": "- **Services Apple facultatifs :** iCloud KVS, Photothèque (ajout uniquement), pourboire StoreKit, notifications locales, Spotlight, Live Activity",
+    "tr": "- **İsteğe bağlı Apple hizmetleri:** iCloud KVS, Fotoğraf Kitaplığı (yalnızca ekleme), StoreKit bahşiş, yerel bildirimler, Spotlight, Live Activity"
+  },
+  "- Favorites and lists": {
+    "ja": "- お気に入りとリスト",
+    "ko": "- 즐겨찾기 및 목록",
+    "ru": "- Избранное и списки",
+    "th": "- รายการโปรดและรายการ",
+    "de": "- Favoriten und Listen",
+    "fr": "- Favoris et listes",
+    "tr": "- Favoriler ve listeler"
+  },
+  "- Reading history and notes": {
+    "ja": "- 閲読履歴とメモ",
+    "ko": "- 읽기 기록 및 메모",
+    "ru": "- История чтения и заметки",
+    "th": "- ประวัติการอ่านและบันทึก",
+    "de": "- Leseverlauf und Notizen",
+    "fr": "- Historique de lecture et notes",
+    "tr": "- Okuma geçmişi ve notlar"
+  },
+  "- Study progress, mastery, and streaks": {
+    "ja": "- 学習進捗、習熟、連続記録",
+    "ko": "- 학습 진행, 숙달, 연속 기록",
+    "ru": "- Прогресс, mastery и серии",
+    "th": "- ความคืบหน้า ความชำนาญ และสตรีค",
+    "de": "- Lernfortschritt, Beherrschung und Serien",
+    "fr": "- Progression, maîtrise et séries",
+    "tr": "- Çalışma ilerlemesi, ustalık ve seriler"
+  },
+  "- Appearance, reading, and speech preferences": {
+    "ja": "- 外観、閲読、音声の設定",
+    "ko": "- 모양, 읽기, 음성 설정",
+    "ru": "- Настройки оформления, чтения и речи",
+    "th": "- การตั้งค่าธีม การอ่าน และเสียง",
+    "de": "- Darstellung, Lesen und Spracheinstellungen",
+    "fr": "- Apparence, lecture et voix",
+    "tr": "- Görünüm, okuma ve konuşma tercihleri"
+  },
+  "- Daily Saying cache and widget state": {
+    "ja": "- 每日一言キャッシュとウィジェット状態",
+    "ko": "- Daily Saying 캐시 및 위젯 상태",
+    "ru": "- Кэш Daily Saying и состояние виджета",
+    "th": "- แคช Daily Saying และสถานะวิดเจ็ต",
+    "de": "- Daily-Saying-Cache und Widget-Status",
+    "fr": "- Cache Daily Saying et état du widget",
+    "tr": "- Daily Saying önbelleği ve widget durumu"
+  },
+  "- Daily Classic cache and widget state": {
+    "ja": "- Daily Classic キャッシュとウィジェット状態",
+    "ko": "- Daily Classic 캐시 및 위젯 상태",
+    "ru": "- Кэш Daily Classic и виджет",
+    "th": "- แคช Daily Classic และวิดเจ็ต",
+    "de": "- Daily-Classic-Cache und Widget",
+    "fr": "- Cache Daily Classic et widget",
+    "tr": "- Daily Classic önbelleği ve widget"
+  },
+  "- Check-in streaks": {
+    "ja": "- チェックイン連続",
+    "ko": "- 체크인 연속",
+    "ru": "- Серии отметок",
+    "th": "- สตรีคเช็คอิน",
+    "de": "- Check-in-Serien",
+    "fr": "- Séries de check-in",
+    "tr": "- Check-in serileri"
+  },
+  "- Study streaks": {
+    "ja": "- 学習連続記録",
+    "ko": "- 학습 연속",
+    "ru": "- Учебные серии",
+    "th": "- สตรีคการเรียน",
+    "de": "- Lernserien",
+    "fr": "- Séries d’étude",
+    "tr": "- Çalışma serileri"
+  },
+  "- Surname lists": {
+    "ja": "- 姓氏リスト",
+    "ko": "- 성씨 목록",
+    "ru": "- Списки фамилий",
+    "th": "- รายการนามสกุล",
+    "de": "- Familienlisten",
+    "fr": "- Listes de noms",
+    "tr": "- Soyadı listeleri"
+  },
+  "- Study lists": {
+    "ja": "- 学習リスト",
+    "ko": "- 학습 목록",
+    "ru": "- Списки обучения",
+    "th": "- รายการเรียน",
+    "de": "- Lernlisten",
+    "fr": "- Listes d’étude",
+    "tr": "- Çalışma listeleri"
+  },
+  "- Study progress / high scores": {
+    "ja": "- 学習進捗 / ハイスコア",
+    "ko": "- 학습 진행 / 최고 점수",
+    "ru": "- Прогресс / рекорды",
+    "th": "- ความคืบหน้า / คะแนนสูงสุด",
+    "de": "- Lernfortschritt / Highscores",
+    "fr": "- Progression / meilleurs scores",
+    "tr": "- İlerleme / yüksek skorlar"
+  },
+  "- Knowing-Acting journal entries": {
+    "ja": "- 知行合一ジャーナル",
+    "ko": "- 지행합일 저널",
+    "ru": "- Записи журнала «Знание–действие»",
+    "th": "- บันทึก Knowing-Acting",
+    "de": "- Knowing-Acting-Tagebuch",
+    "fr": "- Journal Knowing-Acting",
+    "tr": "- Knowing-Acting günlüğü"
+  },
+  "- Reflection journal entries": {
+    "ja": "- 省思ジャーナル",
+    "ko": "- 성찰 저널",
+    "ru": "- Записи рефлексивного журнала",
+    "th": "- บันทึกสะท้อนคิด",
+    "de": "- Reflexionstagebuch",
+    "fr": "- Journal de réflexion",
+    "tr": "- Yansıma günlüğü"
+  },
+  "- Habit check-in history": {
+    "ja": "- 習慣チェックイン履歴",
+    "ko": "- 습관 체크인 기록",
+    "ru": "- История привычек",
+    "th": "- ประวัติเช็คอินนิสัย",
+    "de": "- Gewohnheits-Check-ins",
+    "fr": "- Historique d’habitudes",
+    "tr": "- Alışkanlık check-in geçmişi"
+  },
+  "- Five-steps completion marks": {
+    "ja": "- 五步完了マーク",
+    "ko": "- 오步 완료 표시",
+    "ru": "- Отметки пяти шагов",
+    "th": "- เครื่องหมายห้าขั้น",
+    "de": "- Fünf-Schritte-Markierungen",
+    "fr": "- Marques des cinq étapes",
+    "tr": "- Beş adım tamamlama işaretleri"
+  },
+  "- Three-question journal entries": {
+    "ja": "- 三問ジャーナル",
+    "ko": "- 삼문 저널",
+    "ru": "- Трёхвопросный журнал",
+    "th": "- บันทึกสามคำถาม",
+    "de": "- Drei-Fragen-Tagebuch",
+    "fr": "- Journal trois questions",
+    "tr": "- Üç soru günlüğü"
+  },
+  "- Watchfulness reflections": {
+    "ja": "- 慎独の省察",
+    "ko": "- 신독 성찰",
+    "ru": "- Размышления Watchfulness",
+    "th": "- การสะท้อน Watchfulness",
+    "de": "- Watchfulness-Reflexionen",
+    "fr": "- Réflexions Watchfulness",
+    "tr": "- Watchfulness yansımaları"
+  },
+  "- Saved characters / famous-line favorites": {
+    "ja": "- 保存した字 / 名文お気に入り",
+    "ko": "- 저장한 글자 / 명문 즐겨찾기",
+    "ru": "- Сохранённые иероглифы / избранные строки",
+    "th": "- ตัวอักษรที่บันทึก / บรรทัดโปรด",
+    "de": "- Gespeicherte Zeichen / Lieblingszeilen",
+    "fr": "- Caractères enregistrés / passages favoris",
+    "tr": "- Kayıtlı karakterler / favori dizeler"
+  },
+  "- Related preferences": {
+    "ja": "- 関連設定",
+    "ko": "- 관련 설정",
+    "ru": "- Связанные настройки",
+    "th": "- การตั้งค่าที่เกี่ยวข้อง",
+    "de": "- Zugehörige Einstellungen",
+    "fr": "- Préférences associées",
+    "tr": "- İlgili tercihler"
+  },
+  "- Lists (essay lists)": {
+    "ja": "- リスト（随园诗话リスト）",
+    "ko": "- 목록(essay lists)",
+    "ru": "- Списки (essay lists)",
+    "th": "- รายการ (essay lists)",
+    "de": "- Listen (essay lists)",
+    "fr": "- Listes (essay lists)",
+    "tr": "- Listeler (essay lists)"
+  },
+  "- Notifications are local.": {
+    "ja": "- 通知はローカルです。",
+    "ko": "- 알림은 로컬입니다.",
+    "ru": "- Уведомления локальные.",
+    "th": "- การแจ้งเตือนเป็นแบบในเครื่อง",
+    "de": "- Benachrichtigungen sind lokal.",
+    "fr": "- Les notifications sont locales.",
+    "tr": "- Bildirimler yereldir."
+  },
+  "- Notifications are scheduled locally.": {
+    "ja": "- 通知はローカルでスケジュールされます。",
+    "ko": "- 알림은 로컬로 예약됩니다.",
+    "ru": "- Уведомления планируются локально.",
+    "th": "- การแจ้งเตือนถูกกำหนดในเครื่อง",
+    "de": "- Benachrichtigungen werden lokal geplant.",
+    "fr": "- Les notifications sont planifiées localement.",
+    "tr": "- Bildirimler yerel olarak planlanır."
+  },
+  "- Recitation uses Apple system TTS.": {
+    "ja": "- 朗誦は Apple システム TTS を使用します。",
+    "ko": "- 낭송은 Apple 시스템 TTS를 사용합니다.",
+    "ru": "- Декламация использует системный TTS Apple.",
+    "th": "- การท่องใช้ TTS ของระบบ Apple",
+    "de": "- Rezitation nutzt Apple-System-TTS.",
+    "fr": "- La récitation utilise le TTS système d’Apple.",
+    "tr": "- Okuma Apple sistem TTS kullanır."
+  },
+  "- Share cards are rendered on device.": {
+    "ja": "- 共有カードは端末上で生成されます。",
+    "ko": "- 공유 카드는 기기에서 생성됩니다.",
+    "ru": "- Карточки для sharing создаются на устройстве.",
+    "th": "- การ์ดแชร์สร้างบนอุปกรณ์",
+    "de": "- Share-Karten werden auf dem Gerät gerendert.",
+    "fr": "- Les cartes de partage sont générées sur l’appareil.",
+    "tr": "- Paylaşım kartları cihazda oluşturulur."
+  },
+  "- Reading history and last read position": {
+    "ja": "- 閲読履歴と最後に読んだ位置",
+    "ko": "- 읽기 기록 및 마지막 읽은 위치",
+    "ru": "- История и последняя позиция",
+    "th": "- ประวัติและตำแหน่งอ่านล่าสุด",
+    "de": "- Leseverlauf und letzte Position",
+    "fr": "- Historique et dernière position",
+    "tr": "- Okuma geçmişi ve son konum"
+  },
+  "iHTC Studio built **iSiShu** (爱四书 / 愛四書, Bundle ID `com.iHTCboy.iSiShu`). We do **not** operate a backend that collects your personal data.": {
+    "ja": "iHTC Studio は **iSiShu**（「爱四书」／「愛四書」、Bundle ID `com.iHTCboy.iSiShu`）を開発しました。**お客様の個人データを収集するバックエンドは運営していません**。",
+    "ko": "iHTC Studio는 **iSiShu**(\"爱四书\" / \"愛四書\", Bundle ID `com.iHTCboy.iSiShu`)을(를) 개발했습니다. **개인 데이터를 수집하는 백엔드를 운영하지 않습니다**.",
+    "ru": "iHTC Studio создала **iSiShu** («爱四书» / «愛四書», Bundle ID `com.iHTCboy.iSiShu`). Мы **не** эксплуатируем backend, собирающий ваши персональные данные.",
+    "th": "iHTC Studio พัฒนา **iSiShu** (\"爱四书\" / \"愛四書\", Bundle ID `com.iHTCboy.iSiShu`) **เราไม่ได้**ดำเนินการแบ็กเอนด์ที่เก็บข้อมูลส่วนบุคคลของคุณ",
+    "de": "iHTC Studio hat **iSiShu** („爱四书“ / „愛四書“, Bundle-ID `com.iHTCboy.iSiShu`) entwickelt. Wir betreiben **keinen** Backend-Dienst, der Ihre personenbezogenen Daten sammelt.",
+    "fr": "iHTC Studio a développé **iSiShu** (« 爱四书 » / « 愛四書 », Bundle ID `com.iHTCboy.iSiShu`). Nous n’exploitons **pas** de backend qui collecte vos données personnelles.",
+    "tr": "iHTC Studio, **iSiShu** (\"爱四书\" / \"愛四書\", Bundle ID `com.iHTCboy.iSiShu`) uygulamasını geliştirdi. Kişisel verilerinizi toplayan bir **arka uç işletmiyoruz**."
+  },
+  "iHTC Studio built **iWuJing** (爱五经 / 愛五經, Bundle ID `com.iHTCboy.iWuJing`). This app works as an **offline study desk** for the Confucian Five Classics. We do **not** run a backend that collects your personal data.": {
+    "ja": "iHTC Studio は **iWuJing**（「爱五经」／「愛五經」、Bundle ID `com.iHTCboy.iWuJing`）を開発しました。本アプリは儒教五経の**オフライン学習机**として動作します。**個人データを収集するバックエンドは運営していません**。",
+    "ko": "iHTC Studio는 **iWuJing**(\"爱五经\" / \"愛五經\", Bundle ID `com.iHTCboy.iWuJing`)을(를) 개발했습니다. 이 앱은 유교 오경을 위한 **오프라인 학습 책상**입니다. **개인 데이터를 수집하는 백엔드를 운영하지 않습니다**.",
+    "ru": "iHTC Studio создала **iWuJing** («爱五经» / «愛五經», Bundle ID `com.iHTCboy.iWuJing`). Приложение — **офлайн-стол** для изучения Confucian Five Classics. Мы **не** ведём backend сбора персональных данных.",
+    "th": "iHTC Studio พัฒนา **iWuJing** (\"爱五经\" / \"愛五經\", Bundle ID `com.iHTCboy.iWuJing`) แอปทำหน้าที่เป็น **โต๊ะเรียนออฟไลน์** สำหรับ Five Classics **เราไม่ได้**รันแบ็กเอนด์เก็บข้อมูลส่วนบุคคล",
+    "de": "iHTC Studio hat **iWuJing** („爱五经“ / „愛五經“, Bundle-ID `com.iHTCboy.iWuJing`) entwickelt. Die App ist ein **Offline-Lernpult** für die confuzianischen Fünf Klassiker. Wir betreiben **keinen** Backend-Datensammeldienst.",
+    "fr": "iHTC Studio a développé **iWuJing** (« 爱五经 » / « 愛五經 », Bundle ID `com.iHTCboy.iWuJing`). L’app sert de **bureau d’étude hors ligne** pour les Cinq Classiques confucéens. Nous n’exploitons **pas** de backend collectant des données personnelles.",
+    "tr": "iHTC Studio, **iWuJing** (\"爱五经\" / \"愛五經\", Bundle ID `com.iHTCboy.iWuJing`) uygulamasını geliştirdi. Uygulama Konfüçyüs Beş Klasiği için **çevrimdışı çalışma masası**dır. Kişisel veri toplayan bir **arka uç çalıştırmıyoruz**."
+  },
+  "**Data Not Collected by iHTC Studio.** Core recovery features work **without sending your data to iHTC Studio**. **No account. No ads. No analytics SDK.** Practices, quotes, science, and crisis helpline data are **bundled on your device**. Optional **iCloud Sync** uses **your private iCloud** only.": {
+    "ja": "**iHTC Studio によるデータ収集はありません。** コア機能は **iHTC Studio へデータを送らず**に動作します。**アカウント不要・広告なし・分析 SDK なし。** 実践、引用、科学、危機ホットラインのデータは**端末に同梱**されます。任意の **iCloud 同期**は**お客様の iCloud**のみを使用します。",
+    "ko": "**iHTC Studio는 데이터를 수집하지 않습니다.** 핵심 기능은 **iHTC Studio로 데이터를 보내지 않고** 동작합니다. **계정 없음·광고 없음·분석 SDK 없음.** 실천·인용·과학·위기 helpline 데이터는 **기기에 번들**됩니다. 선택 **iCloud 동기화**는 **사용자 iCloud**만 사용합니다.",
+    "ru": "**Данные iHTC Studio не собираются.** Основные функции работают **без отправки данных в iHTC Studio**. **Без аккаунта, рекламы и analytics SDK.** Практики, цитаты, наука и helpline — **встроены на устройстве**. Опциональная **синхронизация iCloud** — только **ваш iCloud**.",
+    "th": "**iHTC Studio ไม่เก็บข้อมูล** ฟีเจอร์หลักทำงาน**โดยไม่ส่งข้อมูลไป iHTC Studio** **ไม่มีบัญชี ไม่มีโฆษณา ไม่มี analytics SDK** ข้อมูลแนวปฏิบัติ คำคม วิทย์ และสายด่วน**อยู่ในเครื่อง** **iCloud Sync** เสริมใช้** iCloud ของคุณ**เท่านั้น",
+    "de": "**Keine Datenerhebung durch iHTC Studio.** Kernfunktionen laufen **ohne Daten an iHTC Studio zu senden**. **Kein Konto, keine Werbung, kein Analytics-SDK.** Inhalte sind ** auf dem Gerät gebündelt**. Optionale **iCloud-Synchronisierung** nutzt nur **Ihre iCloud**.",
+    "fr": "**Aucune collecte de données par iHTC Studio.** Les fonctions essentielles marchent **sans envoyer vos données à iHTC Studio**. **Pas de compte, pas de pub, pas de SDK analytics.** Données **incluses sur l’appareil**. **Sync iCloud** optionnelle : **votre iCloud** uniquement.",
+    "tr": "**iHTC Studio veri toplamaz.** Temel özellikler **iHTC Studio’ya veri göndermeden** çalışır. **Hesap yok, reklam yok, analytics SDK yok.** İçerikler **cihazda paketlidir**. İsteğe bağlı **iCloud Sync** yalnızca **iCloud’unuzu** kullanır."
+  },
+  "**Watchfulness studio** is an inner reading ritual (stillness timer, notes on the unissued and the issued). It is **not** a meditation-tracker product and **not** a camera on other people. The Guodian Five Conducts gallery is an academic parallel with *Zhongyong*, **not** fortune-telling.": {
+    "ja": "**Watchfulness studio** は内省の読書儀式（静寂タイマー、未発・既発のノート）です。**瞑想トラッカーではなく**、**他者を見るカメラでもありません**。郭店五記ギャラリーは*中庸*との学術対照であり、**占いではありません**。",
+    "ko": "**Watchfulness studio**는 내면 독서 의식(고요 타이머, 미발·이발 노트)입니다. **명상 추적 앱이 아니며** **타인을 감시하는 카메라도 아닙니다**. 곽점 오기 갤러리는 *중용*과의 학술 대조이며 **점술이 아닙니다**.",
+    "ru": "**Watchfulness studio** — внутренний ритуал чтения (таймер тишины, заметки). **Не** трекер медитации и **не** камера за людьми. Галерея Guodian Five Conducts — академическое сопоставление с *Zhongyong*, **не** гадание.",
+    "th": "**Watchfulness studio** เป็นพิธีอ่านภายใน (ตัวจับเวลาเงียบ บันทึกเรื่องที่ยังไม่/เกิดแล้ว) **ไม่ใช่**แอปติดตามสมาธิ **ไม่ใช่**กล้องจับคนอื่น แกลเลอรี Guodian Five Conducts คือคู่ขนานเชิงวิชาการกับ *Zhongyong* **ไม่ใช่**การทำนาย",
+    "de": "**Watchfulness studio** ist ein inneres Leseritual (Stille-Timer, Notizen). **Kein** Meditations-Tracker, **keine** Kamera auf andere. Guodian-Five-Conducts-Galerie ist akademische Parallele zu *Zhongyong*, **keine** Wahrsagerei.",
+    "fr": "**Watchfulness studio** est un rituel de lecture intérieure (minuteur de silence, notes). **Pas** un tracker de méditation, **pas** une caméra sur autrui. La galerie Guodian Five Conducts est un parallèle académique avec *Zhongyong*, **pas** de divination.",
+    "tr": "**Watchfulness studio** iç okuma ritüelidir (sessizlik zamanlayıcısı, notlar). **Meditasyon takipçisi değildir**, **başkalarını izleyen kamera değildir**. Guodian Five Conducts galerisi *Zhongyong* ile akademik paraleldir, **fal değildir**."
+  },
+  "- **Apple** — App Store distribution, optional StoreKit purchases, optional iCloud KVS, system TTS, Share Sheet destinations you pick, and OS-level notification / Live Activity / Siri / Shortcuts / Vision delivery, optional on-device Apple Intelligence for Ask Zhuangzi.": {
+    "ja": "- **Apple** — App Store 配信、任意 StoreKit、任意 iCloud KVS、システム TTS、共有シート、OS 通知 / Live Activity / Siri / Shortcuts / Vision、任意の端末内 Apple Intelligence（Ask Zhuangzi）",
+    "ko": "- **Apple** — App Store 배포, 선택 StoreKit·iCloud KVS, 시스템 TTS, 공유 시트, OS 알림/Live Activity/Siri/Shortcuts/Vision, 기기 내 Apple Intelligence(Ask Zhuangzi)",
+    "ru": "- **Apple** — App Store, StoreKit, iCloud KVS, системный TTS, Share Sheet, уведомления / Live Activity / Siri / Shortcuts / Vision, Apple Intelligence на устройстве (Ask Zhuangzi)",
+    "th": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS ระบบ, Share Sheet, การแจ้งเตือน/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence บนเครื่อง (Ask Zhuangzi)",
+    "de": "- **Apple** — App Store, StoreKit, iCloud KVS, System-TTS, Share Sheet, OS-Benachrichtigungen/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence auf dem Gerät (Ask Zhuangzi)",
+    "fr": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS système, Share Sheet, notifications/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence sur l’appareil (Ask Zhuangzi)",
+    "tr": "- **Apple** — App Store, StoreKit, iCloud KVS, sistem TTS, Paylaşım Sayfası, OS bildirimleri/Live Activity/Siri/Shortcuts/Vision, cihaz içi Apple Intelligence (Ask Zhuangzi)"
+  },
+  "- **Apple** — App Store distribution, optional StoreKit purchases, optional iCloud KVS, system TTS, Share Sheet destinations you pick, and OS-level notification / Live Activity / Siri / Shortcuts / Vision delivery, optional on-device Apple Intelligence for Ask.": {
+    "ja": "- **Apple** — App Store 配信、任意 StoreKit・iCloud KVS、システム TTS、共有シート、OS 通知 / Live Activity / Siri / Shortcuts / Vision、任意の端末内 Apple Intelligence（Ask）",
+    "ko": "- **Apple** — App Store, StoreKit·iCloud KVS, 시스템 TTS, 공유 시트, OS 알림/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence(Ask)",
+    "ru": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, уведомления/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence (Ask) на устройстве",
+    "th": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, แจ้งเตือน/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence (Ask) บนเครื่อง",
+    "de": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, Benachrichtigungen/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence (Ask)",
+    "fr": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, notifications/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence (Ask)",
+    "tr": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Paylaşım Sayfası, OS/Live Activity/Siri/Shortcuts/Vision, Apple Intelligence (Ask)"
+  },
+  "- **Apple** — App Store distribution, optional StoreKit, optional iCloud KVS, system TTS, Share Sheet destinations you pick, and OS-level notification / Live Activity / Siri / Shortcuts / Vision / HealthKit delivery.": {
+    "ja": "- **Apple** — App Store 配信、任意 StoreKit・iCloud KVS、システム TTS、共有シート、OS 通知 / Live Activity / Siri / Shortcuts / Vision / HealthKit",
+    "ko": "- **Apple** — App Store, StoreKit·iCloud KVS, 시스템 TTS, 공유 시트, OS 알림/Live Activity/Siri/Shortcuts/Vision/HealthKit",
+    "ru": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, уведомления/Live Activity/Siri/Shortcuts/Vision/HealthKit",
+    "th": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, แจ้งเตือน/Live Activity/Siri/Shortcuts/Vision/HealthKit",
+    "de": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, Benachrichtigungen/Live Activity/Siri/Shortcuts/Vision/HealthKit",
+    "fr": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Share Sheet, notifications/Live Activity/Siri/Shortcuts/Vision/HealthKit",
+    "tr": "- **Apple** — App Store, StoreKit, iCloud KVS, TTS, Paylaşım Sayfası, OS/Live Activity/Siri/Shortcuts/Vision/HealthKit"
+  },
+  "| Background audio (iOS) | You enable background recitation | Continue TTS in background |": {
+    "ja": "| バックグラウンド音声 (iOS) | バックグラウンド朗誦を有効にする | バックグラウンドで TTS 継続 |",
+    "ko": "| 배경 오디오(iOS) | 배경 낭송 사용 | 백그라운드 TTS |",
+    "ru": "| Фоновое аудио (iOS) | Включаете фоновое чтение | TTS в фоне |",
+    "th": "| เสียงพื้นหลัง (iOS) | เปิดท่องพื้นหลัง | TTS พื้นหลัง |",
+    "de": "| Hintergrundaudio (iOS) | Hintergrundrezitation aktivieren | TTS im Hintergrund |",
+    "fr": "| Audio de fond (iOS) | Récitation en arrière-plan | TTS en arrière-plan |",
+    "tr": "| Arka plan sesi (iOS) | Arka planda okuma | Arka planda TTS |"
+  },
+  "| Background audio | You enable background recitation | Continue TTS in background |": {
+    "ja": "| バックグラウンド音声 | バックグラウンド朗誦を有効にする | バックグラウンドで TTS 継続 |",
+    "ko": "| 배경 오디오 | 배경 낭송 사용 | 백그라운드 TTS |",
+    "ru": "| Фоновое аудио | Включаете фоновое чтение | TTS в фоне |",
+    "th": "| เสียงพื้นหลัง | เปิดท่องพื้นหลัง | TTS พื้นหลัง |",
+    "de": "| Hintergrundaudio | Hintergrundrezitation aktivieren | TTS im Hintergrund |",
+    "fr": "| Audio de fond | Récitation en arrière-plan | TTS en arrière-plan |",
+    "tr": "| Arka plan sesi | Arka planda okuma | Arka planda TTS |"
+  },
+  "| Card preferences | App Group UserDefaults | Last style / ratio choices |": {
+    "ja": "| カード設定 | App Group UserDefaults | 最後のスタイル / 比率 |",
+    "ko": "| 카드 설정 | App Group UserDefaults | 마지막 스타일/비율 |",
+    "ru": "| Настройки карточек | UserDefaults App Group | Последний стиль/ratio |",
+    "th": "| การตั้งค่าการ์ด | UserDefaults ของ App Group | สไตล์/อัตราส่วนล่าสุด |",
+    "de": "| Karten-Einstellungen | UserDefaults der App Group | Letzter Stil/Verhältnis |",
+    "fr": "| Préférences de cartes | UserDefaults de l’App Group | Dernier style/ratio |",
+    "tr": "| Kart tercihleri | App Group UserDefaults | Son stil/oran |"
+  },
+  "| Chant counts & sound prefs | App Group UserDefaults | Wooden-fish totals, goals, tones |": {
+    "ja": "| 唱和回数と音設定 | App Group UserDefaults | 木魚の合計・目標・音色 |",
+    "ko": "| 염불 횟수·음향 설정 | App Group UserDefaults | 목어 합계·목표·음색 |",
+    "ru": "| Счётчики chant и звук | UserDefaults App Group | Wooden-fish, цели, тоны |",
+    "th": "| จำนวน chant และเสียง | UserDefaults ของ App Group | ปลาไม้ เป้า เสียง |",
+    "de": "| Chant-Zähler & Ton | UserDefaults der App Group | Wooden-fish, Ziele, Töne |",
+    "fr": "| Compteurs de chant et son | UserDefaults de l’App Group | Wooden-fish, objectifs, tons |",
+    "tr": "| Chant sayıları ve ses | App Group UserDefaults | Wooden-fish, hedefler, tonlar |"
+  },
+  "| Check-in streak | App Group UserDefaults | Daily habit |": {
+    "ja": "| チェックイン連続 | App Group UserDefaults | 毎日の習慣 |",
+    "ko": "| 체크인 연속 | App Group UserDefaults | 매일 습관 |",
+    "ru": "| Серия отметок | UserDefaults App Group | Ежедневная привычка |",
+    "th": "| สตรีคเช็คอין | UserDefaults ของ App Group | นิสัยรายวัน |",
+    "de": "| Check-in-Serie | UserDefaults der App Group | Tägliche Gewohnheit |",
+    "fr": "| Série de check-in | UserDefaults de l’App Group | Habitude quotidienne |",
+    "tr": "| Check-in serisi | App Group UserDefaults | Günlük alışkanlık |"
+  },
+  "| Content library | Bundled practices, quotes, science, crisis helplines |": {
+    "ja": "| コンテンツライブラリ | 同梱の実践・引用・科学・危機ホットライン |",
+    "ko": "| 콘텐츠 라이브러리 | 번들 실천·인용·과학·위기 helpline |",
+    "ru": "| Библиотека контента | Встроенные практики, цитаты, наука, helpline |",
+    "th": "| คลังเนื้อหา | แนวปฏิบัติ คำคม วิทย์ helpline |",
+    "de": "| Inhaltsbibliothek | Gebündelte Praktiken, Zitate, Wissenschaft, Helplines |",
+    "fr": "| Bibliothèque de contenu | Pratiques, citations, science, helplines |",
+    "tr": "| İçerik kitaplığı | Paket uygulamalar, alıntılar, bilim, helpline |"
+  },
+  "| Copy-sutra drawings (iOS) | Application Support (`CopySutra/`) | Per-line tracing drafts |": {
+    "ja": "| 写経データ (iOS) | Application Support（`CopySutra/`） | 行ごとのなぞり書き草稿 |",
+    "ko": "| 필경 데이터(iOS) | Application Support(`CopySutra/`) | 줄별 따라쓰기 초안 |",
+    "ru": "| Рисунки Copy-sutra (iOS) | Application Support (`CopySutra/`) | Черновики по строкам |",
+    "th": "| ภาพ Copy-sutra (iOS) | Application Support (`CopySutra/`) | ร่างลากตามบรรทัด |",
+    "de": "| Copy-sutra-Zeichnungen (iOS) | Application Support (`CopySutra/`) | Entwürfe pro Zeile |",
+    "fr": "| Dessins Copy-sutra (iOS) | Application Support (`CopySutra/`) | Brouillons par ligne |",
+    "tr": "| Copy-sutra çizimleri (iOS) | Application Support (`CopySutra/`) | Satır başına taslak |"
+  },
+  "| Daily Insight cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Insight cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Insight cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Insight cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Insight cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Insight cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Insight cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Insight cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Passage cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Passage cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Passage cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Passage cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Passage cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Passage cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Passage cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Passage cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Precept cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Precept cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Precept cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Precept cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Precept cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Precept cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Precept cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Precept cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Reflection cache & notification prefs | App Group UserDefaults | Today’s ID and schedule |": {
+    "ja": "| Daily Reflection cache & notification prefs | App Group UserDefaults | 今日の ID とスケジュール |",
+    "ko": "| Daily Reflection cache & notification prefs | App Group UserDefaults | 오늘 ID and schedule |",
+    "ru": "| Daily Reflection cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Reflection cache & notification prefs | UserDefaults ของ App Group | ID วันนี้ and schedule |",
+    "de": "| Daily Reflection cache & notification prefs | UserDefaults der App Group | Heutige ID and schedule |",
+    "fr": "| Daily Reflection cache & notification prefs | UserDefaults de l’App Group | ID du jour and schedule |",
+    "tr": "| Daily Reflection cache & notification prefs | App Group UserDefaults | Bugünün ID’si and schedule |"
+  },
+  "| Daily Reform cache & notification prefs | App Group UserDefaults | Today’s ID and schedule |": {
+    "ja": "| Daily Reform cache & notification prefs | App Group UserDefaults | 今日の ID とスケジュール |",
+    "ko": "| Daily Reform cache & notification prefs | App Group UserDefaults | 오늘 ID and schedule |",
+    "ru": "| Daily Reform cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Reform cache & notification prefs | UserDefaults ของ App Group | ID วันนี้ and schedule |",
+    "de": "| Daily Reform cache & notification prefs | UserDefaults der App Group | Heutige ID and schedule |",
+    "fr": "| Daily Reform cache & notification prefs | UserDefaults de l’App Group | ID du jour and schedule |",
+    "tr": "| Daily Reform cache & notification prefs | App Group UserDefaults | Bugünün ID’si and schedule |"
+  },
+  "| Daily Saying cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Saying cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Saying cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Saying cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Saying cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Saying cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Saying cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Saying cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Stratagem cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Stratagem cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Stratagem cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Stratagem cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Stratagem cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Stratagem cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Stratagem cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Stratagem cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Study cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Study cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Study cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Study cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Study cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Study cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Study cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Study cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Surname cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time |": {
+    "ja": "| Daily Surname cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻 |",
+    "ko": "| Daily Surname cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간 |",
+    "ru": "| Daily Surname cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Surname cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time |",
+    "de": "| Daily Surname cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time |",
+    "fr": "| Daily Surname cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time |",
+    "tr": "| Daily Surname cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time |"
+  },
+  "| Daily Sutra cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time |": {
+    "ja": "| Daily Sutra cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻 |",
+    "ko": "| Daily Sutra cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간 |",
+    "ru": "| Daily Sutra cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Sutra cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time |",
+    "de": "| Daily Sutra cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time |",
+    "fr": "| Daily Sutra cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time |",
+    "tr": "| Daily Sutra cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time |"
+  },
+  "| Daily Xun cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Xun cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Xun cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Xun cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Xun cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Xun cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Xun cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Xun cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Daily Zhuangzi cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Daily Zhuangzi cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Daily Zhuangzi cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Daily Zhuangzi cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Daily Zhuangzi cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Daily Zhuangzi cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Daily Zhuangzi cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Daily Zhuangzi cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Favorites & Zen lists | Starred items and custom collections |": {
+    "ja": "| お気に入りと禅リスト | 星付きとカスタムコレクション |",
+    "ko": "| 즐겨찾기·선 리스트 | 별표·사용자 모음 |",
+    "ru": "| Избранное и списки Zen | Избранное и коллекции |",
+    "th": "| รายการโปรด Zen | รายการติดดาวและคอลเลกชัน |",
+    "de": "| Favoriten & Zen-Listen | Favoriten & Sammlungen |",
+    "fr": "| Favoris et listes Zen | Favoris et collections |",
+    "tr": "| Favoriler ve Zen listeleri | Yıldızlı ve koleksiyonlar |"
+  },
+  "| Favorites & lists (essay lists) | App Group UserDefaults | Starred passages and user lists |": {
+    "ja": "| お気に入りとリスト（essay lists） | App Group UserDefaults | 星付きの篇とユーザーリスト |",
+    "ko": "| 즐겨찾기·목록(essay lists) | App Group UserDefaults | 별표 구절·목록 |",
+    "ru": "| Избранное (essay lists) | UserDefaults App Group | Отмеченные фрагменты и списки |",
+    "th": "| รายการโปรด (essay lists) | UserDefaults ของ App Group | ข้อความติดดาวและรายการ |",
+    "de": "| Favoriten (essay lists) | UserDefaults der App Group | Markierte Passagen & Listen |",
+    "fr": "| Favoris (essay lists) | UserDefaults de l’App Group | Passages favoris et listes |",
+    "tr": "| Favoriler (essay lists) | App Group UserDefaults | Yıldızlı pasajlar ve listeler |"
+  },
+  "| Favorites & lists (贤单) | App Group UserDefaults | Starred sayings and user lists |": {
+    "ja": "| お気に入りとリスト（贤单） | App Group UserDefaults | 星付きの言葉とリスト |",
+    "ko": "| 즐겨찾기·목록(贤单) | App Group UserDefaults | 별표 격언·목록 |",
+    "ru": "| Избранное (贤单) | UserDefaults App Group | Избранные sayings и списки |",
+    "th": "| รายการโปรด (贤单) | UserDefaults ของ App Group | คำคมติดดาวและรายการ |",
+    "de": "| Favoriten (贤单) | UserDefaults der App Group | Markierte Sayings & Listen |",
+    "fr": "| Favoris (贤单) | UserDefaults de l’App Group | Sayings favoris et listes |",
+    "tr": "| Favoriler (贤单) | App Group UserDefaults | Yıldızlı sözler ve listeler |"
+  },
+  "| Favorites & study lists | App Group UserDefaults | Starred works and user lists |": {
+    "ja": "| お気に入りと学習リスト | App Group UserDefaults | 星付き作品とリスト |",
+    "ko": "| 즐겨찾기·학습 목록 | App Group UserDefaults | 별표 작품·목록 |",
+    "ru": "| Избранное и учебные списки | UserDefaults App Group | Избранные произведения |",
+    "th": "| รายการโปรดและเรียน | UserDefaults ของ App Group | ผลงานติดดาวและรายการ |",
+    "de": "| Favoriten & Lernlisten | UserDefaults der App Group | Markierte Werke & Listen |",
+    "fr": "| Favoris et listes d’étude | UserDefaults de l’App Group | Œuvres favorites et listes |",
+    "tr": "| Favoriler ve çalışma listeleri | App Group UserDefaults | Yıldızlı eserler ve listeler |"
+  },
+  "| Favorites & surname lists | App Group UserDefaults | Starred surnames and user lists |": {
+    "ja": "| お気に入りと姓氏リスト | App Group UserDefaults | 星付き姓氏とリスト |",
+    "ko": "| 즐겨찾기·성씨 목록 | App Group UserDefaults | 별표 성씨·목록 |",
+    "ru": "| Избранное и списки фамилий | UserDefaults App Group | Избранные фамилии |",
+    "th": "| รายการโปรดและนามสกุล | UserDefaults ของ App Group | นามสกุลติดดาวและรายการ |",
+    "de": "| Favoriten & Familienlisten | UserDefaults der App Group | Markierte Familiennamen |",
+    "fr": "| Favoris et listes de noms | UserDefaults de l’App Group | Noms favoris et listes |",
+    "tr": "| Favoriler ve soyadı listeleri | App Group UserDefaults | Yıldızlı soyadları ve listeler |"
+  },
+  "| Habit check-ins (洒扫应对) | App Group UserDefaults | Life Guidance daily habits |": {
+    "ja": "| 習慣チェックイン（洒扫应对） | App Group UserDefaults | Life Guidance 毎日の習慣 |",
+    "ko": "| 습관 체크인(洒扫应对) | App Group UserDefaults | Life Guidance 일일 습관 |",
+    "ru": "| Привычки (洒扫应对) | UserDefaults App Group | Привычки Life Guidance |",
+    "th": "| เช็คอินนิสัย (洒扫应对) | UserDefaults ของ App Group | นิสัยรายวัน Life Guidance |",
+    "de": "| Gewohnheits-Check-ins (洒扫应对) | UserDefaults der App Group | Life-Guidance-Gewohnheiten |",
+    "fr": "| Check-ins d’habitude (洒扫应对) | UserDefaults de l’App Group | Habitudes Life Guidance |",
+    "tr": "| Alışkanlık check-in (洒扫应对) | App Group UserDefaults | Life Guidance alışkanlıkları |"
+  },
+  "| Health (Mindfulness) | Optional, off by default | Write minutes you choose |": {
+    "ja": "| ヘルス（マインドフルネス） | 任意・既定オフ | 選択した分数を書き込み |",
+    "ko": "| 건강(마음챙김) | 선택·기본 끔 | 선택한 분 기록 |",
+    "ru": "| Health (осознанность) | Необяз., по умолчанию выкл. | Запись выбранных минут |",
+    "th": "| Health (Mindfulness) | เสริม·ปิดตั้งต้น | บันทึกนาทีที่เลือก |",
+    "de": "| Health (Achtsamkeit) | Optional, standardmäßig aus | Gewählte Minuten schreiben |",
+    "fr": "| Santé (pleine conscience) | Facultatif, désactivé par défaut | Écrire les minutes choisies |",
+    "tr": "| Health (Mindfulness) | İsteğe bağlı, varsayılan kapalı | Seçilen dakikaları yaz |"
+  },
+  "| Health (Mood) | You enable journal sync in Settings | Write today’s three-axis mark to **your** Health app; never on first launch |": {
+    "ja": "| ヘルス（気分） | 設定でジャーナル同期 | 今日の三軸を**お客様の**ヘルスへ書き込み（初回起動では要求しません） |",
+    "ko": "| 건강(기분) | 설정에서 저널 동기화 | 오늘 3축을 **Health**에 기록(첫 실행 시 요청 안 함) |",
+    "ru": "| Health (настроение) | Синхронизация журнала в Настройках | Трёхосевую отметку в **ваше** Health; не при первом запуске |",
+    "th": "| Health (อารมณ์) | ซิงค์บันทึกในตั้งค่า | เขียนเครื่องหมายสามแกนไป **Health** ไม่ถามตอนเปิดครั้งแรก |",
+    "de": "| Health (Stimmung) | Journal-Sync in Einstellungen | Dreier-Achsen-Mark ins **Health**; nicht beim Erststart |",
+    "fr": "| Santé (humeur) | Sync journal dans Réglages | Marque trois axes dans **Santé** ; pas au premier lancement |",
+    "tr": "| Health (Ruh hali) | Ayarlar’da günlük sync | Bugünün üç eksenini **Health**’e; ilk açılışta değil |"
+  },
+  "| Journal, assessments, three tasks, cognitive entries | Your structured logs |": {
+    "ja": "| ジャーナル、評価、三タスク、認知記録 | 構造化ログ |",
+    "ko": "| 저널·평가·세 과제·인지 기록 | 구조화된 로그 |",
+    "ru": "| Журнал, оценки, три задачи, записи | Структурированные журналы |",
+    "th": "| บันทึก การประเมิน สามงาน ความคิด | บันทึกที่มีโครงสร้าง |",
+    "de": "| Journal, Assessments, drei Aufgaben | Strukturierte Protokolle |",
+    "fr": "| Journal, évaluations, trois tâches | Journaux structurés |",
+    "tr": "| Günlük, değerlendirmeler, üç görev | Yapılandırılmış günlükler |"
+  },
+  "| Knowing-Acting journal | App Group UserDefaults | Daily known / acted / reflect entries |": {
+    "ja": "| 知行合一ジャーナル | App Group UserDefaults | 知・行・省の日次記録 |",
+    "ko": "| 지행합일 저널 | App Group UserDefaults | 지·행·성찰 일일 |",
+    "ru": "| Журнал Knowing-Acting | UserDefaults App Group | Ежедневные записи know/act/reflect |",
+    "th": "| บันทึก Knowing-Acting | UserDefaults ของ App Group | บันทึกรู้/ทำ/สะท้อนรายวัน |",
+    "de": "| Knowing-Acting-Tagebuch | UserDefaults der App Group | Tägliche know/act/reflect |",
+    "fr": "| Journal Knowing-Acting | UserDefaults de l’App Group | Entrées savoir/agir/réfléchir |",
+    "tr": "| Knowing-Acting günlüğü | App Group UserDefaults | Günlük bil/eyle/yansıt |"
+  },
+  "| Live Activities (iOS) | You enable Reading Live Activity | Show the saying you are reading on Lock Screen / Dynamic Island |": {
+    "ja": "| Live Activities (iOS) | Reading Live Activity を有効 | 読んでいる言葉をロック画面 / Dynamic Island に表示 |",
+    "ko": "| Live Activities(iOS) | Reading Live Activity 사용 | 읽는 격언을 잠금/Dynamic Island |",
+    "ru": "| Live Activities (iOS) | Reading Live Activity | Saying на Lock Screen / Dynamic Island |",
+    "th": "| Live Activities (iOS) | เปิด Reading Live Activity | แสดงคำคมบนหน้าจอล็อก/Dynamic Island |",
+    "de": "| Live Activities (iOS) | Reading Live Activity | Saying auf Sperrbildschirm/Dynamic Island |",
+    "fr": "| Live Activities (iOS) | Reading Live Activity | Saying sur écran verrouillé/Dynamic Island |",
+    "tr": "| Live Activities (iOS) | Reading Live Activity | Okunan söz Kilit Ekranı/Dynamic Island |"
+  },
+  "| Live Activities (iOS) | You enable Reading or Chant Live Activity | Show reading / chant progress on Lock Screen / Dynamic Island |": {
+    "ja": "| Live Activities (iOS) | Reading / Chant Live Activity | 閲読 / 唱和進捗をロック画面 / Dynamic Island に |",
+    "ko": "| Live Activities(iOS) | Reading/Chant Live Activity | 읽기/chant 진행 표시 |",
+    "ru": "| Live Activities (iOS) | Reading or Chant Live Activity | Прогресс чтения/chant на Lock Screen |",
+    "th": "| Live Activities (iOS) | Reading/Chant Live Activity | ความคืบหน้าบนหน้าจอล็อก |",
+    "de": "| Live Activities (iOS) | Reading/Chant Live Activity | Lesen/Chant auf Sperrbildschirm |",
+    "fr": "| Live Activities (iOS) | Reading/Chant Live Activity | Lecture/chant sur écran verrouillé |",
+    "tr": "| Live Activities (iOS) | Reading/Chant Live Activity | Okuma/chant Kilit Ekranı |"
+  },
+  "| Live Activities (iOS) | You enable Reading or Meditation Live Activity | Lock Screen / Dynamic Island |": {
+    "ja": "| Live Activities (iOS) | Reading / Meditation Live Activity | ロック画面 / Dynamic Island |",
+    "ko": "| Live Activities(iOS) | Reading/Meditation Live Activity | 잠금 화면 / Dynamic Island |",
+    "ru": "| Live Activities (iOS) | Reading or Meditation Live Activity | Lock Screen / Dynamic Island |",
+    "th": "| Live Activities (iOS) | Reading/Meditation Live Activity | หน้าจอล็อก / Dynamic Island |",
+    "de": "| Live Activities (iOS) | Reading/Meditation Live Activity | Sperrbildschirm / Dynamic Island |",
+    "fr": "| Live Activities (iOS) | Reading/Meditation Live Activity | Écran verrouillé / Dynamic Island |",
+    "tr": "| Live Activities (iOS) | Reading/Meditation Live Activity | Kilit Ekranı / Dynamic Island |"
+  },
+  "| Live Activities | You enable reading activity | Lock Screen / Dynamic Island |": {
+    "ja": "| Live Activities | 閲読アクティビティを有効 | ロック画面 / Dynamic Island |",
+    "ko": "| Live Activities | 읽기 활동 사용 | 잠금 화면 / Dynamic Island |",
+    "ru": "| Live Activities | Активность чтения | Lock Screen / Dynamic Island |",
+    "th": "| Live Activities | เปิดกิจกรรมอ่าน | หน้าจอล็อก / Dynamic Island |",
+    "de": "| Live Activities | Leseaktivität aktivieren | Sperrbildschirm / Dynamic Island |",
+    "fr": "| Live Activities | Activité de lecture | Écran verrouillé / Dynamic Island |",
+    "tr": "| Live Activities | Okuma etkinliği | Kilit Ekranı / Dynamic Island |"
+  },
+  "| Lüshi Chunqiu database | App / Widget bundle | Offline reading & study |": {
+    "ja": "| 呂氏春秋データベース | App / Widget バンドル | オフライン閲読と学習 |",
+    "ko": "| 여씨춘추 DB | App / Widget 번들 | 오프라인 읽기·학습 |",
+    "ru": "| База Lüshi Chunqiu | Пакет App / Widget | Офлайн-чтение и обучение |",
+    "th": "| ฐาน Lüshi Chunqiu | App / Widget bundle | อ่านและเรียนออฟไลน์ |",
+    "de": "| Lüshi-Chunqiu-Datenbank | App-/Widget-Bundle | Offline-Lesen und -Lernen |",
+    "fr": "| Base Lüshi Chunqiu | Bundle App / Widget | Lecture et étude hors ligne |",
+    "tr": "| Lüshi Chunqiu veritabanı | App / Widget paketi | Çevrimdışı okuma ve çalışma |"
+  },
+  "| Meditation streak & session prefs | App Group UserDefaults | Meditation continuity |": {
+    "ja": "| 瞑想連続とセッション設定 | App Group UserDefaults | 瞑想の継続 |",
+    "ko": "| 명상 연속·세션 설정 | App Group UserDefaults | 명상 연속 |",
+    "ru": "| Серия медитации и настройки | UserDefaults App Group | Непрерывность медитации |",
+    "th": "| สตรีคสมาธิและการตั้งค่า | UserDefaults ของ App Group | ความต่อเนื่องสมาธิ |",
+    "de": "| Meditations-Serie & Sitzungen | UserDefaults der App Group | Meditationskontinuität |",
+    "fr": "| Série méditation et prefs | UserDefaults de l’App Group | Continuité méditation |",
+    "tr": "| Meditasyon serisi ve oturum | App Group UserDefaults | Meditasyon sürekliliği |"
+  },
+  "| Morning / evening practice & dedication | App Group UserDefaults | Daily liturgy checklist |": {
+    "ja": "| 朝夕の修行と回向 | App Group UserDefaults | 日課チェックリスト |",
+    "ko": "| 아침·저녁 수행 | App Group UserDefaults | 일과 체크리스트 |",
+    "ru": "| Утро/вечер практика | UserDefaults App Group | Ежедневный чеклист |",
+    "th": "| ปฏิบัติเช้า-ค่ำ | UserDefaults ของ App Group | รายการพิธีรายวัน |",
+    "de": "| Morgen/Abend-Praxis | UserDefaults der App Group | Tägliche Liturgie-Checkliste |",
+    "fr": "| Pratique matin/soir | UserDefaults de l’App Group | Checklist liturgie |",
+    "tr": "| Sabah/akşam uygulama | App Group UserDefaults | Günlük liturji listesi |"
+  },
+  "| My Surname | App Group UserDefaults | Personalized home & widgets |": {
+    "ja": "| わたしの姓 | App Group UserDefaults | ホームとウィジェットのパーソナライズ |",
+    "ko": "| 내 성씨 | App Group UserDefaults | 홈·위젯 개인화 |",
+    "ru": "| Моя фамилия | UserDefaults App Group | Персонализация дома и виджетов |",
+    "th": "| นามสกุลของฉัน | UserDefaults ของ App Group | ปรับหน้าแรกและวิดเจ็ต |",
+    "de": "| Mein Familienname | UserDefaults der App Group | Personalisierte Startseite & Widgets |",
+    "fr": "| Mon nom de famille | UserDefaults de l’App Group | Accueil et widgets personnalisés |",
+    "tr": "| Soyadım | App Group UserDefaults | Kişiselleştirilmiş ana ekran |"
+  },
+  "| Notes | App Group UserDefaults | Passage notes you write |": {
+    "ja": "| メモ | App Group UserDefaults | 篇についてのメモ |",
+    "ko": "| 메모 | App Group UserDefaults | 구절 메모 |",
+    "ru": "| Заметки | UserDefaults App Group | Заметки к фрагментам |",
+    "th": "| บันทึก | UserDefaults ของ App Group | บันทึกข้อความ |",
+    "de": "| Notizen | UserDefaults der App Group | Passagen-Notizen |",
+    "fr": "| Notes | UserDefaults de l’App Group | Notes de passages |",
+    "tr": "| Notlar | App Group UserDefaults | Pasaj notları |"
+  },
+  "| Notes | App Group UserDefaults | Surname notes you write |": {
+    "ja": "| メモ | App Group UserDefaults | 姓氏についてのメモ |",
+    "ko": "| 메모 | App Group UserDefaults | 성씨 메모 |",
+    "ru": "| Заметки | UserDefaults App Group | Заметки о фамилиях |",
+    "th": "| บันทึก | UserDefaults ของ App Group | บันทึกนามสกุล |",
+    "de": "| Notizen | UserDefaults der App Group | Familien-Notizen |",
+    "fr": "| Notes | UserDefaults de l’App Group | Notes sur noms |",
+    "tr": "| Notlar | App Group UserDefaults | Soyadı notları |"
+  },
+  "| Notifications | Daily Zen / assessment reminders | Local scheduling only |": {
+    "ja": "| 通知 | Daily Zen / 評価リマインダー | ローカルスケジュールのみ |",
+    "ko": "| 알림 | Daily Zen/평가 알림 | 로컬 예약만 |",
+    "ru": "| Уведомления | Daily Zen / оценки | Только локальное планирование |",
+    "th": "| การแจ้งเตือน | Daily Zen / ประเมิน | กำหนดในเครื่องเท่านั้น |",
+    "de": "| Benachrichtigungen | Daily Zen / Assessment | Nur lokale Planung |",
+    "fr": "| Notifications | Daily Zen / évaluation | Planification locale uniquement |",
+    "tr": "| Bildirimler | Daily Zen / değerlendirme | Yalnızca yerel zamanlama |"
+  },
+  "| Notifications | You enable reminders | Local Daily Classic reminders |": {
+    "ja": "| 通知 | リマインダーを有効 | Daily Classic ローカルリマインダー |",
+    "ko": "| 알림 | 알림 사용 | Daily Classic 로컬 알림 |",
+    "ru": "| Уведомления | Включаете напоминания | Локальные Daily Classic |",
+    "th": "| การแจ้งเตือน | เปิดการเตือน | เตือน Daily Classic ในเครื่อง |",
+    "de": "| Benachrichtigungen | Erinnerungen aktivieren | Lokale Daily-Classic-Erinnerungen |",
+    "fr": "| Notifications | Activez les rappels | Rappels Daily Classic locaux |",
+    "tr": "| Bildirimler | Hatırlatıcıları açarsınız | Yerel Daily Classic hatırlatıcıları |"
+  },
+  "| Notifications | You enable reminders | Local Daily Saying reminders |": {
+    "ja": "| 通知 | リマインダーを有効 | Daily Saying ローカルリマインダー |",
+    "ko": "| 알림 | 알림 사용 | Daily Saying 로컬 알림 |",
+    "ru": "| Уведомления | Включаете напоминания | Локальные Daily Saying |",
+    "th": "| การแจ้งเตือน | เปิดการเตือน | เตือน Daily Saying ในเครื่อง |",
+    "de": "| Benachrichtigungen | Erinnerungen aktivieren | Lokale Daily-Saying-Erinnerungen |",
+    "fr": "| Notifications | Activez les rappels | Rappels Daily Saying locaux |",
+    "tr": "| Bildirimler | Hatırlatıcıları açarsınız | Yerel Daily Saying hatırlatıcıları |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for Dharma cards / exports, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for insight cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for precept cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for rhyme cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for sage cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for share cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **Spotlight** (off by default), optional **system speech / translation** |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for study cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional on-device **handwriting** (Vision), optional **HealthKit** mood write (off by default) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for 墨 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for 荀 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask** (on-device Apple Intelligence when available) |"
+  },
+  "| Optional Apple services | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |": {
+    "ja": "| 任意の Apple サービス | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for 任意チップ, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |",
+    "ko": "| 선택 Apple 서비스 | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |",
+    "ru": "| Необязательные сервисы Apple | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |",
+    "th": "| บริการ Apple เสริม | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |",
+    "de": "| Optionale Apple-Dienste | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for optionales Trinkgeld, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |",
+    "fr": "| Services Apple facultatifs | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for pourboire facultatif, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |",
+    "tr": "| İsteğe bağlı Apple hizmetleri | **iCloud** (your private KVS), **Photo Library (Add Only)** for 逍遥 cards, **StoreKit** for optional tipping, **local notifications**, optional **Live Activities**, optional **on-device handwriting** (Vision), optional **Ask Zhuangzi** (on-device Apple Intelligence when available) |"
+  },
+  "| Passage & character database | App / Widget bundle | Offline reading, literacy cards & study |": {
+    "ja": "| 篇目・文字データベース | App / Widget バンドル | オフライン閲読・識字カード・学習 |",
+    "ko": "| 구절·문자 DB | App / Widget 번들 | 오프라인·识读 카드·학습 |",
+    "ru": "| База фрагментов и иероглифов | Пакет App / Widget | Офлайн, карточки грамотности |",
+    "th": "| ฐานข้อความและตัวอักษร | App / Widget bundle | อ่าน การ์ดอักษร เรียน |",
+    "de": "| Passagen- & Zeichendatenbank | App-/Widget-Bundle | Offline, Literacy-Karten |",
+    "fr": "| Base passages et caractères | Bundle App / Widget | Lecture, cartes d’alphabétisation |",
+    "tr": "| Pasaj ve karakter veritabanı | App / Widget paketi | Çevrimdışı, okuryazarlık kartları |"
+  },
+  "| Photo Library (Add Only) | You save a Dharma card or export | Write the rendered image / PDF; we do not need full library read access |": {
+    "ja": "| 写真ライブラリ（追加のみ） | 法カード保存または書き出し | 描画画像/PDF を書き込み（ライブラリ読取は不要） |",
+    "ko": "| 사진 보관함(추가 전용) | 법 카드 저장/내보내기 | 렌더 이미지/PDF 기록(전체 읽기 불필요) |",
+    "ru": "| Фототека (только добавление) | Сохранение Dharma-карты/экспорт | Запись изображения/PDF; без чтения библиотеки |",
+    "th": "| คลังรูปภาพ (เพิ่มอย่างเดียว) | บันทึก Dharma/ส่งออก | เขียนภาพ/PDF ไม่ต้องอ่านคลังทั้งหมด |",
+    "de": "| Fotomediathek (nur Hinzufügen) | Dharma-Karte speichern/exportieren | Gerendetes Bild/PDF; kein Vollzugriff |",
+    "fr": "| Photothèque (ajout uniquement) | Carte Dharma/enregistrement | Image/PDF rendu ; pas de lecture complète |",
+    "tr": "| Fotoğraf Kitaplığı (yalnızca ekleme) | Dharma kartı/kaydet | İşlenmiş görsel/PDF; tam okuma yok |"
+  },
+  "| Photo Library (Add Only) | You save a card | Write the rendered image; we do not need full library read access |": {
+    "ja": "| 写真ライブラリ（追加のみ） | カードを保存 | 描画画像を書き込み（読取不要） |",
+    "ko": "| 사진 보관함(추가 전용) | 카드 저장 | 렌더 이미지 기록 |",
+    "ru": "| Фототека (только добавление) | Сохраняете карту | Запись изображения; без чтения |",
+    "th": "| คลังรูปภาพ (เพิ่มอย่างเดียว) | บันทึกการ์ด | เขียนภาพที่เรนเดอร์ |",
+    "de": "| Fotomediathek (nur Hinzufügen) | Karte speichern | Gerendetes Bild schreiben |",
+    "fr": "| Photothèque (ajout uniquement) | Enregistrer une carte | Image rendu |",
+    "tr": "| Fotoğraf Kitaplığı (yalnızca ekleme) | Kart kaydetme | İşlenmiş görsel yaz |"
+  },
+  "| Photo Library (Add Only) | You save a classic card | Save rendered images |": {
+    "ja": "| 写真ライブラリ（追加のみ） | 古典カードを保存 | 描画画像を保存 |",
+    "ko": "| 사진 보관함(추가 전용) | 고전 카드 저장 | 렌더 이미지 저장 |",
+    "ru": "| Фототека (только добавление) | Сохранение classic card | Сохранение изображений |",
+    "th": "| คลังรูปภาพ (เพิ่มอย่างเดียว) | บันทึกการ์ดคลาสสิก | บันทึกภาพที่เรนเดอร์ |",
+    "de": "| Fotomediathek (nur Hinzufügen) | Classic-Karte speichern | Gerenderte Bilder speichern |",
+    "fr": "| Photothèque (ajout uniquement) | Carte classique | Enregistrer images rendues |",
+    "tr": "| Fotoğraf Kitaplığı (yalnızca ekleme) | Klasik kart | İşlenmiş görselleri kaydet |"
+  },
+  "| Photo Library (Add Only) | You save a sage card | Write the rendered image; we do not need full library read access |": {
+    "ja": "| 写真ライブラリ（追加のみ） | 賢カードを保存 | 描画画像を書き込み（読取不要） |",
+    "ko": "| 사진 보관함(추가 전용) | 현카드 저장 | 렌더 이미지 기록 |",
+    "ru": "| Фототека (только добавление) | Sage-карта | Запись изображения; без чтения |",
+    "th": "| คลังรูปภาพ (เพิ่มอย่างเดียว) | บันทึก sage | เขียนภาพที่เรนเดอร์ |",
+    "de": "| Fotomediathek (nur Hinzufügen) | Sage-Karte speichern | Gerendetes Bild schreiben |",
+    "fr": "| Photothèque (ajout uniquement) | Carte sage | Image rendu |",
+    "tr": "| Fotoğraf Kitaplığı (yalnızca ekleme) | Sage kartı | İşlenmiş görsel yaz |"
+  },
+  "| Photo Library (Add Only) | You save a share card or character image | Write the rendered image |": {
+    "ja": "| 写真ライブラリ（追加のみ） | 共有カード/文字画像を保存 | Write the rendered image |",
+    "ko": "| 사진 보관함(추가 전용) | 공유 카드/글자 이미지 저장 | Write the rendered image |",
+    "ru": "| Фототека (только добавление) | Share card / иероглиф | Write the rendered image |",
+    "th": "| คลังรูปภาพ (เพิ่มอย่างเดียว) | บันทึกการ์ดแชร์/ตัวอักษร | Write the rendered image |",
+    "de": "| Fotomediathek (nur Hinzufügen) | Share-Karte/Zeichenbild | Write the rendered image |",
+    "fr": "| Photothèque (ajout uniquement) | Carte partagée/caractère | Write the rendered image |",
+    "tr": "| Fotoğraf Kitaplığı (yalnızca ekleme) | Paylaşım kartı/karakter | Write the rendered image |"
+  },
+  "| Photo Library (Add Only) | You save a share card | Save rendered images |": {
+    "ja": "| 写真ライブラリ（追加のみ） | 共有カードを保存 | 描画画像を保存 |",
+    "ko": "| 사진 보관함(추가 전용) | 공유 카드 저장 | 렌더 이미지 저장 |",
+    "ru": "| Фототека (только добавление) | Share card | Сохранение изображений |",
+    "th": "| คลังรูปภาพ (เพิ่มอย่างเดียว) | บันทึกการ์ดแชร์ | บันทึกภาพที่เรนเดอร์ |",
+    "de": "| Fotomediathek (nur Hinzufügen) | Share-Karte speichern | Gerenderte Bilder speichern |",
+    "fr": "| Photothèque (ajout uniquement) | Carte partagée | Enregistrer images rendues |",
+    "tr": "| Fotoğraf Kitaplığı (yalnızca ekleme) | Paylaşım kartı | İşlenmiş görselleri kaydet |"
+  },
+  "| Photos (add) | Save share cards | On-device images you choose |": {
+    "ja": "| 写真（追加） | 共有カードを保存 | 端末上の選択画像 |",
+    "ko": "| 사진(추가) | 공유 카드 저장 | 선택한 기기 내 이미지 |",
+    "ru": "| Фото (добавление) | Share cards | Изображения на устройстве |",
+    "th": "| รูปภาพ (เพิ่ม) | บันทึกการ์ดแชร์ | รูปบนเครื่องที่คุณเลือก |",
+    "de": "| Fotos (Hinzufügen) | Share-Karten speichern | Bilder auf dem Gerät |",
+    "fr": "| Photos (ajout) | Enregistrer cartes partagées | Images sur l’appareil |",
+    "tr": "| Fotoğraflar (ekleme) | Paylaşım kartları | Cihazdaki seçilen görseller |"
+  },
+  "| Preferences | Theme, accent, breathing defaults, notifications, Live Activity, Spotlight |": {
+    "ja": "| 設定 | テーマ、アクセント、呼吸、通知、Live Activity、Spotlight |",
+    "ko": "| 설정 | 테마·강조·호흡·알림·Live Activity·Spotlight |",
+    "ru": "| Настройки | Тема, акцент, дыхание, уведомления, Live Activity, Spotlight |",
+    "th": "| การตั้งค่า | ธีม สี หายใจ แจ้งเตือน Live Activity Spotlight |",
+    "de": "| Einstellungen | Theme, Akzent, Atmung, Benachrichtigungen, Live Activity, Spotlight |",
+    "fr": "| Préférences | Thème, accent, respiration, notifications, Live Activity, Spotlight |",
+    "tr": "| Tercihler | Tema, vurgu, nefes, bildirimler, Live Activity, Spotlight |"
+  },
+  "| Reading history / last read | App Group UserDefaults | Continue browsing, history UI |": {
+    "ja": "| 閲読履歴 / 最後に読んだ位置 | App Group UserDefaults | 閲覧続行・履歴 UI |",
+    "ko": "| 읽기 기록 / 마지막 읽기 | App Group UserDefaults | 탐색 계속·기록 UI |",
+    "ru": "| История / последнее чтение | UserDefaults App Group | Продолжение просмотра, UI истории |",
+    "th": "| ประวัติ / อ่านล่าสุด | UserDefaults ของ App Group | ท่องต่อ·UI ประวัติ |",
+    "de": "| Leseverlauf / zuletzt gelesen | UserDefaults der App Group | Weiterstöbern, Verlaufs-UI |",
+    "fr": "| Historique / dernière lecture | UserDefaults de l’App Group | Poursuite, UI historique |",
+    "tr": "| Okuma geçmişi / son okuma | App Group UserDefaults | Gezinme, geçmiş UI |"
+  },
+  "| Recent searches | Standard UserDefaults (device) | Search history you typed |": {
+    "ja": "| 最近の検索 | Standard UserDefaults (device) | 入力した検索履歴 |",
+    "ko": "| 최근 검색 | Standard UserDefaults (device) | 입력 검색 기록 |",
+    "ru": "| Недавние запросы | Standard UserDefaults (device) | История введённого поиска |",
+    "th": "| การค้นหาล่าสุด | Standard UserDefaults (device) | ประวัติที่พิมพ์ |",
+    "de": "| Letzte Suchen | Standard UserDefaults (device) | Suchverlauf Ihrer Eingaben |",
+    "fr": "| Recherches récentes | Standard UserDefaults (device) | Historique saisi |",
+    "tr": "| Son aramalar | Standard UserDefaults (device) | Yazdığınız arama geçmişi |"
+  },
+  "| Reflection journal entries | App Group UserDefaults | Life Guidance journal |": {
+    "ja": "| 省思ジャーナル | App Group UserDefaults | Life Guidance ジャーナル |",
+    "ko": "| 성찰 저널 | App Group UserDefaults | Life Guidance 저널 |",
+    "ru": "| Записи рефлексии | UserDefaults App Group | Журнал Life Guidance |",
+    "th": "| บันทึกสะท้อนคิด | UserDefaults ของ App Group | บันทึก Life Guidance |",
+    "de": "| Reflexionstagebuch | UserDefaults der App Group | Life-Guidance-Tagebuch |",
+    "fr": "| Journal de réflexion | UserDefaults de l’App Group | Journal Life Guidance |",
+    "tr": "| Yansıma günlüğü | App Group UserDefaults | Life Guidance günlüğü |"
+  },
+  "| Sage-card preferences | App Group UserDefaults | Last style / ratio choices |": {
+    "ja": "| 賢カード設定 | App Group UserDefaults | 最後のスタイル / 比率 |",
+    "ko": "| 현카드 설정 | App Group UserDefaults | 마지막 스타일/비율 |",
+    "ru": "| Настройки sage-карт | UserDefaults App Group | Последний стиль/ratio |",
+    "th": "| การตั้งค่า sage | UserDefaults ของ App Group | สไตล์/อัตราส่วนล่าสุด |",
+    "de": "| Sage-Karten-Einstellungen | UserDefaults der App Group | Letzter Stil/Verhältnis |",
+    "fr": "| Préférences cartes sage | UserDefaults de l’App Group | Dernier style/ratio |",
+    "tr": "| Sage kart tercihleri | App Group UserDefaults | Son stil/oran |"
+  },
+  "| Saved characters & famous-line favorites | App Group UserDefaults | Hard-character bookmarks, starred lines |": {
+    "ja": "| 保存文字と名文お気に入り | App Group UserDefaults | 難字ブックマーク・星付き行 |",
+    "ko": "| 저장 글자·명문 즐겨찾기 | App Group UserDefaults | 어려운 글자·별표 줄 |",
+    "ru": "| Сохранённые иероглифы и строки | UserDefaults App Group | Закладки сложных иероглифов |",
+    "th": "| ตัวอักษรที่บันทึกและบรรทัดโปรด | UserDefaults ของ App Group | ที่คั่นตัวยาก·บรรทัดติดดาว |",
+    "de": "| Gespeicherte Zeichen & Zeilen | UserDefaults der App Group | Schwierige Zeichen, markierte Zeilen |",
+    "fr": "| Caractères et lignes favorites | UserDefaults de l’App Group | Caractères difficiles, lignes favorites |",
+    "tr": "| Kayıtlı karakterler ve dizeler | App Group UserDefaults | Zor karakterler, yıldızlı satırlar |"
+  },
+  "| Session history | Breathing / tool session records |": {
+    "ja": "| セッション履歴 | 呼吸 / ツールセッション記録 |",
+    "ko": "| 세션 기록 | 호흡/도구 세션 기록 |",
+    "ru": "| История сессий | Записи дыхания / инструментов |",
+    "th": "| ประวัติเซสชัน | บันทึกหายใจ/เซสชันเครื่องมือ |",
+    "de": "| Sitzungsverlauf | Atem-/Tool-Sitzungen |",
+    "fr": "| Historique de session | Sessions respiration/outils |",
+    "tr": "| Oturum geçmişi | Nefes/araç oturumları |"
+  },
+  "| Shangjunshu library | App / Widget bundle | Offline reading & study |": {
+    "ja": "| 商君書ライブラリ | App / Widget バンドル | オフライン閲読と学習 |",
+    "ko": "| 상군서 라이브러리 | App / Widget 번들 | 오프라인 읽기·학습 |",
+    "ru": "| Библиотека Shangjunshu | Пакет App / Widget | Офлайн-чтение и обучение |",
+    "th": "| คลัง Shangjunshu | App / Widget bundle | อ่านและเรียนออฟไลน์ |",
+    "de": "| Shangjunshu-Bibliothek | App-/Widget-Bundle | Offline-Lesen und -Lernen |",
+    "fr": "| Bibliothèque Shangjunshu | Bundle App / Widget | Lecture et étude hors ligne |",
+    "tr": "| Shangjunshu kitaplığı | App / Widget paketi | Çevrimdışı okuma ve çalışma |"
+  },
+  "| Share-card preferences | App Group UserDefaults | Last style choices |": {
+    "ja": "| 共有カード設定 | App Group UserDefaults | Last style choices |",
+    "ko": "| 공유 카드 설정 | App Group UserDefaults | Last style choices |",
+    "ru": "| Настройки share-карт | UserDefaults App Group | Last style choices |",
+    "th": "| การตั้งค่าการ์ดแชร์ | UserDefaults ของ App Group | Last style choices |",
+    "de": "| Share-Karten-Einstellungen | UserDefaults der App Group | Last style choices |",
+    "fr": "| Préférences cartes partagées | UserDefaults de l’App Group | Last style choices |",
+    "tr": "| Paylaşım kartı tercihleri | App Group UserDefaults | Last style choices |"
+  },
+  "| Spotlight | Optional, off by default | Index content on device |": {
+    "ja": "| Spotlight | 任意・既定オフ | 端末上でコンテンツを索引 |",
+    "ko": "| Spotlight | 선택·기본 끔 | 기기에서 콘텐츠 색인 |",
+    "ru": "| Spotlight | Необяз., по умолчанию выкл. | Индексирование на устройстве |",
+    "th": "| Spotlight | เสริม·ปิดตั้งต้น | จัดทำดัชนีบนเครื่อง |",
+    "de": "| Spotlight | Optional, standardmäßig aus | Inhalte auf dem Gerät indizieren |",
+    "fr": "| Spotlight | Facultatif, désactivé par défaut | Indexer sur l’appareil |",
+    "tr": "| Spotlight | İsteğe bağlı, varsayılan kapalı | Cihazda dizinleme |"
+  },
+  "| Streaks & stats | Recovery dashboard and pressure curve |": {
+    "ja": "| 連続と統計 | 回復ダッシュボードと圧力曲線 |",
+    "ko": "| 연속·통계 | 회복 대시보드·압력 곡선 |",
+    "ru": "| Серии и статистика | Панель recovery и кривая |",
+    "th": "| สตรีคและสถิติ | แดชบอร์ดฟื้นตัวและเส้นแรงดัน |",
+    "de": "| Serien & Statistik | Recovery-Dashboard und Kurve |",
+    "fr": "| Séries et stats | Tableau recovery et courbe |",
+    "tr": "| Seriler ve istatistik | İyileşme panosu ve eğri |"
+  },
+  "| Study progress & high scores | App Group UserDefaults | Study Hall state |": {
+    "ja": "| 学習進捗とハイスコア | App Group UserDefaults | Study Hall 状態 |",
+    "ko": "| 학습 진행·최고 점수 | App Group UserDefaults | Study Hall 상태 |",
+    "ru": "| Прогресс и рекорды | UserDefaults App Group | Состояние Study Hall |",
+    "th": "| ความคืบหน้าและคะแนนสูง | UserDefaults ของ App Group | สถานะ Study Hall |",
+    "de": "| Lernfortschritt & Highscores | UserDefaults der App Group | Study-Hall-Status |",
+    "fr": "| Progression et scores | UserDefaults de l’App Group | État Study Hall |",
+    "tr": "| İlerleme ve skorlar | App Group UserDefaults | Study Hall durumu |"
+  },
+  "| Study streak / check-in | App Group UserDefaults | Daily Study habit |": {
+    "ja": "| 学習連続 / チェックイン | App Group UserDefaults | Daily Study 習慣 |",
+    "ko": "| 학습 연속 / 체크인 | App Group UserDefaults | Daily Study 습관 |",
+    "ru": "| Серия учёбы / check-in | UserDefaults App Group | Привычка Daily Study |",
+    "th": "| สตรีคเรียน / เช็คอין | UserDefaults ของ App Group | นิสัย Daily Study |",
+    "de": "| Lernserie / Check-in | UserDefaults der App Group | Daily-Study-Gewohnheit |",
+    "fr": "| Série d’étude / check-in | UserDefaults de l’App Group | Habitude Daily Study |",
+    "tr": "| Çalışma serisi / check-in | App Group UserDefaults | Daily Study alışkanlığı |"
+  },
+  "| Study streak / check-in | App Group UserDefaults | Daily habit |": {
+    "ja": "| 学習連続 / チェックイン | App Group UserDefaults | 毎日の習慣 |",
+    "ko": "| 학습 연속 / 체크인 | App Group UserDefaults | 매일 습관 |",
+    "ru": "| Серия учёбы / check-in | UserDefaults App Group | Ежедневная привычка |",
+    "th": "| สตรีคเรียน / เช็คอין | UserDefaults ของ App Group | นิสัยรายวัน |",
+    "de": "| Lernserie / Check-in | UserDefaults der App Group | Tägliche Gewohnheit |",
+    "fr": "| Série d’étude / check-in | UserDefaults de l’App Group | Habitude quotidienne |",
+    "tr": "| Çalışma serisi / check-in | App Group UserDefaults | Günlük alışkanlık |"
+  },
+  "| Surname database & stroke glyphs | App bundle | Offline reading, tracing & study |": {
+    "ja": "| 姓氏 DB と筆順 | App バンドル | オフライン閲読・なぞり書き・学習 |",
+    "ko": "| 성씨 DB·획순 | App 번들 | 오프라인·따라쓰기·학습 |",
+    "ru": "| База фамилий и штрихи | Пакет приложения | Офлайн, обводка, обучение |",
+    "th": "| ฐานนามสกุลและลำดับขีด | App bundle | อ่าน ลากลาย เรียน |",
+    "de": "| Familiennamen-DB & Striche | App-Bundle | Offline, Nachzeichnen, Lernen |",
+    "fr": "| Base noms et traits | Bundle de l’app | Lecture, tracé, étude |",
+    "tr": "| Soyadı DB ve vuruşlar | App paketi | Çevrimdışı, izleme, çalışma |"
+  },
+  "| Sutra database (indexes, shards, large volumes) | App / Widget bundle | Offline reading & study |": {
+    "ja": "| 経典 DB（索引・シャード・大容量） | App / Widget バンドル | オフライン閲読と学習 |",
+    "ko": "| 불경 DB(색인·샤드) | App / Widget 번들 | 오프라인 읽기·학습 |",
+    "ru": "| База сутр (индексы, шарды) | Пакет App / Widget | Офлайн-чтение и обучение |",
+    "th": "| ฐานสutra (ดัชนี·ชards) | App / Widget bundle | อ่านและเรียนออฟไลน์ |",
+    "de": "| Sutra-Datenbank (Indizes, Shards) | App-/Widget-Bundle | Offline-Lesen und -Lernen |",
+    "fr": "| Base sutras (index, shards) | Bundle App / Widget | Lecture et étude hors ligne |",
+    "tr": "| Sutra DB (indeks, parçalar) | App / Widget paketi | Çevrimdışı okuma ve çalışma |"
+  },
+  "| Today’s Essay cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Today’s Essay cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Today’s Essay cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Today’s Essay cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Today’s Essay cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Today’s Essay cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Today’s Essay cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Today’s Essay cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Today’s Mo cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Today’s Mo cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Today’s Mo cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Today’s Mo cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Today’s Mo cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Today’s Mo cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Today’s Mo cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Today’s Mo cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Today’s Rhyme cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Today’s Rhyme cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Today’s Rhyme cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Today’s Rhyme cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Today’s Rhyme cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Today’s Rhyme cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Today’s Rhyme cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Today’s Rhyme cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Today’s Thought cache & notification prefs | App Group UserDefaults | Today’s ID and schedule |": {
+    "ja": "| Today’s Thought cache & notification prefs | App Group UserDefaults | 今日の ID とスケジュール |",
+    "ko": "| Today’s Thought cache & notification prefs | App Group UserDefaults | 오늘 ID and schedule |",
+    "ru": "| Today’s Thought cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Today’s Thought cache & notification prefs | UserDefaults ของ App Group | ID วันนี้ and schedule |",
+    "de": "| Today’s Thought cache & notification prefs | UserDefaults der App Group | Heutige ID and schedule |",
+    "fr": "| Today’s Thought cache & notification prefs | UserDefaults de l’App Group | ID du jour and schedule |",
+    "tr": "| Today’s Thought cache & notification prefs | App Group UserDefaults | Bugünün ID’si and schedule |"
+  },
+  "| Today’s Wisdom cache & notification prefs | App Group UserDefaults | Today’s ID, schedule time, contextual toggle |": {
+    "ja": "| Today’s Wisdom cache & notification prefs | App Group UserDefaults | 今日の ID, 時刻, 文脈トグル |",
+    "ko": "| Today’s Wisdom cache & notification prefs | App Group UserDefaults | 오늘 ID, 시간, contextual toggle |",
+    "ru": "| Today’s Wisdom cache & notification prefs | UserDefaults App Group | ID на сегодня, время, переключатели |",
+    "th": "| Today’s Wisdom cache & notification prefs | UserDefaults ของ App Group | ID วันนี้, schedule time, contextual toggle |",
+    "de": "| Today’s Wisdom cache & notification prefs | UserDefaults der App Group | Heutige ID, schedule time, contextual toggle |",
+    "fr": "| Today’s Wisdom cache & notification prefs | UserDefaults de l’App Group | ID du jour, schedule time, contextual toggle |",
+    "tr": "| Today’s Wisdom cache & notification prefs | App Group UserDefaults | Bugünün ID’si, schedule time, contextual toggle |"
+  },
+  "| Widget / Live Activity snapshots | App Group / ActivityKit | Display text / chant state you already opened |": {
+    "ja": "| Widget / Live Activity スナップショット | App Group / ActivityKit | 既に開いたテキスト / chant 状態を表示 |",
+    "ko": "| Widget / Live Activity 스냅샷 | App Group / ActivityKit | 연 텍스트/chant 상태 표시 |",
+    "ru": "| Снимки Widget / Live Activity | App Group / ActivityKit | Отображение открытого текста/chant |",
+    "th": "| สแนป Widget / Live Activity | App Group / ActivityKit | แสดงข้อความ/chant ที่เปิดแล้ว |",
+    "de": "| Widget-/Live-Activity-Schnappschüsse | App Group / ActivityKit | Anzeige geöffneter Text/Chant |",
+    "fr": "| Instantanés Widget / Live Activity | App Group / ActivityKit | Texte/chant déjà ouverts |",
+    "tr": "| Widget / Live Activity anlık görüntüleri | App Group / ActivityKit | Açılmış metin/chant durumu |"
+  },
+  "| Zengzi-line library | App / Widget bundle | Offline reading & study |": {
+    "ja": "| 曾子系ライブラリ | App / Widget バンドル | オフライン閲読と学習 |",
+    "ko": "| 曾子 계열 라이브러리 | App / Widget 번들 | 오프라인 읽기·학습 |",
+    "ru": "| Библиотека линии Zengzi | Пакет App / Widget | Офлайн-чтение и обучение |",
+    "th": "| คลังสาย Zengzi | App / Widget bundle | อ่านและเรียนออฟไลน์ |",
+    "de": "| Zengzi-Linien-Bibliothek | App-/Widget-Bundle | Offline-Lesen und -Lernen |",
+    "fr": "| Bibliothèque ligne Zengzi | Bundle App / Widget | Lecture et étude hors ligne |",
+    "tr": "| Zengzi hattı kitaplığı | App / Widget paketi | Çevrimdışı okuma ve çalışma |"
+  },
+  "| Zisi-line library | App / Widget bundle | Offline reading & study |": {
+    "ja": "| 子思系ライブラリ | App / Widget バンドル | オフライン閲読と学習 |",
+    "ko": "| 子思 계열 라이브러리 | App / Widget 번들 | 오프라인 읽기·학습 |",
+    "ru": "| Библиотека линии Zisi | Пакет App / Widget | Офлайн-чтение и обучение |",
+    "th": "| คลังสาย Zisi | App / Widget bundle | อ่านและเรียนออฟไลน์ |",
+    "de": "| Zisi-Linien-Bibliothek | App-/Widget-Bundle | Offline-Lesen und -Lernen |",
+    "fr": "| Bibliothèque ligne Zisi | Bundle App / Widget | Lecture et étude hors ligne |",
+    "tr": "| Zisi hattı kitaplığı | App / Widget paketi | Çevrimdışı okuma ve çalışma |"
+  },
+  "| iCloud | Optional sync | Mirror your progress |": {
+    "ja": "| iCloud | 任意の同期 | 進捗をミラー |",
+    "ko": "| iCloud | 선택 동기화 | 진행 미러 |",
+    "ru": "| iCloud | Необяз. синхронизация | Зеркалирование прогресса |",
+    "th": "| iCloud | ซิงค์เสริม | สะท้อนความคืบหน้า |",
+    "de": "| iCloud | Optionale Sync | Fortschritt spiegeln |",
+    "fr": "| iCloud | Sync facultative | Miroir de progression |",
+    "tr": "| iCloud | İsteğe bağlı sync | İlerlemeyi yansıt |"
+  },
+  "| iCloud | You enable sync | Sync favorites / lists / history / mastery / notes / chant & practice prefs |": {
+    "ja": "| iCloud | 同期を有効にする | お気に入り/リスト/履歴/習熟/メモ/唱和・修行設定を同期 |",
+    "ko": "| iCloud | 동기화 사용 | 즐겨찾기/목록/기록/숙달/메모/chant·수행 설정 |",
+    "ru": "| iCloud | Включаете синхронизацию | Избранное/списки/история/mastery/заметки/chant |",
+    "th": "| iCloud | เปิดซิงค์ | ซิงค์รายการโปรด/รายการ/ประวัติ/mastery/บันทึก/chant |",
+    "de": "| iCloud | Sync aktivieren | Favoriten/Listen/Verlauf/Mastery/Notizen/Chant |",
+    "fr": "| iCloud | Activez la sync | Favoris/listes/historique/maîtrise/notes/chant |",
+    "tr": "| iCloud | Senkronizasyonu açarsınız | Favoriler/listeler/geçmiş/ustalık/notlar/chant |"
+  },
+  "| iCloud | You enable sync | Sync favorites / lists / history / progress / streaks / journal / habits |": {
+    "ja": "| iCloud | 同期を有効にする | お気に入り/リスト/履歴/進捗/連続/ジャーナル/習慣を同期 |",
+    "ko": "| iCloud | 동기화 사용 | 즐겨찾기/목록/기록/진행/연속/저널/습관 |",
+    "ru": "| iCloud | Включаете синхронизацию | Избранное/списки/история/прогресс/серии/журнал/привычки |",
+    "th": "| iCloud | เปิดซิงค์ | ซิงค์รายการโปรด/รายการ/ประวัติ/ความคืบหน้า/สตรีค/บันทึก/นิสัย |",
+    "de": "| iCloud | Sync aktivieren | Favoriten/Listen/Verlauf/Fortschritt/Serien/Journal/Gewohnheiten |",
+    "fr": "| iCloud | Activez la sync | Favoris/listes/historique/progression/séries/journal/habitudes |",
+    "tr": "| iCloud | Senkronizasyonu açarsınız | Favoriler/listeler/geçmiş/ilerleme/seriler/günlük/alışkanlıklar |"
+  },
+  "| iCloud | You enable sync | Sync favorites / lists / history / progress / streaks / notes / journal |": {
+    "ja": "| iCloud | 同期を有効にする | お気に入り/リスト/履歴/進捗/連続/メモ/ジャーナルを同期 |",
+    "ko": "| iCloud | 동기화 사용 | 즐겨찾기/목록/기록/진행/연속/메모/저널 |",
+    "ru": "| iCloud | Включаете синхронизацию | Избранное/списки/история/прогресс/серии/заметки/журнал |",
+    "th": "| iCloud | เปิดซิงค์ | ซิงค์รายการโปรด/รายการ/ประวัติ/ความคืบหน้า/สตรีค/บันทึก/บันทึกย่อ |",
+    "de": "| iCloud | Sync aktivieren | Favoriten/Listen/Verlauf/Fortschritt/Serien/Notizen/Journal |",
+    "fr": "| iCloud | Activez la sync | Favoris/listes/historique/progression/séries/notes/journal |",
+    "tr": "| iCloud | Senkronizasyonu açarsınız | Favoriler/listeler/geçmiş/ilerleme/seriler/notlar/günlük |"
+  },
+  "| iCloud | You enable sync | Sync favorites / lists / history / progress / streaks / notes / saved characters |": {
+    "ja": "| iCloud | 同期を有効にする | お気に入り/リスト/履歴/進捗/連続/メモ/保存文字を同期 |",
+    "ko": "| iCloud | 동기화 사용 | 즐겨찾기/목록/기록/진행/연속/메모/저장 글자 |",
+    "ru": "| iCloud | Включаете синхронизацию | Избранное/списки/история/прогресс/серии/заметки/сохранённые иероглифы |",
+    "th": "| iCloud | เปิดซิงค์ | ซิงค์รายการโปรด/รายการ/ประวัติ/ความคืบหน้า/สตรีค/บันทึก/ตัวอักษรที่บันทึก |",
+    "de": "| iCloud | Sync aktivieren | Favoriten/Listen/Verlauf/Fortschritt/Serien/Notizen/gespeicherte Zeichen |",
+    "fr": "| iCloud | Activez la sync | Favoris/listes/historique/progression/séries/notes/caractères enregistrés |",
+    "tr": "| iCloud | Senkronizasyonu açarsınız | Favoriler/listeler/geçmiş/ilerleme/seriler/notlar/kayıtlı karakterler |"
+  },
+  "| iCloud | You enable sync | Sync favorites / lists / history / progress / streaks / notes |": {
+    "ja": "| iCloud | 同期を有効にする | お気に入り/リスト/履歴/進捗/連続/メモを同期 |",
+    "ko": "| iCloud | 동기화 사용 | 즐겨찾기/목록/기록/진행/연속/메모 |",
+    "ru": "| iCloud | Включаете синхронизацию | Избранное/списки/история/прогресс/серии/заметки |",
+    "th": "| iCloud | เปิดซิงค์ | ซิงค์รายการโปรด/รายการ/ประวัติ/ความคืบหน้า/สตรีค/บันทึก |",
+    "de": "| iCloud | Sync aktivieren | Favoriten/Listen/Verlauf/Fortschritt/Serien/Notizen |",
+    "fr": "| iCloud | Activez la sync | Favoris/listes/historique/progression/séries/notes |",
+    "tr": "| iCloud | Senkronizasyonu açarsınız | Favoriler/listeler/geçmiş/ilerleme/seriler/notlar |"
+  },
+  "| iCloud | You enable sync | Sync favorites, lists, progress, notes |": {
+    "ja": "| iCloud | 同期を有効にする | お気に入り、リスト、進捗、メモを同期 |",
+    "ko": "| iCloud | 동기화 사용 | 즐겨찾기·목록·진행·메모 동기화 |",
+    "ru": "| iCloud | Включаете синхронизацию | Избранное, списки, прогресс, заметки |",
+    "th": "| iCloud | เปิดซิงค์ | ซิงค์รายการโปรด รายการ ความคืบหน้า บันทึก |",
+    "de": "| iCloud | Sync aktivieren | Favoriten, Listen, Fortschritt, Notizen |",
+    "fr": "| iCloud | Activez la sync | Favoris, listes, progression, notes |",
+    "tr": "| iCloud | Senkronizasyonu açarsınız | Favoriler, listeler, ilerleme, notlar |"
+  },
+  "- **Copy-sutra (iOS)** — PencilKit strokes are stored under Application Support on the device (`CopySutra/…`) for drafts and export. They are **not** placed in the App Group and are **not** synced to iCloud.": {
+    "ja": "- **写経（iOS）** — PencilKit のストロークは Application Support（`CopySutra/…`）に保存されます。**App Group には入れず**、**iCloud 同期もされません**。",
+    "ko": "- **필경(iOS)** — PencilKit 획은 Application Support(`CopySutra/…`)에 저장됩니다. **App Group에 두지 않으며** **iCloud 동기화되지 않습니다**.",
+    "ru": "- **Копирование сутры (iOS)** — штрихи PencilKit хранятся в Application Support (`CopySutra/…`). **Не** в App Group и **не** синхронизируются с iCloud.",
+    "th": "- **คัดลอกสutra (iOS)** — เส้น PencilKit เก็บใน Application Support (`CopySutra/…`) **ไม่**ใส่ App Group **ไม่**ซิงค์ iCloud",
+    "de": "- **Sutra abschreiben (iOS)** — PencilKit-Striche in Application Support (`CopySutra/…`). **Nicht** in App Group, **keine** iCloud-Sync.",
+    "fr": "- **Copie de sutra (iOS)** — traits PencilKit dans Application Support (`CopySutra/…`). **Pas** dans App Group, **pas** de sync iCloud.",
+    "tr": "- **Sutra kopyalama (iOS)** — PencilKit konturları Application Support (`CopySutra/…`). **App Group’ta değil**, **iCloud senkronu yok**."
+  },
+  "- **Daily notifications** — Scheduled locally with User Notifications. Tapping a notification opens a deep link on device; no server fan-out.": {
+    "ja": "- **毎日の通知** — User Notifications でローカルスケジュール。タップで端末のディープリンクを開きます。サーバー配信はありません。",
+    "ko": "- **매일 알림** — User Notifications로 로컬 예약. 탭하면 기기 딥 링크, 서버 fan-out 없음.",
+    "ru": "- **Ежедневные уведомления** — локально через User Notifications. Тап открывает deep link на устройстве; без сервера.",
+    "th": "- **การแจ้งเตือนรายวัน** — กำหนดในเครื่องด้วย User Notifications แตะเปิด deep link ไม่มีเซิร์ฟเวอร์",
+    "de": "- **Tägliche Benachrichtigungen** — lokal mit User Notifications. Tipp öffnet Deep Link; kein Server.",
+    "fr": "- **Notifications quotidiennes** — planifiées localement. Ouvre un lien profond ; pas de serveur.",
+    "tr": "- **Günlük bildirimler** — User Notifications ile yerel. Dokununca deep link; sunucu yok."
+  },
+  "- **Daily notifications** — Scheduled locally with User Notifications. Tapping a notification opens a deep link to a saying ID on device; no server fan-out.": {
+    "ja": "- **毎日の通知** — ローカルスケジュール。タップで saying ID のディープリンクを開きます。",
+    "ko": "- **매일 알림** — 로컬 예약. 탭하면 saying ID 딥 링크.",
+    "ru": "- **Ежедневные уведомления** — локально; deep link к ID saying на устройстве.",
+    "th": "- **การแจ้งเตือนรายวัน** — deep link ไป saying ID บนเครื่อง",
+    "de": "- **Tägliche Benachrichtigungen** — Deep Link zur Saying-ID.",
+    "fr": "- **Notifications quotidiennes** — lien profond vers l’ID de saying.",
+    "tr": "- **Günlük bildirimler** — saying ID deep link."
+  },
+  "- **Dharma cards / exports** — Images and PDFs are rendered on device. Saving uses **Photo Library add-only** only when you tap save. System Share Sheet may send the file to an app **you** choose; that destination’s privacy policy then applies.": {
+    "ja": "- **法カード / 書き出し** — 画像と PDF は端末で生成。保存時のみ **写真ライブラリ（追加のみ）**。**共有シート**は**お客様が選んだ**アプリへ送る場合があり、そのプライバシーポリシーが適用されます。",
+    "ko": "- **법 카드 / 내보내기** — 이미지·PDF는 기기에서 생성. 저장 시 **사진 보관함(추가 전용)**. **공유 시트**는 **사용자가 선택한** 앱으로 보낼 수 있습니다.",
+    "ru": "- **Dharma-карты / экспорт** — изображения и PDF на устройстве. **Фототека (только добавление)** при сохранении. Share Sheet — приложение **по вашему выбору**.",
+    "th": "- **การ์ดธรรม / ส่งออก** — สร้างภาพและ PDF บนเครื่อง **คลังรูปภาพ (เพิ่มอย่างเดียว)** เมื่อบันทึก",
+    "de": "- **Dharma-Karten / Export** — Bilder/PDF auf dem Gerät. **Fotomediathek (nur Hinzufügen)** beim Speichern.",
+    "fr": "- **Cartes Dharma / export** — images et PDF sur l’appareil. **Photothèque (ajout uniquement)** à l’enregistrement.",
+    "tr": "- **Dharma kartları / dışa aktarma** — görseller/PDF cihazda. Kayıtta **Fotoğraf Kitaplığı (yalnızca ekleme)**."
+  },
+  "- **Email:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)": {
+    "ja": "- **メール:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "ko": "- **이메일:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "ru": "- **Электронная почта:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "th": "- **อีเมล:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "de": "- **E-Mail:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "fr": "- **Email :** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "tr": "- **E-posta:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)"
+  },
+  "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)": {
+    "ja": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "ko": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "ru": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "th": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "de": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "fr": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)",
+    "tr": "[AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)"
+  },
+  "- **Feedback email** — If you send Feedback, the message may include text you write plus device / app diagnostics (version, OS, language) solely for troubleshooting.": {
+    "ja": "- **フィードバックメール** — 送信内容に、お客様の文面とトラブルシュート用の端末/アプリ診断（バージョン、OS、言語）が含まれる場合があります。",
+    "ko": "- **피드백 이메일** — 보내신 글과 문제 해결용 기기/앱 진단(버전, OS, 언어)이 포함될 수 있습니다.",
+    "ru": "- **Email обратной связи** — сообщение может включать ваш текст и диагностику устройства/приложения (версия, ОС, язык) только для устранения неполадок.",
+    "th": "- **อีเมลความคิดเห็น** — อาจมีข้อความของคุณและการวินิจฉัยอุปกรณ์/แอป (เวอร์ชัน OS ภาษา) เพื่อแก้ปัญหา",
+    "de": "- **Feedback-E-Mail** — kann Ihren Text und Geräte-/App-Diagnose (Version, OS, Sprache) nur zur Fehlerbehebung enthalten.",
+    "fr": "- **Email de commentaires** — peut inclure votre texte et des diagnostics appareil/app (version, OS, langue) pour le dépannage.",
+    "tr": "- **Geri bildirim e-postası** — yalnızca sorun giderme için yazdığınız metin ve cihaz/uygulama tanılaması (sürüm, OS, dil) içerebilir."
+  },
+  "- **Knowing-Acting journal** — Entries you write stay on device (App Group). If iCloud Sync is on, they are mirrored through **your** private iCloud KVS, not to iHTC Studio.": {
+    "ja": "- **知行合一ジャーナル** — 記録は端末（App Group）に留まります。iCloud 同期時は **お客様の** iCloud KVS にのみミラーされ、iHTC Studio には送られません。",
+    "ko": "- **지행합일 저널** — 기록은 기기(App Group)에 남습니다. iCloud 동기화 시 **사용자** iCloud KVS로만 미러됩니다.",
+    "ru": "- **Журнал Knowing-Acting** — записи на устройстве (App Group). При iCloud Sync — только **ваш** iCloud KVS, не iHTC Studio.",
+    "th": "- **บันทึก Knowing-Acting** — อยู่บนเครื่อง (App Group) ซิงค์ iCloud ไป **iCloud ของคุณ** เท่านั้น",
+    "de": "- **Knowing-Acting-Tagebuch** — Einträge auf dem Gerät (App Group). iCloud Sync spiegelt in **Ihr** iCloud KVS.",
+    "fr": "- **Journal Knowing-Acting** — entrées sur l’appareil (App Group). Sync iCloud via **votre** KVS iCloud privé.",
+    "tr": "- **Knowing-Acting günlüğü** — kayıtlar cihazda (App Group). iCloud Sync **iCloud KVS’nize** yansır."
+  },
+  "- **Naming inspiration** — Generated entirely on device from bundled data. No names or preferences are uploaded.": {
+    "ja": "- **命名インスピレーション** — 同梱データから端末上で完全生成。名前や設定はアップロードされません。",
+    "ko": "- **작명 영감** — 번들 데이터로 기기에서만 생성. 이름·설정 업로드 없음.",
+    "ru": "- **Naming inspiration** — полностью на устройстве из встроенных данных. Имена и настройки не загружаются.",
+    "th": "- **แรงบันดาลใจตั้งชื่อ** — สร้างบนเครื่องจากข้อมูลในชุด ไม่อัปโหลดชื่อหรือการตั้งค่า",
+    "de": "- **Namensinspiration** — vollständig auf dem Gerät aus gebündelten Daten. Kein Upload von Namen oder Einstellungen.",
+    "fr": "- **Inspiration de noms** — entièrement sur l’appareil à partir de données intégrées. Aucun envoi de noms ou préférences.",
+    "tr": "- **İsim ilhamı** — paket veriden tamamen cihazda. İsim veya tercih yüklenmez."
+  },
+  "- **On device:** Delete the app to remove local sandbox and App Group data (subject to system behavior).": {
+    "ja": "- **端末上:** アプリを削除するとローカル sandbox と App Group データが削除されます（OS の挙動に依存）。",
+    "ko": "- **기기에서:** 앱 삭제 시 로컬 sandbox·App Group 데이터 제거(시스템 동작에 따름).",
+    "ru": "- **На устройстве:** удалите приложение, чтобы удалить sandbox и данные App Group (поведение системы).",
+    "th": "- **บนอุปกรณ์:** ลบแอปเพื่อลบ sandbox และ App Group (ตามพฤติกรรมระบบ)",
+    "de": "- **Auf dem Gerät:** App löschen entfernt Sandbox und App Group (systemabhängig).",
+    "fr": "- **Sur l’appareil :** supprimer l’app efface le sandbox et l’App Group (selon le système).",
+    "tr": "- **Cihazda:** uygulamayı silmek sandbox ve App Group verisini kaldırır (sisteme bağlı)."
+  },
+  "- **On device:** You can clear study progress, history, or notes in the app. Delete the app to remove local sandbox and App Group data (subject to system behavior).": {
+    "ja": "- **端末上:** アプリ内で学習進捗・履歴・メモを消せます。アプリ削除で sandbox / App Group を削除（OS 依存）。",
+    "ko": "- **기기에서:** 앱에서 학습·기록·메모 삭제 가능. 앱 삭제로 sandbox/App Group 제거.",
+    "ru": "- **На устройстве:** можно очистить прогресс, историю, заметки. Удаление app — sandbox/App Group.",
+    "th": "- **บนอุปกรณ์:** ล้างความคืบหน้า/ประวัติ/บันทึกในแอป ลบแอปเพื่อลบ sandbox/App Group",
+    "de": "- **Auf dem Gerät:** Fortschritt/Verlauf/Notizen löschen. App löschen entfernt Sandbox/App Group.",
+    "fr": "- **Sur l’appareil :** effacer progression/historique/notes. Supprimer l’app efface sandbox/App Group.",
+    "tr": "- **Cihazda:** ilerleme/geçmiş/notları temizleyin. Uygulamayı silmek sandbox/App Group’u kaldırır."
+  },
+  "- **On device:** You can clear study progress, history, or notes in the app. Settings supports export/import for backup. Delete the app to remove local sandbox and App Group data (subject to system behavior).": {
+    "ja": "- **端末上:** 進捗・履歴・メモを消せます。設定でエクスポート/インポート可能。アプリ削除で sandbox / App Group 削除。",
+    "ko": "- **기기에서:** 진행·기록·메모 삭제. 설정에서 내보내기/가져오기. 앱 삭제로 sandbox/App Group 제거.",
+    "ru": "- **На устройстве:** очистка прогресса/истории/заметок. Экспорт/импорт в Настройках. Удаление app.",
+    "th": "- **บนอุปกรณ์:** ล้างความคืบหน้า/ประวัติ/บันทึก ส่งออก/นำเข้าในการตั้งค่า ลบแอป",
+    "de": "- **Auf dem Gerät:** löschen, Export/Import in Einstellungen. App löschen.",
+    "fr": "- **Sur l’appareil :** effacer, export/import dans Réglages. Supprimer l’app.",
+    "tr": "- **Cihazda:** temizleme, Ayarlar’da dışa/içe aktarma. Uygulamayı silmek."
+  },
+  "- **On-device speech** — Reading and recitation use Apple’s system **AVSpeechSynthesizer** (TTS). We do not send surname text to iHTC Studio.": {
+    "ja": "- **端末内音声** — 閲読と朗誦は Apple **AVSpeechSynthesizer**（TTS）。姓氏テキストは iHTC Studio へ送りません。",
+    "ko": "- **기기 내 음성** — 읽기·낭송은 Apple **AVSpeechSynthesizer**(TTS). 성씨 텍스트를 iHTC Studio로 보내지 않습니다.",
+    "ru": "- **Речь на устройстве** — чтение и декламация через **AVSpeechSynthesizer** Apple. Текст фамилий не отправляем в iHTC Studio.",
+    "th": "- **เสียงบนอุปกรณ์** — อ่าน/ท่องใช้ **AVSpeechSynthesizer** ไม่ส่งข้อความนามสกุลไป iHTC Studio",
+    "de": "- **Sprache auf dem Gerät** — Lesen/Rezitation via **AVSpeechSynthesizer**. Kein Familientext an iHTC Studio.",
+    "fr": "- **Voix sur l’appareil** — lecture/récitation via **AVSpeechSynthesizer**. Pas de texte de noms à iHTC Studio.",
+    "tr": "- **Cihaz içi konuşma** — okuma Apple **AVSpeechSynthesizer**. Soyadı metni iHTC Studio’ya gönderilmez."
+  },
+  "- **On-device speech** — Recitation uses Apple’s system **AVSpeechSynthesizer** (TTS). We do not send saying text to iHTC Studio.": {
+    "ja": "- **端末内音声** — 朗誦は Apple **AVSpeechSynthesizer**（TTS）。言葉テキストは iHTC Studio へ送りません。",
+    "ko": "- **기기 내 음성** — 낭송은 Apple **AVSpeechSynthesizer**. 격언 텍스트 미전송.",
+    "ru": "- **Речь на устройстве** — декламация через **AVSpeechSynthesizer**. Текст sayings не отправляем.",
+    "th": "- **เสียงบนอุปกรณ์** — ท่องด้วย **AVSpeechSynthesizer** ไม่ส่งข้อความคำคม",
+    "de": "- **Sprache auf dem Gerät** — Rezitation via **AVSpeechSynthesizer**. Kein Saying-Text an iHTC Studio.",
+    "fr": "- **Voix sur l’appareil** — récitation via **AVSpeechSynthesizer**. Pas de texte de saying à iHTC Studio.",
+    "tr": "- **Cihaz içi konuşma** — **AVSpeechSynthesizer** ile okuma. Söz metni gönderilmez."
+  },
+  "- **On-device speech** — Recitation uses Apple’s system **AVSpeechSynthesizer** (TTS). We do not send sutra text to iHTC Studio.": {
+    "ja": "- **端末内音声** — 朗誦は Apple **AVSpeechSynthesizer**（TTS）。経典テキストは iHTC Studio へ送りません。",
+    "ko": "- **기기 내 음성** — **AVSpeechSynthesizer**로 낭송. 경전 텍스트 미전송.",
+    "ru": "- **Речь на устройстве** — **AVSpeechSynthesizer**. Текст сутр не отправляем.",
+    "th": "- **เสียงบนอุปกรณ์** — **AVSpeechSynthesizer** ไม่ส่งข้อความสutra",
+    "de": "- **Sprache auf dem Gerät** — **AVSpeechSynthesizer**. Kein Sutra-Text an iHTC Studio.",
+    "fr": "- **Voix sur l’appareil** — **AVSpeechSynthesizer**. Pas de texte de sutra à iHTC Studio.",
+    "tr": "- **Cihaz içi konuşma** — **AVSpeechSynthesizer**. Sutra metni gönderilmez."
+  },
+  "- **Optional Spotlight** — Off by default. If you enable indexing, passages and character cards are indexed by the system on device for local search; we do not operate a search backend.": {
+    "ja": "- **任意 Spotlight** — 既定オフ。有効時、篇と文字カードは端末上でシステムが索引し、ローカル検索に使います。検索バックエンドは運営しません。",
+    "ko": "- **선택 Spotlight** — 기본 끔. 구절·문자 카드를 기기에서 색인, 로컬 검색. 검색 백엔드 없음.",
+    "ru": "- **Необязательный Spotlight** — выкл. по умолчанию. Фрагменты и карточки индексируются на устройстве; без search backend.",
+    "th": "- **Spotlight เสริม** — ปิดตั้งต้น ข้อความและการ์ดถูกจัดทำดัชนีบนเครื่อง ไม่มีแบ็กเอนด์ค้นหา",
+    "de": "- **Optionales Spotlight** — standardmäßig aus. Passagen/Karten werden auf dem Gerät indiziert; kein Such-Backend.",
+    "fr": "- **Spotlight facultatif** — désactivé par défaut. Passages et cartes indexés sur l’appareil ; pas de backend de recherche.",
+    "tr": "- **İsteğe bağlı Spotlight** — varsayılan kapalı. Pasajlar/kartlar cihazda dizinlenir; arama arka ucu yok."
+  },
+  "- **Optional Spotlight** — Off by default. If you enable indexing, surnames are indexed by the system on device for local search; we do not operate a search backend.": {
+    "ja": "- **任意 Spotlight** — 既定オフ。姓氏は端末上でシステムが索引。検索バックエンドは運営しません。",
+    "ko": "- **선택 Spotlight** — 성씨를 기기에서 색인. 검색 백엔드 없음.",
+    "ru": "- **Необязательный Spotlight** — фамилии индексируются на устройстве; без backend.",
+    "th": "- **Spotlight เสริม** — จัดทำดัชนีนามสกุลบนเครื่อง ไม่มีแบ็กเอนด์ค้นหา",
+    "de": "- **Optionales Spotlight** — Familiennamen werden auf dem Gerät indiziert.",
+    "fr": "- **Spotlight facultatif** — noms indexés sur l’appareil.",
+    "tr": "- **İsteğe bağlı Spotlight** — soyadları cihazda dizinlenir."
+  },
+  "- **Optional system translation** — If you long-press detail text and use Apple’s system Translation (iOS 17.4 / macOS 14.4+), processing stays with Apple’s OS. We do not operate a translation backend.": {
+    "ja": "- **任意のシステム翻訳** — 詳細文を長押しして Apple の Translation（iOS 17.4 / macOS 14.4+）を使う場合、処理は Apple OS 内です。翻訳バックエンドは運営しません。",
+    "ko": "- **선택 시스템 번역** — Apple Translation(iOS 17.4+) 사용 시 Apple OS에서 처리. 번역 백엔드 없음.",
+    "ru": "- **Необязательный системный перевод** — Apple Translation (iOS 17.4+); обработка в OS Apple. Без backend перевода.",
+    "th": "- **การแปลระบบเสริม** — ใช้ Apple Translation บน OS ไม่มีแบ็กเอนด์แปล",
+    "de": "- **Optionale Systemübersetzung** — Apple Translation; Verarbeitung in Apple OS.",
+    "fr": "- **Traduction système facultative** — Apple Translation ; traitement dans l’OS Apple.",
+    "tr": "- **İsteğe bağlı sistem çevirisi** — Apple Translation; işlem Apple OS’te."
+  },
+  "- **Optional system translation** — If you use Apple’s on-device / system translation features, processing stays with Apple’s OS. We do not operate a translation backend.": {
+    "ja": "- **任意のシステム翻訳** — Apple の端末内/システム翻訳を使う場合、処理は Apple OS 内です。",
+    "ko": "- **선택 시스템 번역** — Apple 기기/시스템 번역 사용 시 Apple OS에서 처리.",
+    "ru": "- **Системный перевод** — функции Apple на устройстве; обработка в OS Apple.",
+    "th": "- **การแปลระบบ** — ฟีเจอร์แปลของ Apple บน OS",
+    "de": "- **Systemübersetzung** — Apple-Funktionen auf dem Gerät; Apple OS.",
+    "fr": "- **Traduction système** — fonctions Apple ; OS Apple.",
+    "tr": "- **Sistem çevirisi** — Apple cihaz/sistem çevirisi; Apple OS."
+  },
+  "- **Optional tip** — “Tip Developer” (`com.iHTCboy.iBaiJia.6`) is a consumable **StoreKit** purchase processed by Apple. We do not receive your payment card details.": {
+    "ja": "- **任意チップ** — 「Tip Developer」（`com.iHTCboy.iBaiJia.6`）は Apple 処理の消耗型 **StoreKit** 購入です。カード情報は受け取りません。",
+    "ko": "- **선택 팁** — “Tip Developer”(`com.iHTCboy.iBaiJia.6`) Apple **StoreKit** 구매. 카드 정보 미수신.",
+    "ru": "- **Чаевые** — «Tip Developer» (`com.iHTCboy.iBaiJia.6`), **StoreKit** через Apple. Данные карты не получаем.",
+    "th": "- **ทิปเสริม** — “Tip Developer” (`com.iHTCboy.iBaiJia.6`) **StoreKit** โดย Apple",
+    "de": "- **Optionaler Tipp** — „Tip Developer“ (`com.iHTCboy.iBaiJia.6`), **StoreKit** via Apple.",
+    "fr": "- **Pourboire facultatif** — « Tip Developer » (`com.iHTCboy.iBaiJia.6`), **StoreKit** via Apple.",
+    "tr": "- **İsteğe bağlı bahşiş** — “Tip Developer” (`com.iHTCboy.iBaiJia.6`), Apple **StoreKit**."
+  },
+  "- **Optional tip** — “Tip Developer” (`com.iHTCboy.iPrimer.6`) is a consumable **StoreKit** purchase processed by Apple. We do not receive your payment card details.": {
+    "ja": "- **任意チップ** — 「Tip Developer」（`com.iHTCboy.iPrimer.6`）は Apple 処理の消耗型 **StoreKit** 購入です。カード情報は受け取りません。",
+    "ko": "- **선택 팁** — “Tip Developer”(`com.iHTCboy.iPrimer.6`) Apple **StoreKit** 구매. 카드 정보 미수신.",
+    "ru": "- **Чаевые** — «Tip Developer» (`com.iHTCboy.iPrimer.6`), **StoreKit** через Apple. Данные карты не получаем.",
+    "th": "- **ทิปเสริม** — “Tip Developer” (`com.iHTCboy.iPrimer.6`) **StoreKit** โดย Apple",
+    "de": "- **Optionaler Tipp** — „Tip Developer“ (`com.iHTCboy.iPrimer.6`), **StoreKit** via Apple.",
+    "fr": "- **Pourboire facultatif** — « Tip Developer » (`com.iHTCboy.iPrimer.6`), **StoreKit** via Apple.",
+    "tr": "- **İsteğe bağlı bahşiş** — “Tip Developer” (`com.iHTCboy.iPrimer.6`), Apple **StoreKit**."
+  },
+  "- **Optional tip** — “Tip Developer” (`com.iHTCboy.iThousand.6`) is a consumable **StoreKit** purchase processed by Apple. We do not receive your payment card details.": {
+    "ja": "- **任意チップ** — 「Tip Developer」（`com.iHTCboy.iThousand.6`）は Apple 処理の消耗型 **StoreKit** 購入です。カード情報は受け取りません。",
+    "ko": "- **선택 팁** — “Tip Developer”(`com.iHTCboy.iThousand.6`) Apple **StoreKit** 구매. 카드 정보 미수신.",
+    "ru": "- **Чаевые** — «Tip Developer» (`com.iHTCboy.iThousand.6`), **StoreKit** через Apple. Данные карты не получаем.",
+    "th": "- **ทิปเสริม** — “Tip Developer” (`com.iHTCboy.iThousand.6`) **StoreKit** โดย Apple",
+    "de": "- **Optionaler Tipp** — „Tip Developer“ (`com.iHTCboy.iThousand.6`), **StoreKit** via Apple.",
+    "fr": "- **Pourboire facultatif** — « Tip Developer » (`com.iHTCboy.iThousand.6`), **StoreKit** via Apple.",
+    "tr": "- **İsteğe bağlı bahşiş** — “Tip Developer” (`com.iHTCboy.iThousand.6`), Apple **StoreKit**."
+  },
+  "- **We do not retain copies** of your reading, journal, or habit data on iHTC Studio servers.": {
+    "ja": "- **当社は保持しません** — 閲読・ジャーナル・習慣データのコピーを iHTC Studio サーバーに保持しません。",
+    "ko": "- **보관하지 않습니다** — 읽기·저널·습관 데이터 사본을 iHTC Studio 서버에 두지 않습니다.",
+    "ru": "- **Мы не храним копии** чтения, журнала и привычек на серверах iHTC Studio.",
+    "th": "- **เราไม่เก็บสำเนา** ข้อมูลการอ่าน/บันทึก/นิสัยบนเซิร์ฟเวอร์ iHTC Studio",
+    "de": "- **Wir speichern keine Kopien** von Lese-, Journal- und Gewohnheitsdaten auf iHTC Studio-Servern.",
+    "fr": "- **Nous ne conservons pas de copies** de lecture, journal ou habitudes sur les serveurs iHTC Studio.",
+    "tr": "- **Kopya tutmuyoruz** — okuma/günlük/alışkanlık verilerini iHTC Studio sunucularında."
+  },
+  "- **We do not retain copies** of your reading, notes, or character bookmarks on iHTC Studio servers.": {
+    "ja": "- **当社は保持しません** — 閲読・メモ・文字ブックマークのコピーをサーバーに保持しません。",
+    "ko": "- **보관하지 않습니다** — 읽기·메모·글자 북마크 사본 없음.",
+    "ru": "- **Не храним копии** чтения, заметок и закладок иероглифов.",
+    "th": "- **ไม่เก็บสำเนา** การอ่าน/บันทึก/ที่คั่นตัวอักษร",
+    "de": "- **Keine Kopien** von Lesen, Notizen, Zeichen-Lesezeichen.",
+    "fr": "- **Pas de copies** de lecture, notes, signets de caractères.",
+    "tr": "- **Kopya yok** — okuma, notlar, karakter yer imleri."
+  },
+  "- **We do not retain copies** of your reading, notes, or favorites on iHTC Studio servers.": {
+    "ja": "- **当社は保持しません** — 閲読・メモ・お気に入りのコピーをサーバーに保持しません。",
+    "ko": "- **보관하지 않습니다** — 읽기·메모·즐겨찾기 사본 없음.",
+    "ru": "- **Не храним копии** чтения, заметок и избранного.",
+    "th": "- **ไม่เก็บสำเนา** การอ่าน/บันทึก/รายการโปรด",
+    "de": "- **Keine Kopien** von Lesen, Notizen, Favoriten.",
+    "fr": "- **Pas de copies** de lecture, notes, favoris.",
+    "tr": "- **Kopya yok** — okuma, notlar, favoriler."
+  },
+  "- **iCloud:** Disable sync in Settings; you may also manage iCloud storage in system Settings.": {
+    "ja": "- **iCloud:** 設定で同期をオフにできます。システム設定で iCloud ストレージも管理できます。",
+    "ko": "- **iCloud:** 설정에서 동기화 끄기. 시스템 설정에서 iCloud 저장공간 관리.",
+    "ru": "- **iCloud:** отключите синхронизацию в Настройках; управляйте хранилищем iCloud в системных настройках.",
+    "th": "- **iCloud:** ปิดซิงค์ในการตั้งค่า จัดการพื้นที่ iCloud ในการตั้งค่าระบบ",
+    "de": "- **iCloud:** Sync in Einstellungen deaktivieren; iCloud-Speicher in Systemeinstellungen verwalten.",
+    "fr": "- **iCloud :** désactivez la sync dans Réglages ; gérez le stockage iCloud dans Réglages système.",
+    "tr": "- **iCloud:** Ayarlar’da senkronizasyonu kapatın; iCloud depolamayı sistem Ayarları’ndan yönetin."
+  },
+  "- Optional HealthKit mood write is **off by default** and never requested at first launch.": {
+    "ja": "- 任意の HealthKit 気分書き込みは**既定オフ**で、初回起動では要求しません。",
+    "ko": "- 선택 HealthKit 기분 기록은 **기본 끔**, 첫 실행 시 요청하지 않습니다.",
+    "ru": "- Запись настроения в HealthKit **выкл. по умолчанию**, не запрашивается при первом запуске.",
+    "th": "- การเขียนอารมณ์ HealthKit **ปิดตั้งต้น** ไม่ถามตอนเปิดครั้งแรก",
+    "de": "- HealthKit-Stimmungsschreiben **standardmäßig aus**, nicht beim Erststart.",
+    "fr": "- Écriture d’humeur HealthKit **désactivée par défaut**, jamais au premier lancement.",
+    "tr": "- HealthKit ruh hali yazımı **varsayılan kapalı**, ilk açılışta istenmez."
+  },
+  "- Study progress, mastery, streaks, and notes": {
+    "ja": "- 学習進捗、習熟、連続、メモ",
+    "ko": "- 학습 진행, 숙달, 연속, 메모",
+    "ru": "- Прогресс, mastery, серии, заметки",
+    "th": "- ความคืบหน้า ความชำนาญ สตรีค บันทึก",
+    "de": "- Lernfortschritt, Beherrschung, Serien, Notizen",
+    "fr": "- Progression, maîtrise, séries, notes",
+    "tr": "- İlerleme, ustalık, seriler, notlar"
+  },
+  "- Text library, vernacular, English, gloss, and variants are bundled with the app (curated from public web sources).": {
+    "ja": "- テキストライブラリ、白话、英語、注释、異文はアプリ同梱（公開 Web 資料より整理）。",
+    "ko": "- 텍스트 라이브러리·白话·영어·주석·이문은 앱 번들(공개 웹 자료 정리).",
+    "ru": "- Библиотека, vernacular, английский, glosses и варианты встроены (из открытых web-источников).",
+    "th": "- คลังข้อความ 白话 อังกฤษ คำอธิบาย รวมในชุดแอป",
+    "de": "- Textbibliothek, Umgangssprache, Englisch, Glossen im App-Bundle.",
+    "fr": "- Bibliothèque, vernaculaire, anglais, gloses inclus dans l’app.",
+    "tr": "- Metin kitaplığı, vernacular, İngilizce, gloss paketlenmiş."
+  },
+  "- Text, vernacular, and English are bundled with the app (curated from public web sources).": {
+    "ja": "- 原文、白话、英語はアプリ同梱（公開 Web 資料より整理）。",
+    "ko": "- 원문·白话·영어는 앱 번들.",
+    "ru": "- Текст, vernacular и английский встроены.",
+    "th": "- ข้อความ 白话 อังกฤษ อยู่ในชุดแอป",
+    "de": "- Text, Umgangssprache und Englisch im Bundle.",
+    "fr": "- Texte, vernaculaire et anglais inclus.",
+    "tr": "- Metin, vernacular ve İngilizce paketlenmiş."
+  },
+  "- We do **not** access your Photo Library beyond **add-only** when you choose to save.": {
+    "ja": "- 保存を選んだとき以外、**追加のみ**を超えて写真ライブラリにアクセスしません。",
+    "ko": "- 저장 선택 시 **추가 전용** 외 사진 보관함 접근 없음.",
+    "ru": "- **Не** обращаемся к Фототеке сверх **только добавления** при сохранении.",
+    "th": "- **ไม่**เข้าคลังรูปภาพเกิน **เพิ่มอย่างเดียว** เมื่อคุณบันทึก",
+    "de": "- **Kein** Zugriff auf Fotomediathek über **nur Hinzufügen** hinaus beim Speichern.",
+    "fr": "- **Pas** d’accès à Photothèque au-delà de **l’ajout uniquement** lors de l’enregistrement.",
+    "tr": "- Kaydetme dışında **yalnızca ekleme** ötesinde Fotoğraf Kitaplığı erişimi **yok**."
+  },
+  "- We do **not** send Ask Zhuangzi questions or passage context to iHTC Studio (on-device Apple Intelligence only, when available).": {
+    "ja": "- **Ask Zhuangzi** の質問や篇の文脈を iHTC Studio へ送りません（利用可能時は端末内 Apple Intelligence のみ）。",
+    "ko": "- **Ask Zhuangzi** 질문·맥락을 iHTC Studio로 보내지 않습니다(기기 내 Apple Intelligence).",
+    "ru": "- **Не** отправляем вопросы Ask Zhuangzi и контекст в iHTC Studio (только Apple Intelligence на устройстве).",
+    "th": "- **ไม่**ส่งคำถาม Ask Zhuangzi/บริบทไป iHTC Studio (Apple Intelligence บนเครื่อง)",
+    "de": "- **Keine** Ask-Zhuangzi-Fragen/Kontext an iHTC Studio (nur Apple Intelligence auf dem Gerät).",
+    "fr": "- **Pas** d’envoi des questions Ask Zhuangzi à iHTC Studio (Apple Intelligence sur l’appareil).",
+    "tr": "- Ask Zhuangzi soruları/bağlam iHTC Studio’ya **gönderilmez** (cihaz içi Apple Intelligence)."
+  },
+  "- We do **not** send Ask questions or passage context to iHTC Studio (on-device Apple Intelligence only, when available).": {
+    "ja": "- **Ask** の質問や篇の文脈を iHTC Studio へ送りません（端末内 Apple Intelligence のみ）。",
+    "ko": "- **Ask** 질문·맥락 미전송(기기 내 Apple Intelligence).",
+    "ru": "- **Не** отправляем Ask-вопросы и контекст в iHTC Studio.",
+    "th": "- **ไม่**ส่งคำถาม Ask/บริบทไป iHTC Studio",
+    "de": "- **Keine** Ask-Fragen/Kontext an iHTC Studio.",
+    "fr": "- **Pas** d’envoi Ask à iHTC Studio.",
+    "tr": "- Ask soruları/bağlam iHTC Studio’ya **gönderilmez**."
+  },
+  "- We do **not** turn religious content into fortune-telling or paid blessing commerce.": {
+    "ja": "- 宗教コンテンツを占いや有料祈福商取引に**しません**。",
+    "ko": "- 종교 콘텐츠를 점술·유료 축복 상업으로 **바꾸지 않습니다**.",
+    "ru": "- **Не** превращаем релigious контент в гадание или платные «благословения».",
+    "th": "- **ไม่**เปลี่ยนเนื้อหาศาสนาเป็นดูดวงหรือพาณิชย์อวยพร",
+    "de": "- **Keine** Wahrsagerei oder bezahlte Segens-Commerce aus religiösen Inhalten.",
+    "fr": "- **Pas** de divination ni commerce de bénédictions payantes à partir du contenu religieux.",
+    "tr": "- Dini içeriği fal veya ücretli bereket ticaretine **dönüştürmeyiz**."
+  },
+  "- We do **not** upload handwriting strokes or passage text to iHTC Studio.": {
+    "ja": "- 手書きストrokesや篇テキストを iHTC Studio へ**アップロードしません**。",
+    "ko": "- 필기 획·구절 텍스트 iHTC Studio **업로드 안 함**.",
+    "ru": "- **Не** загружаем штрихи почерка и текст фрагментов в iHTC Studio.",
+    "th": "- **ไม่**อัปโหลดลายมือ/ข้อความไป iHTC Studio",
+    "de": "- **Kein** Upload von Handschrift/Passagentext an iHTC Studio.",
+    "fr": "- **Pas** d’envoi d’écriture manuscrite ou de passages à iHTC Studio.",
+    "tr": "- El yazısı/pasaj metni iHTC Studio’ya **yüklenmez**."
+  },
+  "- We do **not** upload handwriting strokes or saying text to iHTC Studio.": {
+    "ja": "- 手書きや言葉テキストを iHTC Studio へ**アップロードしません**。",
+    "ko": "- 필기·격언 텍스트 **업로드 안 함**.",
+    "ru": "- **Не** загружаем штрихи и текст sayings в iHTC Studio.",
+    "th": "- **ไม่**อัปโหลดลายมือ/คำคมไป iHTC Studio",
+    "de": "- **Kein** Upload von Handschrift/Saying-Text.",
+    "fr": "- **Pas** d’envoi d’écriture ou de sayings.",
+    "tr": "- El yazısı/söz metni **yüklenmez**."
+  },
+  "- Widgets share lightweight state through App Group `group.com.iHTCboy.iWuJing`.": {
+    "ja": "- ウィジェットは App Group `group.com.iHTCboy.iWuJing` で軽量状態を共有します。",
+    "ko": "- 위젯은 App Group `group.com.iHTCboy.iWuJing`으로 상태 공유.",
+    "ru": "- Виджеты делятся состоянием через App Group `group.com.iHTCboy.iWuJing`.",
+    "th": "- วิดเจ็ตแชร์สถานะผ่าน App Group `group.com.iHTCboy.iWuJing`",
+    "de": "- Widgets teilen Zustand über App Group `group.com.iHTCboy.iWuJing`.",
+    "fr": "- Les widgets partagent l’état via App Group `group.com.iHTCboy.iWuJing`.",
+    "tr": "- Widget’lar `group.com.iHTCboy.iWuJing` App Group ile durum paylaşır."
+  },
+  "- Widgets share state through App Group `group.com.iHTCboy.iSiShu`.": {
+    "ja": "- ウィジェットは App Group `group.com.iHTCboy.iSiShu` で状態を共有します。",
+    "ko": "- 위젯은 App Group `group.com.iHTCboy.iSiShu`으로 공유.",
+    "ru": "- Виджеты через App Group `group.com.iHTCboy.iSiShu`.",
+    "th": "- วิดเจ็ตแชร์ผ่าน App Group `group.com.iHTCboy.iSiShu`",
+    "de": "- Widgets über App Group `group.com.iHTCboy.iSiShu`.",
+    "fr": "- Widgets via App Group `group.com.iHTCboy.iSiShu`.",
+    "tr": "- Widget’lar `group.com.iHTCboy.iSiShu` ile paylaşır."
+  },
+  "- Zhouyi content is presented for **classical study only**, not divination.": {
+    "ja": "- 周易コンテンツは**古典研究のみ**で、占いではありません。",
+    "ko": "- 주역 콘텐츠는 **고전 연구만**, 점술 아님.",
+    "ru": "- Контент Zhouyi — **только классическое изучение**, не гадание.",
+    "th": "- เนื้อหา Zhouyi เพื่อ**ศึกษาคลาสสิกเท่านั้น** ไม่ใช่ทำนาย",
+    "de": "- Zhouyi-Inhalte nur **klassische Studie**, keine Wahrsagerei.",
+    "fr": "- Contenu Zhouyi pour **étude classique uniquement**, pas divination.",
+    "tr": "- Zhouyi içeriği **yalnızca klasik çalışma**, fal değil."
+  },
+  "After install, **everyday use does not require the internet**. Opening App Store pages, crisis **web** links, sending email feedback, or completing an optional tip uses **Apple**, **your browser**, or **your mail app** — not an iHTC Studio backend for content.": {
+    "ja": "インストール後、**日常利用にインternetは不要**です。App Store、危機**Web**リンク、メールフィードバック、任意チップは **Apple**・**ブラウザ**・**メールアプリ**経由で、iHTC Studio のコンテンツ用バックエンドではありません。",
+    "ko": "설치 후 **일상 사용에 인터넷 불필요**. App Store·위기 **웹**·피드백 메일·팁은 **Apple**·**브라우저**·**메일 앱**— iHTC Studio 백엔드 아님.",
+    "ru": "После установки **интернет для повседневного использования не нужен**. App Store, crisis **web**, email, чаевые — через **Apple**, **браузер**, **почту**, не backend iHTC Studio.",
+    "th": "หลังติดตั้ง **ใช้ประจำไม่ต้องใช้เน็ต** App Store ลิงก์วิกฤต **เว็บ** อีเมล ทิป ใช้ **Apple** **เบราว์เซอร์** **เมล** ไม่ใช่แบ็กเอนด์ iHTC Studio",
+    "de": "Nach Installation **kein Internet für Alltagsnutzung nötig**. App Store, Krisen-**Web**, E-Mail, Trinkgeld über **Apple**, **Browser**, **Mail** — kein iHTC-Backend.",
+    "fr": "Après installation, **pas d’internet requis au quotidien**. App Store, liens **web** de crise, e-mail, pourboire via **Apple**, **navigateur**, **mail** — pas de backend iHTC Studio.",
+    "tr": "Kurulumdan sonra **günlük kullanım internet gerektirmez**. App Store, kriz **web**, e-posta, bahşiş **Apple** / **tarayıcı** / **posta** — iHTC Studio arka ucu değil."
+  },
+  "Crisis phone/SMS actions use the **system dialer / Messages** when you tap a link.": {
+    "ja": "危機の電話/SMS はリンクタップ時に**システムの電話 / メッセージ**を使います。",
+    "ko": "위기 전화/SMS는 링크 탭 시 **시스템 전화/Messages**.",
+    "ru": "Телефон/SMS кризиса — **системный набор / Messages** при нажатии ссылки.",
+    "th": "โทร/SMS วิกฤตใช้ **โทรศัพท์ระบบ / Messages** เมื่อแตะลิงก์",
+    "de": "Krisen-Telefon/SMS nutzt **System-Telefon / Nachrichten**.",
+    "fr": "Téléphone/SMS de crise via **téléphone système / Messages**.",
+    "tr": "Kriz telefon/SMS **sistem arayıcı / Messages** kullanır."
+  },
+  "If you enable **iCloud Sync** in Settings, the app mirrors selected user data through Apple’s **`NSUbiquitousKeyValueStore`** tied to **your Apple ID** (favorites, lists, history, mastery, notes, chant preferences, practice configuration, and related progress). Sync traffic goes to **Apple iCloud**, not to iHTC Studio. Copy-sutra drawings are **not** included. You can disable sync in Settings. We cannot read your iCloud contents.": {
+    "ja": "設定で **iCloud 同期**を有効にすると、**Apple ID** に紐づく **`NSUbiquitousKeyValueStore`** 経由でデータをミラーします（お気に入り、リスト、履歴、習熟、メモ、唱和設定など）。通信は **Apple iCloud** へ。写経データは**含まれません**。設定でオフ可能。当社は iCloud 内容を読めません。",
+    "ko": "설정에서 **iCloud Sync** 사용 시 **Apple ID**의 **`NSUbiquitousKeyValueStore`**로 미러(즐겨찾기·목록·기록 등). **Apple iCloud**로만. 필경 그림 **미포함**. iCloud 내용 읽을 수 없음.",
+    "ru": "При **iCloud Sync** данные зеркалируются через **`NSUbiquitousKeyValueStore`** **Apple ID**. Трафик — **Apple iCloud**. Copy-sutra **не** включены. Мы не читаем ваш iCloud.",
+    "th": "เปิด **iCloud Sync** ข้อมูลสะท้อนผ่าน **`NSUbiquitousKeyValueStore`** ไป **Apple iCloud** ไม่รวม Copy-sutra อ่าน iCloud ของคุณไม่ได้",
+    "de": "Mit **iCloud Sync** Spiegelung über **`NSUbiquitousKeyValueStore`**. Traffic zu **Apple iCloud**. Copy-sutra **nicht** enthalten.",
+    "fr": "Avec **iCloud Sync**, miroir via **`NSUbiquitousKeyValueStore`**. Trafic vers **Apple iCloud**. Copy-sutra **non** inclus.",
+    "tr": "**iCloud Sync** ile **`NSUbiquitousKeyValueStore`**. **Apple iCloud**’a. Copy-sutra **dahil değil**."
+  },
+  "The **three-question journal** is a private cultivation note on this device. Optional **HealthKit** mood write (iOS 18+) is **off by default**, asked only from journal settings, writes only to **your** Health app, and is **not** a mental-health product or diagnosis.": {
+    "ja": "**三問ジャーナル**は端末上の私的修養ノートです。任意 **HealthKit** 気分書き込み（iOS 18+）は**既定オフ**、ジャーナル設定からのみ、**お客様の**ヘルスアプリのみ、**メンタルヘルス製品や診断ではありません**。",
+    "ko": "**삼문 저널**은 기기上的 私的 수양 노트. **HealthKit** 기분(iOS 18+) **기본 끔**, 저널 설정에서만, **Health**만, **진단 제품 아님**.",
+    "ru": "**Трёхвопросный журнал** — личная запись на устройстве. **HealthKit** (iOS 18+) **выкл.**, только из настроек журнала, только **Health**, **не** диагностика.",
+    "th": "**บันทึกสามคำถาม** เป็นบันทึกส่วนตัว **HealthKit** (iOS 18+) **ปิดตั้งต้น** เขียนเฉพาะ **Health** **ไม่ใช่การวินิจฉัย**",
+    "de": "**Drei-Fragen-Tagebuch** privat auf dem Gerät. **HealthKit** **aus**, nur aus Journal-Einstellungen, nur **Health**, **keine** Diagnose.",
+    "fr": "**Journal trois questions** privé. **HealthKit** **désactivé**, depuis réglages journal, **Santé** uniquement, **pas** un diagnostic.",
+    "tr": "**Üç soru günlüğü** özel not. **HealthKit** **kapalı**, yalnızca günlük ayarlarından, **Health**, **tanı değil**."
+  },
+  "The only third-party services involved in normal use are **Apple** (App Store, iCloud, StoreKit, system TTS, notifications, Live Activities).": {
+    "ja": "通常利用で関与する第三者サービスは **Apple** のみ（App Store、iCloud、StoreKit、システム TTS、通知、Live Activities）。",
+    "ko": "일반 사용 시 제3자는 **Apple**만(App Store, iCloud, StoreKit, TTS, 알림, Live Activities).",
+    "ru": "При обычном использовании задействован только **Apple** (App Store, iCloud, StoreKit, TTS, уведомления, Live Activities).",
+    "th": "บริการบุคคลที่สามคือ **Apple** เท่านั้น",
+    "de": "Drittanbieter: nur **Apple** (App Store, iCloud, StoreKit, TTS, Benachrichtigungen, Live Activities).",
+    "fr": "Services tiers : **Apple** uniquement (App Store, iCloud, StoreKit, TTS, notifications, Live Activities).",
+    "tr": "Normal kullanımda üçüncü taraf yalnızca **Apple**."
+  },
+  "The only third-party services involved in normal use are **Apple** (App Store, iCloud, StoreKit, system TTS, optional system translation, notifications, Live Activities, Spotlight).": {
+    "ja": "通常利用の第三者は **Apple** のみ（…任意システム翻訳、Spotlight 含む）。",
+    "ko": "제3자는 **Apple**만(…선택 시스템 번역, Spotlight).",
+    "ru": "Третьи стороны — только **Apple** (…системный перевод, Spotlight).",
+    "th": "บุคคลที่สามคือ **Apple** (…แปลระบบ Spotlight)",
+    "de": "Drittanbieter: **Apple** (…Systemübersetzung, Spotlight).",
+    "fr": "Tiers : **Apple** (…traduction système, Spotlight).",
+    "tr": "Üçüncü taraf: **Apple** (…sistem çevirisi, Spotlight)."
+  },
+  "The only third-party services involved in normal use are **Apple** (App Store, iCloud, StoreKit, system TTS, optional system translation, notifications, Live Activities, Spotlight). Surname datasets include open-licensed English glosses (CC BY 4.0) and stroke-order glyphs (LGPL / Arphic Public License) — see the in-app About page for attribution. Cultural commentary in the app is original study material marked for reference.": {
+    "ja": "通常利用の第三者は **Apple** のみ。姓氏データセットには CC BY 4.0 英語 gloss と LGPL/Arphic 筆順字形が含まれます（アプリ内 About で帰属表示）。文化解説は参考用の独自学習素材です。",
+    "ko": "제3자는 **Apple**만. 성씨 데이터셋에 CC BY 4.0·LGPL/Arphic 획순(앱 About에 표기).",
+    "ru": "Третьи стороны — **Apple**. Наборы фамилий: glosses CC BY 4.0 и штрихи LGPL/Arphic (см. About).",
+    "th": "บุคคลที่สามคือ **Apple** ชุดนามสกุลมี CC BY 4.0 และ LGPL/Arphic ดู About",
+    "de": "Drittanbieter: **Apple**. Familiendaten: CC BY 4.0, LGPL/Arphic (About).",
+    "fr": "Tiers : **Apple**. Jeux de noms : CC BY 4.0, LGPL/Arphic (About).",
+    "tr": "Üçüncü taraf: **Apple**. Soyadı veri setleri CC BY 4.0, LGPL/Arphic (About)."
+  },
+  "These stay on your device and optionally in **your private iCloud** if you enable sync.": {
+    "ja": "これらは端末に留まり、同期を有効にした場合は**お客様の私有 iCloud**にのみ入ります。",
+    "ko": "기기에 남으며 동기화 시 **사용자 iCloud**에만.",
+    "ru": "Остаются на устройстве и, при sync, в **вашем** iCloud.",
+    "th": "อยู่บนเครื่อง และอาจใน **iCloud ส่วนตัว** หากเปิดซิงค์",
+    "de": "Bleiben auf dem Gerät und optional in **Ihrem** iCloud.",
+    "fr": "Restent sur l’appareil et, si sync, dans **votre** iCloud privé.",
+    "tr": "Cihazda kalır; sync ile **iCloud’unuzda**."
+  },
+  "These texts belong to **Warring States institutional history**. We present sources and put them back in their setting. This is historical study, **not** advocacy of harsh penalties.": {
+    "ja": "これらは**戦国制度史**の文献です。史料を提示し文脈に戻します。**厳刑を鼓吹するものではありません**。",
+    "ko": "이 텍스트는 **전국 제도사**입니다. **가혹한 형벌 옹호가 아닙니다**.",
+    "ru": "Тексты относятся к **истории институтов Сражающихся царств**. **Не** пропаганда жестоких наказаний.",
+    "th": "ข้อความเป็น**ประวัติราชการยุค战国** **ไม่ใช่**สนับสนุนโทษหนัก",
+    "de": "Texte der **Institutionsgeschichte der Streitenden Reiche**. **Keine** Plädoyer für harte Strafen.",
+    "fr": "Textes d’**histoire institutionnelle des Royaumes combattants**. **Pas** de plaidoyer pour peines sévères.",
+    "tr": "Metinler **Savaşan Devletler kurum tarihi**. **Sert cezaları savunmaz**."
+  },
+  "We do **not** request Contacts, precise Location, Camera, Microphone (beyond system TTS playback), or Tracking. Handwriting search uses on-device Vision and does not require a network permission prompt.": {
+    "ja": "連絡先・正確な位置・カメラ・マイク（TTS 再生除く）・トラッキングは**要求しません**。手書き検索は端末 Vision で、ネットワーク権限プロンプトは不要です。",
+    "ko": "연락처·정확한 위치·카메라·마이크(TTS 제외)·추적 **요청 안 함**. 필기 검색은 기기 Vision.",
+    "ru": "**Не** запрашиваем контакты, точную геолокацию, камеру, микрофон (кроме TTS), tracking. Поиск почерка — Vision на устройстве.",
+    "th": "**ไม่**ขอ Contacts/ตำแหน่ง/กล้อง/ไมค์/ติดตาม ค้นหาลายมือใช้ Vision บนเครื่อง",
+    "de": "**Keine** Kontakte, Standort, Kamera, Mikrofon (außer TTS), Tracking. Handschrift — Vision auf dem Gerät.",
+    "fr": "**Pas** de contacts, localisation précise, caméra, micro (hors TTS), suivi. Écriture — Vision sur l’appareil.",
+    "tr": "Kişiler, konum, kamera, mikrofon (TTS hariç), izleme **istenmez**. El yazısı — cihaz Vision."
+  },
+  "When enabled and signed into iCloud, favorites, Zen lists, logs, assessments, streaks, and related progress may sync via your private iCloud key-value store. iHTC Studio cannot read your iCloud container.": {
+    "ja": "有効かつ iCloud サインイン時、お気に入り・禅リスト・ログ等は私有 KVS で同期される場合があります。iHTC Studio は iCloud コンテナを読めません。",
+    "ko": "iCloud 로그인 시 즐겨찾기·선 리스트·로그 등이 KVS로 동기화될 수 있음. iHTC Studio는 iCloud 컨테이너 읽기 불가.",
+    "ru": "При iCloud избранное, списки Zen, логи и т.д. могут синхронизироваться через KVS. iHTC Studio не читает ваш контейнер iCloud.",
+    "th": "เมื่อเปิด iCloud รายการโปรด/รายการ Zen/บันทึก อาจซิงค์ผ่าน KVS iHTC Studio อ่าน iCloud ของคุณไม่ได้",
+    "de": "Mit iCloud können Favoriten, Zen-Listen, Logs usw. über KVS syncen. iHTC Studio kann Ihren iCloud-Container nicht lesen.",
+    "fr": "Avec iCloud, favoris, listes Zen, journaux peuvent sync via KVS. iHTC Studio ne lit pas votre conteneur iCloud.",
+    "tr": "iCloud ile favoriler, Zen listeleri KVS ile senkronize olabilir. iHTC Studio iCloud konteynerinizi okuyamaz."
+  },
+  "iPrimer is rated **12+** and is **not** in the Kids Category. We do not knowingly collect personal information from children. The app does not require an account.": {
+    "ja": "iPrimer は **12+** で **Kids Category 外**です。児童から故意に個人情報を収集しません。アカウント不要。",
+    "ko": "iPrimer **12+**, **Kids Category 아님**. 아동 개인정보 고의 수집 안 함. 계정 불필요.",
+    "ru": "iPrimer — **12+**, **не** Kids Category. Не собираем данные детей сознательно. Без аккаунта.",
+    "th": "iPrimer **12+** **ไม่ใช่** Kids Category ไม่เก็บข้อมูลเด็จโดยเจตนา",
+    "de": "iPrimer **12+**, **nicht** Kids Category. Keine bewusste Datenerhebung von Kindern.",
+    "fr": "iPrimer **12+**, **pas** Kids Category. Pas de collecte d’enfants.",
+    "tr": "iPrimer **12+**, Kids Category **değil**. Çocuk verisi toplanmaz."
+  },
+  "iSutra does not knowingly collect personal data from anyone, including children under 13 (or the equivalent age in your region). Because we do not operate a data-collection backend, there is no child profile stored with us. Families may use the reading and practice features offline on their own devices.": {
+    "ja": "iSutra は 13 歳未満を含め故意に個人データを収集しません。収集 backend がないため児童プロフィールはありません。家族は各自の端末でオフライン利用できます。",
+    "ko": "iSutra는 13세 미만 포함 고의 수집 없음. backend 없어 아동 프로필 없음. 가족 오프라인 이용 가능.",
+    "ru": "iSutra сознательно не собирает данные, включая детей до 13 лет. Нет backend — нет детских профилей.",
+    "th": "iSutra ไม่เก็บข้อมูลเด็กโดยเจตนา ไม่มี backend โปรไฟล์เด็ก",
+    "de": "iSutra erhebt wissentlich keine Daten, auch nicht von Kindern unter 13. Kein Backend, kein Kinderprofil.",
+    "fr": "iSutra ne collecte pas sciemment de données, y compris enfants de moins de 13 ans.",
+    "tr": "iSutra bilerek veri toplamaz; 13 yaş altı dahil. Backend yok."
+  },
+  "iThousand is an educational literacy app for a general audience and is **not** in the Kids Category. We do not knowingly collect personal information from children. The app does not require an account. Families may use reading and character-card features offline on their own devices.": {
+    "ja": "iThousand は一般向け識字アプリで **Kids Category 外**です。児童情報を故意に収集しません。アカウント不要。家族はオフラインで文字カード機能を利用できます。",
+    "ko": "iThousand는 일반 대상识读 앱, **Kids Category 아님**. 아동 정보 수집 안 함. 오프라인 문자 카드.",
+    "ru": "iThousand — образовательное приложение, **не** Kids Category. Без сбора данных детей.",
+    "th": "iThousand แอป识读ทั่วไป **ไม่ใช่** Kids Category",
+    "de": "iThousand — Bildungs-App, **nicht** Kids Category.",
+    "fr": "iThousand — app éducative, **pas** Kids Category.",
+    "tr": "iThousand — eğitim uygulaması, Kids Category **değil**."
+  },
+  "iZen offers wellness and educational content plus a bundled crisis directory. It is **not** a medical device, therapist, or emergency service. Seek professional care or local emergency services when needed.": {
+    "ja": "iZen はウェルネス・教育コンテンツと危機ディレクトリを提供します。**医療機器・セラピスト・緊急サービスではありません**。必要時は専門医療や地域の緊急サービスへ。",
+    "ko": "iZen은 웰니스·교육 콘텐츠와 위기 디렉터리. **의료기기·치료사·긴급 서비스 아님**. 필요 시 전문 care.",
+    "ru": "iZen — wellness и образование плюс crisis directory. **Не** медустройство, терапевт или экстренная служба.",
+    "th": "iZen ให้ wellness และไดเรกทอรีวิกฤต **ไม่ใช่**อุปกรณ์การแพทย์หรือฉุกเฉิน",
+    "de": "iZen bietet Wellness/Bildung und Krisenverzeichnis. **Kein** Medizinprodukt oder Notdienst.",
+    "fr": "iZen propose bien-être et annuaire de crise. **Pas** un dispositif médical ni urgence.",
+    "tr": "iZen wellness ve kriz dizini sunar. **Tıbbi cihaz veya acil servis değildir**."
+  }
+}

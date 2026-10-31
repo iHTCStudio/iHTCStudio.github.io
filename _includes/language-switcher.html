@@ -1,0 +1,49 @@
+{%- comment -%}
+Language menu — driven by site.languages; search when many locales.
+{%- endcomment -%}
+<div class="dropdown dropdown--lang" data-dropdown data-lang-menu>
+  <button type="button"
+          class="tool-btn tool-btn--lang"
+          data-dropdown-trigger
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-label="{{ site.data.i18n.en.nav.language }}">
+    {% include icons.html name="globe" size="14" %}
+    <span class="tool-btn__lang-current" data-lang-current>{{ site.languages.first.native | default: site.languages.first.name }}</span>
+  </button>
+  <div class="dropdown__panel dropdown__panel--lang" data-dropdown-panel role="menu">
+    <div class="lang-menu__search-wrap" lang="en">
+      <input type="search"
+             class="lang-menu__search"
+             data-lang-search
+             autocomplete="off"
+             spellcheck="false"
+             aria-label="Search languages">
+    </div>
+    {%- for L in site.languages -%}
+      {%- assign t_bundle = site.data.i18n[L.code] -%}
+      {%- assign toast = t_bundle.notice.language_set -%}
+      <button type="button"
+              class="dropdown__item lang-menu__item"
+              role="menuitemradio"
+              aria-checked="false"
+              data-lang-toggle
+              data-lang-value="{{ L.code }}"
+              data-lang-search-text="{{ L.native | default: L.name }} {{ L.name }} {{ L.code }} {{ t_bundle.language_names[L.code] }}"
+              data-toast="{{ toast | escape }}">
+        <span class="lang-menu__label">
+          <span class="lang-menu__native">{{ L.native | default: L.name }}</span>
+          <span class="lang-menu__meta">{{ L.name }}</span>
+        </span>
+        <span class="dropdown__check">{% include icons.html name="check" size="14" %}</span>
+      </button>
+    {%- endfor -%}
+    <p class="lang-menu__empty" data-lang-search-empty hidden>No results</p>
+    <div class="lang-menu__i18n" hidden aria-hidden="true">
+      {%- for L in site.languages -%}
+        <span lang="{{ L.code }}" data-i18n-lang-menu-placeholder>{{ site.data.i18n[L.code].language_menu.search_placeholder }}</span>
+        <span lang="{{ L.code }}" data-i18n-lang-menu-empty>{{ site.data.i18n[L.code].language_menu.no_results }}</span>
+      {%- endfor -%}
+    </div>
+  </div>
+</div>

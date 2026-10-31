@@ -1,0 +1,75 @@
+.dropdown--lang .dropdown__panel--lang {
+  width: min(18rem, calc(100vw - 24px));
+  max-height: min(420px, 70vh);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-top: 8px;
+}
+
+.lang-menu__search-wrap {
+  padding: 0 8px 6px;
+}
+
+.lang-menu__search {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font: inherit;
+  font-size: var(--fs-14);
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+}
+
+.lang-menu__item {
+  flex-shrink: 0;
+}
+
+.lang-menu__label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  min-width: 0;
+}
+
+.lang-menu__native {
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.lang-menu__meta {
+  font-size: var(--fs-12);
+  color: var(--color-text-faint);
+  line-height: 1.2;
+}
+
+.lang-menu__empty {
+  margin: 4px 12px 8px;
+  font-size: var(--fs-13);
+  color: var(--color-text-faint);
+}
+
+.tool-btn--lang .tool-btn__lang-current {
+  max-width: 6.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.app-ui-notice {
+  margin: 0 0 1rem;
+  padding: 10px 14px;
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--color-border);
+  color: var(--color-text-mute);
+  font-size: var(--fs-13);
+  line-height: var(--lh-normal);
+}

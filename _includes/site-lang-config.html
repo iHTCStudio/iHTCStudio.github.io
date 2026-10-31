@@ -1,0 +1,17 @@
+<script>
+  window.IHTC_SUPPORTED_LANGS = [
+    {%- for L in site.languages -%}
+    "{{ L.code }}"{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ];
+  window.IHTC_LANG_LABELS = {
+    {%- for L in site.languages -%}
+    "{{ L.code }}": {{ L.short | default: L.code | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  };
+  window.IHTC_LANG_NATIVE = {
+    {%- for L in site.languages -%}
+    "{{ L.code }}": {{ L.native | default: L.name | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  };
+</script>

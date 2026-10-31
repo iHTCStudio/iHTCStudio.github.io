@@ -1,0 +1,16 @@
+{%- comment -%}
+Studio wordmark — logo + localized name.
+Usage: {% include brand-wordmark.html %}
+Optional: {% include brand-wordmark.html class="site-header__brand-inner" %}
+{%- endcomment -%}
+<span class="brand-wordmark{% if include.class %} {{ include.class }}{% endif %}">
+  <img src="{{ '/assets/brand/ihtc-studio-logo-64.png' | relative_url }}"
+       alt=""
+       class="brand-wordmark__logo"
+       width="28"
+       height="28"
+       decoding="async">
+  <span class="brand-wordmark__name">
+    {% include i18n-spans.html section="brand" key="name" %}
+  </span>
+</span>

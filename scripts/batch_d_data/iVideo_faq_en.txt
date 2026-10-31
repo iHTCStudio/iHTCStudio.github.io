@@ -1,0 +1,190 @@
+### What video formats does iVideo support?
+
+iVideo supports all formats that iOS and macOS can decode natively, including MP4, MOV, M4V, and more. Exports are available in MP4 or MOV format at your chosen quality preset.
+
+### Where are my videos stored?
+
+All videos are stored locally on your device:
+
+- **Recorded videos** — In the shared App Group container.
+- **Imported videos** — In the app's Documents/ImportedVideos folder.
+- **Exported videos** — In the app's Documents/Exports folder.
+
+No video data is uploaded to any cloud service.
+
+### Can I edit 4K videos?
+
+Yes. iVideo fully supports 4K video processing. You can import, edit, and export 4K videos. The export quality picker includes an Ultra HD (4K) preset alongside Original, 2K, 1080p, 720p, and 540p options.
+
+### How does variable speed work?
+
+iVideo supports playback speed from 0.05× to 8×. You can:
+
+- **Use presets** — 8 built-in speed chips (0.25× / 0.5× / 0.75× / 1× / 1.25× / 1.5× / 2× / 4×).
+- **Custom slider** — Drag the slider for any speed between 0.05× and 8×.
+- **Recently used** — Your last 2 custom speeds are remembered (LRU).
+- **JKL shortcuts** — Press L repeatedly to increase forward speed (1× → 2× → 4× → 8×), J for reverse, K to pause.
+- **Pinch to adjust (iPhone)** — Two-finger pinch gesture to scale speed up or down.
+
+Speed preferences persist across sessions and sync via iCloud.
+
+### What are JKL keyboard shortcuts?
+
+JKL is a professional video editing shortcut inspired by Final Cut Pro:
+
+- **J** — Reverse playback, press again to increase reverse speed.
+- **K** — Pause and reset speed.
+- **L** — Forward playback, press again to increase forward speed.
+- **K + J/L** — Hold K while pressing J or L for 0.5× slow speed.
+
+JKL speed is displayed via an on-screen HUD and optionally on the Lock Screen / Dynamic Island via Live Activity (iOS 16.1+).
+
+### How does screen recording work?
+
+- **iOS** — Uses ReplayKit Broadcast Upload Extension. Start from the Record tab; the system shows a Broadcast Picker. Auto-snapshots can be configured in Settings.
+- **macOS** — Uses ScreenCaptureKit. Supports multi-display recording and optional system audio capture. First use requires granting Screen Recording permission in System Settings → Privacy & Security.
+
+Screen recording on iOS requires a real device — the Simulator does not support ReplayKit broadcasting.
+
+### What is the Live Activity feature?
+
+When using JKL keyboard shortcuts to control playback, iVideo can display the current speed tier on the Lock Screen and Dynamic Island via iOS Live Activity. This requires:
+
+- iOS 16.1 or later
+- Enable in Settings → Appearance → Live Activity toggle
+- An external keyboard connected to use JKL shortcuts
+
+### Does iVideo sync data across devices?
+
+iVideo syncs lightweight preferences via iCloud Key-Value Storage:
+
+- Theme, language, playback speed, mute state
+- Custom speed history, favorite tools bar
+
+Video files themselves are **not** synced — they stay on each device.
+
+### What does "Metadata Strip" do?
+
+The Metadata Strip tool removes embedded metadata from your video file, including EXIF data, GPS location, device model, and other identifying information. This is useful for privacy when sharing videos publicly.
+
+### How do I use video collage?
+
+1. In the Video Library, multi-select 2–4 videos.
+2. Tap the Collage button in the batch action bar.
+3. Choose a layout: side-by-side, top-bottom, or 4-grid.
+4. The output is a single 1920×1080 video with all inputs playing simultaneously.
+
+Duration equals the shortest input video. Each slot uses aspect-fill with center cropping.
+
+### Can I convert videos to Live Photo or GIF?
+
+Yes. The Live Photo Studio supports bidirectional conversion:
+
+- **Video → Live Photo** — Choose a key frame and duration to create a Live Photo wallpaper.
+- **Live Photo → Video / GIF / Still** — Convert with original encoding preserved. Batch mode supports multi-select.
+
+### How do on-device subtitles work?
+
+iVideo generates subtitles entirely on your device using Apple's Speech framework (forced on-device: `requiresOnDeviceRecognition`). No audio is uploaded.
+
+1. Open a video in the Workspace and select the Subtitle tool.
+2. Choose a mode: Speech (voice-to-text), Sound Events (music/applause/laughter detection), or Combined.
+3. Select a recognition language (60+ languages available; some may require downloading an offline language pack in System Settings).
+4. Results appear as editable segments — tap to seek, edit text, or delete.
+5. Export as SRT file, ASS subtitle file (with vertical layout support), or burn directly into the video.
+6. Bilingual translation is available via Apple Translation framework for an on-device secondary language line.
+
+### How does face blur work?
+
+The Face Blur tool uses Apple's Vision framework to automatically detect faces in every frame and apply Gaussian blur or mosaic (style and intensity adjustable).
+
+For areas that face detection can't catch (license plates, signs, watermarks), use the Manual Region editor to drag and draw custom blur rectangles that apply to the entire video.
+
+All processing happens on-device — no video frames are uploaded.
+
+### What is batch processing?
+
+Batch processing lets you apply the same set of operations to multiple videos at once:
+
+1. In the Video Library, multi-select videos.
+2. Choose "Batch Process" from the action bar.
+3. Configure a recipe: rotate → speed → mute → watermark → metadata strip → compress (in fixed order).
+4. The app processes each video serially. Individual failures don't block the batch.
+5. Your last-used recipe is saved for quick reuse.
+
+### What are Edit Projects (multi-track editor)?
+
+Edit Projects is a full non-linear editor, separate from the single-clip tools. Open it from the **Edit Projects** tab in the tab bar.
+
+- **Multi-track timeline** — add clips, split, delete, reorder, crossfade; ruler with drag-to-seek, pinch-to-zoom, multi-frame thumbnails
+- **Overlays** — timed text, stickers, or picture-in-picture video, positioned by dragging in the preview
+- **Dual audio** — BGM + narration with loop-fill and automatic ducking under speech
+- **Per-clip reprocessing** — Stabilize, Smart Reframe (landscape→portrait), Smooth Slow-Mo, Multicam; baked as reversible derived media
+- **Canvas ratios** — Original / 9:16 / 1:1 / 4:5 / 16:9
+- **Publish Wizard** — platform aspect, cover frame, subtitle burn-in (SRT/ASS) → saved to Library
+- **Self-contained** — media is copied into the project, so deleting originals won't break it; undo/redo and debounced auto-save
+
+Preview and export share the same composition, so what you see is what you get.
+
+### How does the export queue work?
+
+iVideo uses a global export queue that processes exports in the background:
+
+- Exports run serially so your device stays responsive.
+- iOS background tasks keep exports alive even when you switch apps.
+- The queue view (accessible from the library toolbar badge) shows pending, in-progress, completed, and failed items.
+- You can share completed exports directly from the queue.
+- Optional local notifications alert you when exports finish (configurable in Settings → Export).
+
+### What are export presets?
+
+Export presets save your preferred quality + container combination for one-tap switching:
+
+- **4 built-in presets** cover common scenarios.
+- **Custom presets** — Create your own with a name, quality tier, and container format (MP4/MOV).
+- Switch presets from the workspace ⋯ menu or Settings → Export.
+
+### How does color grading work?
+
+The Color Grading tool offers 7 adjustable parameters: exposure, brightness, contrast, saturation, vibrance, white balance, and tint. Real-time preview lets you see changes instantly; press and hold to compare with the original.
+
+Additional options:
+
+- **Built-in LUT Pack** — 6 procedurally generated styles (Teal & Orange, Bleach Bypass, Vintage, Cool Shadow, Warm Shadow, High-Contrast B&W).
+- **Filter Presets** — 11 built-in presets plus `.cube` 3D LUT file import (Adobe/Resolve format).
+
+### What is speed ramp?
+
+Speed Ramp lets you create keyframe-based variable speed within a single video:
+
+1. Split the timeline into segments at chosen points.
+2. Assign a different speed to each segment.
+3. A color-band visual editor shows the speed profile at a glance.
+
+This is different from the global speed tool — speed ramp gives you creative control over pacing within a clip.
+
+### How does beat sync montage work?
+
+Beat Sync analyzes your video's audio to detect beats and BPM, then creates a montage where the video cuts on every beat while keeping the audio continuous.
+
+You can choose from 4 stackable transition effects: zoom, slide, flash, and black. Multiple transitions can be combined for creative variety.
+
+### What are social format presets?
+
+Social Format converts your video to common social media aspect ratios (9:16, 1:1, 4:5, 16:9) with three fill modes:
+
+- **Blur Background** — Fills empty space with a blurred version of the video.
+- **Solid Color** — Fills with a solid color border.
+- **Crop to Fill** — Crops the video to fill the entire frame.
+
+Real-time single-frame preview with safe area guides. Optional caption bar at top or bottom with semi-transparent color band.
+
+### How do I send feedback or report a bug?
+
+Go to Settings → About → Feedback. The app composes an email with your device info (model, OS version, app version, language) pre-filled. If the system Mail app is unavailable, a `mailto:` link opens your default email client.
+
+You can also email us directly at [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com).
+
+### Is iVideo free?
+
+iVideo is free to download. An optional Tip Jar is available to support continued development.

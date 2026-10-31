@@ -1,0 +1,88 @@
+{%- assign sorted_apps = site.data.apps | sort: "order" -%}
+<footer class="site-footer" role="contentinfo">
+  <div class="container container--fluid">
+    <div class="site-footer__top">
+      <div class="site-footer__brand">
+        <span class="name">
+          {% include brand-wordmark.html %}
+        </span>
+        <p class="desc">
+          {% include i18n-spans.html section="meta" key="site_description" %}
+        </p>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          {% include i18n-spans.html section="nav" key="apps" %}
+        </span>
+        <div class="site-footer__col">
+          {%- for app in sorted_apps -%}
+          <a href="{{ app.url | relative_url }}">
+            {%- for L in site.languages -%}
+            <span lang="{{ L.code }}" class="inline">{{ app.id }}{% if L.code == 'zh-CN' or L.code == 'zh-TW' %} <span class="site-footer__app-zh">· {{ app.names[L.code] }}</span>{% elsif L.code == 'ja' or L.code == 'ko' %}{% if app.names[L.code] != app.names.en %} <span class="site-footer__app-zh">· {{ app.names[L.code] }}</span>{% endif %}{% endif %}</span>
+            {%- endfor -%}
+          </a>
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          {% include i18n-spans.html section="nav" key="collections" %}
+        </span>
+        <div class="site-footer__col">
+          {%- assign sorted_collections = site.data.collections | sort: "order" -%}
+          {%- for collection in sorted_collections -%}
+          <a href="{{ '/collections/' | relative_url }}#{{ collection.id }}">
+            {% include locale-field.html object=collection.names inline=true %}
+          </a>
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          {% include i18n-spans.html section="footer" key="resources_column" %}
+        </span>
+        <div class="site-footer__col">
+          {%- assign resource_keys = "developer_home,apple_refund,apple_security,apple_server_status,apple_dev_status,apple_beta_releases" | split: "," -%}
+          {%- for key in resource_keys -%}
+          {% include locale-resource-link.html key=key %}
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          {% include i18n-spans.html section="footer" key="identify_column" %}
+        </span>
+        <div class="site-footer__col">
+          {%- for item in site.data.apple_identify -%}
+          {% include locale-identify-link.html item=item %}
+          {%- endfor -%}
+        </div>
+      </div>
+
+      <div>
+        <span class="site-footer__col-title">
+          {% include i18n-spans.html section="nav" key="contact" %}
+        </span>
+        <div class="site-footer__col">
+          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <span class="site-footer__legal">
+        © {{ "now" | date: "%Y" }}
+        {% include i18n-spans.html section="brand" key="name" %}.
+        {% include i18n-spans.html section="footer" key="rights" %}
+      </span>
+      <span class="site-footer__tools">
+        {% include language-switcher.html %}
+        {% include theme-switcher.html %}
+      </span>
+    </div>
+  </div>
+</footer>

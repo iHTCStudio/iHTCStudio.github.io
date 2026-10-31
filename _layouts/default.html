@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html data-theme="auto" lang="en">
+{% include head.html %}
+<body data-page-type="{{ page.page_type | default: 'doc' }}">
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  {%- comment -%}Determine current app for header/switcher.{%- endcomment -%}
+  {%- assign current_app = nil -%}
+  {%- if page.app_id -%}
+    {%- for a in site.data.apps -%}
+      {%- if a.id == page.app_id -%}{%- assign current_app = a -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+
+  {% include header.html current_app=current_app %}
+  {% include app-switcher.html current_app=current_app %}
+
+  <main id="content" tabindex="-1">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
+</body>
+</html>

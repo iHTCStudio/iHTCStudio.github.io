@@ -1,0 +1,11 @@
+{%- comment -%}
+Highlight chips for all site languages.
+Usage: {% include app-highlights-chips.html app=current_app %}
+{%- endcomment -%}
+{%- assign app = include.app -%}
+{%- for L in site.languages -%}
+{%- assign list = app.highlights[L.code] | default: app.highlights.en -%}
+<span lang="{{ L.code }}" class="inline">
+  {%- for h in list -%}<span class="chip">{{ h }}</span>{%- endfor -%}
+</span>
+{%- endfor -%}

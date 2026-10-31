@@ -1,0 +1,122 @@
+iHTC Studio ("we", "us" or "our") built iVideo (also known as "爱视频"). This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our app.
+
+## Summary
+
+**iVideo does not collect, store or transmit any personal data.** All video recording, editing, and processing operations are performed entirely on your device. The app requires no account, no internet connection and no cloud services for its core features.
+
+## Data Collection
+
+We do not collect any data. Specifically:
+
+- **No personal information** is collected (no name, email, phone number or account).
+- **No usage data** or analytics are collected.
+- **No video content, audio, screenshots or other media** you create or edit are accessible to us.
+- **No cookies or tracking** technologies are used.
+- **No third-party services** (advertising, analytics, crash reporting) are integrated.
+
+## How the App Works
+
+### Video Storage
+
+All videos are stored locally on your device:
+
+- **Recorded videos** are saved to the App Group shared container, accessible only by the app and its screen recording extension.
+- **Imported videos** are copied to the app's sandboxed Documents folder.
+- **Exported videos** (trimmed, compressed, speed-adjusted, etc.) are saved to the app's sandboxed Documents folder.
+
+Videos are never uploaded to any server or cloud service by the app.
+
+### Screen Recording
+
+- **iOS**: Screen recording uses Apple's ReplayKit Broadcast Upload Extension. The recorded video is saved directly to the App Group container on your device.
+- **macOS**: Screen recording uses Apple's ScreenCaptureKit framework. Recordings are saved locally.
+
+Auto-snapshot images taken during recording are also stored locally in the App Group container.
+
+### On-Device Speech Recognition
+
+iVideo uses Apple's Speech framework with `requiresOnDeviceRecognition = true` for subtitle generation. This means:
+
+- All speech-to-text processing happens **entirely on your device**.
+- **No audio data** is sent to Apple's servers or any third party.
+- Some languages may require downloading an offline language pack via System Settings; even then, recognition runs locally.
+- The first use prompts a system permission dialog for Speech Recognition access.
+
+### On-Device Face Detection
+
+The Face Blur tool uses Apple's Vision framework to detect faces in video frames:
+
+- Face detection runs **entirely on-device** — no video frames are uploaded.
+- Detection results (face coordinates) are used only within the app to apply blur effects and are not stored or transmitted.
+
+### On-Device Sound Analysis
+
+The Sound Events subtitle mode uses Apple's SoundAnalysis framework to classify non-speech audio (music, applause, laughter, etc.):
+
+- Classification runs **entirely on-device**.
+- No audio data is sent to any server.
+
+### On-Device Text Recognition (OCR)
+
+The OCR tool uses Apple's Vision framework to recognize text in video frames:
+
+- Text recognition runs **entirely on-device**.
+- Recognized text is displayed for you to copy or share — it is not collected by us.
+
+### On-Device Translation
+
+Bilingual subtitle translation uses Apple's Translation framework:
+
+- Translation runs **entirely on-device**.
+- No subtitle text is sent to any server.
+
+### iCloud Key-Value Storage
+
+iVideo optionally uses Apple's `NSUbiquitousKeyValueStore` to sync lightweight preferences across your devices:
+
+- Theme, language, playback speed, mute state
+- Custom speed history, favorite tools bar, export presets
+
+This sync uses Apple's iCloud infrastructure only. We have no access to this data. No video files are synced via iCloud. If you are not signed in to iCloud, the app functions normally with local-only preferences.
+
+### Photo Library Access
+
+When you import videos from your Photo Library or save videos to it, iVideo requests the necessary system permissions. Access is strictly limited to the import/save operation you initiate. We do not scan, index, or read your Photo Library beyond the specific items you select.
+
+### Metadata Strip
+
+The Metadata Strip tool removes embedded metadata (EXIF, GPS, device info) from video files. This is a privacy-enhancing feature — the cleaned video is saved locally and the original metadata is not transmitted anywhere.
+
+### Siri & Shortcuts
+
+iVideo registers AppShortcuts (start recording, open video library, Live Photo tool) with the system. These shortcuts are processed entirely on-device by iOS/macOS. No voice data or shortcut usage is sent to us.
+
+### Local Notifications
+
+When enabled, iVideo sends local notifications to inform you when an export task completes. These notifications are processed entirely on-device by iOS/macOS. No notification data is sent to any server. You can disable this in Settings → Export.
+
+### Feedback Email
+
+When you use the in-app feedback feature, the app composes an email using your device's Mail app (or `mailto:` fallback). Device information (model, OS version, app version, language) is included in the email body to help us diagnose issues. This information is only sent when you explicitly choose to send the email. We do not collect this information automatically.
+
+## Data Sharing
+
+We do not share any data with third parties because we do not collect any data.
+
+## Data Retention
+
+Since we do not collect any data, there is nothing to retain. All app data (videos, preferences, notes) resides on your device and is removed when you delete the app.
+
+## Children's Privacy
+
+iVideo does not collect personal information from anyone, including children under 13. The app contains no advertising, no in-app purchases beyond an optional tip, and no social features.
+
+## Changes to This Policy
+
+We may update this privacy policy from time to time. Changes will be posted on this page with an updated effective date.
+
+## Contact Us
+
+If you have any questions about this privacy policy, please contact us:
+
+- **Email:** [AppleOSer@gmail.com](mailto:AppleOSer@gmail.com)
